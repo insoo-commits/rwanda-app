@@ -105,7 +105,7 @@ function btnKey(b){const d=b.dataset;if(d.playbundle)return "pb"+(d.chain?"c":""
 function syncBtn(){const on=P.active&&P._bk;document.querySelectorAll(".speak.all").forEach(b=>b.classList.toggle("act",!!on&&btnKey(b)===P._bk))}
 setInterval(syncBtn,300);
 function nextRow(id){if(!id)return "";const L=PARTS.flatMap(p=>p.subs.flatMap(x=>x.b)),k=L.indexOf(id);if(k<0)return "";const big=(typeof isBig==="function")&&isBig();const lab=x=>{const NL=BLAB[x]||[B[x].t,""];return `[${big?x:x.slice(-2)}] ${esc(NL[0])}`};const pv=L[(k-1+L.length)%L.length],nx=L[(k+1)%L.length];return `<div class="nextrow"><button class="nextbun prevbun" data-next="${pv}"><span class="nbl">← 이전 묶음</span><span class="nbn">${lab(pv)}</span></button><button class="nextbun" data-next="${nx}"><span class="nbl">다음 묶음 →</span><span class="nbn">${lab(nx)}</span></button></div>`}
-function stopPlay(){P.token++;P.active=false;clearTimeout(LT);P.loading=false;P.paused=false;P.hold=null;try{holdMark(null)}catch(e){}if(P.cardKey){const k=P.cardKey;P.cardKey=null;P.lastGi=null;if(S.flipped[k]){delete S.flipped[k];try{render()}catch(e){}}}P._resume=null;try{navigator.mediaSession.playbackState="none"}catch(e){}try{if(AEL)AEL.pause()}catch(e){}try{if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel()}catch(e){}mark(null);showPlayer()}
+function stopPlay(){P.rel=0;P.token++;P.active=false;clearTimeout(LT);P.loading=false;P.paused=false;P.hold=null;try{holdMark(null)}catch(e){}if(P.cardKey){const k=P.cardKey;P.cardKey=null;P.lastGi=null;if(S.flipped[k]){delete S.flipped[k];try{render()}catch(e){}}}P._resume=null;try{navigator.mediaSession.playbackState="none"}catch(e){}try{if(AEL)AEL.pause()}catch(e){}try{if(speechSynthesis.speaking||speechSynthesis.pending)speechSynthesis.cancel()}catch(e){}mark(null);showPlayer()}
 function bundleItems(id){const sec=document.getElementById("bd-"+id),items=[];if(!sec){/* 단어공부: word cards of this bundle */return [...document.querySelectorAll(".cards .card")].filter(c=>c.id.startsWith("cd-"+id+"-")).map(c=>{const b=c.querySelector(".card-foot [data-say]");return b&&{text:b.dataset.say,rd:b.dataset.rd,id:c.id}}).filter(Boolean)}
   sec.querySelectorAll(".entry-head,.line").forEach(el=>{if(el.classList.contains("entry-head")){const b=el.querySelector("[data-sayall]");items.push({text:b.dataset.say,rd:b.dataset.rd,id:el.id,head:1})}else items.push(sayItem(el))});
   return items.filter(Boolean)}
@@ -165,7 +165,7 @@ function holdAt(idx){const tok=++P.token;try{aud().pause()}catch(e){}try{if(hasS
   P.paused=false;P._resume=null;P.hold=idx;P.i=idx;P.k=0;holdMark(idx);nextPlay(tok)}
 function releaseHold(){const it=P.queue[P.hold];const tok=++P.token;try{aud().pause()}catch(e){}try{if(hasSS)speechSynthesis.cancel()}catch(e){}
   P.hold=null;holdMark(null);P.paused=false;P._resume=null;P.k=0;P.i=it?it.ge+1:P.i+1;nextPlay(tok)}
-function advQ(){if(P.hold!=null){P.i=P.hold;P.k++;return}const it=P.queue[P.i];if(!it){P.i++;return}if(P.i<it.ge){P.i++;return}
+function advQ(){if(P.hold!=null){P.i=P.hold;P.k++;return}const it=P.queue[P.i];if(!it){P.i++;return}if(P.rel){P.rel=0;P.k=0;P.i=it.ge+1;return}if(P.i<it.ge){P.i++;return}
   if(it.rv){P.k=0;if(it.rvl&&(P.rk||0)<REP-1){P.rk=(P.rk||0)+1;P.i=it.rv0}else{if(it.rvl)P.rk=0;P.i++}return}
   if(P.single||P.k<(it.kg?REP-2:REP-1)){P.k++;P.i=it.rs;return}P.k=0;P.i=it.ge+1}
 function nextPlay(tok){
@@ -422,6 +422,25 @@ function snapLater(){clearTimeout(snapT);snapT=setTimeout(function(){try{
 let showSelN=0;function showSel(c,sel){const e=c&&c.querySelector(sel);if(!e)return;const l=e.offsetLeft-(e.offsetParent===c?0:c.offsetLeft),r=l+e.offsetWidth,pad=28;let x=null;if(l-pad<c.scrollLeft)x=Math.max(0,l-pad);else if(r+pad>c.scrollLeft+c.clientWidth)x=r+pad-c.clientWidth;if(x===null)return;if(showSelN++<2||!c.scrollTo)c.scrollLeft=x;else c.scrollTo({left:x,behavior:"smooth"})}
 function goto(id){const s=Object.values(SUBS).find(s=>s.b.includes(id));S.part=s.part;S.sub=s.id;S.bun[s.id]=id;S.mode="dlg";S.q="";$("#q").value="";S.quiz=null;save();render();window.scrollTo({top:0})}
 
+/* keyboard during playback: Space = pause/resume, ←/→ = previous/next item, Esc = stop */
+document.addEventListener("keydown",e=>{if(e.ctrlKey||e.metaKey||e.altKey)return;const t=e.target,tn=t&&t.tagName;if(tn==="INPUT"||tn==="TEXTAREA"||tn==="SELECT"||(t&&t.isContentEditable))return;
+  /* , = 이전 묶음, . = 다음 묶음 (keeps the mode, works in every tab) */
+  if((e.key===","||e.key===".")&&!S.q.trim()){const L=PARTS.flatMap(p=>p.subs.flatMap(x=>x.b)),k=L.indexOf(curBun());if(k>=0){e.preventDefault();if(P.active)stopPlay();const md=S.mode;goto(L[(k+(e.key==="."?1:-1)+L.length)%L.length]);if(md!=="dlg"&&!B[curBun()].info){S.mode=md;save();render()}}return}
+  /* ? = shortcut list (any key or click closes it) */
+  {const h=document.getElementById("kbhelp");if(h){h.remove();e.preventDefault();return}else if(e.key==="?"){e.preventDefault();const d=document.createElement("div");d.id="kbhelp";d.style.cssText="position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.35)";d.innerHTML='<div style="background:var(--sheet,#fff);color:var(--ink,#222);border-radius:16px;padding:18px 22px;max-width:92vw;max-height:88vh;overflow:auto;font-size:15px;line-height:1.75;box-shadow:0 10px 40px rgba(0,0,0,.3)"><b style="font-size:17px">키보드 단축키</b><table style="border-collapse:collapse;margin-top:8px">'+[["Space","묶음 재생 시작 · 일시정지 · 재개"],["C","연속 재생"],["G","묶음 재생"],["Esc","정지"],["← →","이전 · 다음 문장"],[", .","이전 · 다음 묶음"],["Enter","지금 문장 무한 반복 켜기 · 끄기"],["1 ~ 5","반복 횟수"],["-  =","배속 느리게 · 빠르게"],["Q W E","예문보기 · 단어공부 · 확인퀴즈"],["?","이 목록 열기 · 닫기"]].map(r=>'<tr><td style="padding:1px 16px 1px 0;white-space:nowrap"><b>'+r[0]+'</b></td><td>'+r[1]+'</td></tr>').join("")+'</table></div>';d.addEventListener("click",()=>d.remove());document.body.appendChild(d);return}}
+  /* C = 연속 재생, G = 묶음 재생 (again = stop), 1-5 = 횟수, ↑/↓ = 배속 */
+  {const k=e.key.toLowerCase(),ctl=document.getElementById("controls");if(ctl&&!ctl.hidden&&!S.q.trim()){
+    if(k==="c"||k==="ㅊ"||k==="g"||k==="ㅎ"){const b=document.querySelector(k==="c"||k==="ㅊ"?'#bact [data-playbundle][data-chain]':'#bact [data-playbundle]:not([data-chain])');if(b){e.preventDefault();b.click()}return}
+    if(/^[1-5]$/.test(e.key)){const r=document.getElementById("repSel");if(r){e.preventDefault();r.value=e.key;r.dispatchEvent(new Event("change",{bubbles:true}))}return}
+    /* speed = - and = (arrows up/down scroll the page again) */if(e.key==="-"||e.key==="_"||e.key==="="||e.key==="+"){const r=document.getElementById("rateSel");if(r){e.preventDefault();const j=Math.max(0,Math.min(r.options.length-1,r.selectedIndex+(e.key==="="||e.key==="+"?1:-1)));if(j!==r.selectedIndex){r.selectedIndex=j;r.dispatchEvent(new Event("change",{bubbles:true}))}}return}
+    /* Q W E = 예문보기 단어공부 확인퀴즈 */{const m={q:"m-dlg","ㅂ":"m-dlg",w:"m-cards","ㅈ":"m-cards",e:"m-quiz","ㄷ":"m-quiz"}[k];if(m){const b=document.getElementById(m);if(b){e.preventDefault();if(P.active)stopPlay();b.click()}return}}
+    /* Space while nothing plays = 묶음 재생 */if((e.key===" "||e.code==="Space")&&!P.active&&tn!=="BUTTON"&&tn!=="A"){const b=document.querySelector('#bact [data-playbundle]:not([data-chain])');if(b){e.preventDefault();b.click()}return}}}
+  if(!P.active)return;
+  if(e.key===" "||e.code==="Space"){e.preventDefault();if(P.hold!=null)releaseHold();else setPaused(!P.paused);showPlayer();return}
+  if(e.key==="Escape"){e.preventDefault();stopPlay();return}
+  /* Enter = loop the current word/sentence without end (no cut, Lao only); Enter again = back to the normal repeat, going on from the next item */
+  if(e.key==="Enter"){e.preventDefault();if(P.single)return;if(P.hold!=null){P.hold=null;holdMark(null);P.rel=1;P.k=0}else{const q=P.queue,c=q[Math.min(P.i,q.length-1)];if(!c)return;const j=c.ko?q.findIndex(x=>x&&x.gi===c.gi&&!x.ko):P.i;if(j<0)return;P.rel=0;P.hold=j;P.k=0;holdMark(j)}showPlayer();return}
+  if(e.key==="ArrowRight"||e.key==="ArrowLeft"){e.preventDefault();if(P.single||P.hold!=null)return;const tok=P.token;try{aud().pause()}catch(_){}P.k=0;P.rel=0;{const q=P.queue,c=q[Math.min(P.i,q.length-1)]||{},R=e.key==="ArrowRight";let j=-1;if(c.gi!=null&&!c.rv){const g=c.gi+(R?1:-1);j=q.findIndex(x=>x&&!x.rv&&x.gi===g);if(j<0&&R){j=q.findIndex((x,ix)=>ix>P.i&&x&&x.gi!==c.gi);if(j<0)j=q.length}if(j<0&&!R)j=q.findIndex(x=>x&&x.gi===c.gi)}if(j<0)j=R?P.i+1:Math.max(0,P.i-1);P.i=j}if(P.paused)setPaused(false);nextPlay(tok)}});
 document.addEventListener("click",e=>{
   const ko=e.target.closest(".hide-ko .ko");if(ko){ko.classList.toggle("show");return}
   const rd=e.target.closest(".hide-rd .line .t2,.hide-rd .entry-head .r");if(rd){rd.classList.toggle("show");return}

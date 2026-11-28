@@ -1,0 +1,260 @@
+# P6-A | 모음과 자음
+
+@ 6-01-01 | 모음 a·e·i·o·u | a·e·i·o·u | 르완다어 모음은 다섯 개뿐이고, 쓴 대로 읽어요: a 아, e 에, i 이, o 오, u 우.
+w amata | a = 아 · 우유 | 우유
+e Abana banywa amata. | 아이들은 우유를 마셔요.
+e Amata y'inka ni meza. | 소 우유는 좋아요.
+w ejo | e = 에 · 내일·어제 | 내일; 어제
+e Ejo nzaza. | 내일 올게요.
+e Ejo nari ndwaye. | 어제 아팠어요.
+w isomo | i = 이, o = 오 · 수업 | 수업; 과
+e Isomo rya kabiri ni ryoroshye. | 2과는 쉬워요.
+e Isomo ritangira saa mbiri. | 수업은 8시에 시작해요.
+w oya | o = 오 · 아니요 | 아니요
+e Oya, murakoze. | 아니요, 괜찮아요(고마워요).
+e Oya, si byo. | 아니요, 그렇지 않아요.
+w umuntu | u = 우 · 사람 | 사람
+e Umuntu umwe arahari. | 한 사람이 와 있어요.
+e Hari abantu benshi. | 사람이 많아요.
+tp 모음은 늘 같은 소리예요: a(아) e(에) i(이) o(오) u(우). 영어처럼 바뀌지 않아요.
+tp 낱말은 거의 모두 모음으로 끝나요: amata, ejo, isomo. 그래서 한글로 옮기면 받침이 거의 없어요.
+tp 모음 길이(길게·짧게)로 뜻이 달라지기도 하지만 글자에는 보통 표시하지 않아요.
+pr Amata | 우유 || Amazi | 물
+pr Ejo | 내일 || Uyu munsi | 오늘
+sm Amata, ejo, isomo, oya, umuntu. | 우유, 내일, 수업, 아니요, 사람.
+qz 르완다어 모음은 몇 개? | a e i o u 다섯 개
+
+@ 6-01-02 | 쉬운 자음 | b·d·g·h·k·m·n | 한글과 거의 같은 자음이에요. k는 ㅋ, g는 ㄱ로 읽어요.
+w ibara | b = ㅂ · 색 | 색
+e Ibara ry'ubururu ni ryiza. | 파란색이 예뻐요.
+e Ukunda ibara irihe? | 무슨 색을 좋아해요?
+w data | d = ㄷ · 나의 아버지 | (나의) 아버지
+e Data ni umwarimu. | 우리 아버지는 선생님이에요.
+e Data yagiye ku kazi. | 아빠는 일하러 가셨어요.
+w igare | g = ㄱ · 자전거 | 자전거
+e Afite igare rishya. | 그는 새 자전거가 있어요.
+e Ngenda ku igare. | 자전거를 타고 가요.
+w hano | h = ㅎ · 여기 | 여기
+e Ndi hano. | 여기 있어요.
+e Icara hano. | 여기 앉아요.
+w kabiri | k = ㅋ · 둘 | 둘; 두 번
+e Subiramo kabiri. | 두 번 반복해요.
+e Ku wa kabiri dufite siporo. | 화요일에는 체육이 있어요.
+w mama | m = ㅁ · 엄마 | (나의) 어머니
+e Mama ateka neza. | 엄마는 요리를 잘해요.
+e Mama ari mu rugo. | 엄마는 집에 계세요.
+w nini | n = ㄴ · 크다 | 큰
+e Inzu ni nini. | 집이 커요.
+e Ishati ni nini cyane. | 셔츠가 너무 커요.
+tp b ㅂ, d ㄷ, g ㄱ, h ㅎ, k ㅋ, m ㅁ, n ㄴ: 한글 그대로 읽으면 돼요.
+tp k는 우리말 ㅋ보다 약하게, ㄲ와 ㅋ 사이로 소리 나요. t, p도 마찬가지예요.
+pr Kabiri | 둘 || Gatatu | 셋
+pr Data | 아빠 || Mama | 엄마
+sm Data na mama bari hano. | 아빠와 엄마가 여기 있어요.
+qz 'k'는 한글로? | ㅋ
+
+@ 6-01-03 | 조금 다른 자음 | c·j·r·z·v·f | 한글로 옮길 때 조심할 자음이에요. c는 ㅊ, r은 ㄹ, z는 ㅈ예요.
+w icumi | c = ㅊ · 열 | 열(10)
+e Mfite amafaranga icumi. | 10프랑이 있어요.
+e Bara kugeza ku icumi. | 열까지 세어 봐요.
+w ijambo | j = ㅈ · 낱말 | 낱말
+e Iri jambo ni rishya. | 이 낱말은 새 낱말이에요.
+e Andika iri jambo. | 이 낱말을 써요.
+w rimwe | r = ㄹ · 하나 | 하나; 한 번
+e Rimwe, kabiri, gatatu! | 하나, 둘, 셋!
+e Vuga rimwe gusa. | 한 번만 말해요.
+w amazi | z = ㅈ · 물 | 물
+e Mpa amazi, nyabuneka. | 물 좀 주세요.
+e Amazi arakonje. | 물이 차가워요.
+w kuva | v = ㅂ(입술 떨림) · ~부터 | ~부터; 나오다
+e Kuva ejo ndwaye. | 어제부터 아파요.
+e Nkomoka muri Koreya, kuva i Seoul. | 한국 서울에서 왔어요.
+w ifoto | f = ㅍ(윗니와 아랫입술) · 사진 | 사진
+e Reka dufate ifoto. | 사진 찍어요.
+e Iyi foto ni nziza. | 이 사진 예뻐요.
+tp c는 혼자 쓰이면 ㅊ: icumi(이추미). r은 혀를 한 번 튕기는 ㄹ: rimwe(림웨→리뫠).
+tp z는 영어 z처럼 떨리는 소리지만 한글로는 ㅈ로 써요: amazi(아마지). v, f도 영어처럼 입술로 내요.
+tp l은 외래어(Kigali 등)에만 나와요. 르완다어 고유어는 r만 써요.
+pr Amazi | 물 || Amata | 우유
+pr Rimwe | 하나 || Icumi | 열
+sm Rimwe, kabiri… icumi — mpa amazi! | 하나, 둘… 열. 물 주세요!
+qz 'c'는 한글로? | ㅊ
+
+@ 6-01-04 | 두세 글자가 한 소리 | sh·cy·jy·ny·shy | 두세 글자가 모여 한 소리를 내요. 한글로는 '샤·차·쟈·냐'처럼 옮겨요.
+w ishuri | sh = 시 계열 · 학교 | 학교
+e Njya ku ishuri saa moya. | 7시에 학교에 가요.
+e Ishuri ryacu ni rinini. | 우리 학교는 커요.
+w icyayi | cy = 차 계열 · 차 | 차
+e Mu gitondo nywa icyayi. | 아침에 차를 마셔요.
+e Icyayi cy'amata kiraryoshye. | 밀크티는 맛있어요.
+w kujya | jy = 쟈 계열 · 가다 | 가다
+e Ndashaka kujya ku isoko. | 시장에 가고 싶어요.
+e Ugiye kujya he? | 어디 가려고 해요?
+w inyama | ny = 냐 계열 · 고기 | 고기
+e Sindya inyama. | 저는 고기를 안 먹어요.
+e Mpa ifiriti n'inyama. | 감자튀김이랑 고기 주세요.
+w gushyira | shy = 시 계열 · 놓다 | 놓다; 넣다
+e Shyira igitabo ku meza. | 책을 책상 위에 놓아요.
+e Shyiramo isukari nke. | 설탕 조금 넣어 주세요.
+w itsinda | ts = ㅊ · 모둠·팀 | 모둠; 무리
+e Mukore amatsinda atatu. | 세 모둠을 만들어요.
+e Itsinda ryacu ryatsinze. | 우리 모둠이 이겼어요.
+tp sh와 shy는 둘 다 '시' 계열 소리예요: ishuri(이슈리), shyira(시라).
+tp cy는 '치' 계열: icyayi(이차이). ny는 '니' 계열: inyama(이냐마), nyabuneka(냐부네카).
+tp ts도 ㅊ에 가까워요: itsinda(이친다). Mwaramutse(뫄라무체)의 tse도 같은 소리예요.
+pr Ishuri | 학교 || Isoko | 시장
+pr Inyama | 고기 || Inama | 회의
+sm Njya ku ishuri, nkanywa icyayi, nkarya inyama. | 학교에 가서 차를 마시고 고기를 먹어요.
+qz 'cy'는 한글로? | 차 계열(ㅊ)
+
+@ 6-01-05 | y가 붙는 소리 | by·ry·my | 자음 뒤의 y는 '야·여·요' 같은 소리를 만들어요.
+w byiza | by = 비 · 좋다 | 좋은
+e Ni byiza cyane! | 아주 좋아요!
+e Ni byiza, murakoze. | 좋아요, 고마워요.
+w ryari | ry = 랴 · 언제 | 언제
+e Uzaza ryari? | 언제 올 거예요?
+e Isomo ritangira ryari? | 수업은 언제 시작해요?
+w imyaka | my = 먀 · 해·나이 | 해; 나이
+e Mfite imyaka makumyabiri. | 스무 살이에요.
+e Ufite imyaka ingahe? | 몇 살이에요?
+w kubyuka | by = 뷰 · 일어나다 | 일어나다
+e Mbyuka saa kumi n'ebyiri. | 6시에 일어나요.
+e Byuka, ni saa moya! | 일어나, 7시야!
+tp 자음 + y + 모음 = 한 소리: bya(뱌), ryo(료), myu(뮤). byiza는 '비자'에 가깝게 소리 나요.
+pr Byiza | 좋아요 || Bibi | 나빠요
+pr Ryari? | 언제? || He? | 어디?
+sm Ni byiza — uzaza ryari? | 좋아요. 언제 와요?
+qz 'ryari'의 뜻은? | 언제
+
+@ 6-01-06 | w가 붙는 소리 | bw·rw·mw·kw | 자음 뒤의 w는 '와·워·웨' 같은 소리를 만들어요. rw는 '르와'로 읽어요.
+w imbwa | bw = 봐 · 개 | 개
+e Imbwa iramoka. | 개가 짖어요.
+e Mfite ubwoba bw'imbwa. | 개가 무서워요.
+w u Rwanda | rw = 르와 · 르완다 | 르완다
+e U Rwanda ni igihugu cyiza. | 르완다는 좋은 나라예요.
+e Murakaza neza mu Rwanda! | 르완다에 오신 걸 환영해요!
+w umwana | mw = 뫄 · 아이 | 아이
+e Umwana arira. | 아이가 울어요.
+e Umwana afite umuriro. | 아이가 열이 나요.
+w ukwezi | kw = 퀘 · 달·월 | 달; 월
+e Ukwezi gufite iminsi mirongo itatu. | 한 달은 30일이에요.
+e Ukwezi gutaha nzajya i Huye. | 다음 달에 후예에 갈 거예요.
+w twese | tw = 퉤 · 우리 모두 | 우리 모두
+e Twese turi abanyeshuri. | 우리는 모두 학생이에요.
+e Reka tugende twese. | 우리 모두 가요.
+tp 자음 + w + 모음 = 한 소리: bwa(봐), mwe(뭬), kwi(퀴). 한글 'ㅘ·ㅝ·ㅞ'를 떠올리면 쉬워요.
+tp rw는 '르와'에 가깝게 읽어요: u Rwanda(우 르완다), Kinyarwanda(키냐르완다).
+pr Umwana | 아이 || Abana | 아이들
+pr Imbwa | 개 || Injangwe | 고양이
+sm Twese turi mu Rwanda. | 우리는 모두 르완다에 있어요.
+qz 'mw'는 한글로? | 뫄·뭬 계열
+
+@ 6-01-07 | 앞에 붙는 콧소리 | nd·mb·nk·ng·nz | n·m이 자음 앞에 오면 앞 음절의 받침(ㄴ·ㅁ·ㅇ)이 돼요. 낱말 맨 앞이면 '은·음·응'처럼 소리 나요.
+w inda | nd = ㄴ받침 + ㄷ · 배 | 배(신체)
+e Ndwaye mu nda. | 배가 아파요.
+e Inda irandya cyane. | 배가 많이 아파요.
+w imbuto | mb = ㅁ받침 + ㅂ · 과일 | 과일; 씨앗
+e Imbuto ni nziza ku buzima. | 과일은 건강에 좋아요.
+e Ngura imbuto ku isoko. | 시장에서 과일을 사요.
+w inka | nk = ㅇ받침 + ㅋ · 소 | 소
+e Afite inka eshatu. | 그는 소가 세 마리 있어요.
+e Inka ni ingenzi mu muco w'u Rwanda. | 소는 르완다 문화에서 중요해요.
+w ingoma | ng = ㅇ받침 + ㄱ · 북 | 북
+e Avuza ingoma neza. | 그는 북을 잘 쳐요.
+e Ingoma ziravuga cyane. | 북소리가 커요.
+w inzu | nz = ㄴ받침 + ㅈ · 집 | 집
+e Inzu yacu ni nto ariko ni nziza. | 우리 집은 작지만 좋아요.
+e Imodoka iri inyuma y'inzu. | 차는 집 뒤에 있어요.
+w ndashaka | 맨 앞 n = 은 · 원해요 | 원해요
+e Ndashaka icyayi, nyabuneka. | 차 주세요.
+e Ndashaka kuruhuka gato. | 조금 쉬고 싶어요.
+tp inka는 '인카'보다 '잉카'에 가까워요. k·g 앞의 n은 ㅇ 소리가 나요.
+tp 맨 앞의 n·m은 아주 짧게 '은·음' 하고 바로 다음 소리로 넘어가요: Ndashaka(은다샤카), Mbabarira(음바바리라).
+pr Inka | 소 || Inkoko | 닭
+pr Inzu | 집 || Inda | 배
+sm Ndashaka inka, inkoko n'inzu nini. | 소, 닭, 그리고 큰 집을 원해요.
+qz 'inka'는 한글로? | 잉카
+
+@ 6-01-08 | 줄임표 ' | n'·y'·w'·cy' | 모음 두 개가 만나면 앞 모음이 빠지고 ' 로 줄여 써요. 읽을 때는 붙여서 한 낱말처럼 읽어요.
+w n'umwana | na + umwana = n'umwana · 아이와 함께 | 아이와(함께)
+e Ndi kumwe n'umwana wanjye. | 제 아이와 같이 있어요.
+e Mama n'umwana bari mu rugo. | 엄마와 아이가 집에 있어요.
+w y'ishuri | ya + ishuri · 학교의 | 학교의
+e Amakuru y'ishuri? | 학교는 어때요?
+e Imbere y'ishuri hari igiti kinini. | 학교 앞에 큰 나무가 있어요.
+w w'u Rwanda | wa + u Rwanda · 르완다의 | 르완다의
+e Umurwa mukuru w'u Rwanda ni Kigali. | 르완다의 수도는 키갈리예요.
+e Ndashaka kumenya umuco w'u Rwanda. | 르완다 문화를 알고 싶어요.
+w cy'amata | cya + amata · 우유의 | 우유의
+e Icyayi cy'amata kiraryoshye. | 밀크티는 맛있어요.
+e Ndashaka icyayi cy'amata. | 밀크티 주세요.
+tp na(~와) + 모음 → n': n'umwana(아이와), n'inyama(고기와).
+tp '~의'(wa·ya·cya·rya…) + 모음 → w'·y'·cy'·ry': umuco w'u Rwanda(르완다의 문화), isomo ry'imibare(수학 수업).
+pr Na + umwana | 와 + 아이 || N'umwana | 아이와
+pr Ya + ishuri | 의 + 학교 || Y'ishuri | 학교의
+sm Umwana w'umwarimu anywa icyayi cy'amata. | 선생님의 아이가 밀크티를 마셔요.
+qz 'na + inyama'는? | n'inyama
+
+@ 6-01-09 | 외래어 | bisi·telefoni | 영어·프랑스어·스와힐리어에서 온 낱말이에요. 르완다어 소리에 맞춰 모음이 붙어요.
+w bisi | 버스(bus) | 버스
+e Bisi yuzuye abantu. | 버스가 사람으로 꽉 찼어요.
+e Ngiye gufata bisi. | 버스 타러 가요.
+w telefoni | 전화(téléphone) | 휴대폰; 전화
+e Telefoni yanjye yabuze. | 휴대폰을 잃어버렸어요.
+e Nimero ya telefoni yawe ni iyihe? | 전화번호가 뭐예요?
+w banki | 은행(bank) | 은행
+e Ngiye kuri banki. | 은행에 가요.
+e Banki iri he? | 은행이 어디예요?
+w ishati | 셔츠(shirt) | 셔츠
+e Ndashaka ishati y'umweru. | 흰 셔츠를 원해요.
+e Iyi shati ni nto. | 이 셔츠는 작아요.
+w ipantalo | 바지(pantalon) | 바지
+e Ipantalo ni ndende cyane. | 바지가 너무 길어요.
+e Ndashaka ipantalo y'umukara. | 검은 바지를 원해요.
+w sawa | 좋아(스와힐리어 sawa) | 좋아요; 알았어요
+e Sawa, tuzabonana. | 좋아요, 또 봐요.
+e Ni sawa? — Ni sawa! | 괜찮아? — 괜찮아!
+tp 외래어도 끝에 모음이 붙어요: bus → bisi, shirt → ishati, téléphone → telefoni.
+tp 프랑스어에서 온 말(ipantalo, telefoni)과 영어에서 온 말(banki, ishati)이 섞여 있어요.
+pr Bisi | 버스 || Moto | 오토바이 택시
+pr Telefoni | 전화 || Interineti | 인터넷
+sm Nafashe bisi njya kuri banki, mpamagara kuri telefoni. | 버스를 타고 은행에 가서 전화를 했어요.
+qz 'ishati'는 무슨 뜻? | 셔츠
+x banywa | 그들은 마신다
+x y'inka | 소의
+x nzaza | 나는 올 것이다
+x nari | 나는 ~였다
+x ndwaye | 나는 아프다
+x rya | ~의
+x ryoroshye | 쉽다
+x ritangira | 시작한다
+x arahari | 와 있다
+x benshi | 많은
+x ry'ubururu | 파란색의
+x ryiza | 좋은, 예쁜
+x irihe | 어느
+x subiramo | 반복해라
+x bari | 그들은 있다
+x kugeza | ~까지
+x vuga | 말해라
+x arakonje | 차갑다
+x kumwe | 함께
+x ndi kumwe | 나는 함께 있다
+x ugiye | 너는 ~하려고 한다
+x mukore | (여러분) 만들어라
+x amatsinda | 모둠들
+x ryatsinze | 이겼다
+x inama | 회의
+x nkanywa | 그리고 나는 마신다
+x nkarya | 그리고 나는 먹는다
+x bibi | 나쁜
+x bw'imbwa | 개의
+x gutaha | 집에 가다; 다음(달·주)
+x twese | 우리 모두
+x turi | 우리는 ~이다
+x tugende | 우리 가자
+x bari mu rugo | 집에 있다
+x w'umwarimu | 선생님의
+x anywa | 그는 마신다
+x mpamagara | 내가 전화했다
+x nafashe | 나는 탔다

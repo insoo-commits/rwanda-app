@@ -1,0 +1,343 @@
+// 주제별 더하기 (v1.0): 공항, 기념품, 작별, 체크인, 컴퓨터, 색, 응급, 신앙
+# P5-E | 교통
+@ 1-05-04 | 공항 | ikibuga cy'indege·pasiporo | 공항에서 쓰는 말이에요. 키갈리 국제공항은 Kanombe(카놈베)에 있어요.
+w ikibuga cy'indege | 공항 · 비행기의 마당 | 공항
+e Njyana ku kibuga cy'indege. | 공항에 데려다주세요.
+e Ikibuga cy'indege kiri i Kanombe. | 공항은 카놈베에 있어요.
+w pasiporo | 여권 | 여권
+e Pasiporo yanjye iri mu gikapu. | 여권은 가방 안에 있어요.
+e Mwereke pasiporo yawe. | 여권을 보여 주세요.
+w viza | 비자 | 비자
+e Nkeneye viza? | 비자가 필요해요?
+e Viza yanjye irangira mu Kamena. | 제 비자는 6월에 끝나요.
+w imizigo | 짐 · 수하물 | 짐
+e Imizigo yanjye yabuze. | 제 짐이 없어졌어요.
+e Mfite imizigo ibiri. | 짐이 두 개 있어요.
+w guhaguruka | 출발하다 · 일어서다 | 출발하다; 일어서다
+e Indege ihaguruka saa tanu. | 비행기는 11시에 출발해요.
+e Indege yahagurutse. | 비행기가 출발했어요.
+w kugwa | 착륙하다 · 떨어지다 | 착륙하다; 떨어지다
+e Indege yaguye neza. | 비행기가 잘 착륙했어요.
+e Indege izagwa saa kumi. | 비행기는 4시에 착륙할 거예요.
+tp 공항은 '비행기의 마당'(ikibuga cy'indege)이라고 해요. ikibuga은 운동장·마당이에요.
+tp kugwa는 '떨어지다'예요. 비(imvura iragwa)와 비행기 착륙(indege iragwa)에 모두 써요.
+pr Guhaguruka | 출발하다 || Kugwa | 착륙하다
+pr Pasiporo | 여권 || Viza | 비자
+dl 직원 | Mwaramutse. Pasiporo yanyu, nyabuneka. | 안녕하세요. 여권 주세요.
+dl 민준 | Dore. Ndi umukorerabushake. | 여기요. 저는 봉사자예요.
+dl 직원 | Murakaza neza mu Rwanda! | 르완다에 오신 걸 환영해요!
+dl 민준 | Murakoze cyane. | 정말 고맙습니다.
+sm Indege yanjye ihaguruka saa tanu, nkeneye pasiporo n'imizigo yanjye. | 제 비행기는 11시에 출발해서, 여권과 짐이 필요해요.
+qz '여권'은? | pasiporo
+
+# P5-C | 시장
+@ 1-04-05 | 기념품 | agaseke·imigongo | 르완다를 기억할 선물이에요. 손으로 만든 것이 많아요.
+w agaseke | 아가세케 · 뚜껑 있는 바구니 | 바구니(아가세케)
+e Agaseke ni ikimenyetso cy'u Rwanda. | 아가세케는 르완다의 상징이에요.
+e Naguze agaseke ka mama. | 엄마 드릴 바구니를 샀어요.
+w imigongo | 이미공고 · 무늬 그림 | 이미공고(소똥 무늬 그림)
+e Imigongo ifite amabara meza. | 이미공고는 색이 예뻐요.
+e Imigongo ikorwa mu burasirazuba. | 이미공고는 동쪽 지방에서 만들어요.
+w ikawa y'u Rwanda | 르완다 커피 | 르완다 커피
+e Ndashaka kugura ikawa y'u Rwanda. | 르완다 커피를 사고 싶어요.
+e Ikawa y'u Rwanda ni impano nziza. | 르완다 커피는 좋은 선물이에요.
+w impano | 선물 | 선물
+e Iyi ni impano ya mama. | 이건 엄마 선물이에요.
+e Nakuzaniye impano. | 선물 가져왔어요.
+w ibikozwe n'intoki | 손으로 만든 것 | 수공예품
+e Nkunda ibikozwe n'intoki. | 손으로 만든 것을 좋아해요.
+e Ibikozwe n'intoki birahenze gato. | 수공예품은 조금 비싸요.
+w urwibutso | 기념품 · 추억 | 기념품; 추억
+e Ndashaka urwibutso rw'u Rwanda. | 르완다 기념품을 원해요.
+e Iyi foto ni urwibutso rwiza. | 이 사진은 좋은 추억이에요.
+tp 아가세케(agaseke)는 르완다의 상징 바구니로, 평화와 정을 뜻해요. 결혼식 선물로도 써요.
+tp 이미공고(imigongo)는 소똥을 섞어 만든 검정·흰색·빨강 기하학 무늬 그림이에요. 이 앱 머리 그림 아래 지그재그 무늬도 이미공고에서 왔어요.
+pr Agaseke | 바구니 || Imigongo | 무늬 그림
+pr Impano | 선물 || Urwibutso | 기념품
+dl 수아 | Ndashaka impano ya mama. | 엄마 선물을 찾아요.
+dl 상인 | Agaseke ni keza cyane. | 아가세케가 아주 좋아요.
+dl 수아 | Ni angahe? | 얼마예요?
+dl 상인 | Ni ibihumbi bitanu. | 5,000프랑이에요.
+sm Naguze agaseke, ikawa n'imigongo nk'urwibutso rw'u Rwanda. | 르완다 기념품으로 바구니, 커피, 이미공고를 샀어요.
+qz 'agaseke'는? | 뚜껑 있는 바구니
+
+# P5-A | 학교
+@ 1-06-05 | 작별·수료 | gusezera·nzabakumbura | 헤어질 때와 수료식에서 쓰는 말이에요.
+w gusezera | 작별 인사하다 | 작별 인사하다
+e Naje gusezera. | 작별 인사하러 왔어요.
+e Ejo nzasezera ku banyeshuri. | 내일 학생들에게 작별 인사를 할 거예요.
+w nzabakumbura | 여러분이 그리울 거예요 | 그리울 거예요
+e Nzabakumbura cyane. | 여러분이 많이 그리울 거예요.
+e Bana, nzabakumbura! | 얘들아, 보고 싶을 거야!
+w tuzongera guhura | 다시 만나요 · 우리 또 만날 거예요 | 다시 만나요
+e Tuzongera guhura umunsi umwe. | 언젠가 다시 만나요.
+e Ndizera ko tuzongera guhura. | 다시 만나길 바라요.
+w impamyabumenyi | 수료증 · 졸업장 | 수료증; 졸업장
+e Mwese mwabonye impamyabumenyi. | 모두 수료증을 받았어요.
+e Iyi ni impamyabumenyi yawe. | 이건 네 수료증이야.
+w ibirori | 행사 · 잔치 | 행사; 잔치
+e Ibirori bitangira saa yine. | 행사는 10시에 시작해요.
+e Ibirori byari byiza cyane. | 행사가 아주 좋았어요.
+w urugendo rwiza | 좋은 여행 되세요 | 잘 가요(좋은 여행)
+e Urugendo rwiza, mwarimu! | 선생님, 잘 가세요!
+e Mugire urugendo rwiza. | 좋은 여행 되세요.
+tp nzabakumbura는 n-za-ba-kumbura(나는 + 미래 + 여러분을 + 그리워하다)예요. 한 명에게는 Nzagukumbura(네가 그리울 거야).
+tp 떠나는 사람에게는 Urugendo rwiza!(좋은 여행!)라고 인사해요.
+pr Nzabakumbura. | 여러분이 그리울 거예요. || Natwe tuzagukumbura. | 우리도 그리울 거예요.
+pr Murabeho! | 안녕히 가세요! || Tuzongera guhura! | 또 만나요!
+dl 학생 | Mwarimu, mugiye gutaha muri Koreya? | 선생님, 한국에 돌아가세요?
+dl 민준 | Yego. Nzabakumbura cyane. | 응. 너희가 많이 그리울 거야.
+dl 학생 | Natwe tuzagukumbura. Urugendo rwiza! | 저희도 그리울 거예요. 잘 가세요!
+dl 민준 | Murakoze. Tuzongera guhura! | 고마워. 또 만나자!
+sm Murakoze kuri byose — nzabakumbura, kandi tuzongera guhura. | 모든 것에 감사해요. 그리울 거예요, 그리고 다시 만나요.
+qz '그리울 거예요(여러분)'는? | nzabakumbura
+
+# P5-F | 숙소·집
+@ 1-08-05 | 숙소 체크인 | hoteli·kurara | 호텔이나 게스트하우스에서 쓰는 말이에요.
+w hoteli | 호텔 | 호텔
+e Hoteli iri hafi y'isoko. | 호텔은 시장 가까이 있어요.
+e Naraye muri hoteli. | 호텔에서 잤어요.
+w kurara | 묵다 · 밤을 지내다 | 묵다
+e Ndashaka kurara amajoro abiri. | 이틀 밤 묵고 싶어요.
+e Uzarara he? | 어디서 묵을 거예요?
+w Mufite icyumba? | 방 있어요? | 방 있어요?
+e Mufite icyumba cy'umuntu umwe? | 1인실 있어요?
+e Mufite icyumba gifite ubwiherero? | 화장실 딸린 방 있어요?
+w ijoro rimwe | 하룻밤 | 하룻밤
+e Ijoro rimwe ni angahe? | 하룻밤에 얼마예요?
+e Ndashaka ijoro rimwe gusa. | 하룻밤만 원해요.
+w ifunguro rya mu gitondo | 아침 식사 | 아침 식사
+e Ifunguro rya mu gitondo ririmo? | 아침 식사 포함이에요?
+e Ifunguro rya mu gitondo ni saa moya. | 아침 식사는 7시예요.
+w gusohoka mu cyumba | 체크아웃 · 방에서 나가다 | 체크아웃하다
+e Ngomba gusohoka mu cyumba saa ngahe? | 몇 시에 체크아웃해야 해요?
+e Nzasohoka mu cyumba saa tanu. | 11시에 체크아웃할게요.
+tp 하룻밤은 ijoro rimwe, 이틀 밤은 amajoro abiri예요. ijoro(밤) ↔ amajoro(밤들).
+tp '포함이에요?'는 ririmo?(안에 들어 있어요?)로 물어요.
+pr Ijoro rimwe | 하룻밤 || Amajoro abiri | 이틀 밤
+pr Kwinjira | 체크인(들어가다) || Gusohoka | 체크아웃(나가다)
+dl 직원 | Mwiriwe! Mbafashe iki? | 안녕하세요! 무엇을 도와드릴까요?
+dl 수아 | Mufite icyumba cy'umuntu umwe? | 1인실 있어요?
+dl 직원 | Yego. Ni amajoro angahe? | 네. 몇 박 하실 거예요?
+dl 수아 | Amajoro abiri, nyabuneka. | 이틀 밤이요.
+sm Nzarara amajoro abiri muri hoteli, ifunguro rya mu gitondo ririmo. | 호텔에서 이틀 밤 묵는데, 아침 식사가 포함이에요.
+qz '하룻밤'은? | ijoro rimwe
+
+# P5-G | 은행·통신
+@ 1-10-03 | 컴퓨터 | mudasobwa·gukanda | 컴퓨터 수업과 사무실에서 쓰는 말이에요.
+w mudasobwa | 컴퓨터 | 컴퓨터
+e Fungura mudasobwa. | 컴퓨터를 켜요.
+e Ishuri rifite mudasobwa makumyabiri. | 학교에 컴퓨터가 20대 있어요.
+w gukanda | 누르다 · 클릭하다 | 누르다; 클릭하다
+e Kanda hano. | 여기를 눌러요.
+e Kanda kabiri. | 두 번 눌러요.
+w kubika | 저장하다 · 보관하다 | 저장하다; 보관하다
+e Bika dosiye yawe. | 파일을 저장해요.
+e Wibagiwe kubika! | 저장하는 걸 잊었구나!
+w gusiba | 지우다 · 삭제하다 | 지우다
+e Siba iri jambo. | 이 낱말을 지워요.
+e Nasibye ifoto. | 사진을 지웠어요.
+w kwandika kuri mudasobwa | 컴퓨터로 쓰다 · 타자 치다 | 타자 치다
+e Andika izina ryawe kuri mudasobwa. | 컴퓨터로 이름을 쳐 봐요.
+e Ndandika vuba kuri mudasobwa. | 컴퓨터로 빨리 쳐요.
+w kohereza imeyili | 이메일을 보내다 | 이메일 보내다
+e Nzakoherereza imeyili. | 이메일 보낼게요.
+e Imeyili yawe ni iyihe? | 이메일 주소가 뭐예요?
+tp mudasobwa는 '컴퓨터'예요. 화면은 ecran, 마우스는 mouse처럼 외래어를 그대로 쓰기도 해요.
+tp 컴퓨터 지시말: Fungura(켜·열어), Kanda(눌러), Bika(저장해), Siba(지워), Funga(꺼·닫아).
+pr Fungura | 켜요 || Funga | 꺼요
+pr Bika | 저장해요 || Siba | 지워요
+dl 학생 | Mwarimu, nandika he? | 선생님, 어디에 써요?
+dl 선생님 | Kanda hano, hanyuma wandike. | 여기를 누르고 써요.
+dl 학생 | Ndarangije. | 다 했어요.
+dl 선생님 | Ni byiza. Ntiwibagirwe kubika! | 좋아요. 저장하는 거 잊지 마요!
+sm Fungura mudasobwa, wandike izina ryawe, hanyuma ubike. | 컴퓨터를 켜고, 이름을 쓰고, 저장해요.
+qz '저장하다'는? | kubika
+
+# P5-H | 날씨·자연
+@ 1-11-04 | 색 | umutuku·ubururu | 색 이름이에요. 르완다 국기는 파랑(ubururu)·노랑(umuhondo)·초록(icyatsi kibisi)이에요.
+w umutuku | 빨강 | 빨간색
+e Ndashaka ishati y'umutuku. | 빨간 셔츠를 원해요.
+e Ururabo rw'umutuku ni rwiza. | 빨간 꽃이 예뻐요.
+w umuhondo | 노랑 | 노란색
+e Izuba rifite ibara ry'umuhondo. | 해는 노란색이에요.
+e Imineke ihiye ni iy'umuhondo. | 익은 바나나는 노래요.
+w icyatsi kibisi | 초록 · 푸른 풀 | 초록색
+e Imisozi ifite ibara ry'icyatsi kibisi. | 언덕은 초록색이에요.
+e Nkunda ibara ry'icyatsi kibisi. | 초록색을 좋아해요.
+w ubururu | 파랑 | 파란색
+e Ijuru rifite ibara ry'ubururu. | 하늘은 파란색이에요.
+e Ikanzu y'ubururu ni nziza. | 파란 원피스가 예뻐요.
+w umukara | 검정 | 검은색
+e Ipantalo y'umukara. | 검은 바지예요.
+e Injangwe y'umukara iri hano. | 검은 고양이가 여기 있어요.
+w umweru | 하양 | 흰색
+e Ishati y'umweru irasukuye. | 흰 셔츠가 깨끗해요.
+e Inka y'umweru. | 흰 소예요.
+tp 색은 '~의 색'으로 뒤에 붙여요: ishati y'umutuku(빨간 셔츠), ikanzu y'ubururu(파란 원피스).
+tp 르완다 국기: 위쪽 큰 파랑(ubururu) = 평화와 행복, 노랑(umuhondo) = 경제 발전, 초록(icyatsi kibisi) = 번영, 오른쪽 위 노란 해 = 밝은 미래.
+pr Umweru | 흰색 || Umukara | 검은색
+pr Umutuku | 빨간색 || Ubururu | 파란색
+dl 수아 | Ibendera ry'u Rwanda rifite amabara angahe? | 르완다 국기는 색이 몇 개예요?
+dl 무기샤 | Atatu: ubururu, umuhondo n'icyatsi kibisi. | 세 개요: 파랑, 노랑, 초록.
+dl 수아 | Irya Koreya ni umweru, umutuku, ubururu n'umukara. | 한국 국기는 하양, 빨강, 파랑, 검정이에요.
+dl 무기샤 | Ni meza yombi! | 둘 다 멋져요!
+sm Ibendera ry'u Rwanda ni ubururu, umuhondo n'icyatsi kibisi. | 르완다 국기는 파랑, 노랑, 초록이에요.
+qz '파란색'은? | ubururu
+
+# P5-D | 병원
+@ 1-09-05 | 긴급 상황 | Mfasha·polisi | 위험할 때 쓰는 말이에요. 르완다 긴급 전화는 112, 구급차는 912예요.
+w Mfasha! | 도와줘요! | 도와주세요!
+e Mfasha! Mfasha! | 도와주세요! 도와주세요!
+e Mumfashe, nyabuneka! | 제발 도와주세요!
+w polisi | 경찰 | 경찰
+e Hamagara polisi! | 경찰 불러요!
+e Polisi iri he? | 경찰서가 어디예요?
+w impanuka | 사고 | 사고
+e Habaye impanuka. | 사고가 났어요.
+e Impanuka ya moto. | 모토 사고예요.
+w umujura | 도둑 | 도둑
+e Umujura! Fata umujura! | 도둑이야! 도둑 잡아요!
+e Umujura yibye telefoni yanjye. | 도둑이 제 휴대폰을 훔쳤어요.
+w kwiba | 훔치다 | 훔치다
+e Banyibye igikapu. | 가방을 도둑맞았어요.
+e Ntibyemewe kwiba. | 훔치면 안 돼요.
+w imbangukiragutabara | 구급차 | 구급차
+e Hamagara imbangukiragutabara! | 구급차 불러요!
+e Imbangukiragutabara iraje. | 구급차가 와요.
+tp 긴급 전화: 112(경찰·긴급), 912(구급차). 르완다는 비교적 안전하지만, 밤에는 혼자 다니지 않는 것이 좋아요.
+tp '도둑맞았어요'는 Banyibye ○○(그들이 나에게서 ○○을 훔쳤어요).
+pr Hamagara polisi! | 경찰 불러요! || Hamagara imbangukiragutabara! | 구급차 불러요!
+pr Mfasha! | 도와줘! || Ihangane. | 진정해.
+dl 수아 | Mfasha! Banyibye igikapu! | 도와주세요! 가방을 도둑맞았어요!
+dl 경찰 | Ihangane. Byabereye he? | 진정하세요. 어디서 그랬어요?
+dl 수아 | Ku isoko, mu kanya gato. | 시장에서, 방금이요.
+dl 경찰 | Reka tujyane kuri polisi. | 경찰서로 같이 가요.
+sm Habaye impanuka — hamagara polisi n'imbangukiragutabara! | 사고가 났어요. 경찰과 구급차를 불러요!
+qz '구급차'는? | imbangukiragutabara
+
+# P5-I | 가족·문화·행사
+@ 1-12-04 | 신앙·예배 | gusenga·Imana | 르완다 사람 대부분은 기독교를 믿어요. 일요일에는 교회와 성당이 붐벼요.
+w gusenga | 기도하다 · 예배하다 | 기도하다
+e Dusenga ku cyumweru. | 우리는 일요일에 예배해요.
+e Mbere yo kurya turasenga. | 먹기 전에 기도해요.
+w Imana | 하나님 · 신 | 하나님
+e Imana ishimwe! | 하나님께 감사!
+e Imana iguhe umugisha. | 하나님의 복이 있기를.
+w kiliziya | 성당 | 성당(가톨릭)
+e Kiliziya iri hafi y'ishuri. | 성당은 학교 가까이 있어요.
+e Ku cyumweru njya muri kiliziya. | 일요일에 성당에 가요.
+w urusengero | 교회 · 예배당 | 교회
+e Urusengero rwacu ni runini. | 우리 교회는 커요.
+e Abantu benshi bari mu rusengero. | 교회에 사람이 많아요.
+w umugisha | 복 · 축복 | 복; 축복
+e Ugire umugisha! | 복 받아요!
+e Ni umugisha kuba hano. | 여기 있는 게 복이에요.
+w Amen | 아멘 | 아멘
+e Imana ishimwe! — Amen! | 하나님께 감사! — 아멘!
+e Turasenga… Amen. | 기도합니다… 아멘.
+tp Imana ishimwe(하나님께 감사)는 좋은 일이 있을 때 일상에서도 많이 해요.
+tp Ugire umugisha(복 받아요)는 고마울 때 하는 따뜻한 인사예요. 이름 Mugisha도 '복'이라는 뜻이에요.
+pr Kiliziya | 성당 || Urusengero | 교회
+pr Imana ishimwe! | 하나님께 감사! || Amen! | 아멘!
+dl 케자 | Ku cyumweru ujya gusenga? | 일요일에 예배하러 가요?
+dl 민준 | Yego, njya muri kiliziya. Wowe? | 네, 성당에 가요. 당신은요?
+dl 케자 | Njye njya mu rusengero. | 저는 교회에 가요.
+dl 민준 | Ugire umugisha! | 복 받아요!
+sm Ku cyumweru abantu benshi bajya gusenga, bakavuga ngo "Imana ishimwe". | 일요일에 많은 사람들이 예배하러 가서 '하나님께 감사'라고 말해요.
+qz '복'은? | umugisha
+x kanombe | 카놈베(공항 지역)
+x mwereke | 보여 주세요
+x irangira | 끝난다
+x imizigo | 짐
+x ihaguruka | 출발한다
+x yahagurutse | 출발했다
+x yaguye | 착륙했다, 떨어졌다
+x izagwa | 착륙할 것이다
+x yanyu | 여러분의
+x n'imizigo | 그리고 짐
+x ikimenyetso | 상징, 표시
+x cy'u rwanda | 르완다의
+x ka | ~의
+x ikorwa | 만들어진다
+x mu burasirazuba | 동쪽 지방에서
+x ya mama | 엄마의
+x ibikozwe | 만들어진 것들
+x n'intoki | 손으로
+x rw'u rwanda | 르완다의
+x keza | 좋은, 예쁜
+x n'imigongo | 그리고 이미공고
+x nk'urwibutso | 기념품으로
+x nzasezera | 나는 작별할 것이다
+x ku banyeshuri | 학생들에게
+x guhura | 만나다
+x ndizera | 나는 바란다, 믿는다
+x umunsi umwe | 언젠가
+x mwabonye | 여러분은 받았다
+x bitangira | 시작한다
+x byari | ~였다
+x tuzagukumbura | 우리는 네가 그리울 것이다
+x natwe | 우리도
+x mugiye | 여러분은 ~하려 한다
+x kuri byose | 모든 것에
+x naraye | 나는 묵었다
+x amajoro | 밤들
+x uzarara | 너는 묵을 것이다
+x cy'umuntu | 사람의
+x gifite | 가지고 있는
+x ifunguro | 식사
+x ririmo | 포함되어 있다
+x nzasohoka | 나는 나갈 것이다
+x mbafashe | 내가 여러분을 도울까
+x nzarara | 나는 묵을 것이다
+x kanda | 눌러라
+x bika | 저장해라
+x dosiye | 파일
+x wibagiwe | 너는 잊었다
+x siba | 지워라
+x nasibye | 나는 지웠다
+x kuri mudasobwa | 컴퓨터로
+x imeyili | 이메일
+x nandika | 내가 쓴다
+x wandike | 네가 써라
+x ntiwibagirwe | 잊지 마라
+x ubike | 네가 저장해라
+x ecran | 화면
+x mouse | 마우스
+x y'umutuku | 빨간
+x ururabo | 꽃 한 송이
+x rw'umutuku | 빨간
+x ry'umuhondo | 노란
+x ihiye | 익은
+x iy'umuhondo | 노란 것
+x ry'icyatsi kibisi | 초록의
+x ijuru | 하늘
+x ibendera | 국기, 깃발
+x rifite | 가지고 있다
+x n'icyatsi kibisi | 그리고 초록
+x irya | ~의 것
+x yombi | 둘 다
+x mumfashe | 저를 도와주세요
+x habaye | 일어났다
+x ya moto | 모토의
+x yibye | 훔쳤다
+x banyibye | 나에게서 훔쳤다
+x ntibyemewe | 허용되지 않는다
+x iraje | 온다
+x byabereye | 일어났다
+x mu kanya gato | 방금
+x tujyane | 같이 가자
+x n'imbangukiragutabara | 그리고 구급차
+x dusenga | 우리는 예배한다
+x mbere yo kurya | 먹기 전에
+x turasenga | 우리는 기도한다
+x ishimwe | 감사받으소서
+x iguhe | 너에게 주시기를
+x muri kiliziya | 성당에
+x mu rusengero | 교회에
+x ugire | 가져라(받아라)
+x bajya | 그들은 간다
+x bakavuga | 그리고 말한다
+x ngo | ~라고
+x ry'u rwanda | 르완다의
+x irasukuye | 깨끗하다

@@ -1,0 +1,180 @@
+# P5-I | 가족·문화·행사
+
+@ 1-12-01 | 가족 | umuryango·ababyeyi | 가족을 부르는 말이에요. 르완다에서는 '나의 아버지'를 한 낱말로 말해요(data).
+w umuryango | 가족 · 집안 | 가족
+e Umuryango wanjye ni munini. | 우리 가족은 대가족이에요.
+e Umuryango wawe umeze ute? | 가족은 잘 지내요?
+w ababyeyi | 부모 | 부모님
+e Ababyeyi banjye baba muri Koreya. | 우리 부모님은 한국에 사세요.
+e Ababyeyi bakunda abana babo. | 부모는 자식을 사랑해요.
+w data | 나의 아버지 · 아빠 | (나의) 아버지
+e Data ni umwarimu. | 우리 아버지는 선생님이에요.
+e Data yagiye ku kazi. | 아빠는 일하러 가셨어요.
+w mama | 나의 어머니 · 엄마 | (나의) 어머니
+e Mama ateka neza. | 엄마는 요리를 잘해요.
+e Mama ari mu rugo. | 엄마는 집에 계세요.
+w umwana | 아이 · 자녀 | 아이; 자녀
+e Afite abana babiri. | 그는 아이가 둘이에요.
+e Umwana arira. | 아이가 울어요.
+w umuvandimwe | 형제자매 | 형제자매
+e Mfite abavandimwe batatu. | 형제가 셋 있어요.
+e Umuvandimwe wanjye aba i Huye. | 제 형제는 후예에 살아요.
+w nyogokuru | 나의 할머니 | (나의) 할머니
+e Nyogokuru afite imyaka mirongo inani. | 할머니는 여든 살이세요.
+e Nsura nyogokuru ku cyumweru. | 일요일에 할머니를 찾아뵈어요.
+w umugabo | 남편 · 남자 | 남편; 남자
+e Umugabo wanjye ni umuganga. | 제 남편은 의사예요.
+e Uriya mugabo ni nde? | 저 남자는 누구예요?
+w umugore | 아내 · 여자 | 아내; 여자
+e Umugore we ni umwarimu. | 그의 아내는 선생님이에요.
+e Abagore barahinga. | 여자들이 농사를 지어요.
+tp '아버지, 어머니'는 누구의 아버지인지에 따라 낱말이 달라요: data(나의 아버지) / so(너의 아버지) / se(그의 아버지). 엄마는 mama, 어머니는 nyina(그의 어머니).
+tp umugabo는 '남자'이자 '남편', umugore는 '여자'이자 '아내'예요. 여러 명은 abagabo, abagore.
+pr Umugabo | 남자 || Umugore | 여자
+pr Umwana | 아이 || Abana | 아이들
+dl 케자 | Ufite abavandimwe bangahe? | 형제가 몇 명이에요?
+dl 민준 | Mfite mushiki wanjye umwe. | 여자 형제가 한 명 있어요.
+dl 케자 | Ababyeyi bawe baba he? | 부모님은 어디 사세요?
+dl 민준 | Baba i Busan muri Koreya. | 한국 부산에 사세요.
+sm Umuryango wanjye ni data, mama, mushiki wanjye nanjye. | 우리 가족은 아빠, 엄마, 누나(여자 형제), 그리고 저예요.
+qz '가족'은? | umuryango
+
+@ 1-12-02 | 르완다 문화 | umuganda·ubukwe | 르완다의 문화와 생활에서 꼭 아는 말이에요.
+w umuganda | 우무간다 · 공동 봉사의 날 | 우무간다(공동 봉사)
+e Umuganda ni ku wa gatandatu wa nyuma w'ukwezi. | 우무간다는 매달 마지막 토요일이에요.
+e Mu muganda dusukura umuhanda. | 우무간다 때 길을 청소해요.
+w ubukwe | 결혼식 | 결혼식
+e Ubukwe buzaba ku wa gatandatu. | 결혼식은 토요일에 있어요.
+e Natumiwe mu bukwe. | 결혼식에 초대받았어요.
+w gutumira | 초대하다 | 초대하다
+e Ndagutumiye mu rugo. | 우리 집에 초대할게요.
+e Murakoze kuntumira. | 초대해 주셔서 고마워요.
+w umunsi mukuru | 명절 · 축제일 | 명절; 공휴일
+e Umunsi mukuru mwiza! | 즐거운 명절 되세요!
+e Ejo ni umunsi mukuru, nta kazi. | 내일은 공휴일이라 일이 없어요.
+w impano | 선물 | 선물
+e Nakuzaniye impano. | 선물 가져왔어요.
+e Iyi mpano ni iyawe. | 이 선물은 네 거야.
+w Twibuke | 추모 · 우리 기억하자 | 기억하자(추모)
+e Muri Mata tuvuga "Twibuke". | 4월에 우리는 '기억합시다'라고 말해요.
+e Kwibuka twiyubaka. | 기억하며 다시 일어서자.
+w Isabukuru nziza! | 생일 축하해요! | 생일 축하해요!
+e Isabukuru nziza, Keza! | 생일 축하해, 케자!
+e Isabukuru nziza, mwarimu! | 생일 축하드려요, 선생님!
+tp 우무간다(Umuganda)는 매달 마지막 토요일 오전에 온 국민이 함께 하는 봉사의 날이에요. 이 시간에는 가게도 문을 닫아요.
+tp 4월 7일부터 100일 동안은 1994년 제노사이드 희생자를 추모하는 기간(Kwibuka)이에요. 조용하고 공손하게 지내요.
+tp 르완다 결혼식은 지참금 의식(gusaba, gukwa)과 본식으로 나뉘어요. 초대받으면 영광이에요.
+pr Isabukuru nziza! | 생일 축하해요! || Umunsi mukuru mwiza! | 즐거운 명절 보내세요!
+pr Gutumira | 초대하다 || Gusura | 방문하다
+dl 무기샤 | Ndagutumiye mu bukwe bwanjye! | 제 결혼식에 초대할게요!
+dl 수아 | Wow, murakoze cyane! Ni ryari? | 와, 정말 고마워요! 언제예요?
+dl 무기샤 | Ni ku wa gatandatu utaha. | 다음 주 토요일이에요.
+dl 수아 | Nzaza rwose! | 꼭 갈게요!
+sm Ku wa gatandatu wa nyuma dukora umuganda, nyuma tujya mu bukwe. | 마지막 토요일에 우무간다를 하고, 그다음 결혼식에 가요.
+qz '선물'은? | impano
+
+@ 1-12-03 | 직업 | akazi·umuhinzi | 하는 일을 말하는 낱말이에요. 사람 낱말은 umu-로 시작해요.
+w akazi | 일 · 직업 | 일; 직업
+e Ukora akazi ki? | 무슨 일을 해요?
+e Mfite akazi kenshi. | 일이 많아요.
+w umuhinzi | 농부 | 농부
+e Data ni umuhinzi. | 아버지는 농부예요.
+e Abahinzi bahinga ikawa. | 농부들이 커피를 재배해요.
+w umucuruzi | 상인 · 장사하는 사람 | 상인
+e Umucuruzi agurisha imbuto. | 상인이 과일을 팔아요.
+e Mama ni umucuruzi ku isoko. | 엄마는 시장 상인이에요.
+w umushoferi | 운전기사 | 운전기사
+e Umushoferi wa moto yitwa Eric. | 모토 기사 이름은 에릭이에요.
+e Umushoferi arategereje hanze. | 운전기사가 밖에서 기다려요.
+w umupolisi | 경찰 | 경찰
+e Baza umupolisi inzira. | 경찰에게 길을 물어봐요.
+e Umupolisi arafasha abantu. | 경찰이 사람들을 도와요.
+w umukozi | 일하는 사람 · 직원 | 직원; 일꾼
+e Ndi umukozi wa KOICA. | 저는 코이카 직원이에요.
+e Abakozi bakora cyane. | 직원들이 열심히 일해요.
+w umukorerabushake | 봉사자 | 자원봉사자
+e Ndi umukorerabushake wo muri Koreya. | 저는 한국에서 온 봉사자예요.
+e Abakorerabushake bigisha mu mashuri. | 봉사자들이 학교에서 가르쳐요.
+tp '무슨 일을 해요?'는 Ukora akazi ki?, 대답은 Ndi + 직업: Ndi umwarimu(선생님이에요).
+tp 사람 낱말 umu- ↔ aba-: umuhinzi → abahinzi(농부들), umukozi → abakozi(직원들).
+tp 르완다 사람 대부분은 농사를 지어요. 커피와 차가 중요한 수출품이에요.
+pr Umuhinzi | 농부 || Abahinzi | 농부들
+pr Umukozi | 직원 || Abakozi | 직원들
+dl 케자 | Ukora akazi ki? | 무슨 일을 해요?
+dl 민준 | Ndi umukorerabushake, nigisha Igikoreya. | 봉사자예요, 한국어를 가르쳐요.
+dl 케자 | Ni byiza! Njye ndi umucuruzi. | 좋네요! 저는 장사를 해요.
+dl 민준 | Ucuruza iki? | 뭘 팔아요?
+sm Data ni umuhinzi, mama ni umucuruzi, njye ndi umwarimu. | 아빠는 농부, 엄마는 상인, 저는 선생님이에요.
+qz '농부'는? | umuhinzi
+x wanjye | 나의
+x munini | 큰
+x wawe | 너의
+x umeze ute | 어떻게 지내?
+x banjye | 나의
+x baba | 그들은 산다
+x bakunda | 그들은 사랑한다
+x babo | 그들의
+x yagiye | 갔다
+x ateka | 요리한다
+x babiri | 두 명
+x arira | 운다
+x abavandimwe | 형제자매들
+x batatu | 세 명
+x aba | 그는 산다
+x mirongo inani | 여든
+x nsura | 나는 방문한다
+x uriya | 저
+x mugabo | 남자
+x we | 그의
+x abagore | 여자들
+x barahinga | 농사를 짓는다
+x mushiki | 여자 형제
+x mushiki wanjye | 내 여자 형제
+x bawe | 너의
+x busan | 부산
+x nanjye | 그리고 나
+x w'ukwezi | 달의
+x mu muganda | 우무간다 때
+x dusukura | 우리는 청소한다
+x umuhanda | 길, 도로
+x buzaba | 있을 것이다
+x natumiwe | 나는 초대받았다
+x mu bukwe | 결혼식에
+x ndagutumiye | 너를 초대한다
+x kuntumira | 나를 초대하는 것
+x mwiza | 좋은
+x nta kazi | 일이 없다
+x nakuzaniye | 너에게 가져왔다
+x mpano | 선물
+x iyawe | 너의 것
+x tuvuga | 우리는 말한다
+x twiyubaka | 우리 스스로 일어서자
+x kwibuka | 기억하다; 추모 기간
+x isabukuru | 생일
+x nziza | 좋은
+x gusura | 방문하다
+x bwanjye | 나의
+x wow | 와!
+x utaha | 다음(주)
+x rwose | 꼭, 정말
+x dukora | 우리는 한다
+x ukora | 너는 한다
+x ki | 무슨
+x kenshi | 많은
+x abahinzi | 농부들
+x bahinga | 재배한다
+x agurisha | 판다
+x wa | ~의
+x yitwa | 이름이 ~이다
+x eric | 에릭(이름)
+x arategereje | 기다리고 있다
+x inzira | 길
+x koica | 코이카
+x abakozi | 직원들
+x bakora | 그들은 일한다
+x wo muri | ~에서 온
+x abakorerabushake | 봉사자들
+x bigisha | 가르친다
+x mu mashuri | 학교들에서
+x nigisha | 나는 가르친다
+x ucuruza | 너는 판다

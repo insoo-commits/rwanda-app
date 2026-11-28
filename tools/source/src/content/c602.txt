@@ -1,0 +1,213 @@
+// 글자 더하기 (v1.2): 읽기 연습, 빌려 온 말, 이름과 지명
+# P6-B | 읽기 연습
+
+@ 6-02-01 | 긴 낱말 끊어 읽기 | Mwaramutse·Murakaza neza | 긴 낱말은 자음+모음 덩어리로 끊어 읽어요. 거의 모든 덩어리가 모음으로 끝나요.
+w Mwaramutse | Mwa-ra-mu-tse · 좋은 아침 | 좋은 아침
+e Mwaramutse, mwese! | 모두 좋은 아침이에요!
+e Mwaramutse neza? | 아침 잘 맞으셨어요?
+e Mwaramutse, mwarimu. | 선생님, 좋은 아침이에요.
+w Murakaza neza | Mu-ra-ka-za ne-za · 환영해요 | 환영해요
+e Murakaza neza mu Rwanda! | 르완다에 오신 걸 환영해요!
+e Murakaza neza iwacu. | 우리 집에 오신 걸 환영해요.
+e Murakaza neza ku ishuri. | 학교에 오신 걸 환영해요.
+w Ndabashimiye | Nda-ba-shi-mi-ye · 여러분께 감사드려요 | 감사드려요
+e Ndabashimiye cyane. | 정말 감사드려요.
+e Ndabashimiye ku bufasha bwanyu. | 도와주셔서 감사드려요.
+e Ndabashimiye mwese. | 모두에게 감사드려요.
+w imbangukiragutabara | im-ba-ngu-ki-ra-gu-ta-ba-ra · 구급차 | 구급차
+e Hamagara imbangukiragutabara. | 구급차 불러요.
+e Imbangukiragutabara yaje vuba. | 구급차가 빨리 왔어요.
+e Imbangukiragutabara iri hanze. | 구급차가 밖에 있어요.
+tp 끊는 법: 자음(1~3글자) + 모음 하나 = 한 덩어리. Mwa-ra-mu-tse, Mu-ra-ka-za.
+tp imbangukiragutabara는 '빨리(-banguk-) 구하러(-tabar-) 가는 것'이라는 뜻이 모인 긴 낱말이에요.
+pr Mwa-ra-mu-tse | 좋은 아침 || Mu-ra-ka-za ne-za | 환영해요
+pr Nda-ba-shi-mi-ye | 감사드려요 || Mu-ra-ko-ze | 고마워요
+sm Mwaramutse, murakaza neza, ndabashimiye! | 좋은 아침이에요, 환영해요, 감사드려요!
+qz 'Mwaramutse'는 몇 덩어리? | 4 (Mwa-ra-mu-tse)
+
+@ 6-02-02 | 대문자로 쓰는 말 | Kigali·Imana·Mutarama | 사람·장소 이름, 하나님, 달, 언어, 국민 이름은 대문자로 시작해요.
+w Kigali | 키갈리 (도시 이름) | 키갈리
+e Ntuye i Kigali. | 키갈리에 살아요.
+e Kigali ni umujyi mwiza. | 키갈리는 아름다운 도시예요.
+e Kigali iri hagati mu Rwanda. | 키갈리는 르완다 가운데에 있어요.
+w Imana | 하나님 | 하나님
+e Imana ishimwe. | 하나님께 감사.
+e Imana iguhe umugisha. | 하나님의 복이 있기를.
+e Turasenga Imana. | 하나님께 기도해요.
+w Mutarama | 1월 | 1월
+e Muri Mutarama. | 1월에.
+e Ku ya mbere Mutarama. | 1월 1일.
+e Mutarama ni ukwezi kwa mbere. | 1월은 첫째 달이에요.
+w Umunyakoreya | 한국 사람 | 한국 사람
+e Ndi Umunyakoreya. | 저는 한국 사람이에요.
+e Abanyakoreya benshi baba i Kigali. | 한국 사람이 키갈리에 많이 살아요.
+e Umunyakoreya avuga Ikinyarwanda. | 한국 사람이 르완다어를 해요.
+tp 대문자: 이름(Keza), 장소(Kigali), 하나님(Imana), 달(Mutarama), 언어(Ikinyarwanda), 국민(Umunyarwanda).
+tp 요일(ku wa mbere)과 보통 낱말은 소문자로 써요.
+pr Kigali | 키갈리 || Huye | 후예
+pr Ikinyarwanda | 르완다어 || Umunyarwanda | 르완다 사람
+sm Muri Mutarama, Umunyakoreya yasuye Kigali, avuga Ikinyarwanda. | 1월에 한국 사람이 키갈리를 방문해서 르완다어로 말했어요.
+qz 달 이름은 대문자? | 네 (Mutarama)
+
+@ 6-02-03 | 문장 부호 | akadomo·akitso | 문장 부호는 한국어와 같아요. 질문은 말끝을 올려요.
+w ikimenyetso cy'ikibazo | 물음표 (?) | 물음표
+e Amakuru? | 잘 지내요?
+e Witwa nde? | 이름이 뭐예요?
+e Uri he? | 어디예요?
+w ikimenyetso cyo gutangara | 느낌표 (!) | 느낌표
+e Murakoze cyane! | 정말 고마워요!
+e Mbega byiza! | 정말 좋네요!
+e Itonde! | 조심해!
+w akitso | 쉼표 (,) | 쉼표
+e Yego, ndabyumva. | 네, 알겠어요.
+e Oya, murakoze. | 아니요, 괜찮아요.
+e Keza, ngwino. | 케자, 이리 와.
+w akadomo | 마침표 (.) | 마침표
+e Ndi umwarimu. | 저는 선생님이에요.
+e Ndashaka amazi. | 물을 원해요.
+e Ni byiza. | 좋아요.
+tp 르완다어 문장 부호 이름: akadomo(마침표), akitso(쉼표), ikimenyetso cy'ikibazo(물음표), ikimenyetso cyo gutangara(느낌표).
+tp 질문은 물음표만 붙이고 말끝을 올려요. 앞에 Ese를 붙이면 더 분명해요(→ 7-04-01).
+pr Amakuru. | 소식이에요. || Amakuru? | 잘 지내요?
+pr Ni byiza. | 좋아요. || Ni byiza! | 정말 좋아요!
+sm Mwaramutse! Amakuru? Ni meza, murakoze. | 좋은 아침이에요! 잘 지내요? 잘 지내요, 고마워요.
+qz 마침표는 르완다어로? | akadomo
+
+# P6-C | 빌려 온 말
+
+@ 6-03-01 | 프랑스어에서 온 말 | ipantalo·fagitire·butike | 르완다는 옛날 프랑스어를 많이 써서, 프랑스어에서 온 낱말이 많아요.
+w ipantalo | 바지 (pantalon) | 바지
+e Ipantalo nshya. | 새 바지.
+e Ipantalo y'ubururu. | 파란 바지.
+e Iyi pantalo ni ndende. | 이 바지는 길어요.
+w fagitire | 계산서 (facture) | 계산서
+e Mpa fagitire. | 계산서 주세요.
+e Fagitire y'amazi. | 수도 요금 고지서.
+e Fagitire ni ndende. | 계산서가 길어요.
+w butike | 작은 가게 (boutique) | 구멍가게
+e Butike iri hafi. | 가게가 가까워요.
+e Nguze amazi kuri butike. | 가게에서 물을 샀어요.
+e Butike irafunze. | 가게가 닫혔어요.
+w konji | 휴가 (congé) | 휴가
+e Ndi mu konji. | 휴가 중이에요.
+e Konji ndende. | 긴 휴가.
+e Ejo ni konji. | 내일은 휴일이에요.
+tp 프랑스어 낱말이 르완다어 모양으로 바뀌어요: 앞에 i-/a-가 붙고, 끝에 모음이 붙어요(facture → fagitire).
+tp 그 밖에: matela(매트리스), itapi(깔개), ifurusheti(포크), resitora(식당).
+pr Ipantalo | 바지 || Ikanzu | 원피스
+pr Fagitire | 계산서 || Butike | 가게
+sm Nagiye kuri butike mu gihe cya konji, ngura ipantalo, mpabwa fagitire. | 휴가 때 가게에 가서 바지를 사고 계산서를 받았어요.
+qz 'fagitire'는 어느 말에서 왔나요? | 프랑스어 (facture)
+
+@ 6-03-02 | 영어에서 온 말 | interineti·imeyili·tagisi | 요즘 생긴 물건 이름은 영어에서 온 게 많아요.
+w interineti | 인터넷 | 인터넷
+e Nta interineti ihari. | 인터넷이 없어요.
+e Interineti irihuta. | 인터넷이 빨라요.
+e Interineti ni mbi uyu munsi. | 오늘은 인터넷이 안 좋아요.
+w imeyili | 이메일 | 이메일
+e Ohereza imeyili. | 이메일 보내요.
+e Imeyili yawe ni iyihe? | 이메일 주소가 뭐예요?
+e Nabonye imeyili yawe. | 이메일 받았어요.
+w tagisi | 택시 | 택시
+e Hamagara tagisi. | 택시 불러요.
+e Tagisi irahenze. | 택시는 비싸요.
+e Twafashe tagisi. | 택시를 탔어요.
+w televiziyo | 텔레비전 | 텔레비전
+e Reba televiziyo. | 텔레비전 봐요.
+e Televiziyo yapfuye. | 텔레비전이 고장 났어요.
+e Amakuru kuri televiziyo. | 텔레비전 뉴스.
+tp 영어 낱말도 모음이 붙어 바뀌어요: internet → interineti, email → imeyili, taxi → tagisi.
+tp 르완다는 2008년부터 영어를 학교 언어로 써서 영어 낱말이 점점 늘고 있어요.
+pr Interineti | 인터넷 || Imeyili | 이메일
+pr Tagisi | 택시 || Televiziyo | 텔레비전
+sm Nta interineti ihari, rero sinshobora kohereza imeyili; reka ndebe televiziyo. | 인터넷이 없어서 이메일을 못 보내요. 텔레비전이나 볼게요.
+qz 'tagisi'는? | 택시
+
+@ 6-03-03 | 스와힐리어에서 온 말 | sawa·chapati·amandazi | 동아프리카 공통어 스와힐리어에서 온 말이에요.
+w sawa | 좋아 · 알았어 (sawa) | 좋아요
+e Sawa, tuzabonana. | 좋아요, 또 봐요.
+e Ni sawa. | 괜찮아요.
+e Sawa sawa! | 아주 좋아요!
+w chapati | 차파티 | 차파티
+e Chapati ebyiri. | 차파티 두 장.
+e Chapati iraryoshye. | 차파티가 맛있어요.
+e Nkunda chapati. | 차파티 좋아해요.
+w amandazi | 만다지 (튀김빵) | 만다지
+e Amandazi n'icyayi. | 만다지와 차.
+e Amandazi atatu. | 만다지 세 개.
+e Amandazi arashyushye. | 만다지가 따뜻해요.
+w polepole | 천천히 (pole pole) | 천천히
+e Polepole! | 천천히!
+e Genda polepole. | 천천히 가요.
+e Vuga polepole. | 천천히 말해요.
+tp 스와힐리어(Igiswahili)는 르완다의 공용어 중 하나예요. 시장과 국경 근처에서 많이 써요.
+tp sawa는 '괜찮아, 알았어'로 아주 많이 써요. 르완다어 buhoro(천천히)와 스와힐리어 polepole는 뜻이 같아요.
+pr Sawa | 좋아요 || Oya | 아니요
+pr Polepole | 천천히 || Buhoro | 천천히
+sm Sawa, reka turye chapati n'amandazi polepole. | 좋아요, 차파티와 만다지를 천천히 먹어요.
+qz 'sawa'의 뜻은? | 좋아요
+
+# P6-D | 이름 읽기
+
+@ 6-04-01 | 르완다 사람 이름 | Uwimana·Mugisha·Keza | 르완다 이름에는 뜻이 있어요. 이름을 읽고 뜻도 알아 봐요.
+w Mugisha | 무기샤 · 복 (umugisha) | 무기샤(복)
+e Mugisha ni inshuti yanjye. | 무기샤는 제 친구예요.
+e Izina Mugisha risobanura umugisha. | 무기샤라는 이름은 '복'이라는 뜻이에요.
+e Mugisha yiga imibare. | 무기샤는 수학을 공부해요.
+w Uwimana | 우위마나 · 하나님의 사람 | 우위마나(하나님의 것)
+e Uwimana ni umuganga. | 우위마나는 의사예요.
+e Uwimana bisobanura "uw'Imana". | 우위마나는 '하나님의 것'이라는 뜻이에요.
+e Madamu Uwimana ari mu biro. | 우위마나 씨는 사무실에 있어요.
+w Keza | 케자 · 예쁜 · 좋은 | 케자(예쁜)
+e Keza ni umukobwa mwiza. | 케자는 착한 여자아이예요.
+e Keza bisobanura "mwiza". | 케자는 '예쁜'이라는 뜻이에요.
+e Keza aririmba neza. | 케자는 노래를 잘해요.
+w Habimana | 하비마나 · 하나님이 계시다 | 하비마나(하나님이 계시다)
+e Bwana Habimana ni umwarimu. | 하비마나 씨는 선생님이에요.
+e Habimana bisobanura "Imana irahari". | 하비마나는 '하나님이 계시다'라는 뜻이에요.
+e Habimana atuye i Huye. | 하비마나는 후예에 살아요.
+tp 르완다에서는 가족이 같은 성을 쓰지 않아요. 아이마다 따로 르완다 이름을 지어 주고, 세례명 같은 이름을 함께 써요(예: Jean Habimana).
+tp 남자 어른은 Bwana(씨·선생님), 여자 어른은 Madamu(부인·여사)를 이름 앞에 붙여 불러요.
+pr Bwana Habimana | 하비마나 씨(남) || Madamu Uwimana | 우위마나 씨(여)
+pr Mugisha | 복 || Keza | 예쁜
+sm Mugisha, Keza, Uwimana na Habimana ni amazina meza y'u Rwanda. | 무기샤, 케자, 우위마나, 하비마나는 르완다의 좋은 이름이에요.
+qz 'Mugisha'의 뜻은? | 복
+
+@ 6-04-02 | 지명 읽기 | Musanze·Rubavu·Nyanza | 르완다 도시와 지방 이름을 읽어 봐요.
+w Musanze | 무산제 (북쪽, 화산 공원) | 무산제
+e Musanze iri hafi y'ibirunga. | 무산제는 화산 가까이 있어요.
+e Ngiye i Musanze. | 무산제에 가요.
+e Musanze irakonje. | 무산제는 추워요.
+w Rubavu | 루바부 (서쪽, 키부 호수) | 루바부
+e Rubavu iri ku kiyaga cya Kivu. | 루바부는 키부 호숫가에 있어요.
+e Twagiye koga i Rubavu. | 루바부에 수영하러 갔어요.
+e Rubavu ni nziza. | 루바부는 아름다워요.
+w Nyanza | 냔자 (남쪽, 옛 왕궁) | 냔자
+e Ingoro y'umwami iri i Nyanza. | 왕궁은 냔자에 있어요.
+e Twasuye Nyanza. | 냔자를 방문했어요.
+e Nyanza iri hafi ya Huye. | 냔자는 후예 가까이 있어요.
+w Rwamagana | 르와마가나 (동쪽) | 르와마가나
+e Rwamagana iri mu Burasirazuba. | 르와마가나는 동부에 있어요.
+e Bisi ijya i Rwamagana. | 르와마가나 가는 버스.
+e Ishuri ryanjye riri i Rwamagana. | 제 학교는 르와마가나에 있어요.
+tp ny는 '냐', rw는 '르와'처럼 이어서: Nyanza(냔자), Rwamagana(르와마가나).
+tp Rubavu는 예전 이름 Gisenyi로도 불려요.
+pr Musanze | 북쪽 || Nyanza | 남쪽
+pr Rubavu | 서쪽 || Rwamagana | 동쪽
+sm Navuye i Kigali njya i Musanze, Rubavu, Nyanza na Rwamagana. | 키갈리에서 무산제, 루바부, 냔자, 르와마가나에 갔어요.
+qz 키부 호숫가 도시는? | Rubavu
+x ihari | 있다
+x madamu | 부인, 여사
+x iwacu | 우리 집
+x mwa-ra-mu-tse | 좋은 아침(끊어 읽기)
+x mu-ra-ka-za | 환영(끊어 읽기)
+x ne-za | 잘(끊어 읽기)
+x nda-ba-shi-mi-ye | 감사드려요(끊어 읽기)
+x mu-ra-ko-ze | 고마워요(끊어 읽기)
+x yasuye | 방문했다
+x irafunze | 닫혀 있다
+x mpabwa | 나는 받았다
+x irahari | 있다
+x amazina | 이름들
+x irakonje | 춥다
+x navuye | 나는 떠났다

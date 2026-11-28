@@ -1,0 +1,215 @@
+# P5-F | 숙소·집
+
+@ 1-08-01 | 집 안 | inzu·icyumba | 집과 방, 집 안의 물건이에요. 홈스테이를 할 때 꼭 필요해요.
+w inzu | 집 · 건물 | 집
+e Inzu yacu ni nto ariko ni nziza. | 우리 집은 작지만 좋아요.
+e Iyi nzu ni iya nde? | 이 집은 누구 집이에요?
+w icyumba | 방 | 방
+e Iki ni icyumba cyawe. | 여기가 네 방이야.
+e Icyumba cyanjye kiri hejuru. | 제 방은 위층에 있어요.
+w uburiri | 침대 | 침대
+e Uburiri ni bunini. | 침대가 커요.
+e Ndyama ku buriri. | 침대에서 자요.
+w ubwiherero | 화장실 | 화장실
+e Ubwiherero buri he? | 화장실이 어디예요?
+e Ubwiherero buri hanze. | 화장실은 밖에 있어요.
+w igikoni | 부엌 | 부엌
+e Mama ari mu gikoni. | 엄마는 부엌에 있어요.
+e Igikoni kiri inyuma y'inzu. | 부엌은 집 뒤에 있어요.
+w urugi | 문 | 문
+e Funga urugi, nyabuneka. | 문 좀 닫아 주세요.
+e Urugi rurafunguye. | 문이 열려 있어요.
+w idirishya | 창문 | 창문
+e Fungura idirishya. | 창문을 열어요.
+e Idirishya ni rinini. | 창문이 커요.
+w urufunguzo | 열쇠 | 열쇠
+e Urufunguzo rwanjye ruri he? | 제 열쇠 어디 있어요?
+e Dore urufunguzo rw'icyumba. | 방 열쇠 여기 있어요.
+tp 르완다 시골집은 부엌(igikoni)과 화장실(ubwiherero)이 집 밖에 따로 있는 경우가 많아요.
+tp '열다'는 gufungura, '닫다'는 gufunga예요: Fungura idirishya(창문 열어), Funga urugi(문 닫아).
+pr Fungura urugi. | 문 열어요. || Funga urugi. | 문 닫아요.
+pr Hejuru | 위 || Hasi | 아래
+dl 엄마 | Murakaza neza! Iki ni icyumba cyawe. | 환영해요! 여기가 네 방이야.
+dl 민준 | Murakoze cyane! Ubwiherero buri he? | 정말 고마워요! 화장실은 어디예요?
+dl 엄마 | Buri hanze, iburyo. | 밖에, 오른쪽에 있어.
+dl 민준 | Ndabyumva, murakoze. | 알겠어요, 고마워요.
+sm Inzu ifite ibyumba bitatu, igikoni n'ubwiherero hanze. | 집에는 방 세 개가 있고, 부엌과 화장실은 밖에 있어요.
+qz '방'은? | icyumba
+
+@ 1-08-02 | 생활·전기·물 | umuriro·amazi | 집에서 생활할 때 생기는 일이에요. 정전이나 단수도 가끔 있어요.
+w umuriro | 전기 · 불 | 전기; 불
+e Umuriro wagiye. | 정전됐어요.
+e Umuriro wagarutse! | 전기가 다시 들어왔어요!
+w amazi ashyushye | 따뜻한 물 | 따뜻한 물
+e Nta mazi ashyushye ahari. | 따뜻한 물이 안 나와요.
+e Ndashaka kwiyuhagira n'amazi ashyushye. | 따뜻한 물로 씻고 싶어요.
+w kwiyuhagira | 씻다 · 샤워하다 | 씻다; 목욕하다
+e Ngiye kwiyuhagira. | 씻으러 가요.
+e Niyuhagira buri gitondo. | 아침마다 씻어요.
+w gukaraba | 손을 씻다 | 손을 씻다
+e Karaba intoki mbere yo kurya. | 먹기 전에 손을 씻어요.
+e Abana bakaraba intoki. | 아이들이 손을 씻어요.
+w gusukura | 청소하다 · 깨끗이 하다 | 청소하다
+e Ngiye gusukura icyumba cyanjye. | 제 방을 청소할 거예요.
+e Dusukura inzu ku wa gatandatu. | 토요일에 집을 청소해요.
+w kumesa | 빨래하다 | 빨래하다
+e Ndamesa imyenda yanjye. | 제 옷을 빨아요.
+e Kumesa n'intoki biragoye. | 손빨래는 어려워요.
+w telefoni yanjye irashize | 휴대폰 배터리가 없어요 | 배터리가 다 됐어요
+e Telefoni yanjye irashize, nshobora kuyishyiramo umuriro? | 휴대폰 배터리가 없어요, 충전해도 될까요?
+e Shyira telefoni ku muriro. | 휴대폰을 충전해요.
+tp umuriro은 '불'이자 '전기'예요. 휴대폰 충전도 umuriro로 말해요: gushyira telefoni ku muriro(휴대폰을 충전하다).
+tp 정전은 Umuriro wagiye(전기가 갔어요), 다시 들어오면 Umuriro wagarutse(전기가 돌아왔어요).
+pr Umuriro wagiye. | 정전됐어요. || Umuriro wagarutse. | 전기가 들어왔어요.
+pr Amazi ashyushye | 따뜻한 물 || Amazi akonje | 차가운 물
+dl 수아 | Umuriro wagiye! | 정전됐어요!
+dl 아빠 | Ntugire ikibazo, uzagaruka vuba. | 걱정 마, 곧 들어올 거야.
+dl 수아 | Telefoni yanjye irashize. | 휴대폰 배터리가 다 됐어요.
+dl 아빠 | Umuriro nugaruka uzayishyiraho. | 전기 들어오면 충전해.
+sm Mu gitondo ndiyuhagira, nimugoroba nkamesa imyenda. | 아침에는 씻고, 저녁에는 빨래를 해요.
+qz '전기'는? | umuriro
+
+@ 1-08-03 | 하루 일과 | kubyuka·kuryama | 일어나서 잘 때까지 하루를 말하는 동사예요.
+w kubyuka | 일어나다 | 일어나다(잠에서)
+e Mbyuka saa kumi n'ebyiri. | 6시에 일어나요.
+e Byuka, ni saa moya! | 일어나, 7시야!
+w kuryama | 자다 · 눕다 | 자다; 눕다
+e Ngiye kuryama. | 자러 가요.
+e Turyama kare. | 우리는 일찍 자요.
+w gufungura | 식사하다 · 열다 | 식사하다; 열다
+e Turafungura saa moya z'ijoro. | 저녁 7시에 식사해요.
+e Wafunguye? | 식사했어요?
+w kujya ku kazi | 일하러 가다 | 출근하다
+e Data ajya ku kazi saa moya. | 아빠는 7시에 출근해요.
+e Ngiye ku kazi. | 일하러 가요.
+w gutaha | 집에 가다 · 귀가하다 | 집에 가다
+e Ntaha saa kumi n'imwe. | 5시에 집에 가요.
+e Igihe cyo gutaha kirageze. | 집에 갈 시간이에요.
+w kuruhuka | 쉬다 | 쉬다
+e Ndashaka kuruhuka gato. | 조금 쉬고 싶어요.
+e Ku cyumweru turaruhuka. | 일요일에는 쉬어요.
+w kureba televiziyo | 텔레비전을 보다 | 텔레비전을 보다
+e Nimugoroba turareba televiziyo. | 저녁에 텔레비전을 봐요.
+e Abana barareba televiziyo. | 아이들이 텔레비전을 봐요.
+tp '먹다'는 kurya인데, 공손하게 '식사하다'는 gufungura를 써요: Wafunguye?(식사했어요?)
+tp 하루: kubyuka(일어나다) → kwiyuhagira(씻다) → kujya ku ishuri/kazi(학교·일에 가다) → gutaha(귀가하다) → kuryama(자다).
+pr Kubyuka | 일어나다 || Kuryama | 자다
+pr Kujya ku kazi | 출근하다 || Gutaha | 집에 가다
+dl 엄마 | Byuka, ni saa kumi n'ebyiri! | 일어나, 6시야!
+dl 민준 | Ndananiwe… iminota itanu! | 피곤해요… 5분만요!
+dl 엄마 | Oya, uratinda ku ishuri! | 안 돼, 학교에 늦어!
+dl 민준 | Sawa, ndabyutse. | 알았어요, 일어났어요.
+sm Mbyuka saa kumi n'ebyiri, ngataha saa kumi, nkaryama saa yine. | 6시에 일어나서 4시에 집에 오고, 10시에 자요.
+qz '자다'는? | kuryama
+
+@ 1-08-04 | 홈스테이 예절 | Murakaza neza·Mbashimiye | 르완다 가정에서 지낼 때 쓰는 공손한 말이에요.
+w Murakaza neza | 환영해요 · 잘 오셨어요 | 환영해요
+e Murakaza neza mu rugo rwacu! | 우리 집에 오신 걸 환영해요!
+e Murakaza neza mu Rwanda! | 르완다에 오신 걸 환영해요!
+w Mbashimiye | 감사드려요 · 정중한 감사 | 감사드려요
+e Mbashimiye ku bw'ibiryo. | 음식 감사드려요.
+e Mbashimiye cyane ku bw'ubufasha. | 도와주셔서 정말 감사드려요.
+w Ndagusaba | 부탁해요 · 너에게 청한다 | 부탁해요
+e Ndagusaba amazi. | 물 좀 부탁해요.
+e Ndagusaba umfashe. | 도와주세요.
+w Nshobora…? | ~해도 될까요? | ~해도 될까요?
+e Nshobora kwinjira? | 들어가도 될까요?
+e Nshobora gufata ifoto? | 사진 찍어도 될까요?
+w Urakoze | 고마워 · 한 사람에게 | 고마워
+e Urakoze, nshuti yanjye. | 고마워, 내 친구.
+e Urakoze kunyakira. | 맞아 줘서 고마워.
+w Ihangane | 미안해 · 참아 줘 | 미안해요; 힘내요
+e Ihangane, natinze. | 늦어서 미안해.
+e Ihangane, bizagenda neza. | 힘내, 잘될 거야.
+w Gira amahoro | 평안하세요 · 평화를 가져라 | 평안하세요
+e Gira amahoro, nshuti. | 평안하길, 친구.
+e Mugire amahoro! | 모두 평안하세요!
+tp 르완다에서는 물건을 주고받을 때 오른손으로, 또는 두 손으로 공손하게 건네요.
+tp 어른을 만나면 먼저 인사하고 안부(amakuru)를 물어요. 인사 없이 바로 용건을 말하면 실례예요.
+tp Ihangane는 '참아 줘'라는 뜻으로, 사과할 때와 위로할 때 둘 다 써요.
+pr Urakoze. | (한 명에게) 고마워. || Murakoze. | (여럿·윗사람에게) 고마워요.
+pr Ndagusaba. | 부탁해요. || Nta kibazo. | 괜찮아요.
+dl 엄마 | Murakaza neza mu rugo! | 우리 집에 잘 왔어요!
+dl 민준 | Mbashimiye cyane. Nshobora gushyira igikapu hano? | 정말 감사드려요. 가방을 여기 둬도 될까요?
+dl 엄마 | Yego, nta kibazo. | 그럼요, 괜찮아요.
+dl 민준 | Murakoze! | 고마워요!
+sm Murakaza neza — mugire amahoro kandi mwisanzure. | 환영해요. 평안히, 편하게 지내세요.
+qz '환영해요'는? | Murakaza neza
+x yacu | 우리의
+x iya nde | 누구의 것
+x iki | 이것
+x cyawe | 너의
+x cyanjye | 나의
+x kiri | (그것이) 있다
+x hejuru | 위, 위층
+x bunini | 큰
+x ku buriri | 침대에
+x buri | (그것이) 있다
+x hanze | 밖
+x ari | 그는 있다
+x mu gikoni | 부엌에
+x funga | 닫아라
+x rurafunguye | 열려 있다
+x rinini | 큰
+x rwanjye | 나의
+x ruri | (그것이) 있다
+x rw'icyumba | 방의
+x hasi | 아래
+x mama | 엄마
+x ifite | 가지고 있다
+x n'ubwiherero | 그리고 화장실
+x wagiye | 갔다(나갔다)
+x wagarutse | 돌아왔다
+x ahari | 있는
+x mazi | 물
+x niyuhagira | 나는 씻는다
+x karaba | 씻어라
+x intoki | 손(손가락들)
+x mbere yo kurya | 먹기 전에
+x bakaraba | 그들은 씻는다
+x dusukura | 우리는 청소한다
+x ndamesa | 나는 빨래한다
+x imyenda | 옷들
+x n'intoki | 손으로
+x telefoni | 휴대폰, 전화
+x irashize | 다 떨어졌다
+x kuyishyiramo umuriro | 그것을 충전하다
+x ku muriro | 충전기에
+x ntugire ikibazo | 걱정하지 마
+x uzagaruka | 돌아올 것이다
+x nugaruka | 그것이 돌아오면
+x uzayishyiraho | 네가 그것을 꽂아라
+x ndiyuhagira | 나는 씻는다
+x nkamesa | 그리고 나는 빨래한다
+x n'ebyiri | 그리고 둘
+x byuka | 일어나라
+x turyama | 우리는 잔다
+x turafungura | 우리는 식사한다
+x wafunguye | 너는 식사했니
+x ajya | 그는 간다
+x ku kazi | 일하러, 직장에
+x kazi | 일
+x ntaha | 나는 집에 간다
+x igihe | 때, 시간
+x cyo gutaha | 집에 갈
+x kirageze | 되었다, 왔다
+x turaruhuka | 우리는 쉰다
+x turareba | 우리는 본다
+x barareba | 그들은 본다
+x televiziyo | 텔레비전
+x uratinda | 너는 늦는다
+x ndabyutse | 나는 일어났다
+x ngataha | 그리고 나는 집에 간다
+x nkaryama | 그리고 나는 잔다
+x rwacu | 우리의
+x ku bw'ibiryo | 음식에 대해
+x ku bw'ubufasha | 도움에 대해
+x umfashe | 나를 도와줘
+x kwinjira | 들어가다
+x kunyakira | 나를 맞이하는 것
+x natinze | 나는 늦었다
+x bizagenda neza | 잘될 것이다
+x amahoro | 평화
+x mugire | (여러분) 가지세요
+x gushyira | 놓다
+x mwisanzure | (여러분) 편하게 지내세요

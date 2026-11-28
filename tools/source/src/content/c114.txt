@@ -1,0 +1,441 @@
+// 주제별 더하기 (v1.2): 숫자·식당·시장·교통
+# P5-J | 숫자·시간
+
+@ 1-02-08 | 날짜 말하기 | itariki·umwaka | 날짜는 '날 + 달 + 해' 순서로 말해요.
+w itariki | 날짜 | 날짜
+e Uyu munsi ni itariki ya kangahe? | 오늘이 며칠이에요?
+e Ni itariki ya cumi n'itanu. | 15일이에요.
+e Andika itariki ku rupapuro. | 종이에 날짜를 써요.
+w ukwezi | 달 (월) · 달(하늘) | 달
+e Ukwezi gutaha. | 다음 달.
+e Uku kwezi ni Kamena. | 이번 달은 6월이에요.
+e Ukwezi kurasa nijoro. | 밤에 달이 떠요.
+w umwaka | 해 · 년 | 해
+e Umwaka wa 2026. | 2026년.
+e Uyu mwaka. | 올해.
+e Umwaka ushize naje mu Rwanda. | 작년에 르완다에 왔어요.
+w isabukuru | 생일 · 기념일 | 생일
+e Isabukuru yanjye ni ku ya gatanu Werurwe. | 제 생일은 3월 5일이에요.
+e Isabukuru nziza! | 생일 축하해요!
+e Isabukuru y'ubukwe. | 결혼기념일.
+w ku ya | ~일에 | ~일에
+e Ku ya mbere Nyakanga. | 7월 1일에.
+e Ku ya kane Mata. | 4월 4일에.
+e Nzaza ku ya cumi. | 10일에 올게요.
+w kalendari | 달력 | 달력
+e Reba kuri kalendari. | 달력을 봐요.
+e Kalendari ya 2026. | 2026년 달력.
+e Kalendari iri ku rukuta. | 달력이 벽에 있어요.
+tp 날짜는 ku ya + 숫자 + 달: ku ya mbere Mutarama(1월 1일), ku ya kane Nyakanga(7월 4일).
+tp '며칠이에요?'는 Ni itariki ya kangahe?예요.
+pr Ni itariki ya kangahe? | 며칠이에요? || Ni ku ya gatanu. | 5일이에요.
+pr Uku kwezi | 이번 달 || Uyu mwaka | 올해
+dl 수아 | Uyu munsi ni itariki ya kangahe? | 오늘 며칠이에요?
+dl 케자 | Ni ku ya cumi n'itatu Ukwakira. | 10월 13일이에요.
+dl 수아 | Isabukuru yanjye ni ejo! | 내일이 제 생일이에요!
+dl 케자 | Isabukuru nziza mbere y'igihe! | 미리 생일 축하해요!
+sm Naje mu Rwanda ku ya mbere Nzeri umwaka ushize, nzataha mu kwezi gutaha. | 작년 9월 1일에 르완다에 왔고 다음 달에 돌아가요.
+qz '날짜'는? | itariki
+
+# P5-B | 식당
+
+@ 1-03-05 | 카페에서 | ikawa·amandazi | 카페와 찻집에서 쓰는 말이에요. 르완다는 커피와 차가 유명해요.
+w icyayi cy'amata | 밀크티 | 밀크티
+e Mpa icyayi cy'amata. | 밀크티 주세요.
+e Icyayi cy'amata kirimo isukari? | 밀크티에 설탕 들어 있어요?
+e Nkunda icyayi cy'amata mu gitondo. | 아침엔 밀크티를 좋아해요.
+w ikawa y'umukara | 블랙커피 | 블랙커피
+e Ikawa y'umukara nta sukari. | 설탕 없는 블랙커피.
+e Ndashaka ikawa y'umukara. | 블랙커피 주세요.
+e Ikawa y'umukara irasharira. | 블랙커피는 써요.
+w amandazi | 만다지 (튀긴 빵) | 만다지(튀김빵)
+e Amandazi abiri, nyabuneka. | 만다지 두 개 주세요.
+e Amandazi n'icyayi. | 만다지와 차.
+e Amandazi arashyushye. | 만다지가 따뜻해요.
+w sambusa | 삼부사 (튀긴 만두) | 삼부사
+e Sambusa y'inyama. | 고기 삼부사.
+e Sambusa ni angahe? | 삼부사는 얼마예요?
+e Nariye sambusa eshatu. | 삼부사를 세 개 먹었어요.
+w umugati | 빵 | 빵
+e Umugati n'amavuta. | 버터 바른 빵.
+e Umugati mushya. | 갓 구운 빵.
+e Mpa umugati umwe. | 빵 하나 주세요.
+w gutwara | 포장하다 · 가져가다 | 가져가다
+e Ndabitwara. | 가져갈게요.
+e Ni ukurya hano cyangwa gutwara? | 드시고 가세요, 가져가세요?
+e Ndashaka gutwara ikawa. | 커피 포장해 주세요.
+tp 르완다 카페에서는 icyayi cy'amata(밀크티)에 생강을 넣기도 해요(icyayi cya tangawizi).
+tp '여기서 먹어요'는 Ndarya hano, '가져갈게요'는 Ndabitwara예요.
+pr Icyayi | 차 || Ikawa | 커피
+pr Amandazi | 만다지 || Sambusa | 삼부사
+dl 직원 | Mwaramutse! Murashaka iki? | 안녕하세요! 뭘 드릴까요?
+dl 민준 | Icyayi cy'amata n'amandazi abiri. | 밀크티와 만다지 두 개요.
+dl 직원 | Murarya hano? | 여기서 드세요?
+dl 민준 | Oya, ndabitwara. | 아니요, 가져갈게요.
+sm Buri gitondo nywa icyayi cy'amata, nkarya amandazi cyangwa umugati. | 매일 아침 밀크티를 마시고 만다지나 빵을 먹어요.
+qz '빵'은? | umugati
+
+@ 1-03-06 | 식당 계산·부탁 | fagitire·konti | 식당에서 계산하고 부탁할 때 쓰는 말이에요.
+w fagitire | 계산서 | 계산서
+e Mpa fagitire, nyabuneka. | 계산서 주세요.
+e Fagitire ni angahe? | 계산서가 얼마예요?
+e Hari ikosa kuri fagitire. | 계산서에 잘못된 게 있어요.
+w buri wese yishyura | 각자 내다 | 각자 내기
+e Buri wese yishyura ibye. | 각자 자기 것 내요.
+e Uyu munsi buri wese yishyura. | 오늘은 각자 내요.
+e Ndishyura ibyanjye. | 제 것은 제가 낼게요.
+w ndishyura | 제가 낼게요 | 제가 낼게요
+e Uyu munsi ndishyura. | 오늘은 제가 낼게요.
+e Reka nishyure. | 제가 낼게요.
+e Oya, ndishyura njye! | 아니요, 제가 낼게요!
+w ibyo kurya bisigaye | 남은 음식 | 남은 음식
+e Nshobora gutwara ibisigaye? | 남은 거 가져가도 돼요?
+e Ibisigaye ni byinshi. | 남은 게 많아요.
+e Ibisigaye ndabitwara. | 남은 건 가져갈게요.
+w umuserveri | 종업원 | 종업원
+e Umuserveri! | 저기요!
+e Umuserveri ni mwiza. | 종업원이 친절해요.
+e Hamagara umuserveri. | 종업원 불러요.
+w agahimbazamusyi | 팁 | 팁
+e Dore agahimbazamusyi. | 팁이에요.
+e Agahimbazamusyi si itegeko. | 팁은 의무가 아니에요.
+e Nasize agahimbazamusyi. | 팁을 남겼어요.
+tp 르완다 식당에서 종업원을 부를 때는 손을 살짝 들고 Mwiriwe! 또는 Excuse me라고 해요. 소리치지 않아요.
+tp 팁은 의무가 아니지만 좋은 서비스엔 조금 남겨도 좋아요.
+pr Mpa fagitire | 계산서 주세요 || Ndishyura | 제가 낼게요
+pr Buri wese yishyura | 각자 내요 || Agahimbazamusyi | 팁
+dl 민준 | Umuserveri, mpa fagitire. | 저기요, 계산서 주세요.
+dl 종업원 | Dore. Ni ibihumbi cumi na bibiri. | 여기요. 12,000프랑이에요.
+dl 케자 | Buri wese yishyure ibye? | 각자 낼까요?
+dl 민준 | Oya, uyu munsi ndishyura! | 아니요, 오늘은 제가 낼게요!
+sm Nyuma yo kurya, twasabye fagitire, ndishyura, nsiga n'agahimbazamusyi gato. | 다 먹고 계산서를 달라고 해서 제가 냈고, 팁도 조금 남겼어요.
+qz '계산서'는? | fagitire
+
+@ 1-03-07 | 길거리 음식 | ibigori·brochette·chapati | 길에서 사 먹는 르완다 음식이에요.
+w ibigori byokeje | 구운 옥수수 | 구운 옥수수
+e Ibigori byokeje ni ibihumbi bingahe? | 구운 옥수수 얼마예요?
+e Nkunda ibigori byokeje. | 구운 옥수수를 좋아해요.
+e Ibigori byokeje ku muhanda. | 길거리 구운 옥수수.
+w chapati | 차파티 (얇은 빵) | 차파티
+e Chapati ebyiri. | 차파티 두 장.
+e Chapati n'ibishyimbo. | 차파티와 콩.
+e Chapati irashyushye. | 차파티가 따뜻해요.
+w umureti | 오믈렛 | 오믈렛
+e Umureti n'umugati. | 오믈렛과 빵.
+e Ndashaka umureti. | 오믈렛 주세요.
+e Umureti urimo inyanya. | 토마토 넣은 오믈렛.
+w ibirayi bikaranze | 감자튀김 | 감자튀김
+e Ibirayi bikaranze n'inyama. | 감자튀김과 고기.
+e Ibirayi bikaranze biraryoshye. | 감자튀김이 맛있어요.
+e Mpa ibirayi bikaranze. | 감자튀김 주세요.
+w igitoki cyokeje | 구운 바나나 | 구운 바나나
+e Igitoki cyokeje n'inyama. | 구운 바나나와 고기.
+e Igitoki cyokeje kiraryoshye. | 구운 바나나가 맛있어요.
+e Ndashaka igitoki cyokeje. | 구운 바나나 주세요.
+w urusenda | 고추 · 매운 소스 | 매운 고추
+e Urusenda ruraryana. | 고추가 매워요.
+e Nta rusenda. | 고추 빼 주세요.
+e Akabanga ni urusenda rw'u Rwanda. | 아카방가는 르완다 고추기름이에요.
+tp 길거리에서 저녁에 brochette(꼬치구이)와 igitoki cyokeje(구운 바나나)를 같이 많이 먹어요.
+tp akabanga은 작은 병에 든 노란 고추기름이에요. 아주 매우니 한 방울씩!
+pr Ibigori | 옥수수 || Igitoki | 바나나(요리용)
+pr Chapati | 차파티 || Umureti | 오믈렛
+dl 수아 | Iyi brochette ni angahe? | 이 꼬치 얼마예요?
+dl 상인 | Magana atanu. N'igitoki? | 500프랑이요. 바나나도요?
+dl 수아 | Yego, ariko nta rusenda. | 네, 그런데 고추는 빼 주세요.
+dl 상인 | Sawa. | 알겠어요.
+sm Nimugoroba turya brochette, igitoki cyokeje n'ibigori, ariko sindya urusenda. | 저녁엔 꼬치구이, 구운 바나나, 옥수수를 먹지만 고추는 안 먹어요.
+qz '구운 옥수수'는? | ibigori byokeje
+
+@ 1-03-08 | 부엌 도구 | isahani·igikombe·ikiyiko | 식탁과 부엌에서 쓰는 물건이에요.
+w isahani | 접시 | 접시
+e Mpa isahani. | 접시 줘요.
+e Isahani nini. | 큰 접시.
+e Oza amasahani. | 접시를 씻어요.
+w igikombe | 컵 · 잔 | 컵
+e Igikombe cy'icyayi. | 찻잔.
+e Ibikombe bitatu. | 컵 세 개.
+e Igikombe cyamenetse. | 컵이 깨졌어요.
+w ikiyiko | 숟가락 | 숟가락
+e Mpa ikiyiko. | 숟가락 줘요.
+e Ikiyiko cy'isukari. | 설탕 한 숟가락.
+e Ibiyiko bine. | 숟가락 네 개.
+w icyuma | 칼 · 쇠 | 칼
+e Icyuma gityaye. | 날카로운 칼.
+e Kata n'icyuma. | 칼로 썰어요.
+e Witonde n'icyuma. | 칼 조심해요.
+w akayunguruzo | 체 · 거르개 | 체
+e Akayunguruzo k'icyayi. | 차 거르개.
+e Yungurura n'akayunguruzo. | 체로 걸러요.
+e Akayunguruzo kari he? | 체 어디 있어요?
+w ifurusheti | 포크 | 포크
+e Mpa ifurusheti. | 포크 줘요.
+e Turya n'ifurusheti. | 포크로 먹어요.
+e Ifurusheti n'icyuma. | 포크와 칼.
+tp 프랑스어에서 온 말이 많아요: ifurusheti(fourchette 포크).
+tp 르완다 사람들은 손으로도 먹지만, 식당에서는 숟가락·포크를 써요. 젓가락은 udukoni(작은 막대기)라고 해요.
+pr Isahani | 접시 || Igikombe | 컵
+pr Ikiyiko | 숟가락 || Ifurusheti | 포크
+dl 홈스테이 엄마 | Shyira amasahani ku meza. | 접시를 식탁에 놓아라.
+dl 민준 | Ibiyiko n'amafurusheti nabyo? | 숟가락이랑 포크도요?
+dl 홈스테이 엄마 | Yego, n'ibikombe. | 응, 컵도.
+dl 민준 | Byose biri ku meza! | 다 식탁에 놓았어요!
+sm Ku meza hari amasahani, ibikombe, ibiyiko, amafurusheti n'ibyuma. | 식탁에는 접시, 컵, 숟가락, 포크, 칼이 있어요.
+qz '숟가락'은? | ikiyiko
+
+# P5-C | 시장
+
+@ 1-04-06 | 무게·양 | ikiro·igice | 시장에서 무게와 양을 말하는 말이에요.
+w ikiro | 킬로그램 | 킬로그램
+e Ikiro kimwe cy'ibirayi. | 감자 1킬로.
+e Ikiro ni angahe? | 1킬로에 얼마예요?
+e Ibiro bibiri by'umuceri. | 쌀 2킬로.
+w igice | 반 · 일부 | 반
+e Igice cy'ikiro. | 반 킬로.
+e Mpa igice. | 반만 주세요.
+e Igice cy'umugati. | 빵 반쪽.
+w umufuka | 자루 · 포대 | 자루
+e Umufuka w'ibirayi. | 감자 한 자루.
+e Umufuka w'ifu. | 밀가루 한 포대.
+e Umufuka uraremereye. | 자루가 무거워요.
+w agafuka | 봉지 · 작은 자루 | 봉지
+e Mpa agafuka. | 봉지 주세요.
+e Agafuka k'impapuro. | 종이봉투.
+e Nzanye agafuka kanjye. | 제 봉지 가져왔어요.
+w igitebo | 바구니 | 바구니
+e Igitebo cy'imbuto. | 과일 바구니.
+e Igitebo cyuzuye. | 바구니가 가득해요.
+e Shyira mu gitebo. | 바구니에 넣어요.
+w ikirundo | 한 무더기 | 한 무더기
+e Ikirundo cy'inyanya ni magana abiri. | 토마토 한 무더기에 200프랑이에요.
+e Mpa ibirundo bibiri. | 두 무더기 주세요.
+e Ikirundo kimwe gusa. | 한 무더기만요.
+tp 르완다 시장에선 토마토·양파를 무더기(ikirundo)로 놓고 팔아요. 무게는 ikiro(킬로).
+tp 르완다는 비닐봉지가 금지라서 종이봉투나 천 가방을 가져가요.
+pr Ikiro | 킬로 || Igice | 반
+pr Umufuka | 자루 || Agafuka | 봉지
+dl 수아 | Ikiro cy'ibirayi ni angahe? | 감자 1킬로에 얼마예요?
+dl 상인 | Magana atandatu. | 600프랑이요.
+dl 수아 | Mpa ibiro bibiri n'ikirundo cy'inyanya. | 2킬로랑 토마토 한 무더기 주세요.
+dl 상인 | Ufite agafuka? | 봉지 있어요?
+sm Naguze ibiro bitatu by'ibirayi, ikirundo cy'inyanya n'igice cy'ikiro cy'isukari. | 감자 3킬로, 토마토 한 무더기, 설탕 반 킬로를 샀어요.
+qz '킬로그램'은? | ikiro
+
+@ 1-04-07 | 가게 종류 | iduka·butike·supermarket | 여러 가게 이름이에요.
+w iduka | 가게 | 가게
+e Iduka riri hafi. | 가게가 가까워요.
+e Iduka ry'imyenda. | 옷 가게.
+e Iduka rifunze. | 가게가 닫혔어요.
+w butike | 작은 구멍가게 | 구멍가게
+e Butike yo ku mfuruka. | 모퉁이 구멍가게.
+e Nguze amazi kuri butike. | 구멍가게에서 물을 샀어요.
+e Butike ifungura kare. | 구멍가게는 일찍 열어요.
+w supermarket | 슈퍼마켓 | 슈퍼마켓
+e Supermarket iri mu mujyi. | 슈퍼마켓은 시내에 있어요.
+e Ibiciro bya supermarket birahenze. | 슈퍼마켓 값은 비싸요.
+e Njya kuri supermarket. | 슈퍼마켓에 가요.
+w resitora | 식당 | 식당
+e Resitora nziza. | 좋은 식당.
+e Resitora ya Koreya iri i Kigali. | 키갈리에 한국 식당이 있어요.
+e Tujye muri resitora. | 식당에 가요.
+w salon | 미용실 | 미용실
+e Ngiye muri salon. | 미용실에 가요.
+e Salon y'abagore. | 여자 미용실.
+e Salon ifunga saa mbiri. | 미용실은 8시에 닫아요.
+w iduka ry'imiti | 약국 | 약국
+e Iduka ry'imiti riri he? | 약국이 어디예요?
+e Iduka ry'imiti rifunguye ijoro ryose. | 약국이 밤새 열려 있어요.
+e Naguze umuti mu iduka ry'imiti. | 약국에서 약을 샀어요.
+tp iduka는 가게 전체, butike(boutique)는 동네 작은 가게예요. 물, 비누, 휴대폰 충전 카드 등을 팔아요.
+tp 약국은 farumasi(→ 1-09-04) 또는 iduka ry'imiti(약 가게)라고 해요.
+pr Iduka | 가게 || Butike | 구멍가게
+pr Resitora | 식당 || Salon | 미용실
+dl 민준 | Hano hafi hari butike? | 근처에 구멍가게 있어요?
+dl 케자 | Yego, ku mfuruka. | 네, 모퉁이에요.
+dl 민준 | Na supermarket? | 슈퍼마켓은요?
+dl 케자 | Iri mu mujyi, kure gato. | 시내에 있어요, 좀 멀어요.
+sm Mu mudugudu wacu hari butike, resitora, salon n'iduka ry'imiti. | 우리 마을에는 구멍가게, 식당, 미용실, 약국이 있어요.
+qz '식당'은? | resitora
+
+# P5-E | 교통
+
+@ 1-05-05 | 모토 타기 | moto·ingofero | 르완다에서 가장 많이 타는 오토바이 택시(모토)예요.
+w umumotari | 모토 기사 | 모토 기사
+e Umumotari arahagaze. | 모토 기사가 서 있어요.
+e Hamagara umumotari. | 모토 기사를 불러요.
+e Umumotari wanjye yitwa Jean. | 제 모토 기사 이름은 장이에요.
+w ingofero ya moto | 헬멧 | 헬멧
+e Mpa ingofero. | 헬멧 주세요.
+e Ingofero ni nini. | 헬멧이 커요.
+e Ambara ingofero ya moto. | 헬멧 써요.
+w gahoro | 천천히 (모토에서) | 천천히
+e Gahoro, nyabuneka! | 천천히 가 주세요!
+e Genda gahoro. | 천천히 가요.
+e Ndagusaba ugende gahoro. | 천천히 가 주세요.
+w hagarara hano | 여기 세워 주세요 | 여기 세워 주세요
+e Hagarara hano, nyabuneka. | 여기 세워 주세요.
+e Hagarara imbere y'iduka. | 가게 앞에 세워 주세요.
+e Hagarara aha. | 여기서 세워요.
+w igiciro cya moto | 모토 요금 | 모토 요금
+e Igiciro cya moto ni angahe? | 모토 요금이 얼마예요?
+e Igiciro kiri hejuru. | 요금이 비싸요.
+e Twumvikane ku giciro. | 요금을 정해요.
+w gukata | 꺾다 (방향) · 돌다 | 돌다
+e Kata iburyo. | 오른쪽으로 돌아요.
+e Kata ibumoso. | 왼쪽으로 돌아요.
+e Ntukate hano. | 여기서 돌지 마요.
+tp 모토는 타기 전에 값을 정해요: Ni angahe kugera i ○○?(○○까지 얼마예요?)
+tp 르완다에선 손님도 반드시 헬멧을 써요. 기사에게 Gahoro!(천천히!)라고 해도 괜찮아요.
+pr Gahoro | 천천히 || Vuba | 빨리
+pr Kata iburyo | 오른쪽으로 || Kata ibumoso | 왼쪽으로
+dl 수아 | Ni angahe kugera kuri gare ya Nyabugogo? | 냐부고고 터미널까지 얼마예요?
+dl 모토 기사 | Igihumbi. | 천 프랑이요.
+dl 수아 | Magana arindwi? | 700프랑은요?
+dl 모토 기사 | Sawa, ambara ingofero. | 좋아요, 헬멧 쓰세요.
+sm Natse umumotari ingofero, tumvikana ku giciro, mubwira ngo agende gahoro. | 모토 기사에게 헬멧을 받고, 요금을 정하고, 천천히 가 달라고 했어요.
+qz '천천히(모토)'는? | gahoro
+
+@ 1-05-06 | 시외버스 | agence·gare | 도시 사이를 다니는 버스(아장스)를 탈 때 쓰는 말이에요.
+w agence | 시외버스 회사 | 버스 회사
+e Agence ijya i Huye. | 후예 가는 버스 회사.
+e Ni iyihe agence nziza? | 어느 버스 회사가 좋아요?
+e Agence ya Volcano. | 볼케이노 버스.
+w gare ya Nyabugogo | 냐부고고 버스 터미널 | 냐부고고 터미널
+e Bisi zose ziva i Nyabugogo. | 모든 버스가 냐부고고에서 출발해요.
+e Gare ya Nyabugogo ni nini. | 냐부고고 터미널은 커요.
+e Hura nanjye kuri gare. | 터미널에서 만나요.
+w kugura itike | 표를 사다 | 표 사다
+e Ndashaka kugura itike ijya i Musanze. | 무산제 가는 표를 사고 싶어요.
+e Itike ni angahe? | 표가 얼마예요?
+e Naguze itike ejo. | 어제 표를 샀어요.
+w intebe ya … | ~번 자리 | ~번 자리
+e Intebe ya cumi n'ebyiri. | 12번 자리.
+e Ndashaka intebe iruhande rw'idirishya. | 창가 자리 원해요.
+e Intebe yanjye ni iyihe? | 제 자리가 어디예요?
+w bisi ihaguruka | 버스 출발 | 버스 출발
+e Bisi ihaguruka saa ngahe? | 버스가 몇 시에 출발해요?
+e Bisi ihaguruka buri saha. | 버스는 매시간 출발해요.
+e Bisi yahagurutse. | 버스가 출발했어요.
+w imizigo | 짐 | 짐
+e Shyira imizigo inyuma. | 짐은 뒤에 넣어요.
+e Imizigo yawe ni ingahe? | 짐이 몇 개예요?
+e Imizigo yanjye iri muri bisi. | 제 짐은 버스 안에 있어요.
+tp 키갈리 냐부고고(Nyabugogo) 터미널에서 전국으로 가는 버스가 떠나요. 표는 회사(agence) 창구나 카드로 사요.
+tp 르완다 시외버스는 시간을 잘 지켜요. 출발 10분 전에는 가 있어요.
+pr Itike | 표 || Intebe | 자리
+pr Bisi ihaguruka | 버스 출발 || Imizigo | 짐
+dl 민준 | Ndashaka itike ijya i Huye. | 후예 가는 표 주세요.
+dl 직원 | Bisi ihaguruka saa tatu. Intebe ya munani. | 버스는 9시에 출발해요. 8번 자리예요.
+dl 민준 | Ni angahe? | 얼마예요?
+dl 직원 | Ibihumbi bitatu na magana atanu. | 3,500프랑이요.
+sm Naguze itike kuri gare ya Nyabugogo, nshyira imizigo muri bisi, bisi ihaguruka saa tatu. | 냐부고고 터미널에서 표를 사고 짐을 버스에 넣었더니 9시에 출발했어요.
+qz '버스 회사'는? | agence
+
+@ 1-05-07 | 길 위에서 | amatara·umuhanda | 길을 건너고 다닐 때 쓰는 말이에요.
+w amatara yo ku muhanda | 신호등 | 신호등
+e Amatara yo ku muhanda ari hehe? | 신호등이 어디 있어요?
+e Tegereza amatara. | 신호를 기다려요.
+e Amatara atukura. | 빨간불.
+w kwambuka | 건너다 | 건너다
+e Ambuka umuhanda witonze. | 조심해서 길을 건너요.
+e Twambuke hano. | 여기서 건너요.
+e Abana bambuka umuhanda. | 아이들이 길을 건너요.
+w inzira y'abanyamaguru | 횡단보도 · 인도 | 횡단보도
+e Ambukira ku nzira y'abanyamaguru. | 횡단보도로 건너요.
+e Imodoka zihagarara ku nzira y'abanyamaguru. | 차는 횡단보도에서 서요.
+e Genda ku nzira y'abanyamaguru. | 인도로 걸어요.
+w umuvundo | 교통 체증 | 교통 체증
+e Hari umuvundo mwinshi. | 차가 많이 막혀요.
+e Natinze kubera umuvundo. | 차가 막혀서 늦었어요.
+e Umuvundo wa nimugoroba. | 저녁 교통 체증.
+w impanuka yo mu muhanda | 교통사고 | 교통사고
+e Habaye impanuka yo mu muhanda. | 교통사고가 났어요.
+e Wirinde impanuka. | 사고 조심해요.
+e Impanuka zibaho nijoro. | 사고는 밤에 일어나요.
+w rond-point | 로터리 | 로터리
+e Kuri rond-point kata iburyo. | 로터리에서 오른쪽으로 돌아요.
+e Rond-point ya Kisimenti. | 키시멘티 로터리.
+e Rond-point ni nini. | 로터리가 커요.
+tp 키갈리는 차가 오른쪽으로 다녀요(한국과 같아요). 횡단보도에서는 차가 멈춰 줘요.
+tp 출퇴근 시간(saa moya, saa kumi n'imwe 무렵)에는 umuvundo(체증)가 있어요.
+pr Amatara atukura | 빨간불 || Amatara y'icyatsi | 초록불
+pr Kwambuka | 건너다 || Umuvundo | 체증
+dl 아이 | Mwarimu, twambuke? | 선생님, 건너요?
+dl 민준 | Tegereza amatara y'icyatsi. | 초록불 기다려.
+dl 아이 | Noneho! | 이제요!
+dl 민준 | Yego, twambuke ku nzira y'abanyamaguru. | 응, 횡단보도로 건너자.
+sm Kuri rond-point hari umuvundo, rero twategereje amatara, twambuka ku nzira y'abanyamaguru. | 로터리에 차가 막혀서 신호를 기다렸다가 횡단보도로 건넜어요.
+qz '건너다'는? | kwambuka
+x itariki | 날짜
+x kangahe | 몇 번째
+x uku | 이
+x kurasa | 뜬다
+x rukuta | 벽
+x mbere y'igihe | 미리
+x nzataha | 나는 돌아갈 것이다
+x cy'amata | 우유의
+x y'umukara | 검은
+x irasharira | 쓰다
+x arashyushye | 따뜻하다
+x y'inyama | 고기의
+x n'amavuta | 그리고 버터
+x ndabitwara | 나는 그것을 가져간다
+x ukurya | 먹는 것
+x tangawizi | 생강
+x ndarya hano | 여기서 먹는다
+x murashaka | 여러분은 원한다
+x murarya | 여러분은 먹는다
+x nkarya | 그리고 나는 먹는다
+x amatara | 등, 신호등
+x ibisigaye | 남은 것
+x ibiyiko | 숟가락들
+x twambuke | 건너자
+x ibye | 그의 것
+x ibikombe | 컵들
+x mfuruka | 모퉁이
+x atukura | 빨간
+x y'abanyamaguru | 보행자의
+x ibyanjye | 내 것
+x nishyure | 내가 내다
+x itegeko | 규칙, 의무
+x nasize | 나는 남겼다
+x yishyure | 내다
+x twasabye | 우리는 부탁했다
+x nsiga | 그리고 나는 남긴다
+x irashyushye | 따뜻하다
+x urimo | 들어 있는
+x ruraryana | 맵다
+x akabanga | 아카방가(고추기름)
+x n'igitoki | 그리고 바나나
+x igitoki | 바나나(요리용)
+x cyamenetse | 깨졌다
+x gityaye | 날카로운
+x yungurura | 걸러라
+x n'amafurusheti | 그리고 포크들
+x nabyo | 그것들도
+x n'ibikombe | 그리고 컵들
+x amafurusheti | 포크들
+x n'ibyuma | 그리고 칼들
+x uraremereye | 무겁다
+x nzanye | 나는 가져왔다
+x ibirundo | 무더기들
+x ryose | 내내
+x arahagaze | 서 있다
+x jean | 장(이름)
+x ugende | 네가 가다
+x ntukate | 돌지 마라
+x arindwi | 칠백(의 칠)
+x natse | 나는 받았다(청했다)
+x tumvikana | 우리는 합의했다
+x mubwira | 그에게 말한다
+x agende | 가다
+x volcano | 볼케이노(버스 회사)
+x hura | 만나라
+x nshyira | 나는 넣는다
+x hehe | 어디
+x bambuka | 건넌다
+x ambukira | ~에서 건너라
+x zihagarara | 선다
+x wirinde | 조심해라
+x zibaho | 일어난다
+x kisimenti | 키시멘티

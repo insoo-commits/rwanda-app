@@ -1,0 +1,168 @@
+# P5-E | 교통
+
+@ 1-05-01 | 탈것 | moto·bisi | 르완다에서 많이 타는 탈것이에요. 오토바이 택시(moto)가 가장 흔해요.
+w moto | 오토바이 택시 · 모토 | 오토바이 택시
+e Ndafata moto njya ku ishuri. | 오토바이 택시를 타고 학교에 가요.
+e Moto irihuta cyane. | 모토는 아주 빨라요.
+w bisi | 버스 | 버스
+e Bisi ijya i Huye iri he? | 후예 가는 버스 어디 있어요?
+e Bisi yuzuye abantu. | 버스가 사람으로 꽉 찼어요.
+w imodoka | 자동차 | 자동차
+e Imodoka ye ni nshya. | 그의 차는 새 차예요.
+e Tuzajya mu modoka. | 우리는 차로 갈 거예요.
+w tagisi | 택시 | 택시
+e Hamagara tagisi, nyabuneka. | 택시 좀 불러 주세요.
+e Tagisi irahenze kuruta moto. | 택시는 모토보다 비싸요.
+w igare | 자전거 | 자전거
+e Afite igare rishya. | 그는 새 자전거가 있어요.
+e Ngenda ku igare. | 자전거를 타고 가요.
+w indege | 비행기 | 비행기
+e Indege igwa i Kigali saa tatu. | 비행기는 9시에 키갈리에 내려요.
+e Naje mu ndege. | 비행기로 왔어요.
+w n'amaguru | 걸어서 · 다리로 | 걸어서
+e Njya ku ishuri n'amaguru. | 학교에 걸어서 가요.
+e Ni hafi, tugende n'amaguru. | 가까우니까 걸어가요.
+w gufata | 타다 · 잡다 | 타다; 잡다
+e Ngiye gufata bisi. | 버스 타러 가요.
+e Fata moto, ni vuba. | 모토 타요, 빨라요.
+tp '타다'는 gufata(잡다)로 말해요: gufata moto(모토를 타다), gufata bisi(버스를 타다).
+tp 모토를 탈 때는 꼭 헬멧(ingofero)을 써요. 르완다에서는 운전사와 손님 모두 헬멧이 의무예요.
+tp '~로 가다'는 mu(안에)를 써요: mu modoka(차로), mu ndege(비행기로). 걸어서는 n'amaguru.
+pr Moto | 모토 || Bisi | 버스
+pr Imodoka | 자동차 || Igare | 자전거
+dl 수아 | Njya i Nyamirambo. Nafata iki? | 냐미람보에 가요. 뭘 타야 해요?
+dl 하비마나 | Fata moto, ni vuba. | 모토 타요, 빨라요.
+dl 수아 | Bisi se? | 버스는요?
+dl 하비마나 | Bisi irahendutse ariko itinda. | 버스는 싸지만 느려요.
+sm Ndafata moto mu gitondo, nimugoroba ngataha n'amaguru. | 아침에는 모토를 타고, 저녁에는 걸어서 집에 가요.
+qz '자전거'는? | igare
+
+@ 1-05-02 | 길 묻기 | iburyo·ibumoso | 길을 묻고 방향을 말하는 표현이에요.
+w ... iri he? | ~이 어디예요? | ~이 어디예요?
+e Isoko riri he? | 시장이 어디예요?
+e Banki iri he? | 은행이 어디예요?
+w iburyo | 오른쪽 | 오른쪽
+e Kata iburyo. | 오른쪽으로 꺾어요.
+e Ishuri riri iburyo. | 학교는 오른쪽에 있어요.
+w ibumoso | 왼쪽 | 왼쪽
+e Kata ibumoso hano. | 여기서 왼쪽으로 꺾어요.
+e Banki iri ibumoso. | 은행은 왼쪽에 있어요.
+w komeza imbere | 곧장 가요 · 앞으로 계속 | 곧장 가세요
+e Komeza imbere gato. | 조금 더 곧장 가요.
+e Komeza imbere, uzabona isoko. | 곧장 가면 시장이 보일 거예요.
+w hafi | 가까이 | 가까이; 가까운
+e Isoko riri hafi. | 시장은 가까워요.
+e Hafi y'ishuri hari resitora. | 학교 근처에 식당이 있어요.
+w kure | 멀리 | 멀리; 먼
+e Huye iri kure ya Kigali. | 후예는 키갈리에서 멀어요.
+e Si kure, ni hafi. | 멀지 않아요, 가까워요.
+w imbere ya | ~ 앞에 | ~ 앞에
+e Ntegereza imbere ya banki. | 은행 앞에서 기다려요.
+e Imbere y'ishuri hari igiti kinini. | 학교 앞에 큰 나무가 있어요.
+w inyuma ya | ~ 뒤에 | ~ 뒤에
+e Iduka riri inyuma ya kiliziya. | 가게는 성당 뒤에 있어요.
+e Imodoka iri inyuma y'inzu. | 차는 집 뒤에 있어요.
+tp 방향: iburyo(오른쪽), ibumoso(왼쪽), imbere(앞), inyuma(뒤). '꺾어요'는 kata예요.
+tp '~ 앞에/뒤에/가까이'는 ya를 붙여요: imbere ya banki(은행 앞), hafi y'ishuri(학교 가까이). 모음 앞에서는 y'로 줄어요.
+tp 길을 물을 때는 먼저 Mbabarira(실례합니다)라고 말을 거세요.
+pr Iburyo | 오른쪽 || Ibumoso | 왼쪽
+pr Hafi | 가까워요 || Kure | 멀어요
+dl 민준 | Mbabarira, banki iri he? | 실례합니다, 은행이 어디예요?
+dl 케자 | Komeza imbere, ukate iburyo. | 곧장 가서 오른쪽으로 꺾어요.
+dl 민준 | Ni kure? | 멀어요?
+dl 케자 | Oya, ni hafi cyane. | 아니요, 아주 가까워요.
+sm Komeza imbere, ukate ibumoso — banki iri imbere y'isoko. | 곧장 가서 왼쪽으로 꺾으세요. 은행은 시장 앞에 있어요.
+qz '오른쪽'은? | iburyo
+
+@ 1-05-03 | 목적지·요금 | Ujya he·hagarara | 모토나 택시를 탈 때 쓰는 말이에요. 타기 전에 값을 정해요.
+w Ujya he? | 어디 가요? | 어디 가요?
+e Muraho, ujya he? | 안녕하세요, 어디 가요?
+e Ujya he uyu munsi? | 오늘 어디 가요?
+w Njyana | 데려다줘요 · 나를 데려가라 | 데려다주세요
+e Njyana ku isoko rya Kimironko. | 키미론코 시장에 데려다주세요.
+e Njyana ku kibuga cy'indege. | 공항에 데려다주세요.
+w hagarara | 세워 줘요 · 멈춰라 | 세워 주세요; 멈춰요
+e Hagarara hano, nyabuneka. | 여기 세워 주세요.
+e Hagarara imbere y'iduka. | 가게 앞에 세워 주세요.
+w buhoro | 천천히 | 천천히
+e Genda buhoro, nyabuneka. | 천천히 가 주세요.
+e Imodoka igenda buhoro. | 차가 천천히 가요.
+w tugeze | 다 왔어요 · 우리가 도착했다 | 다 왔어요
+e Tugeze ku ishuri. | 학교에 다 왔어요.
+e Tugeze? — Yego, tugeze. | 다 왔어요? — 네, 다 왔어요.
+w itike | 표 · 티켓 | 표
+e Itike ijya i Musanze ni angahe? | 무산제 가는 표는 얼마예요?
+e Naguze itike ebyiri. | 표 두 장을 샀어요.
+w gare | 버스 터미널 | 버스 터미널
+e Gare ya Nyabugogo iri he? | 냐부고고 터미널이 어디예요?
+e Bisi ziva kuri gare. | 버스는 터미널에서 출발해요.
+tp 모토는 타기 전에 값을 물어요: Njyana ku isoko, ni angahe?(시장까지 얼마예요?)
+tp 내리고 싶을 때는 Hagarara hano(여기 세워 주세요). 무서우면 Genda buhoro(천천히 가 주세요).
+tp 키갈리의 큰 버스 터미널은 Nyabugogo(냐부고고)예요. 다른 도시로 가는 버스가 여기서 떠나요.
+pr Genda | 가요 || Hagarara | 멈춰요
+pr Genda vuba | 빨리 가요 || Genda buhoro | 천천히 가요
+dl 수아 | Njyana i Remera. Ni angahe? | 레메라에 데려다주세요. 얼마예요?
+dl 운전사 | Ni igihumbi. | 천 프랑이에요.
+dl 수아 | Sawa. Genda buhoro, nyabuneka. | 좋아요. 천천히 가 주세요.
+dl 운전사 | Nta kibazo. Tugeze! | 문제없어요. 다 왔어요!
+sm Njyana kuri gare ya Nyabugogo, hanyuma uhagarare imbere ya banki. | 냐부고고 터미널로 데려다주시고, 은행 앞에 세워 주세요.
+qz '여기 세워 주세요'는? | Hagarara hano
+x ndafata | 나는 탄다
+x njya | 나는 간다
+x irihuta | 빠르다
+x ijya | (그것이) 간다
+x yuzuye | 가득 찬
+x ye | 그의
+x tuzajya | 우리는 갈 것이다
+x modoka | 자동차
+x hamagara | 불러라
+x kuruta | ~보다 더
+x afite | 그는 가지고 있다
+x rishya | 새로운
+x ngenda | 나는 간다
+x igare | 자전거
+x igwa | 착륙한다, 떨어진다
+x ndege | 비행기
+x hafi | 가까이
+x tugende | 우리 가자
+x ngiye | 나는 가려고 한다
+x fata | 타라, 잡아라
+x vuba | 빨리
+x nafata | 내가 탈까
+x nyamirambo | 냐미람보(키갈리 동네)
+x itinda | 늦다, 느리다
+x ngataha | 그리고 나는 집에 간다
+x amaguru | 다리들
+x isoko | 시장
+x riri | (그것이) 있다
+x banki | 은행
+x kata | 꺾어라
+x uzabona | 너는 볼 것이다
+x y'ishuri | 학교의
+x resitora | 식당
+x ya | ~의
+x ntegereza | 나를 기다려라
+x igiti | 나무
+x kinini | 큰
+x iduka | 가게
+x kiliziya | 성당
+x y'inzu | 집의
+x inzu | 집
+x imbere | 앞
+x inyuma | 뒤
+x ukate | 네가 꺾어라
+x y'isoko | 시장의
+x kibuga | 마당, 장(場)
+x cy'indege | 비행기의
+x ku kibuga cy'indege | 공항에
+x y'iduka | 가게의
+x genda | 가라
+x igenda | 간다
+x musanze | 무산제(북부 도시)
+x itike | 표
+x ziva | 출발한다, 나온다
+x kuri | ~에
+x nyabugogo | 냐부고고(버스 터미널)
+x remera | 레메라(키갈리 동네)
+x hanyuma | 그다음에
+x uhagarare | 네가 멈춰라

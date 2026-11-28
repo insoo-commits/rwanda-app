@@ -1,0 +1,130 @@
+# P1-A | 한글로 비슷한 소리
+
+@ 5-01-01 | ㅊ 소리: c·cy·ts | icumi·icyayi·itsinda | 한글로는 모두 ㅊ이지만 철자가 달라요. 철자를 보고 구별해서 외워요.
+w icumi | c = ㅊ · 열(10) | 열
+e Mfite amafaranga icumi. | 10프랑이 있어요.
+e Bara kugeza ku icumi. | 열까지 세어 봐요.
+w icyayi | cy = ㅊ(혀를 입천장에) · 차 | 차
+e Mu gitondo nywa icyayi. | 아침에 차를 마셔요.
+e Icyayi kirashyushye. | 차가 뜨거워요.
+w itsinda | ts = ㅊ(이 뒤) · 모둠 | 모둠
+e Mukore amatsinda atatu. | 세 모둠을 만들어요.
+e Itsinda ryacu ryatsinze. | 우리 모둠이 이겼어요.
+w cyane | cy = ㅊ · 아주 | 아주; 많이
+e Murakoze cyane! | 정말 고마워요!
+e Ni byiza cyane. | 아주 좋아요.
+tp c와 cy는 혀를 입천장에 대고 내는 ㅊ, ts는 이 뒤에서 내는 ㅊ이에요. 한국 사람 귀에는 모두 ㅊ로 들려요.
+pr Icumi | 열 || Icyayi | 차
+pr Cyane | 아주 || Itsinda | 모둠
+sm Murakoze cyane ku cyayi! | 차 정말 고마워요!
+qz 'icyayi'의 cy는 한글로? | ㅊ
+
+@ 5-01-02 | ㅅ 소리: s·sh·shy | isoko·ishuri·gushyira | s는 ㅅ, sh와 shy는 '시' 쪽 소리예요.
+w isoko | s = ㅅ · 시장 | 시장
+e Njya ku isoko. | 시장에 가요.
+e Isoko riri hafi. | 시장은 가까워요.
+w ishuri | sh = 시 계열 · 학교 | 학교
+e Njya ku ishuri. | 학교에 가요.
+e Ishuri ryacu ni rinini. | 우리 학교는 커요.
+w gushyira | shy = 시 계열 · 놓다 | 놓다; 넣다
+e Shyira hano. | 여기 놓아요.
+e Shyiramo isukari. | 설탕을 넣어요.
+w isomo | s = ㅅ · 수업 | 수업
+e Isomo ritangira saa mbiri. | 수업은 8시에 시작해요.
+e Isomo rya none ni ryiza. | 오늘 수업은 좋아요.
+tp isoko(이소코, 시장)와 ishuri(이슈리, 학교)는 s와 sh로 구별해요. sh는 입술을 조금 내밀고 '쉬' 하듯 내요.
+pr Isoko | 시장 || Ishuri | 학교
+pr Isomo | 수업 || Ishati | 셔츠
+sm Njya ku isoko nyuma y'ishuri. | 학교 끝나고 시장에 가요.
+qz '시장'은? | isoko
+
+@ 5-01-03 | ㅂ 소리: b·v·bw | ibara·kuva·imbwa | b와 v는 한글로 둘 다 ㅂ이에요. v는 윗니로 아랫입술을 살짝 물고 내요.
+w ibara | b = ㅂ · 색 | 색
+e Ukunda ibara irihe? | 무슨 색을 좋아해요?
+e Ibara ry'icyatsi ni ryiza. | 초록색이 예뻐요.
+w kuva | v = ㅂ(입술 떨림) · ~부터 | ~부터; 나오다
+e Kuva ejo ndwaye. | 어제부터 아파요.
+e Kuva i Kigali kugeza i Huye ni kure. | 키갈리에서 후예까지는 멀어요.
+w imbwa | bw = 봐 · 개 | 개
+e Imbwa iramoka. | 개가 짖어요.
+e Mfite imbwa. | 개가 있어요.
+w kubona | b = ㅂ · 보다 | 보다; 만나다
+e Nishimiye kukubona. | 만나서 반가워요.
+e Nabonye ubutumwa. | 메시지를 봤어요.
+tp b는 두 입술, v는 윗니와 아랫입술로 내요. 한국어에는 v가 없어서 둘 다 ㅂ로 적어요.
+pr Ibara | 색 || Kuva | ~부터
+pr Imbwa | 개 || Imboga | 채소
+sm Kuva ejo mbona imbwa nyinshi. | 어제부터 개가 많이 보여요.
+qz 'kuva'의 v는 한글로? | ㅂ
+
+@ 5-01-04 | ㅈ 소리: j·jy·z | ejo·kujya·amazi | j·jy·z는 한글로 모두 ㅈ이에요. z는 '즈'처럼 떨려요.
+w ejo | j = ㅈ · 내일·어제 | 내일; 어제
+e Ejo nzaza. | 내일 올게요.
+e Tuzabonana ejo. | 내일 봐요.
+w kujya | jy = 쟈 계열 · 가다 | 가다
+e Ndashaka kujya i Kigali. | 키갈리에 가고 싶어요.
+e Njya ku kazi. | 일하러 가요.
+w amazi | z = ㅈ(떨림) · 물 | 물
+e Mpa amazi. | 물 주세요.
+e Amazi arashyushye. | 물이 뜨거워요.
+w inzu | nz = ㄴ받침 + ㅈ · 집 | 집
+e Inzu yanjye iri hafi. | 내 집은 가까워요.
+e Mfite inzu nini. | 큰 집이 있어요.
+tp z는 영어 zoo의 z처럼 혀를 떨어요. j는 우리말 ㅈ와 거의 같아요.
+pr Ejo | 내일 || Amazi | 물
+pr Kujya | 가다 || Inzu | 집
+sm Ejo nzajya mu nzu nshya, nzazana amazi. | 내일 새 집에 가서 물을 가져갈게요.
+qz 'amazi'의 z는 한글로? | ㅈ
+
+@ 5-01-05 | ㄴ 소리: n·ny | nini·inyama | n은 ㄴ, ny는 '냐·녀·뇨' 쪽 소리예요.
+w nini | n = ㄴ · 큰 | 큰
+e Ni nini cyane. | 아주 커요.
+e Mfite inzu nini. | 큰 집이 있어요.
+w inyama | ny = 냐 · 고기 | 고기
+e Sindya inyama. | 고기를 안 먹어요.
+e Inyama zirahenze. | 고기가 비싸요.
+w inama | n = ㄴ · 회의 · 조언 | 회의; 조언
+e Dufite inama saa tatu. | 9시에 회의가 있어요.
+e Mpa inama. | 조언해 줘요.
+w nyabuneka | ny = 냐 · 부디 | 부디; ~해 주세요
+e Mpa amazi, nyabuneka. | 물 좀 주세요.
+e Nyabuneka, tegereza gato. | 잠깐만 기다려 주세요.
+tp inama(이나마, 회의)와 inyama(이냐마, 고기)는 ny 하나로 뜻이 달라져요!
+pr Inama | 회의 || Inyama | 고기
+pr Nini | 커요 || Nyinshi | 많아요
+sm Nyuma y'inama turya inyama. | 회의 끝나고 고기를 먹어요.
+qz 'inyama'의 뜻은? | 고기
+
+@ 5-01-06 | ㄹ 소리: r·l | rimwe·Kigali | r은 혀를 한 번 튕기는 ㄹ이에요. l은 외래어와 지명에만 나와요.
+w rimwe | r = ㄹ · 하나 | 하나
+e Rimwe, kabiri, gatatu! | 하나, 둘, 셋!
+e Vuga rimwe gusa. | 한 번만 말해요.
+w Kigali | l = ㄹ(외래·지명) · 수도 | 키갈리(수도)
+e Ntuye i Kigali. | 키갈리에 살아요.
+e Kigali ni umujyi mwiza. | 키갈리는 좋은 도시예요.
+w kurya | r = ㄹ · 먹다 | 먹다
+e Reka turye. | 우리 먹어요.
+e Ndashaka kurya. | 먹고 싶어요.
+w ikaramu | r = ㄹ · 볼펜 | 볼펜
+e Mpa ikaramu. | 볼펜 주세요.
+e Ikaramu yanjye iri he? | 내 볼펜 어디 있어?
+tp 르완다어 고유어에는 l이 없고 r만 있어요. 그래서 르완다 사람들은 r과 l을 섞어 들어도 같은 소리로 느끼기도 해요.
+tp 한글로 적을 때 모음 사이 l은 'ㄹㄹ'(Kigali 키갈리), r은 'ㄹ'(ikaramu 이카라무)로 적었어요.
+pr Rimwe | 하나 || Kigali | 키갈리
+pr Kurya | 먹다 || Ikaramu | 볼펜
+sm Muri Kigali ndya rimwe ku munsi muri resitora. | 키갈리에서는 하루에 한 번 식당에서 먹어요.
+qz '하나'는? | rimwe
+x icyatsi | 풀; 초록
+x ry'icyatsi | 초록의
+x ibara ry'icyatsi | 초록색
+x mbona | 나는 본다
+x kukubona | 너를 보는 것
+x none | 오늘, 지금
+x rya none | 오늘의
+x nyuma y'ishuri | 학교 끝나고
+x arashyushye | 뜨겁다
+x nzazana | 나는 가져올 것이다
+x zirahenze | 비싸다
+x nyuma y'inama | 회의 뒤에
+x umujyi | 도시
+x nzajya | 나는 갈 것이다

@@ -1,0 +1,533 @@
+// 주제별 더하기 (v1.2) ①
+# P5-K | 기초 회화
+
+@ 1-01-07 | 부탁과 사과 | mfasha·mbabarira | 부탁하고 사과할 때 쓰는 말이에요.
+w Mfasha | 도와주세요 | 도와주세요
+e Mfasha, nyabuneka. | 좀 도와주세요.
+e Mfasha gutwara iki gikapu. | 이 가방 드는 것 좀 도와주세요.
+e Ushobora kumfasha? | 도와줄 수 있어요?
+w Tegereza gato | 잠깐만 기다려요 | 잠깐만요
+e Tegereza gato, ndaje. | 잠깐만요, 갈게요.
+e Tegereza gato hano. | 여기서 잠깐 기다려요.
+e Mutegereze gato. | 여러분, 잠깐 기다려 주세요.
+w Ndakwinginze | 제발 부탁해요 | 제발
+e Ndakwinginze, mfasha. | 제발 도와주세요.
+e Ndakwinginze, ntugende. | 제발 가지 마요.
+e Ndakwinginze, ceceka. | 제발 조용히 해요.
+w Mumbabarire | 죄송합니다 | 죄송합니다
+e Mumbabarire, natinze. | 죄송합니다, 늦었어요.
+e Mumbabarire cyane. | 정말 죄송합니다.
+e Mumbabarire, sinabimenye. | 죄송합니다, 몰랐어요.
+w Ntacyo bitwaye | 괜찮아요 | 괜찮아요
+e Ntacyo bitwaye, nshuti. | 괜찮아, 친구.
+e Oya, ntacyo bitwaye. | 아니에요, 괜찮아요.
+e Ntacyo bitwaye, bibaho. | 괜찮아요, 그럴 수 있어요.
+w Ni ikosa ryanjye | 제 잘못이에요 | 제 잘못이에요
+e Mbabarira, ni ikosa ryanjye. | 미안해요, 제 잘못이에요.
+e Si ikosa ryawe. | 네 잘못이 아니야.
+e Ni ikosa ryanjye, sinzongera. | 제 잘못이에요, 다시는 안 그럴게요.
+tp 한 사람에게는 Mbabarira, 여러 사람이나 어른에게는 Mumbabarire라고 해요.
+tp Sinzongera는 '다시는 안 그럴게요'라는 뜻이에요.
+pr Mbabarira | 미안해요 || Mumbabarire | 죄송합니다
+pr Mfasha | 도와줘 || Mumfashe | 도와주세요
+sm Mumbabarire, natinze, ni ikosa ryanjye. | 죄송합니다, 늦었어요, 제 잘못이에요.
+qz '괜찮아요'는? | Ntacyo bitwaye
+
+@ 1-01-08 | 맞장구와 감탄 | nibyo·yee | 이야기를 들으며 대꾸하는 말이에요.
+w Ni ukuri | 정말이에요 | 정말
+e Ni ukuri? | 정말이에요?
+e Yego, ni ukuri. | 네, 정말이에요.
+e Ibyo uvuga ni ukuri. | 네 말이 맞아.
+w Koko? | 진짜요? | 진짜?
+e Koko? Simbizi. | 진짜요? 몰랐어요.
+e Ni byo koko. | 정말 그래요.
+e Koko uraje? | 진짜 올 거예요?
+w Ntibishoboka | 말도 안 돼요 | 그럴 리가요
+e Oya, ntibishoboka! | 아니, 말도 안 돼요!
+e Uyu munsi ntibishoboka. | 오늘은 안 돼요.
+e Ibyo ntibishoboka. | 그건 불가능해요.
+w Birababaje | 안됐어요 · 슬퍼요 | 안타까워요
+e Birababaje cyane. | 정말 안타까워요.
+e Yoo, birababaje. | 아이고, 안됐네요.
+e Birababaje kubyumva. | 그 말을 들으니 마음이 아파요.
+w Ni byiza cyane | 아주 좋아요 | 잘됐어요
+e Watsinze? Ni byiza cyane! | 합격했어요? 정말 잘됐어요!
+e Ni byiza cyane kukubona. | 만나서 정말 좋아요.
+e Ibi ni byiza cyane. | 이거 아주 좋아요.
+w Nanjye | 나도 | 저도요
+e Nanjye ndabikunda. | 저도 좋아해요.
+e Nanjye ni uko. | 저도 그래요.
+e Nanjye ndashonje. | 저도 배고파요.
+tp Yoo는 놀라거나 안타까울 때 내는 소리예요. 우리말 '아이고'와 비슷해요.
+tp Nanjye(나도), nawe(너도), natwe(우리도)처럼 na가 붙으면 '~도'예요.
+pr Ni ukuri | 정말이에요 || Si ukuri | 사실이 아니에요
+pr Birashoboka | 가능해요 || Ntibishoboka | 불가능해요
+sm Koko watsinze? Ni byiza cyane, nanjye ndishimye. | 진짜 합격했어요? 정말 잘됐어요, 저도 기뻐요.
+qz '나도'는? | Nanjye
+
+# P5-J | 숫자·시간
+
+@ 1-02-09 | 순서와 횟수 | ubwa mbere·inshuro | 첫째, 둘째와 몇 번을 말해요.
+w ubwa mbere | 첫 번째 · 처음 | 처음
+e Ni ubwa mbere nje mu Rwanda. | 르완다에 처음 왔어요.
+e Ubwa mbere biragoye. | 처음에는 어려워요.
+e Ni ubwa mbere mbibonye. | 이런 건 처음 봐요.
+w ubwa kabiri | 두 번째 | 두 번째
+e Ni ubwa kabiri nje hano. | 여기 온 게 두 번째예요.
+e Gerageza ubwa kabiri. | 한 번 더 해 봐요.
+e Ubwa kabiri byoroshye. | 두 번째는 쉬워요.
+w ubwa nyuma | 마지막 | 마지막
+e Ni ubwa nyuma. | 이번이 마지막이에요.
+e Isomo rya nyuma. | 마지막 수업.
+e Ubwa nyuma twahuye ryari? | 마지막으로 만난 게 언제였죠?
+w inshuro | 번 · 횟수 | 번
+e Inshuro eshatu. | 세 번.
+e Inshuro zingahe? | 몇 번이요?
+e Soma inshuro ebyiri. | 두 번 읽어요.
+w kenshi | 자주 | 자주
+e Nza hano kenshi. | 여기 자주 와요.
+e Imvura igwa kenshi. | 비가 자주 와요.
+e Tuvugana kenshi. | 우리는 자주 연락해요.
+w gake | 가끔 · 드물게 | 드물게
+e Ndya inyama gake. | 고기는 가끔 먹어요.
+e Aza gake. | 그는 드물게 와요.
+e Ibi biba gake. | 이런 일은 드물어요.
+tp '몇 번째'는 ubwa + 숫자예요: ubwa mbere, ubwa kabiri, ubwa gatatu.
+tp 사물의 순서는 wa/ya/cya + 숫자: umunsi wa mbere(첫날), isomo rya kabiri(둘째 과).
+pr ubwa mbere | 처음 || ubwa nyuma | 마지막
+pr kenshi | 자주 || gake | 드물게
+sm Ni ubwa mbere nje hano, ariko nzagaruka kenshi. | 여기 처음 왔지만 자주 올 거예요.
+qz '자주'는? | kenshi
+
+@ 1-02-10 | 기간 말하기 | iminsi·amezi | 며칠, 몇 달, 몇 년을 말해요.
+w umunota | 분 | 분
+e Iminota itanu. | 5분.
+e Tegereza umunota umwe. | 1분만 기다려요.
+e Hasigaye iminota icumi. | 10분 남았어요.
+w isaha | 시간 · 시계 | 시간
+e Isaha imwe. | 한 시간.
+e Amasaha abiri. | 두 시간.
+e Urugendo ni amasaha atatu. | 가는 데 세 시간 걸려요.
+w umunsi | 날 · 하루 | 날
+e Iminsi itatu. | 사흘.
+e Umunsi wose. | 하루 종일.
+e Buri munsi. | 매일.
+w icyumweru | 주 | 주
+e Ibyumweru bibiri. | 2주.
+e Icyumweru cyose. | 일주일 내내.
+e Buri cyumweru. | 매주.
+w ukwezi | 달 | 달
+e Amezi atandatu. | 여섯 달.
+e Ukwezi kumwe. | 한 달.
+e Buri kwezi. | 매달.
+w umwaka | 해 · 년 | 년
+e Imyaka ibiri. | 2년.
+e Umwaka wose. | 일 년 내내.
+e Nzamara umwaka mu Rwanda. | 르완다에서 1년 지낼 거예요.
+tp '~ 동안 지내다'는 kumara: Nzamara amezi atandatu(여섯 달 있을 거예요).
+tp buri + 단수 = '매~': buri munsi(매일), buri mwaka(매년).
+pr umunota | 분 || isaha | 시간
+pr ukwezi | 달 || umwaka | 년
+sm Nzamara imyaka ibiri mu Rwanda, niga Ikinyarwanda buri munsi. | 르완다에서 2년 지내면서 매일 르완다어를 공부할 거예요.
+qz '매일'은? | buri munsi
+
+# P5-B | 식당
+
+@ 1-03-09 | 고기와 생선 | inyama·ifi | 식당에서 고르는 고기와 생선이에요.
+w inyama z'inka | 소고기 | 소고기
+e Mpa inyama z'inka. | 소고기 주세요.
+e Inyama z'inka zirahenze. | 소고기는 비싸요.
+e Brochette y'inyama z'inka. | 소고기 꼬치.
+w inyama z'ihene | 염소고기 | 염소고기
+e Brochette y'inyama z'ihene. | 염소고기 꼬치.
+e Nkunda inyama z'ihene. | 염소고기를 좋아해요.
+e Inyama z'ihene ziraryoshye. | 염소고기가 맛있어요.
+w inkoko | 닭 · 닭고기 | 닭고기
+e Inkoko n'ifiriti. | 닭고기와 감자튀김.
+e Mpa inkoko itetse. | 삶은 닭 주세요.
+e Inkoko yokeje. | 구운 닭.
+w ifi | 생선 | 생선
+e Ifi yo mu Kivu. | 키부 호수 생선.
+e Ifi yokeje iraryoshye. | 구운 생선이 맛있어요.
+e Mufite ifi? | 생선 있어요?
+w igi | 달걀 | 달걀
+e Amagi abiri. | 달걀 두 개.
+e Igi ritetse. | 삶은 달걀.
+e Umureti w'amagi. | 달걀 오믈렛.
+w isosi | 소스 · 국물 | 소스
+e Isosi y'inyanya. | 토마토 소스.
+e Ongeraho isosi. | 소스 더 주세요.
+e Umuceri n'isosi. | 밥과 소스.
+tp '구운'은 -okeje, '삶은·익힌'은 -tetse, '튀긴'은 -karanze예요.
+tp 키부 호수의 작은 생선 isambaza는 튀겨서 간식처럼 먹어요.
+pr inyama | 고기 || ifi | 생선
+pr yokeje | 구운 || itetse | 삶은
+sm Uyu munsi ndashaka ifi yokeje n'umuceri n'isosi. | 오늘은 구운 생선에 밥과 소스를 먹고 싶어요.
+qz '생선'은? | ifi
+
+@ 1-03-10 | 마실 것 더 | inzoga·fanta | 모임에서 마시는 것들이에요.
+w fanta | 탄산음료 | 탄산음료
+e Mpa fanta ikonje. | 시원한 탄산음료 주세요.
+e Fanta ya orange. | 오렌지 탄산음료.
+e Abana bakunda fanta. | 아이들은 탄산음료를 좋아해요.
+w inzoga | 술 · 맥주 | 술
+e Sinywa inzoga. | 저는 술을 안 마셔요.
+e Inzoga imwe. | 맥주 한 병.
+e Inzoga ikonje. | 시원한 맥주.
+w urwagwa | 바나나 술 | 바나나 술
+e Urwagwa ni inzoga y'ibitoki. | 우르와과는 바나나로 만든 술이에요.
+e Mu bukwe banywa urwagwa. | 결혼식에서 바나나 술을 마셔요.
+e Urwagwa rw'iwacu. | 우리 고향 바나나 술.
+w ikigage | 수수 술 | 수수 술
+e Ikigage gikorwa mu masaka. | 이키가게는 수수로 만들어요.
+e Banywa ikigage mu birori. | 잔치에서 수수 술을 마셔요.
+e Ikigage ni icy'umuco. | 수수 술은 전통 술이에요.
+w icupa | 병 | 병
+e Icupa ry'amazi. | 물 한 병.
+e Amacupa abiri. | 두 병.
+e Icupa rinini. | 큰 병.
+w ikirahure | 유리잔 | 잔
+e Ikirahure cy'amazi. | 물 한 잔.
+e Mpa ikirahure. | 잔 좀 주세요.
+e Ibirahure bine. | 잔 네 개.
+tp 르완다에서 Fanta는 상표가 아니라 '탄산음료'를 통틀어 부르는 말이에요.
+tp 술을 권할 때 거절하려면 Sinywa inzoga, murakoze라고 하면 돼요.
+pr icupa | 병 || ikirahure | 잔
+pr fanta | 탄산음료 || inzoga | 술
+sm Sinywa inzoga, mpa fanta ikonje n'ikirahure. | 저는 술을 안 마셔요, 시원한 탄산음료와 잔 주세요.
+qz '병'은? | icupa
+
+# P5-C | 시장
+
+@ 1-04-08 | 곡식과 양념 | ibigori·amavuta | 시장에서 사는 곡식과 양념이에요.
+w ibigori | 옥수수 | 옥수수
+e Ibigori byokeje. | 구운 옥수수.
+e Ifu y'ibigori. | 옥수수 가루.
+e Bahinga ibigori. | 옥수수를 심어요.
+w amasaka | 수수 | 수수
+e Igikoma cy'amasaka. | 수수 죽.
+e Ifu y'amasaka. | 수수 가루.
+e Amasaka arera. | 수수가 익어요.
+w ifu | 가루 · 밀가루 | 가루
+e Ikiro cy'ifu. | 가루 1킬로.
+e Ifu y'imyumbati. | 카사바 가루.
+e Ndashaka ifu y'ingano. | 밀가루를 사고 싶어요.
+w amavuta | 기름 | 기름
+e Amavuta yo guteka. | 식용유.
+e Litiro y'amavuta. | 기름 1리터.
+e Amavuta arahenze. | 기름이 비싸요.
+w urusenda | 고추 | 고추
+e Urusenda ruraryana. | 고추가 매워요.
+e Nta rusenda, nyabuneka. | 고추 빼 주세요.
+e Akabanga ni amavuta y'urusenda. | 아카방가는 고추기름이에요.
+w ubuki | 꿀 | 꿀
+e Ubuki buraryoshye. | 꿀이 달아요.
+e Icyayi n'ubuki. | 꿀차.
+e Ubuki bw'umwimerere. | 진짜 꿀.
+tp Akabanga는 르완다의 작은 병에 든 매운 고추기름이에요. 몇 방울만 넣어도 매워요.
+tp igikoma는 수수나 옥수수 가루로 끓인 묽은 죽으로, 아침에 많이 마셔요.
+pr ibigori | 옥수수 || amasaka | 수수
+pr amavuta | 기름 || ubuki | 꿀
+sm Ku isoko naguze ifu y'ibigori, amavuta n'ubuki. | 시장에서 옥수수 가루와 기름, 꿀을 샀어요.
+qz '꿀'은? | ubuki
+
+@ 1-04-09 | 생활용품 | isabune·buji | 가게에서 사는 생활용품이에요.
+w isabune | 비누 | 비누
+e Isabune yo gukaraba. | 손 씻는 비누.
+e Isabune yo kumesa. | 빨랫비누.
+e Mpa isabune imwe. | 비누 하나 주세요.
+w umuti w'amenyo | 치약 | 치약
+e Ndashaka umuti w'amenyo. | 치약을 사고 싶어요.
+e Umuti w'amenyo urashize. | 치약이 다 떨어졌어요.
+e Umuti w'amenyo n'uburoso. | 치약과 칫솔.
+w uburoso | 솔 · 칫솔 | 칫솔
+e Uburoso bw'amenyo. | 칫솔.
+e Uburoso bushya. | 새 칫솔.
+e Uburoso bw'inkweto. | 구둣솔.
+w impapuro z'isuku | 화장지 | 화장지
+e Mufite impapuro z'isuku? | 화장지 있어요?
+e Impapuro z'isuku zirashize. | 화장지가 다 떨어졌어요.
+e Ngura impapuro z'isuku. | 화장지를 사요.
+w buji | 양초 | 양초
+e Mpa buji ebyiri. | 양초 두 개 주세요.
+e Umuriro wagiye, cana buji. | 전기가 나갔어요, 양초를 켜요.
+e Buji irazimye. | 양초가 꺼졌어요.
+w ikibiriti | 성냥 | 성냥
+e Mufite ikibiriti? | 성냥 있어요?
+e Ikibiriti kiri he? | 성냥 어디 있어요?
+e Buji n'ikibiriti. | 양초와 성냥.
+tp 정전(umuriro wagiye)에 대비해 양초와 성냥, 손전등(itoroshi)을 두는 집이 많아요.
+tp 동네 구멍가게는 butike라고 해요. 낱개로도 팔아요.
+pr isabune | 비누 || umuti w'amenyo | 치약
+pr buji | 양초 || ikibiriti | 성냥
+sm Kuri butike naguze isabune, umuti w'amenyo na buji. | 가게에서 비누와 치약, 양초를 샀어요.
+qz '비누'는? | isabune
+
+# P5-E | 교통
+
+@ 1-05-08 | 자동차와 주유 | lisansi·ipine | 차를 탈 때 알아 두면 좋은 말이에요.
+w lisansi | 휘발유 | 휘발유
+e Lisansi irashize. | 기름이 떨어졌어요.
+e Ngiye gushyiramo lisansi. | 기름 넣으러 가요.
+e Lisansi irahenze. | 휘발유가 비싸요.
+w sitasiyo ya lisansi | 주유소 | 주유소
+e Sitasiyo iri he? | 주유소가 어디예요?
+e Hagarara kuri sitasiyo. | 주유소에 세워 주세요.
+e Sitasiyo iri hafi. | 주유소가 가까워요.
+w ipine | 타이어 | 타이어
+e Ipine ryatobotse. | 타이어에 구멍이 났어요.
+e Ipine rishya. | 새 타이어.
+e Guhindura ipine. | 타이어를 갈다.
+w umushoferi | 운전기사 | 기사
+e Umushoferi atwara neza. | 기사님이 운전을 잘해요.
+e Baza umushoferi. | 기사님께 물어봐요.
+e Umushoferi wa tagisi. | 택시 기사.
+w guparika | 주차하다 | 주차하다
+e Paruka hano. | 여기에 주차해요.
+e Nshobora guparika he? | 어디에 주차할 수 있어요?
+e Ntuparike hano. | 여기 주차하지 마세요.
+w umukandara | 안전띠 · 허리띠 | 안전띠
+e Ambara umukandara. | 안전띠를 매요.
+e Umukandara ni ngombwa. | 안전띠는 꼭 매야 해요.
+e Wambaye umukandara? | 안전띠 맸어요?
+tp 르완다는 교통 단속이 엄격해요. 안전띠와 속도 제한(umuvuduko)을 꼭 지켜요.
+tp '운전하다'는 gutwara imodoka, '운전면허'는 uruhushya rwo gutwara예요.
+pr lisansi | 휘발유 || sitasiyo ya lisansi | 주유소
+pr guparika | 주차하다 || gutwara | 운전하다
+sm Lisansi irashize, hagarara kuri sitasiyo iri hafi. | 기름이 떨어졌어요, 가까운 주유소에 세워 주세요.
+qz '주유소'는? | sitasiyo ya lisansi
+
+@ 1-05-09 | 멀고 가까움 | kilometero·hakurya | 거리와 건너편을 말해요.
+w kilometero | 킬로미터 | 킬로미터
+e Kilometero eshanu. | 5킬로미터.
+e Ni kilometero zingahe? | 몇 킬로미터예요?
+e Kigali ni kilometero ijana. | 키갈리까지 100킬로미터예요.
+w metero | 미터 | 미터
+e Metero ijana. | 100미터.
+e Ni metero mirongo itanu gusa. | 50미터밖에 안 돼요.
+e Genda metero magana abiri. | 200미터 가세요.
+w hakurya | 건너편 | 건너편
+e Hakurya y'umuhanda. | 길 건너편.
+e Isoko riri hakurya. | 시장은 건너편에 있어요.
+e Hakurya y'ikiyaga. | 호수 건너편.
+w hino | 이쪽 | 이쪽
+e Ngwino hino. | 이쪽으로 와요.
+e Hino y'umuhanda. | 길 이쪽.
+e Igira hino. | 이쪽으로 가까이 와요.
+w hafi aha | 이 근처 | 이 근처
+e Hari banki hafi aha? | 이 근처에 은행 있어요?
+e Ntuye hafi aha. | 이 근처에 살아요.
+e Ni hafi aha. | 바로 이 근처예요.
+w kure cyane | 아주 멀리 | 아주 먼
+e Ni kure cyane? | 아주 멀어요?
+e Oya, si kure cyane. | 아니요, 그리 멀지 않아요.
+e Koreya ni kure cyane. | 한국은 아주 멀어요.
+tp 르완다 사람들은 거리를 시간으로 자주 말해요: Ni iminota icumi n'amaguru(걸어서 10분이에요).
+tp Si kure는 실제로는 꽤 멀 수도 있어요. 몇 분 걸리는지 물어보는 게 좋아요.
+pr hakurya | 건너편 || hino | 이쪽
+pr hafi aha | 이 근처 || kure cyane | 아주 멀리
+sm Banki si kure cyane, iri hakurya y'umuhanda, metero ijana gusa. | 은행은 멀지 않아요, 길 건너편 100미터만 가면 돼요.
+qz '건너편'은? | hakurya
+
+# P5-A | 학교
+
+@ 1-06-08 | 학교 규칙 | amategeko·impuzankano | 학교에서 지켜야 할 것들이에요.
+w itegeko | 규칙 · 법 | 규칙
+e Amategeko y'ishuri. | 학교 규칙.
+e Kubahiriza amategeko. | 규칙을 지키다.
+e Iri ni itegeko. | 이건 규칙이에요.
+w impuzankano | 교복 | 교복
+e Abanyeshuri bambara impuzankano. | 학생들은 교복을 입어요.
+e Impuzankano y'ishuri. | 학교 교복.
+e Impuzankano isukuye. | 깨끗한 교복.
+w gukererwa | 지각하다 · 늦다 | 지각하다
+e Ntukererwe. | 지각하지 마요.
+e Yakerewe uyu munsi. | 그는 오늘 지각했어요.
+e Mbabarira, nakerewe. | 죄송해요, 지각했어요.
+w gusiba ishuri | 결석하다 | 결석하다
+e Yasibye ishuri ejo. | 그는 어제 결석했어요.
+e Ntugasibe ishuri. | 결석하지 마요.
+e Kuki wasibye ishuri? | 왜 결석했어요?
+w kubaha | 존중하다 · 공경하다 | 존중하다
+e Kubaha abarimu. | 선생님을 공경하다.
+e Mwubahe bagenzi banyu. | 친구들을 존중하세요.
+e Kubaha ni ngombwa. | 존중은 꼭 필요해요.
+w uruhushya | 허락 · 허가 | 허락
+e Saba uruhushya. | 허락을 받아요.
+e Mfite uruhushya. | 허락받았어요.
+e Mwarimu, ndasaba uruhushya. | 선생님, 허락해 주세요.
+tp 르완다 학교는 교복을 입고, 머리를 짧게 깎는 곳이 많아요.
+tp 교실을 나갈 때는 Ndasaba uruhushya rwo gusohoka(나가도 될까요)라고 해요.
+pr gukererwa | 지각하다 || gusiba ishuri | 결석하다
+pr itegeko | 규칙 || uruhushya | 허락
+sm Abanyeshuri bambara impuzankano, ntibakererwa, kandi bubaha abarimu. | 학생들은 교복을 입고, 지각하지 않고, 선생님을 공경해요.
+qz '교복'은? | impuzankano
+
+@ 1-06-09 | 학부모와 이야기 | ababyeyi·imyitwarire | 학부모를 만났을 때 쓰는 말이에요.
+w umubyeyi | 부모 · 학부모 | 학부모
+e Ndi umubyeyi wa Keza. | 저는 케자의 부모예요.
+e Inama y'ababyeyi. | 학부모 회의.
+e Ababyeyi baje ku ishuri. | 학부모들이 학교에 오셨어요.
+w imyitwarire | 태도 · 행실 | 태도
+e Afite imyitwarire myiza. | 그 아이는 태도가 좋아요.
+e Imyitwarire ye ni myiza mu ishuri. | 교실에서 태도가 좋아요.
+e Imyitwarire mibi. | 나쁜 태도.
+w umwete | 성실 · 열심 | 열심
+e Yiga afite umwete. | 열심히 공부해요.
+e Akorana umwete. | 성실하게 일해요.
+e Umwete ni ingenzi. | 성실함이 중요해요.
+w gutera imbere | 발전하다 · 나아지다 | 나아지다
+e Umwana wanyu aratera imbere. | 아이가 나아지고 있어요.
+e Yateye imbere mu mibare. | 수학이 늘었어요.
+e Dushaka gutera imbere. | 우리는 발전하고 싶어요.
+w indangamanota | 성적표 | 성적표
+e Iyi ni indangamanota ye. | 이게 그 아이 성적표예요.
+e Indangamanota zizatangwa ejo. | 성적표는 내일 나눠 줘요.
+e Reba indangamanota. | 성적표를 보세요.
+w gushishikariza | 격려하다 | 격려하다
+e Mumushishikarize gusoma. | 책을 읽도록 격려해 주세요.
+e Gushishikariza abana. | 아이들을 격려하다.
+e Ababyeyi bamushishikariza kwiga. | 부모님이 공부하라고 격려하세요.
+tp 학부모에게는 Mubyeyi(부모님)라고 부르면 공손해요.
+tp '아이가 잘하고 있어요'는 Umwana wanyu yiga neza라고 해요.
+pr imyitwarire myiza | 좋은 태도 || imyitwarire mibi | 나쁜 태도
+pr umwete | 성실 || indangamanota | 성적표
+sm Mubyeyi, umwana wanyu afite imyitwarire myiza kandi aratera imbere. | 부모님, 아이가 태도도 좋고 점점 나아지고 있어요.
+qz '성적표'는? | indangamanota
+
+# P5-L | 수업
+
+@ 1-07-11 | 수학 수업 | guteranya·gukuba | 더하기, 빼기, 곱하기, 나누기예요.
+w guteranya | 더하다 | 더하다
+e Teranya kabiri na gatatu. | 2와 3을 더해요.
+e Guteranya imibare. | 숫자를 더하다.
+e Twize guteranya. | 덧셈을 배웠어요.
+w gukuramo | 빼다 | 빼다
+e Kuramo kabiri. | 2를 빼요.
+e Gukuramo biroroshye. | 뺄셈은 쉬워요.
+e Icumi ukuyemo gatatu ni karindwi. | 10에서 3을 빼면 7이에요.
+w gukuba | 곱하다 | 곱하다
+e Kuba kabiri na gatatu. | 2에 3을 곱해요.
+e Gatatu gukuba kane ni cumi na kabiri. | 3 곱하기 4는 12예요.
+e Twiga gukuba. | 곱셈을 배워요.
+w kugabanya | 나누다 · 줄이다 | 나누다
+e Gabanya icumi na kabiri. | 10을 2로 나눠요.
+e Kugabanya biragoye. | 나눗셈은 어려워요.
+e Icumi kugabanya kabiri ni gatanu. | 10 나누기 2는 5예요.
+w igisubizo | 답 | 답
+e Igisubizo ni ikihe? | 답이 뭐예요?
+e Igisubizo ni cyo. | 정답이에요.
+e Andika igisubizo. | 답을 써요.
+w bingana | 같다 · 는 | 같다
+e Kabiri na kabiri bingana na kane. | 2 더하기 2는 4예요.
+e Ibi bingana. | 이것들은 같아요.
+e Ntibingana. | 같지 않아요.
+tp 셈을 읽을 때: 2 + 3 = 5 → kabiri guteranyaho gatatu bingana na gatanu.
+tp '맞아요'는 Ni byo, '틀려요'는 Si byo라고 해요.
+pr guteranya | 더하다 || gukuramo | 빼다
+pr gukuba | 곱하다 || kugabanya | 나누다
+sm Twize guteranya no gukuramo, ejo tuziga gukuba. | 덧셈과 뺄셈을 배웠고, 내일은 곱셈을 배울 거예요.
+qz '답'은? | igisubizo
+
+@ 1-07-12 | 읽기와 쓰기 수업 | interuro·inkuru | 글을 읽고 쓰는 수업에서 쓰는 말이에요.
+w interuro | 문장 | 문장
+e Andika interuro imwe. | 문장 하나를 써요.
+e Soma iyi nteruro. | 이 문장을 읽어요.
+e Interuro ngufi. | 짧은 문장.
+w inkuru | 이야기 · 소식 | 이야기
+e Soma inkuru. | 이야기를 읽어요.
+e Inkuru nziza. | 좋은 소식.
+e Mbwira inkuru. | 이야기해 줘요.
+w umugani | 옛이야기 · 속담 | 옛이야기
+e Umugani w'urukwavu. | 토끼 이야기.
+e Nyogokuru aca imigani. | 할머니가 옛이야기를 해 주세요.
+e Imigani y'u Rwanda. | 르완다의 옛이야기.
+w gusobanukirwa | 이해하다 | 이해하다
+e Wasobanukiwe? | 이해했어요?
+e Ndasobanukiwe neza. | 잘 이해했어요.
+e Sinasobanukiwe. | 이해 못 했어요.
+w gusoma mu ijwi riranguruye | 소리 내어 읽다 | 소리 내어 읽다
+e Soma mu ijwi riranguruye. | 소리 내어 읽어요.
+e Mwese musome mu ijwi riranguruye. | 모두 소리 내어 읽어요.
+e Asoma mu ijwi riranguruye. | 그가 소리 내어 읽어요.
+w gukosora | 고치다 · 채점하다 | 고치다
+e Kosora ikosa. | 틀린 데를 고쳐요.
+e Mwarimu akosora ibizamini. | 선생님이 시험지를 채점해요.
+e Dukosore hamwe. | 같이 고쳐 봐요.
+tp 옛이야기는 Kera habayeho…(옛날 옛적에…)로 시작해요.
+tp 수수께끼 놀이는 Sakwe sakwe!라고 하면 Soma!라고 받아요.
+pr interuro | 문장 || ijambo | 낱말
+pr inkuru | 이야기 || umugani | 옛이야기
+sm Soma inkuru mu ijwi riranguruye, hanyuma wandike interuro eshatu. | 이야기를 소리 내어 읽고, 문장 세 개를 써요.
+qz '문장'은? | interuro
+
+x yokeje | 구운
+x wose | 온, 내내
+x nzamara | 나는 지낼 거예요
+x itetse | 삶은, 익힌
+x sinywa | 나는 안 마셔요
+x ngombwa | 꼭 필요한
+x amategeko | 규칙들
+x mibi | 나쁜
+x aratera | (앞으로) 나아가요
+x imigani | 옛이야기들
+x mutegereze | 기다려 주세요
+x sinabimenye | 몰랐어요
+x bibaho | 그럴 수 있어요
+x sinzongera | 다시는 안 그럴게요
+x uraje | 너는 와요
+x yoo | 아이고
+x kubyumva | 그것을 듣다
+x mbibonye | 내가 그것을 보다
+x byoroshye | 쉬운
+x tuvugana | 우리는 연락해요
+x aza | 그는 와요
+x ibyumweru | 주(여럿)
+x ritetse | 삶은
+x orange | 오렌지
+x amacupa | 병들
+x ibirahure | 잔들
+x igikoma | 죽
+x litiro | 리터
+x arahenze | 비싸요
+x buraryoshye | 달아요, 맛있어요
+x bw'umwimerere | 진짜의, 원래의
+x urashize | 다 떨어졌어요
+x irazimye | 꺼졌어요
+x gushyiramo | 넣다
+x ryatobotse | 구멍이 났어요
+x guhindura | 바꾸다
+x paruka | 주차해요
+x ntuparike | 주차하지 마요
+x wambaye | 너는 맸다(입었다)
+x igira | 가까이 와요
+x kubahiriza | 지키다
+x ntukererwe | 지각하지 마요
+x yakerewe | 그는 지각했어요
+x nakerewe | 나는 지각했어요
+x yasibye | 그는 빠졌어요
+x ntugasibe | 빠지지 마요
+x wasibye | 너는 빠졌어요
+x mwubahe | 존중하세요
+x banyu | 여러분의
+x ndasaba | 부탁드려요
+x ntibakererwa | 그들은 지각하지 않아요
+x bubaha | 그들은 공경해요
+x akorana | 그는 ~하게 일해요
+x yateye | 그는 (앞으로) 나아갔어요
+x dushaka | 우리는 원해요
+x zizatangwa | 나눠 줄 거예요
+x mumushishikarize | 그를 격려해 주세요
+x bamushishikariza | 그들이 그를 격려해요
+x teranya | 더해요
+x ukuyemo | 빼면
+x ntibingana | 같지 않아요
+x tuziga | 우리는 배울 거예요
+x w'urukwavu | 토끼의
+x aca | (이야기를) 들려줘요
+x ndasobanukiwe | 이해했어요
+x ibizamini | 시험들
+x dukosore | 같이 고쳐요
+x ijwi | 목소리
+x tuzongera | 우리는 다시 ~할 거예요
+x sitasiyo | 주유소

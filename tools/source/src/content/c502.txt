@@ -1,0 +1,630 @@
+// 말소리 더하기 (v1.1): 소리가 비슷해서 헷갈리는 낱말 묶음
+# P1-B | 비슷하게 들리는 낱말
+
+@ 5-02-01 | '잉코·잉카' | inka·inkoko·inkono·inkuba | ink-로 시작하는 낱말이에요. 첫 부분이 같아서 뒷소리를 잘 들어야 해요.
+w inka | 소 | 소
+e Inka irarisha. | 소가 풀을 뜯어요.
+e Afite inka eshanu. | 그는 소가 다섯 마리 있어요.
+e Inka ni ingenzi mu Rwanda. | 르완다에서 소는 중요해요.
+w inkoko | 닭 | 닭
+e Inkoko itera amagi. | 닭이 알을 낳아요.
+e Turya inkoko ku cyumweru. | 일요일에 닭고기를 먹어요.
+e Inkoko eshatu. | 닭 세 마리.
+w inkono | 냄비 · 솥 | 냄비
+e Inkono iri ku muriro. | 냄비가 불 위에 있어요.
+e Oza inkono. | 냄비를 씻어요.
+e Inkono nini y'ibishyimbo. | 큰 콩 냄비.
+w inkuba | 천둥 · 벼락 | 천둥
+e Inkuba irakubita. | 천둥이 쳐요.
+e Mfite ubwoba bw'inkuba. | 천둥이 무서워요.
+e Inkuba n'imvura. | 천둥과 비.
+tp n이 k 앞에서는 받침 ㅇ처럼 나서 inka는 '잉카'로 들려요. inkoko(잉코코), inkono(잉코노), inkuba(잉쿠바).
+tp 우기에는 천둥(inkuba)이 아주 세요. 르완다는 번개가 많은 나라예요.
+pr Inka | 소 || Inkoko | 닭
+pr Inkono | 냄비 || Inkuba | 천둥
+sm Inkuba yakubise, inka n'inkoko zigira ubwoba, inkono iragwa. | 천둥이 치자 소와 닭이 놀라고 냄비가 떨어졌어요.
+qz '닭'은? | inkoko
+
+@ 5-02-02 | '아마~' | amata·amazi·amavuta·amaso | ama-로 시작하는 낱말이에요. 뒤 소리를 잘 구별해요.
+w amata | 우유 | 우유
+e Ndashaka amata. | 우유 주세요.
+e Amata ashyushye. | 따뜻한 우유.
+e Inka itanga amata. | 소가 우유를 줘요.
+w amazi | 물 | 물
+e Mpa amazi. | 물 줘요.
+e Amazi akonje. | 찬물.
+e Nywa amazi menshi. | 물 많이 마셔요.
+w amavuta | 기름 · 버터 · 로션 | 기름
+e Amavuta yo guteka. | 요리 기름.
+e Amavuta y'inka. | 버터.
+e Isiga amavuta. | 로션을 발라요.
+w amaso | 눈 (두 눈) | 눈
+e Funga amaso. | 눈을 감아요.
+e Amaso ye ni meza. | 그의 눈은 예뻐요.
+e Amaso arandya. | 눈이 아파요.
+tp amata(아마타 우유)와 amazi(아마지 물)는 자주 헷갈려요. 우유는 t, 물은 z예요.
+tp amaso는 두 눈이에요. 한쪽 눈은 ijisho예요.
+pr Amata | 우유 || Amazi | 물
+pr Amavuta | 기름 || Amaso | 눈
+sm Mpa amazi n'amata, kandi witonde amavuta atajya mu maso. | 물과 우유 주세요. 그리고 기름이 눈에 들어가지 않게 조심해요.
+qz '우유'는? | amata
+
+@ 5-02-03 | '우무티·우무트웨' | umuti·umutima·umutwe·umutobe | umut-로 시작하는 낱말이에요.
+w umuti | 약 | 약
+e Fata umuti. | 약 먹어요.
+e Umuti wo kurwanya malariya. | 말라리아 약.
+e Umuti urasharira. | 약이 써요.
+w umutima | 마음 · 심장 | 마음; 심장
+e Umutima wanjye urishimye. | 마음이 기뻐요.
+e Umutima mwiza. | 착한 마음.
+e Umutima urateraga cyane. | 심장이 많이 뛰었어요.
+w umutwe | 머리 | 머리
+e Umutwe urandya. | 머리가 아파요.
+e Umutwe w'umwana. | 아이의 머리.
+e Zunguza umutwe. | 고개를 저어요.
+w umutobe | 주스 | 주스
+e Umutobe w'imbuto. | 과일 주스.
+e Ndashaka umutobe w'umwembe. | 망고 주스 주세요.
+e Umutobe ukonje. | 차가운 주스.
+tp umuti(우무티 약)과 umutwe(우무트웨 머리)는 비슷하게 들려요. -twe의 w가 들리는지 잘 들어요.
+tp 약을 '먹다'는 kunywa(마시다)나 gufata(잡다)를 써요: Nywa umuti / Fata umuti.
+pr Umuti | 약 || Umutwe | 머리
+pr Umutima | 마음 || Umutobe | 주스
+sm Umutwe urandya, rero nanyoye umuti n'umutobe, none umutima wanjye urishimye. | 머리가 아파서 약과 주스를 마셨더니 이제 마음이 편해요.
+qz '머리'는? | umutwe
+
+@ 5-02-04 | '이카~' | ikaramu·ikarita·ikawa·ikanzu | ika-로 시작하는 낱말이에요.
+w ikaramu | 펜 · 볼펜 | 볼펜
+e Mpa ikaramu. | 볼펜 줘요.
+e Ikaramu y'ubururu. | 파란 볼펜.
+e Ikaramu yanjye yabuze. | 볼펜이 없어졌어요.
+w ikarita | 카드 · 지도 · 표 | 카드; 지도
+e Ikarita ya banki. | 은행 카드.
+e Reba ku ikarita. | 지도를 봐요.
+e Ikarita y'indangamuntu. | 신분증.
+w ikawa | 커피 | 커피
+e Ikawa y'u Rwanda iraryoshye. | 르완다 커피는 맛있어요.
+e Ndashaka ikawa n'amata. | 우유 넣은 커피 주세요.
+e Ikawa ishyushye. | 뜨거운 커피.
+w ikanzu | 원피스 · 드레스 | 원피스
+e Ikanzu nziza. | 예쁜 원피스.
+e Yambaye ikanzu y'umutuku. | 빨간 원피스를 입었어요.
+e Ndashaka kugura ikanzu. | 원피스를 사고 싶어요.
+tp ikaramu(이카라무), ikarita(이카리타), ikawa(이카와), ikanzu(이칸주): 셋째 소리부터 달라요.
+tp ikarita는 '카드'와 '지도' 둘 다예요.
+pr Ikaramu | 볼펜 || Ikarita | 카드
+pr Ikawa | 커피 || Ikanzu | 원피스
+sm Nambaye ikanzu, mfata ikaramu n'ikarita, njya kunywa ikawa. | 원피스를 입고, 볼펜과 지도를 챙겨서 커피 마시러 가요.
+qz '지도·카드'는? | ikarita
+
+@ 5-02-05 | '인주·인조카' | inzu·inzoka·inzara·inzira | inz-로 시작하는 낱말이에요.
+w inzu | 집 | 집
+e Inzu yanjye. | 우리 집.
+e Inzu nini. | 큰 집.
+e Inzu iri hafi y'ishuri. | 집이 학교 가까이 있어요.
+w inzoka | 뱀 · 기생충 | 뱀
+e Inzoka iri mu byatsi! | 풀 속에 뱀이 있어요!
+e Ntinya inzoka. | 뱀이 무서워요.
+e Umuti w'inzoka. | 구충제.
+w inzara | 배고픔 · 손톱 | 배고픔; 손톱
+e Mfite inzara. | 배고파요.
+e Inzara ndende. | 긴 손톱.
+e Kata inzara zawe. | 손톱을 깎아요.
+w inzira | 길 | 길
+e Inzira ijya ku isoko. | 시장 가는 길.
+e Nayobye inzira. | 길을 잃었어요.
+e Inzira ni ndende. | 길이 멀어요.
+tp inzu(인주), inzoka(인조카), inzara(인자라), inzira(인지라). 가운데 모음 u/o/a/i를 잘 들어요.
+tp inzara는 '배고픔'과 '손톱'이 같은 글자예요.
+pr Inzu | 집 || Inzira | 길
+pr Inzoka | 뱀 || Inzara | 배고픔
+sm Mu nzira ijya mu nzu, nabonye inzoka, mfite inzara. | 집에 가는 길에 뱀을 봤고, 배가 고팠어요.
+qz '길'은? | inzira
+
+@ 5-02-06 | '임부·임보' | imbwa·imbuto·imboga·imbeho | imb-로 시작하는 낱말이에요.
+w imbwa | 개 | 개
+e Imbwa iramoka. | 개가 짖어요.
+e Mfite ubwoba bw'imbwa. | 개가 무서워요.
+e Imbwa nto. | 작은 개.
+w imbuto | 과일 · 씨앗 | 과일; 씨앗
+e Ndashaka imbuto. | 과일 원해요.
+e Imbuto z'ibishyimbo. | 콩 씨앗.
+e Imbuto nyinshi. | 과일이 많아요.
+w imboga | 채소 | 채소
+e Imboga ni nziza ku buzima. | 채소는 건강에 좋아요.
+e Ndya imboga buri munsi. | 매일 채소를 먹어요.
+e Imboga mbisi. | 생채소.
+w imbeho | 추위 · 차가운 바람 | 추위
+e Hari imbeho. | 추워요.
+e Imbeho ya nijoro. | 밤 추위.
+e Muri Koreya hari imbeho nyinshi. | 한국은 많이 추워요.
+tp m이 b 앞에서는 받침 ㅁ처럼 나요: imbwa(임봐), imbuto(임부토), imboga(임보가), imbeho(임베호).
+tp imbuto(과일)와 imboga(채소)는 시장에서 자주 헷갈려요.
+pr Imbuto | 과일 || Imboga | 채소
+pr Imbwa | 개 || Imbeho | 추위
+sm Hari imbeho, imbwa iraryamye, nanjye ndya imbuto n'imboga. | 추워서 개는 누워 있고, 저는 과일과 채소를 먹어요.
+qz '채소'는? | imboga
+
+@ 5-02-07 | '쿠랴·쿠리라' | kurya·kurira·kuryama·kuruka | ku-r로 시작하는 동사예요.
+w kurya | 먹다 | 먹다
+e Ndashaka kurya. | 먹고 싶어요.
+e Ngiye kurya. | 먹으러 가요.
+e Kurya neza. | 잘 먹기.
+w kurira | 울다 | 울다
+e Ntukarire. | 울지 마.
+e Umwana ararira. | 아이가 울어요.
+e Yatangiye kurira. | 그는 울기 시작했어요.
+w kuryama | 자다 · 눕다 | 자다
+e Ngiye kuryama. | 자러 가요.
+e Ryama neza. | 잘 자요.
+e Kuryama kare. | 일찍 자기.
+w kuruka | 토하다 | 토하다
+e Ndashaka kuruka. | 토할 것 같아요.
+e Umwana yarutse. | 아이가 토했어요.
+e Kuruka no gucibwamo. | 구토와 설사.
+tp kurya(쿠랴), kurira(쿠리라), kuryama(쿠랴마), kuruka(쿠루카). kurya와 kuryama는 앞이 같아요.
+tp 병원에서 Ndashaka kuruka(토할 것 같아요)를 알아 두면 좋아요(→ 1-09-03).
+pr Kurya | 먹다 || Kuryama | 자다
+pr Kurira | 울다 || Kuruka | 토하다
+sm Umwana yariye cyane, aruka, ararira, hanyuma araryama. | 아이가 많이 먹고 토하고 울다가 잠들었어요.
+qz '자다'는? | kuryama
+
+@ 5-02-08 | '쿠자·쿠쟈' | kuza·kujya·kuva·kuba | 짧은 동사들이에요. 한 소리 차이로 뜻이 달라요.
+w kuza | 오다 | 오다
+e Ngwino! | 와!
+e Azaza ejo. | 그는 내일 와요.
+e Uzaza ryari? | 언제 와요?
+w kujya | 가다 | 가다
+e Njya ku isoko. | 시장에 가요.
+e Ujya he? | 어디 가요?
+e Tujya mu rugo. | 집에 가요.
+w kuva | ~에서 오다 · 떠나다 | ~에서 오다
+e Mvuye i Seoul. | 서울에서 왔어요.
+e Uva he? | 어디서 와요?
+e Imvura iva mu bicu. | 비는 구름에서 와요.
+w kuba | 있다 · 살다 · ~이다 | 살다; 있다
+e Mba i Kigali. | 키갈리에 살아요.
+e Uba he? | 어디 살아요?
+e Ndashaka kuba umwarimu. | 선생님이 되고 싶어요.
+tp kuza(쿠자 오다)와 kujya(쿠쟈 가다)는 소리가 비슷해요. jy는 혀를 입천장에 대는 '쟈' 소리예요.
+tp kuva(~에서) ↔ kujya(~로): kuva i Kigali kujya i Huye(키갈리에서 후예로).
+pr Kuza | 오다 || Kujya | 가다
+pr Kuva | ~에서 오다 || Kuba | 살다
+sm Mba i Kigali, mvuye i Seoul, ejo nzajya i Huye, hanyuma nzaza hano. | 저는 키갈리에 살고, 서울에서 왔고, 내일 후예에 갔다가 여기로 올 거예요.
+qz '가다'는? | kujya
+
+@ 5-02-09 | '구코라·구키나' | gukora·gukina·gukunda·gukaraba | guk-로 시작하는 동사예요.
+w gukora | 일하다 · 하다 | 일하다
+e Nkora ku ishuri. | 학교에서 일해요.
+e Ukora iki? | 무슨 일 해요?
+e Gukora cyane. | 열심히 일하기.
+w gukina | 놀다 · 경기하다 | 놀다
+e Abana barakina. | 아이들이 놀아요.
+e Dukina umupira. | 축구해요.
+e Ngwino dukine! | 와서 놀자!
+w gukunda | 좋아하다 | 좋아하다
+e Nkunda icyayi. | 차를 좋아해요.
+e Ukunda iki? | 뭘 좋아해요?
+e Ndagukunda. | 사랑해요.
+w gukaraba | 손 씻다 | 손 씻다
+e Karaba intoki. | 손 씻어요.
+e Ngiye gukaraba. | 손 씻으러 가요.
+e Mbere yo kurya turakaraba. | 먹기 전에 손을 씻어요.
+tp gukora(구코라), gukina(구키나), gukunda(구쿤다), gukaraba(구카라바): 둘째 음절 모음을 잘 들어요.
+pr Gukora | 일하다 || Gukina | 놀다
+pr Gukunda | 좋아하다 || Gukaraba | 손 씻다
+sm Nkunda gukora mu gitondo, gukina nimugoroba, kandi ngakaraba mbere yo kurya. | 아침엔 일하고 저녁엔 놀고, 먹기 전엔 손을 씻는 걸 좋아해요.
+qz '놀다'는? | gukina
+
+@ 5-02-10 | '우뫄나·우뫄미' | umwana·umwami·umwaka·umwanya | umwa-로 시작하는 낱말이에요.
+w umwana | 아이 | 아이
+e Umwana wanjye. | 내 아이.
+e Umwana mwiza. | 착한 아이.
+e Umwana arakina. | 아이가 놀아요.
+w umwami | 왕 | 왕
+e Umwami wa kera. | 옛날 왕.
+e Ingoro y'umwami i Nyanza. | 냔자의 왕궁.
+e Umwami n'umwamikazi. | 왕과 왕비.
+w umwaka | 해 · 년 | 해
+e Umwaka utaha. | 내년.
+e Mfite imyaka makumyabiri. | 스무 살이에요.
+e Umwaka mushya muhire! | 새해 복 많이 받으세요!
+w umwanya | 시간 · 자리 | 시간; 자리
+e Nta mwanya mfite. | 시간이 없어요.
+e Hari umwanya hano? | 여기 자리 있어요?
+e Umwanya wa mbere. | 1등(첫 자리).
+tp umwana(우뫄나), umwami(우뫄미), umwaka(우뫄카), umwanya(우뫄냐): mw는 한 소리로 '뫄'가 돼요.
+tp 냔자(Nyanza)에는 옛 왕궁(Ingoro y'umwami)이 있어서 구경할 수 있어요.
+pr Umwana | 아이 || Umwami | 왕
+pr Umwaka | 해 || Umwanya | 시간
+sm Uyu mwaka, umwana w'umwami yabonye umwanya wa mbere. | 올해 왕의 아이가 1등을 했어요.
+qz '왕'은? | umwami
+
+@ 5-02-11 | '이챠~·이츄~' | icyayi·icyumba·icyumweru·icyaro | icy-로 시작하는 낱말이에요.
+w icyayi | 차 | 차
+e Icyayi n'amata. | 밀크티.
+e Nywa icyayi. | 차 마셔요.
+e Icyayi cy'u Rwanda. | 르완다 차.
+w icyumba | 방 | 방
+e Icyumba cyanjye. | 내 방.
+e Icyumba ni gito. | 방이 작아요.
+e Icyumba cy'ishuri. | 교실.
+w icyumweru | 주 · 일요일 | 주; 일요일
+e Icyumweru gitaha. | 다음 주.
+e Ku cyumweru njya gusenga. | 일요일에 예배하러 가요.
+e Icyumweru kimwe. | 한 주.
+w icyaro | 시골 | 시골
+e Mu cyaro. | 시골에서.
+e Icyaro ni cyiza. | 시골은 좋아요.
+e Ababyeyi baba mu cyaro. | 부모님은 시골에 사세요.
+tp icy-는 '이치'가 아니라 혀를 입천장에 붙인 '이챠·이츄' 소리예요: icyayi(이챠이), icyumba(이츔바).
+tp icyumweru는 '주(7일)'와 '일요일' 둘 다예요: ku cyumweru(일요일에).
+pr Icyayi | 차 || Icyaro | 시골
+pr Icyumba | 방 || Icyumweru | 주
+sm Buri cyumweru njya mu cyaro, nkanywa icyayi mu cyumba cya nyogokuru. | 매주 시골에 가서 할머니 방에서 차를 마셔요.
+qz '방'은? | icyumba
+
+@ 5-02-12 | '이소코·이소모' | isoko·isomo·isuku·isukari | is-로 시작하는 낱말이에요.
+w isoko | 시장 | 시장
+e Njya ku isoko. | 시장에 가요.
+e Isoko rinini. | 큰 시장.
+e Isoko rya Kimironko. | 키미론코 시장.
+w isomo | 수업 | 수업
+e Isomo ry'imibare. | 수학 수업.
+e Isomo rirangiye. | 수업이 끝났어요.
+e Isomo rishya. | 새 수업.
+w isuku | 깨끗함 · 위생 | 위생
+e Isuku ni ingenzi. | 위생이 중요해요.
+e Gira isuku. | 깨끗이 해요.
+e Isuku y'umujyi. | 도시의 깨끗함.
+w isukari | 설탕 | 설탕
+e Icyayi kirimo isukari. | 차에 설탕이 들어 있어요.
+e Nta sukari. | 설탕 빼 주세요.
+e Isukari nke. | 설탕 조금.
+tp isoko(이소코 시장)와 isomo(이소모 수업)는 끝 자음 하나만 달라요(k/m).
+tp isuku(위생)와 isukari(설탕)는 앞이 같아요.
+pr Isoko | 시장 || Isomo | 수업
+pr Isuku | 위생 || Isukari | 설탕
+sm Nyuma y'isomo, njya ku isoko kugura isukari, kandi ngira isuku. | 수업이 끝나면 설탕을 사러 시장에 가고, 깨끗이 해요.
+qz '수업'은? | isomo
+
+@ 5-02-13 | '이자·이조' | ijambo·ijana·ijoro·ijisho | ij-로 시작하는 낱말이에요.
+w ijambo | 낱말 · 말 | 낱말
+e Ijambo rishya. | 새 낱말.
+e Iri jambo bisobanura iki? | 이 낱말은 무슨 뜻이에요?
+e Amagambo menshi. | 많은 낱말.
+w ijana | 백 (100) | 백
+e Ijana. | 100.
+e Amafaranga ijana. | 100프랑.
+e Abantu ijana. | 사람 100명.
+w ijoro | 밤 | 밤
+e Ijoro ryiza! | 좋은 밤 보내요!
+e Mu ijoro. | 밤에.
+e Ijoro rimwe. | 하룻밤.
+w ijisho | 눈 (한쪽) | 눈
+e Ijisho ryanjye rirababara. | 눈이 아파요.
+e Ijisho ry'iburyo. | 오른쪽 눈.
+e Amaso abiri. | 두 눈.
+tp ij-는 '이자·이조'처럼 들려요: ijambo(이잠보), ijana(이자나), ijoro(이조로), ijisho(이지쇼).
+tp 복수는 ama-: ijambo → amagambo(바뀜!), ijisho → amaso, ijoro → amajoro.
+pr Ijambo | 낱말 || Ijana | 백
+pr Ijoro | 밤 || Ijisho | 눈
+sm Mu ijoro rimwe nize amagambo ijana, none mfite ibitotsi. | 하룻밤에 낱말 백 개를 외웠더니 이제 졸려요.
+qz '밤'은? | ijoro
+
+@ 5-02-14 | '우부와·우부와토' | ubwoba·ubwato·ubwiza·ubwiherero | ubw-로 시작하는 낱말이에요.
+w ubwoba | 무서움 | 무서움
+e Mfite ubwoba. | 무서워요.
+e Ntugire ubwoba. | 겁내지 마.
+e Ubwoba bwinshi. | 큰 두려움.
+w ubwato | 배 (타는 배) | 배
+e Ubwato ku kiyaga cya Kivu. | 키부 호수의 배.
+e Twagiye mu bwato. | 배를 탔어요.
+e Ubwato ni buto. | 배가 작아요.
+w ubwiza | 아름다움 | 아름다움
+e Ubwiza bw'imisozi. | 언덕의 아름다움.
+e Ubwiza bwa Kivu. | 키부의 아름다움.
+e Ubwiza butangaje. | 놀라운 아름다움.
+w ubwiherero | 화장실 | 화장실
+e Ubwiherero buri he? | 화장실 어디예요?
+e Ubwiherero busukuye. | 깨끗한 화장실.
+e Nshaka ubwiherero. | 화장실 가고 싶어요.
+tp ubw-는 '우봐·우뵤'처럼 bw가 한 소리예요: ubwoba(우보바), ubwato(우봐토), ubwiza(우뷔자).
+tp 화장실 위치는 Ubwiherero buri he?로 물어요.
+pr Ubwoba | 무서움 || Ubwiza | 아름다움
+pr Ubwato | 배 || Ubwiherero | 화장실
+sm Mu bwato kuri Kivu nabonye ubwiza bwinshi, ariko nari mfite ubwoba bw'amazi. | 키부 호수 배에서 아름다운 풍경을 봤지만 물이 무서웠어요.
+qz '배(타는 것)'는? | ubwato
+
+# P1-C | 소리 구별
+
+@ 5-03-01 | 받침처럼 나는 n·m | inka·imbwa·indege·inzu | 자음 앞의 n·m은 앞 모음에 붙어 받침처럼 나요.
+w indege | 비행기 | 비행기
+e Indege iraje. | 비행기가 와요.
+e Ngiye mu ndege. | 비행기를 타요.
+e Indege ya RwandAir. | 르완다항공 비행기.
+w ingoma | 북 · 왕국 | 북
+e Kuvuza ingoma. | 북을 쳐요.
+e Ingoma z'u Rwanda. | 르완다 북들.
+e Ingoma ni nini. | 북이 커요.
+w imfura | 맏이 · 첫째 | 맏이
+e Ndi imfura. | 저는 맏이예요.
+e Imfura yabo yiga muri kaminuza. | 그들의 맏이는 대학에 다녀요.
+e Imfura n'abato. | 맏이와 동생들.
+w intebe | 의자 | 의자
+e Icara ku ntebe. | 의자에 앉아요.
+e Intebe eshatu. | 의자 세 개.
+e Intebe nshya. | 새 의자.
+tp n+d → '인데게', n+g → '잉고마', m+f → '임푸라', n+t → '인테베'. 한국어 받침처럼 들어요.
+tp 낱말 처음에 오는 n·m은 '은·음'처럼 약하게 나요: ndashaka(은다샤카), mbese(음베세).
+pr Indege | 비행기 || Ingoma | 북
+pr Imfura | 맏이 || Intebe | 의자
+sm Imfura yanjye yicaye ku ntebe mu ndege, yumva ingoma. | 우리 맏이가 비행기 의자에 앉아 북소리를 들었어요.
+qz '의자'는? | intebe
+
+@ 5-03-02 | ny와 n | inyama·inama·inyanya·inanasi | ny(냐)와 n(나)은 다른 소리예요.
+w inyama | 고기 | 고기
+e Ndya inyama. | 고기를 먹어요.
+e Inyama y'inka. | 소고기.
+e Inyama zokeje. | 구운 고기.
+w inama | 회의 · 조언 | 회의; 조언
+e Inama itangira saa tatu. | 회의는 9시에 시작해요.
+e Mpa inama. | 조언해 줘요.
+e Turi mu nama. | 회의 중이에요.
+w inyanya | 토마토 | 토마토
+e Inyanya zitukura. | 빨간 토마토.
+e Kata inyanya. | 토마토를 썰어요.
+e Ikiro cy'inyanya. | 토마토 1킬로.
+w inanasi | 파인애플 | 파인애플
+e Inanasi iraryoshye. | 파인애플이 맛있어요.
+e Umutobe w'inanasi. | 파인애플 주스.
+e Inanasi imwe. | 파인애플 하나.
+tp inyama(이냐마 고기) ↔ inama(이나마 회의): y 하나 차이로 뜻이 완전히 달라요.
+tp inyanya(이냐냐 토마토) ↔ inanasi(이나나시 파인애플)도 시장에서 헷갈리기 쉬워요.
+pr Inyama | 고기 || Inama | 회의
+pr Inyanya | 토마토 || Inanasi | 파인애플
+sm Nyuma y'inama, twariye inyama n'inyanya, tunywa umutobe w'inanasi. | 회의 끝나고 고기와 토마토를 먹고 파인애플 주스를 마셨어요.
+qz '회의'는? | inama
+
+@ 5-03-03 | sh와 s | isoko·ishuri·isuka·ishati | sh(시 계열)와 s(ㅅ)를 구별해요.
+w ishuri | 학교 | 학교
+e Njya ku ishuri. | 학교에 가요.
+e Ishuri ryacu. | 우리 학교.
+e Ishuri ritangira saa moya. | 학교는 7시에 시작해요.
+w ishati | 셔츠 | 셔츠
+e Ishati y'umweru. | 흰 셔츠.
+e Ndashaka ishati nshya. | 새 셔츠를 원해요.
+e Iyi shati ni nini. | 이 셔츠는 커요.
+w isuka | 괭이 | 괭이
+e Isuka yo guhinga. | 밭 가는 괭이.
+e Umuhinzi afite isuka. | 농부가 괭이를 들고 있어요.
+e Isuka nshya. | 새 괭이.
+w isoko | 시장 | 시장
+e Isoko riri hafi. | 시장이 가까워요.
+e Ku isoko hari abantu benshi. | 시장에 사람이 많아요.
+e Isoko rifunga saa kumi n'ebyiri. | 시장은 6시에 닫아요.
+tp sh는 '시·샤·슈·쇼' 쪽, s는 'ㅅ'이에요: ishuri(이슈리) vs isoko(이소코), ishati(이샤티) vs isuka(이수카).
+tp 르완다 사람 대부분이 농사를 지어서 괭이(isuka)는 집집마다 있어요.
+pr Ishuri | 학교 || Isoko | 시장
+pr Ishati | 셔츠 || Isuka | 괭이
+sm Mu gitondo njya ku ishuri nambaye ishati, nimugoroba njya ku isoko kugura isuka. | 아침엔 셔츠를 입고 학교에 가고, 저녁엔 괭이를 사러 시장에 가요.
+qz '괭이'는? | isuka
+
+@ 5-03-04 | f와 p | ifi·ifoto·ipantalo·ipapayi | f(입술+이)와 p(입술)를 구별해요. 한글로는 둘 다 ㅍ이에요.
+w ifi | 물고기 · 생선 | 생선
+e Ifi yo muri Kivu. | 키부 호수 생선.
+e Ndya ifi. | 생선을 먹어요.
+e Ifi zokeje. | 구운 생선.
+w ifoto | 사진 | 사진
+e Reka dufate ifoto. | 사진 찍어요.
+e Ifoto nziza. | 좋은 사진.
+e Nshobora gufata ifoto? | 사진 찍어도 돼요?
+w ipantalo | 바지 | 바지
+e Ipantalo y'umukara. | 검은 바지.
+e Ipantalo ni ndende. | 바지가 길어요.
+e Ndashaka ipantalo. | 바지를 원해요.
+w ipapayi | 파파야 | 파파야
+e Ipapayi irahiye. | 파파야가 익었어요.
+e Umutobe wa papayi. | 파파야 주스.
+e Ipapayi nini. | 큰 파파야.
+tp f는 윗니를 아랫입술에 대고 내요(ifi, ifoto). p는 두 입술을 붙였다 떼요(ipantalo, ipapayi).
+tp 사람 사진을 찍을 때는 먼저 Nshobora gufata ifoto?(사진 찍어도 돼요?)라고 물어요.
+pr Ifi | 생선 || Ipapayi | 파파야
+pr Ifoto | 사진 || Ipantalo | 바지
+sm Nafashe ifoto y'ifi n'ipapayi, nambaye ipantalo nshya. | 새 바지를 입고 생선과 파파야 사진을 찍었어요.
+qz '사진'은? | ifoto
+
+@ 5-03-05 | v 소리 | kuvuga·imvura·ivuriro·kuva | v(입술+이)는 한글로 ㅂ로 쓰지만 b와 다른 소리예요.
+w kuvuga | 말하다 | 말하다
+e Vuga cyane. | 크게 말해요.
+e Avuga vuba. | 빨리 말해요.
+e Kuvuga Ikinyarwanda. | 르완다어로 말하기.
+w imvura | 비 | 비
+e Imvura iragwa. | 비가 와요.
+e Imvura nyinshi. | 많은 비.
+e Nta mvura uyu munsi. | 오늘은 비가 안 와요.
+w ivuriro | 진료소 · 보건소 | 진료소
+e Ivuriro riri hafi. | 진료소가 가까워요.
+e Jya ku ivuriro. | 진료소에 가요.
+e Ivuriro ry'umudugudu. | 마을 보건소.
+w kuva | ~에서 오다 · 떠나다 | ~에서 오다
+e Uva he? | 어디서 와요?
+e Mvuye ku ishuri. | 학교에서 왔어요.
+e Kuva ejo. | 어제부터.
+tp v는 윗니를 아랫입술에 살짝 대고 떨어요. b(ㅂ)처럼 입술을 다 붙이지 않아요.
+tp imvura는 m+v라서 '임부라'처럼 들려요.
+pr Kuvuga | 말하다 || Kuva | ~에서 오다
+pr Imvura | 비 || Ivuriro | 진료소
+sm Imvura yaguye mvuye ku ivuriro, maze mvugana n'umuganga kuri telefoni. | 진료소에서 오는 길에 비가 와서 의사와 전화로 이야기했어요.
+qz '비'는? | imvura
+
+@ 5-03-06 | ku-와 gu- | kurya·gukora·gusoma·kujya | 동사 원형은 ku- 또는 gu-로 시작해요. 뒤 자음에 따라 바뀌어요.
+w kurya | 먹다 (ku-) | 먹다
+e Kurya mu gitondo. | 아침에 먹기.
+e Ndashaka kurya. | 먹고 싶어요.
+e Kurya buhoro. | 천천히 먹기.
+w gukora | 일하다 (gu-) | 일하다
+e Gukora cyane. | 열심히 일하기.
+e Ndashaka gukora. | 일하고 싶어요.
+e Gukora hamwe. | 함께 일하기.
+w gusoma | 읽다 (gu-) | 읽다
+e Gusoma ibitabo. | 책 읽기.
+e Nkunda gusoma. | 읽기를 좋아해요.
+e Gusoma no kwandika. | 읽기와 쓰기.
+w kujya | 가다 (ku-) | 가다
+e Kujya ku isoko. | 시장에 가기.
+e Ndashaka kujya mu rugo. | 집에 가고 싶어요.
+e Kujya kure. | 멀리 가기.
+tp 뒤 자음이 k, t, s, f, c, sh, p(목청 안 울리는 소리)이면 gu-, 나머지는 ku-예요: gukora, gutaha, gusoma / kurya, kujya, kubona.
+tp 그래서 '일하다' gukora인데 '사다'는 kugura예요. 소리를 부드럽게 하려는 규칙이에요.
+pr Kurya | 먹다 || Gukora | 일하다
+pr Kujya | 가다 || Gusoma | 읽다
+sm Ndashaka kurya, gukora, gusoma, hanyuma kujya kuryama. | 먹고, 일하고, 읽고, 그다음에 자러 가고 싶어요.
+qz '읽다'는? | gusoma
+
+@ 5-03-07 | h 소리 | hano·hasi·ihene·hejuru | h는 한국어 ㅎ과 같아요. 약하게 들릴 때도 있어요.
+w hasi | 아래 · 바닥 | 아래
+e Shyira hasi. | 아래에 놓아요.
+e Icara hasi. | 바닥에 앉아요.
+e Hasi y'ameza. | 책상 아래.
+w hejuru | 위 | 위
+e Hejuru y'inzu. | 집 위.
+e Reba hejuru. | 위를 봐요.
+e Indege iri hejuru. | 비행기가 위에 있어요.
+w ihene | 염소 | 염소
+e Ihene irarya ibyatsi. | 염소가 풀을 먹어요.
+e Ihene ebyiri. | 염소 두 마리.
+e Inyama y'ihene. | 염소 고기.
+w hafi | 가까이 | 가까이
+e Isoko riri hafi. | 시장이 가까워요.
+e Ngwino hafi. | 가까이 와.
+e Hafi y'ishuri. | 학교 근처.
+tp h는 한국어 ㅎ처럼 내면 돼요: hano(하노), hasi(하시), hejuru(헤주루), ihene(이헤네).
+tp 르완다 브로셰트는 염소 고기(inyama y'ihene)로 많이 만들어요.
+pr Hasi | 아래 || Hejuru | 위
+pr Hafi | 가까이 || Kure | 멀리
+sm Ihene iri hasi hafi y'inzu, inyoni iri hejuru. | 염소는 집 가까이 아래에 있고, 새는 위에 있어요.
+qz '위'는? | hejuru
+
+@ 5-03-08 | 콧소리 ng·nk·nd·nz | ingagi·inkweto·indimi·inzovu | 콧소리가 앞에 붙은 동물·물건 이름이에요.
+w ingagi | 고릴라 | 고릴라
+e Ingagi ziba mu misozi. | 고릴라는 산에 살아요.
+e Gusura ingagi. | 고릴라 보러 가기.
+e Ingagi ni nini. | 고릴라는 커요.
+w inkweto | 신발 | 신발
+e Inkweto nshya. | 새 신발.
+e Kuramo inkweto. | 신발을 벗어요.
+e Inkweto zanjye zatose. | 신발이 젖었어요.
+w inzovu | 코끼리 | 코끼리
+e Inzovu ziri muri Akagera. | 코끼리는 아카게라에 있어요.
+e Inzovu ni nini cyane. | 코끼리는 아주 커요.
+e Twabonye inzovu. | 코끼리를 봤어요.
+w intare | 사자 | 사자
+e Intare ni umwami w'ishyamba. | 사자는 숲의 왕이에요.
+e Twabonye intare ebyiri. | 사자 두 마리를 봤어요.
+e Intare irasinziriye. | 사자가 자요.
+tp ingagi(잉가기), inkweto(잉퀘토), inzovu(인조부), intare(인타레): 앞 콧소리가 받침처럼 나요.
+tp 아카게라 국립공원에는 사자·코끼리·기린 등이, 화산 국립공원에는 고릴라가 있어요.
+pr Ingagi | 고릴라 || Inzovu | 코끼리
+pr Intare | 사자 || Inkweto | 신발
+sm Muri Akagera twabonye inzovu n'intare, mu majyaruguru tubona ingagi. | 아카게라에서 코끼리와 사자를, 북쪽에서는 고릴라를 봤어요.
+qz '코끼리'는? | inzovu
+
+@ 5-03-09 | 모음이 만나면 | n'umwana·y'ishuri·w'u Rwanda | 낱말 끝 모음과 다음 낱말 첫 모음이 만나면 앞 모음이 빠지고 '(줄임표)로 써요.
+w n'umwana | 아이와 · 그리고 아이 (na + umwana) | 아이와
+e Mama n'umwana. | 엄마와 아이.
+e Nagiye n'umwana wanjye. | 아이와 함께 갔어요.
+e Data n'umwana barakina. | 아빠와 아이가 놀아요.
+w y'ishuri | 학교의 (ya + ishuri) | 학교의
+e Imodoka y'ishuri. | 학교 버스.
+e Imyenda y'ishuri. | 교복.
+e Inzu y'ishuri. | 학교 건물.
+w w'u Rwanda | 르완다의 (wa + u Rwanda) | 르완다의
+e Umuco w'u Rwanda. | 르완다 문화.
+e Umurwa mukuru w'u Rwanda. | 르완다의 수도.
+e Umupira w'u Rwanda. | 르완다 축구.
+w nk'umwarimu | 선생님처럼 (nka + umwarimu) | 선생님처럼
+e Avuga nk'umwarimu. | 그는 선생님처럼 말해요.
+e Ndashaka kuba nk'umwarimu wanjye. | 우리 선생님처럼 되고 싶어요.
+e Yambara nk'umwarimu. | 선생님처럼 입어요.
+tp na + umwana → n'umwana(누뫄나), ya + ishuri → y'ishuri(이슈리), nka + umwarimu → nk'umwarimu(응쿠뫄리무).
+tp 읽을 때는 두 낱말을 한 낱말처럼 이어서 읽어요(→ 6-01-08).
+pr Na umwana | 이렇게는 쓰지 않아요 || N'umwana | 아이와
+pr Ya ishuri | 이렇게는 쓰지 않아요 || Y'ishuri | 학교의
+sm Umwarimu w'ishuri n'umwana we bavuga Ikinyarwanda nk'Abanyarwanda. | 학교 선생님과 그의 아이는 르완다 사람처럼 르완다어를 해요.
+qz 'na + umwana'는? | n'umwana
+
+@ 5-03-10 | 길게 들리는 소리 | Rwanda·Kigali·Kinyarwanda | 르완다어는 강세보다 모음 길이와 높낮이가 중요해요. 이름부터 바르게 읽어 봐요.
+w Rwanda | 르완다 | 르완다
+e U Rwanda ni rwiza. | 르완다는 아름다워요.
+e Mu Rwanda. | 르완다에서.
+e Abantu bo mu Rwanda. | 르완다 사람들.
+w Kigali | 키갈리 | 키갈리
+e Ntuye i Kigali. | 키갈리에 살아요.
+e Kigali irasukuye. | 키갈리는 깨끗해요.
+e Kuva i Kigali. | 키갈리에서.
+w Kinyarwanda | 르완다어 (줄여 부를 때) | 르완다어
+e Ikinyarwanda. | 르완다어.
+e Muvuga Kinyarwanda? | 르완다어 해요?
+e Kinyarwanda cyiza. | 좋은 르완다어.
+w Huye | 후예 (남쪽 도시) | 후예
+e Kaminuza iri i Huye. | 대학이 후예에 있어요.
+e Huye ni umujyi w'abanyeshuri. | 후예는 학생들의 도시예요.
+e Ngiye i Huye. | 후예에 가요.
+tp Rwanda는 '르완다'보다 '롼다'에 가깝게 r와 w를 붙여 빨리 내요.
+tp 도시 이름 앞에는 i를 붙여요: i Kigali(키갈리에서/로), i Huye(후예에서/로).
+pr Rwanda | 르완다 || Kigali | 키갈리
+pr Huye | 후예 || Musanze | 무산제
+sm Ntuye i Kigali, ariko nkunda Huye, kandi nkunda u Rwanda rwose. | 키갈리에 살지만 후예도 좋고, 르완다 전체를 좋아해요.
+qz 도시 이름 앞에 붙이는 말은? | i
+x twabonye | 우리는 봤다
+x urishimye | 기쁘다
+x uva | 너는 ~에서 온다
+x zokeje | 구운
+x irarisha | 풀을 뜯는다
+x itera | 낳는다
+x irakubita | 친다
+x yakubise | 쳤다
+x zigira | 갖게 되다
+x itanga | 준다
+x isiga | 바른다
+x arandya | 아프다(나를 문다)
+x atajya | 들어가지 않게
+x kurwanya | 맞서다
+x urasharira | 쓰다(맛)
+x urateraga | 뛰고 있었다
+x zunguza | 흔들어라
+x ukonje | 차가운
+x y'indangamuntu | 신분의
+x ishyushye | 뜨거운
+x mbisi | 날것의
+x iraryamye | 누워 있다
+x yatangiye | 시작했다
+x yariye | 먹었다
+x aruka | 토한다
+x araryama | 잔다
+x iva | 온다
+x dukina | 우리는 논다
+x ngakaraba | 그리고 나는 씻는다
+x arakina | 논다
+x rirangiye | 끝났다
+x rirababara | 아프다
+x twagiye | 우리는 갔다
+x buto | 작은
+x butangaje | 놀라운
+x busukuye | 깨끗한
+x rwandair | 르완다항공
+x kuvuza | 치다(악기)
+x z'u | ~의
+x n'abato | 그리고 동생들
+x yumva | 듣는다
+x itangira | 시작한다
+x zitukura | 빨간
+x ikiro | 킬로그램
+x twariye | 우리는 먹었다
+x tunywa | 우리는 마신다
+x mvugana | 나는 이야기한다
+x irasinziriye | 자고 있다
+x tubona | 우리는 본다
+x yambara | 입는다
+x muvuga | 여러분은 말한다

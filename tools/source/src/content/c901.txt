@@ -1,0 +1,759 @@
+// 셋째 예문 (v1.1 단어들)
+E 1-01-01 | Muraho | Muraho neza, bana! | 얘들아, 안녕!
+E 1-01-01 | Mwaramutse | Mwaramutse, mwaraye neza? | 좋은 아침이에요, 잘 주무셨어요?
+E 1-01-01 | Mwiriwe | Mwiriwe, mwiriwe neza? | 안녕하세요, 오후 잘 보내셨어요?
+E 1-01-01 | Amakuru? | Amakuru yo mu rugo? | 집안은 다 평안해요?
+E 1-01-01 | Ni meza | Amakuru ni meza cyane. | 아주 잘 지내요.
+E 1-01-01 | Murakoze | Murakoze kuza. | 와 주셔서 고마워요.
+E 1-01-01 | Murabeho | Murabeho, tuzongera kubonana. | 안녕히 계세요, 다시 만나요.
+E 1-01-02 | Nitwa | Nitwa Minsu, ndi Umunyakoreya. | 제 이름은 민수고 한국 사람이에요.
+E 1-01-02 | Witwa nde? | Uyu mwana witwa nde? | 이 아이는 이름이 뭐예요?
+E 1-01-02 | Ndi Umunyakoreya | Ndi Umunyakoreya, ntuye i Kigali. | 저는 한국 사람이고 키갈리에 살아요.
+E 1-01-02 | Mfite imyaka | Mfite imyaka mirongo itatu. | 저는 서른 살이에요.
+E 1-01-03 | Yego | Yego, murakoze. | 네, 고마워요.
+E 1-01-03 | Oya | Oya, simbishaka. | 아니요, 원하지 않아요.
+E 1-01-03 | Ni byo | Yego, ni byo. | 네, 맞아요.
+E 1-01-03 | Nta kibazo | Nta kibazo, genda. | 괜찮아요, 가세요.
+E 1-01-03 | Sawa | Sawa, tuzabonana ejo. | 좋아요, 내일 봐요.
+E 1-01-03 | Ni byiza | Ni byiza kukubona. | 만나서 좋아요.
+E 1-01-03 | Birashoboka | Ejo birashoboka. | 내일은 가능해요.
+E 1-01-04 | Simbyumva | Mbabarira, simbyumva neza. | 미안해요, 잘 이해가 안 돼요.
+E 1-01-04 | Ndabyumva | Ubu ndabyumva. | 이제 알겠어요.
+E 1-01-04 | Bivugwa gute? | Iri jambo bivugwa gute? | 이 낱말은 어떻게 말해요?
+E 1-01-04 | Bisobanura iki? | Iri jambo bisobanura iki? | 이 낱말은 무슨 뜻이에요?
+E 1-01-04 | Mbabarira | Mbabarira, ongera uvuge. | 미안해요, 다시 말해 줘요.
+E 1-01-05 | Ndananiwe | Uyu munsi ndananiwe. | 오늘은 피곤해요.
+E 1-01-05 | Ndashonje | Ndashonje, ndashaka kurya. | 배고파요, 먹고 싶어요.
+E 1-01-05 | Mfite inyota | Mfite inyota, mpa amazi. | 목말라요, 물 주세요.
+E 1-01-05 | Mfite ubwoba | Nijoro mfite ubwoba. | 밤에는 무서워요.
+E 1-01-05 | Birakonje | Mu gitondo birakonje. | 아침에는 추워요.
+E 1-01-06 | he | Utuye he? | 어디 살아요?
+E 1-01-06 | ryari | Uzagaruka ryari? | 언제 돌아와요?
+E 1-01-06 | gute | Bikorwa gute? | 어떻게 해요?
+E 1-01-06 | angahe | Ni amafaranga angahe? | 얼마예요?
+E 1-02-01 | rimwe | Nza hano rimwe mu cyumweru. | 일주일에 한 번 여기 와요.
+E 1-02-01 | kabiri | Ndya kabiri ku munsi. | 하루에 두 번 먹어요.
+E 1-02-01 | gatatu | Ni ubwa gatatu nje hano. | 여기 온 게 세 번째예요.
+E 1-02-01 | kane | Ku wa kane ndiga. | 목요일에 공부해요.
+E 1-02-01 | gatanu | Umwaka wa gatanu. | 5학년.
+E 1-02-01 | gatandatu | Umwaka wa gatandatu. | 6학년.
+E 1-02-01 | karindwi | Ni inshuro ya karindwi. | 일곱 번째예요.
+E 1-02-01 | umunani | Abana umunani. | 아이 여덟 명.
+E 1-02-01 | icyenda | Saa icyenda. | (오후) 3시.
+E 1-02-01 | icumi | Abantu icumi. | 열 사람.
+E 1-02-02 | cumi na rimwe | Abana cumi n'umwe. | 아이 열한 명.
+E 1-02-02 | cumi na gatanu | Iminota cumi n'itanu. | 15분.
+E 1-02-02 | mirongo itatu | Iminota mirongo itatu. | 30분.
+E 1-02-02 | mirongo ine | Abanyeshuri mirongo ine. | 학생 마흔 명.
+E 1-02-02 | mirongo itanu | Amafaranga mirongo itanu. | 50프랑.
+E 1-02-02 | ijana | Amafaranga ijana. | 100프랑.
+E 1-02-03 | igihumbi | Ni amafaranga igihumbi. | 1,000프랑이에요.
+E 1-02-03 | ibihumbi bibiri | Moto ni ibihumbi bibiri. | 모토는 2,000프랑이에요.
+E 1-02-03 | ibihumbi icumi | Mfite ibihumbi icumi. | 만 프랑 있어요.
+E 1-02-03 | miliyoni | Miliyoni imwe. | 백만.
+E 1-02-03 | kubara | Abana biga kubara. | 아이들이 셈을 배워요.
+E 1-02-04 | icyumweru | Icyumweru gitaha. | 다음 주.
+E 1-02-04 | ku wa mbere | Ku wa mbere ndakora. | 월요일에 일해요.
+E 1-02-04 | ku wa kabiri | Ku wa kabiri mfite isomo. | 화요일에 수업이 있어요.
+E 1-02-04 | ku wa gatatu | Tuzabonana ku wa gatatu. | 수요일에 만나요.
+E 1-02-04 | ku wa kane | Ku wa kane nzajya i Huye. | 목요일에 후예에 갈 거예요.
+E 1-02-04 | ku wa gatanu | Ku wa gatanu nimugoroba. | 금요일 저녁에.
+E 1-02-04 | ku wa gatandatu | Ku wa gatandatu ndaruhuka. | 토요일에는 쉬어요.
+E 1-02-05 | ku manywa | Ku manywa harashyushye. | 낮에는 더워요.
+E 1-02-05 | nimugoroba | Nimugoroba ndataha. | 저녁에 집에 가요.
+E 1-02-05 | nijoro | Nijoro ndaryama. | 밤에 자요.
+E 1-02-05 | uyu munsi | Uyu munsi ni ku wa mbere. | 오늘은 월요일이에요.
+E 1-02-05 | ubu | Ubu ndi mu rugo. | 지금 집에 있어요.
+E 1-02-06 | Ni saa ngahe? | Ubu ni saa ngahe? | 지금 몇 시예요?
+E 1-02-06 | saa moya | Ndabyuka saa moya. | 7시에 일어나요.
+E 1-02-06 | saa mbiri | Isomo ritangira saa mbiri. | 수업은 8시에 시작해요.
+E 1-02-06 | saa tatu | Tuzabonana saa tatu. | 9시에 만나요.
+E 1-02-06 | saa sita | Turya saa sita. | 12시에 먹어요.
+E 1-02-06 | saa kumi | Ndataha saa kumi. | 4시에 집에 가요.
+E 1-02-06 | n'igice | Saa mbiri n'igice. | 8시 반.
+E 1-02-07 | Gashyantare | Gashyantare ni ukwezi kwa kabiri. | 2월은 둘째 달이에요.
+E 1-02-07 | Mata | Muri Mata imvura ni nyinshi. | 4월에는 비가 많아요.
+E 1-02-07 | Kamena | Muri Kamena izuba riratangira. | 6월에 건기가 시작돼요.
+E 1-02-07 | Nyakanga | Muri Nyakanga harashyushye. | 7월에는 더워요.
+E 1-02-07 | Kanama | Muri Kanama abana bararuhuka. | 8월에는 아이들이 쉬어요.
+E 1-02-07 | Ugushyingo | Muri Ugushyingo imvura iragwa. | 11월에는 비가 와요.
+E 1-02-07 | Ukuboza | Noheli iba mu Ukuboza. | 성탄절은 12월에 있어요.
+E 1-03-01 | Ndashaka | Ndashaka icyayi. | 차 주세요.
+E 1-03-01 | nyabuneka | Nyabuneka, mpa amazi. | 물 좀 주세요.
+E 1-03-01 | Mpa | Mpa ikawa. | 커피 주세요.
+E 1-03-01 | Ndashaka kwishyura | Ubu ndashaka kwishyura. | 지금 계산할게요.
+E 1-03-02 | ibirayi | Ibirayi biraryoshye. | 감자가 맛있어요.
+E 1-03-02 | ibishyimbo | Ndya ibishyimbo buri munsi. | 콩을 매일 먹어요.
+E 1-03-02 | umuceri | Mpa umuceri n'inyama. | 밥이랑 고기 주세요.
+E 1-03-02 | ibitoki | Ibitoki n'ibishyimbo. | 바나나 요리와 콩.
+E 1-03-02 | isombe | Isombe iraryoshye cyane. | 이솜베가 아주 맛있어요.
+E 1-03-02 | ubugari | Ubugari n'isombe. | 우부가리와 이솜베.
+E 1-03-02 | brochette | Mpa brochette ebyiri. | 꼬치 두 개 주세요.
+E 1-03-02 | inyama | Sindya inyama. | 저는 고기를 안 먹어요.
+E 1-03-03 | amazi | Amazi akonje. | 찬물.
+E 1-03-03 | icyayi | Icyayi nta sukari. | 설탕 안 넣은 차.
+E 1-03-03 | ikawa | Ikawa y'u Rwanda ni nziza. | 르완다 커피는 좋아요.
+E 1-03-03 | umutobe | Umutobe w'inanasi. | 파인애플 주스.
+E 1-03-03 | isukari | Isukari nke. | 설탕 조금.
+E 1-03-04 | biraryoshye | Ibi biryo biraryoshye. | 이 음식 맛있어요.
+E 1-03-04 | kurya | Ndashaka kurya ubu. | 지금 먹고 싶어요.
+E 1-03-04 | umunyu | Ongeraho umunyu. | 소금 더 넣어 주세요.
+E 1-03-04 | Ongeraho | Ongeraho umuceri. | 밥 더 주세요.
+E 1-04-01 | umwembe | Umwembe uraryoshye. | 망고가 맛있어요.
+E 1-04-01 | umuneke | Mpa imineke itatu. | 바나나 세 개 주세요.
+E 1-04-01 | inanasi | Inanasi ni angahe? | 파인애플 얼마예요?
+E 1-04-01 | ipapayi | Ipapayi ni nziza mu gitondo. | 파파야는 아침에 좋아요.
+E 1-04-01 | avoka | Mpa avoka ebyiri. | 아보카도 두 개 주세요.
+E 1-04-01 | icunga | Icunga rimwe. | 오렌지 한 개.
+E 1-04-01 | marakuja | Umutobe wa marakuja. | 패션프루트 주스.
+E 1-04-01 | imbuto | Nkunda imbuto. | 과일을 좋아해요.
+E 1-04-02 | imboga | Imboga ni nziza. | 채소는 몸에 좋아요.
+E 1-04-02 | inyanya | Mpa inyanya eshatu. | 토마토 세 개 주세요.
+E 1-04-02 | igitunguru | Igitunguru kimwe. | 양파 한 개.
+E 1-04-02 | amashu | Amashu ni angahe? | 양배추 얼마예요?
+E 1-04-02 | karoti | Karoti ni nziza ku maso. | 당근은 눈에 좋아요.
+E 1-04-02 | tungurusumu | Ongeraho tungurusumu. | 마늘 더 넣어 주세요.
+E 1-04-02 | imyumbati | Imyumbati iri he? | 카사바 어디 있어요?
+E 1-04-03 | igiciro | Igiciro ni cyiza. | 값이 좋아요.
+E 1-04-03 | birahenze | Oya, birahenze cyane. | 아니요, 너무 비싸요.
+E 1-04-03 | gabanya | Gabanya gato. | 조금만 깎아 주세요.
+E 1-04-03 | reka ndebe | Reka ndebe iyi shati. | 이 셔츠 좀 볼게요.
+E 1-04-03 | Nzagaruka | Nzagaruka ku wa gatandatu. | 토요일에 다시 올게요.
+E 1-04-04 | ishati | Ishati y'umweru. | 흰 셔츠.
+E 1-04-04 | ipantalo | Ipantalo ni angahe? | 바지 얼마예요?
+E 1-04-04 | inkweto | Inkweto zanjye ni nto. | 제 신발이 작아요.
+E 1-04-04 | igitenge | Ndashaka igitenge. | 키텡게 천을 사고 싶어요.
+E 1-04-04 | ingano | Ingano ni nziza. | 치수가 맞아요.
+E 1-04-04 | kugerageza | Ndashaka kugerageza iyi kanzu. | 이 원피스 입어 보고 싶어요.
+E 1-05-01 | moto | Moto ni angahe? | 모토 얼마예요?
+E 1-05-01 | bisi | Bisi iraje. | 버스가 와요.
+E 1-05-01 | imodoka | Imodoka nshya. | 새 차.
+E 1-05-01 | tagisi | Ndashaka tagisi. | 택시를 타고 싶어요.
+E 1-05-01 | igare | Mfite igare. | 자전거가 있어요.
+E 1-05-01 | indege | Indege iragenda saa tatu. | 비행기는 9시에 떠나요.
+E 1-05-01 | gufata | Ndashaka gufata bisi. | 버스를 타고 싶어요.
+E 1-05-02 | ibumoso | Isoko riri ibumoso. | 시장은 왼쪽에 있어요.
+E 1-05-02 | hafi | Ntuye hafi y'ishuri. | 학교 가까이에 살아요.
+E 1-05-02 | kure | Ishuri riri kure. | 학교는 멀어요.
+E 1-05-02 | imbere ya | Imbere ya banki. | 은행 앞에.
+E 1-05-02 | inyuma ya | Inyuma y'isoko. | 시장 뒤에.
+E 1-05-03 | Ujya he? | Ubu ujya he? | 지금 어디 가요?
+E 1-05-03 | Njyana | Njyana ku isoko. | 시장에 데려다주세요.
+E 1-05-03 | hagarara | Hagarara imbere y'ishuri. | 학교 앞에 세워 주세요.
+E 1-05-03 | itike | Itike ni amafaranga igihumbi. | 표는 1,000프랑이에요.
+E 1-05-03 | gare | Gare iri hafi. | 터미널이 가까워요.
+E 1-06-01 | umwarimu | Umwarimu arigisha. | 선생님이 가르쳐요.
+E 1-06-01 | umunyeshuri | Uyu munyeshuri ni umuhanga. | 이 학생은 똑똑해요.
+E 1-06-01 | umuyobozi w'ishuri | Umuyobozi w'ishuri arahari? | 교장 선생님 계세요?
+E 1-06-01 | isomero | Isomero rifungura saa mbiri. | 도서관은 8시에 열어요.
+E 1-06-01 | ikibuga | Ikibuga ni kinini. | 운동장이 커요.
+E 1-06-01 | ibiro | Ibiro by'abarimu. | 교무실.
+E 1-06-01 | inshuti | Afite inshuti nyinshi. | 그는 친구가 많아요.
+E 1-06-02 | ikaramu | Mpa ikaramu. | 볼펜 주세요.
+E 1-06-02 | ikaye | Andika mu ikaye. | 공책에 써요.
+E 1-06-02 | igitabo | Fungura igitabo. | 책을 펴요.
+E 1-06-02 | ingwa | Ingwa zirashize. | 분필이 다 떨어졌어요.
+E 1-06-02 | intebe | Icara ku ntebe. | 의자에 앉아요.
+E 1-06-02 | ameza | Igitabo kiri ku meza. | 책이 책상 위에 있어요.
+E 1-06-03 | Ni byiza cyane | Ni byiza cyane, komereza aho. | 아주 좋아요, 계속 그렇게 해요.
+E 1-06-03 | Komereza aho | Komereza aho, urashoboye. | 계속해요, 할 수 있어요.
+E 1-06-03 | Gerageza | Gerageza kabiri. | 두 번 해 봐요.
+E 1-06-03 | Ntucike intege | Ntucike intege, gerageza. | 포기하지 말고 해 봐요.
+E 1-06-03 | Mwakoze neza | Mwese mwakoze neza. | 여러분 모두 잘했어요.
+E 1-06-04 | Icara | Icara neza. | 바르게 앉아요.
+E 1-06-04 | Tega amatwi | Mwese tega amatwi. | 모두 잘 들어요.
+E 1-06-04 | Soma | Soma buhoro. | 천천히 읽어요.
+E 1-06-04 | Subiramo | Subiramo rimwe. | 한 번 더 따라 해요.
+E 1-07-01 | Igikoreya | Niga Igikoreya. | 한국어를 배워요.
+E 1-07-01 | Icyongereza | Avuga Icyongereza neza. | 그는 영어를 잘해요.
+E 1-07-01 | Igifaransa | Uvuga Igifaransa? | 프랑스어 해요?
+E 1-07-01 | ubumenyi | Isomo ry'ubumenyi. | 과학 수업.
+E 1-07-01 | amateka | Amateka y'u Rwanda. | 르완다 역사.
+E 1-07-01 | ubugeni | Ubugeni bw'u Rwanda. | 르완다 미술.
+E 1-07-01 | umuziki | Nkunda umuziki. | 음악을 좋아해요.
+E 1-07-02 | Ndarangije | Ndarangije umukoro. | 숙제 다 했어요.
+E 1-07-02 | Sindarangiza | Mbabarira, sindarangiza. | 죄송해요, 아직 다 못 했어요.
+E 1-07-02 | urupapuro | Mpa urupapuro. | 종이 한 장 주세요.
+E 1-07-02 | Nibagiwe | Nibagiwe ikaye. | 공책을 잊고 안 가져왔어요.
+E 1-07-03 | umurwa mukuru | Kigali ni umurwa mukuru w'u Rwanda. | 키갈리는 르완다의 수도예요.
+E 1-07-03 | umuco | Nkunda umuco w'u Rwanda. | 르완다 문화를 좋아해요.
+E 1-07-03 | inyuguti | Andika inyuguti. | 글자를 써요.
+E 1-07-03 | ibiryo bya Koreya | Nkunda ibiryo bya Koreya. | 한국 음식을 좋아해요.
+E 1-07-03 | igihugu | U Rwanda ni igihugu cyiza. | 르완다는 아름다운 나라예요.
+E 1-07-03 | imbeho | Uyu munsi hari imbeho. | 오늘은 추워요.
+E 1-07-04 | gukina | Ndashaka gukina. | 놀고 싶어요.
+E 1-07-04 | kwiruka | Abana bakunda kwiruka. | 아이들은 달리기를 좋아해요.
+E 1-07-04 | gusimbuka | Gusimbuka umugozi. | 줄넘기를 하다.
+E 1-07-04 | ikipe | Ikipe yacu ni nziza. | 우리 팀은 좋아요.
+E 1-07-04 | gutsinda | Ndashaka gutsinda ikizamini. | 시험에 합격하고 싶어요.
+E 1-07-04 | ifirimbi | Mwarimu afite ifirimbi. | 선생님이 호루라기를 갖고 있어요.
+E 1-07-05 | kuririmba | Nkunda kuririmba. | 노래하는 걸 좋아해요.
+E 1-07-05 | indirimbo | Indirimbo nziza. | 좋은 노래.
+E 1-07-05 | kubyina | Abana bakunda kubyina. | 아이들은 춤추는 걸 좋아해요.
+E 1-07-05 | ingoma | Avuza ingoma. | 그가 북을 쳐요.
+E 1-07-05 | gushushanya | Nkunda gushushanya. | 그림 그리는 걸 좋아해요.
+E 1-07-05 | ifoto | Dufate ifoto. | 사진 찍읍시다.
+E 1-07-05 | amabara | Amabara menshi. | 여러 가지 색.
+E 1-07-06 | umukoro | Mfite umukoro mwinshi. | 숙제가 많아요.
+E 1-07-06 | ikizamini | Ikizamini ni ejo. | 시험은 내일이에요.
+E 1-07-06 | kwiga | Nkunda kwiga Ikinyarwanda. | 르완다어 공부하는 걸 좋아해요.
+E 1-07-06 | amanota | Mfite amanota meza. | 점수가 좋아요.
+E 1-07-06 | gusubiramo | Ni byiza gusubiramo isomo. | 수업을 복습하는 게 좋아요.
+E 1-07-06 | ijambo | Iri jambo rirakomeye. | 이 낱말은 어려워요.
+E 1-07-06 | ikibazo | Ikibazo cya mbere. | 첫 번째 문제.
+E 1-08-01 | inzu | Inzu yanjye ni nto. | 제 집은 작아요.
+E 1-08-01 | icyumba | Icyumba cyanjye. | 제 방.
+E 1-08-01 | uburiri | Uburiri bunini. | 큰 침대.
+E 1-08-01 | urugi | Fungura urugi. | 문을 열어요.
+E 1-08-01 | urufunguzo | Urufunguzo ruri he? | 열쇠 어디 있어요?
+E 1-08-02 | kwiyuhagira | Ndashaka kwiyuhagira. | 씻고 싶어요.
+E 1-08-02 | gukaraba | Karaba intoki. | 손을 씻어요.
+E 1-08-02 | gusukura | Gusukura icyumba. | 방을 청소하다.
+E 1-08-02 | kumesa | Ku wa gatandatu ndamesa. | 토요일에 빨래해요.
+E 1-08-02 | telefoni yanjye irashize | Mbabarira, telefoni yanjye irashize. | 미안해요, 배터리가 다 됐어요.
+E 1-08-03 | kubyuka | Kubyuka kare ni byiza. | 일찍 일어나는 게 좋아요.
+E 1-08-03 | kuryama | Ndashaka kuryama. | 자고 싶어요.
+E 1-08-03 | gufungura | Tugiye gufungura. | 이제 식사할 거예요.
+E 1-08-03 | kujya ku kazi | Kujya ku kazi mu gitondo. | 아침에 출근하다.
+E 1-08-03 | gutaha | Ndashaka gutaha. | 집에 가고 싶어요.
+E 1-08-03 | kureba televiziyo | Nimugoroba nkunda kureba televiziyo. | 저녁에 텔레비전 보는 걸 좋아해요.
+E 1-08-04 | Murakaza neza | Murakaza neza iwacu. | 저희 집에 잘 오셨어요.
+E 1-08-04 | Mbashimiye | Mbashimiye cyane. | 정말 감사드려요.
+E 1-08-04 | Nshobora…? | Nshobora kwicara hano? | 여기 앉아도 될까요?
+E 1-08-04 | Urakoze | Urakoze cyane, nshuti. | 정말 고마워, 친구.
+E 1-09-01 | umutwe | Umutwe urandya. | 머리가 아파요.
+E 1-09-01 | ijisho | Ijisho ryanjye rirandya. | 눈이 아파요.
+E 1-09-01 | izuru | Izuru rye ni rito. | 그의 코는 작아요.
+E 1-09-01 | umusatsi | Afite umusatsi muremure. | 그는 머리가 길어요.
+E 1-09-02 | ukuboko | Ukuboko kurandya. | 팔이 아파요.
+E 1-09-02 | ukuguru | Ukuguru kurandya. | 다리가 아파요.
+E 1-09-02 | inda | Inda irandya. | 배가 아파요.
+E 1-09-02 | igituza | Igituza kirandya. | 가슴이 아파요.
+E 1-09-02 | intoki | Intoki eshanu. | 손가락 다섯 개.
+E 1-09-02 | ikirenge | Ikirenge kirandya. | 발이 아파요.
+E 1-09-03 | inkorora | Mfite inkorora. | 기침이 나요.
+E 1-09-03 | ibicurane | Ndwaye ibicurane. | 감기에 걸렸어요.
+E 1-09-03 | malariya | Arwaye malariya. | 그는 말라리아에 걸렸어요.
+E 1-09-03 | kuruka | Umwana araruka. | 아이가 토해요.
+E 1-09-03 | gucibwamo | Umwana aracibwamo. | 아이가 설사해요.
+E 1-09-03 | kuribwa | Kuribwa umutwe. | 머리가 아프다.
+E 1-09-04 | umuforomo | Umuforomo arahari? | 간호사 계세요?
+E 1-09-04 | umuti | Mpa umuti w'umutwe. | 두통약 주세요.
+E 1-09-04 | farumasi | Farumasi iri hafi? | 약국이 가까워요?
+E 1-09-04 | ubwishingizi | Mfite ubwishingizi. | 보험이 있어요.
+E 1-09-04 | Mfasha! | Mfasha, nyabuneka! | 제발 도와주세요!
+E 1-10-01 | banki | Banki ifungura saa mbiri. | 은행은 8시에 열어요.
+E 1-10-01 | kohereza amafaranga | Ndashaka kohereza amafaranga. | 송금하고 싶어요.
+E 1-10-01 | kubikuza | Ndashaka kubikuza amafaranga. | 돈을 찾고 싶어요.
+E 1-10-01 | konti | Mfite konti muri banki. | 은행에 계좌가 있어요.
+E 1-10-01 | MoMo | Nishyura na MoMo. | 모모로 낼게요.
+E 1-10-01 | amadolari | Amadolari ijana. | 100달러.
+E 1-10-02 | telefoni | Telefoni yanjye iri he? | 제 휴대폰 어디 있어요?
+E 1-10-02 | guhamagara | Nzaguhamagara ejo. | 내일 전화할게요.
+E 1-10-02 | ubutumwa | Nyoherereza ubutumwa. | 메시지 보내 줘요.
+E 1-10-02 | interineti | Nta interineti ihari. | 인터넷이 안 돼요.
+E 1-10-02 | Wi-Fi | Hano hari Wi-Fi? | 여기 와이파이 있어요?
+E 1-10-02 | ikarita ya SIM | Ndashaka ikarita ya SIM. | 유심 카드를 사고 싶어요.
+E 1-10-02 | ama-inite | Nta ma-inite mfite. | 충전 잔액이 없어요.
+E 1-11-01 | izuba | Izuba rirava. | 해가 났어요.
+E 1-11-01 | umuyaga | Umuyaga ni mwinshi. | 바람이 세요.
+E 1-11-01 | ibicu | Hari ibicu byinshi. | 구름이 많아요.
+E 1-11-01 | ikirere | Uyu munsi ikirere ni cyiza. | 오늘은 날씨가 좋아요.
+E 1-11-01 | birashyushye | Uyu munsi birashyushye. | 오늘은 더워요.
+E 1-11-01 | birakonje | Nijoro birakonje. | 밤에는 추워요.
+E 1-11-01 | umutaka | Mfite umutaka. | 우산이 있어요.
+E 1-11-02 | umusozi | Umusozi muremure. | 높은 산.
+E 1-11-02 | ikiyaga | Ikiyaga cya Kivu. | 키부 호수.
+E 1-11-02 | uruzi | Uruzi rwa Nyabarongo. | 냐바롱고 강.
+E 1-11-02 | ishyamba | Ishyamba rya Nyungwe. | 늉웨 숲.
+E 1-11-02 | igiti | Igiti kinini. | 큰 나무.
+E 1-11-02 | indabo | Indabo nziza. | 예쁜 꽃.
+E 1-11-02 | icyayi | Icyayi cy'u Rwanda. | 르완다 차.
+E 1-11-03 | ihene | Ihene ebyiri. | 염소 두 마리.
+E 1-11-03 | inkoko | Inkoko n'amagi. | 닭과 달걀.
+E 1-11-03 | injangwe | Injangwe iri ku buriri. | 고양이가 침대 위에 있어요.
+E 1-11-03 | ingagi | Ndashaka kureba ingagi. | 고릴라를 보고 싶어요.
+E 1-11-03 | inyoni | Inyoni ziraririmba. | 새들이 노래해요.
+E 1-11-03 | umubu | Hano hari imibu myinshi. | 여기는 모기가 많아요.
+E 1-12-01 | umuryango | Umuryango wanjye uri muri Koreya. | 우리 가족은 한국에 있어요.
+E 1-12-01 | ababyeyi | Ababyeyi banjye ni bazima. | 부모님은 건강하세요.
+E 1-12-01 | umwana | Umwana ararira. | 아이가 울어요.
+E 1-12-01 | umuvandimwe | Mfite abavandimwe babiri. | 형제가 둘 있어요.
+E 1-12-01 | nyogokuru | Nyogokuru atuye mu cyaro. | 할머니는 시골에 사세요.
+E 1-12-01 | umugabo | Umugabo we ni umuganga. | 그 사람 남편은 의사예요.
+E 1-12-02 | umuganda | Umuganda uba ku wa gatandatu. | 우무간다는 토요일에 해요.
+E 1-12-02 | ubukwe | Ubukwe ni ejo. | 결혼식은 내일이에요.
+E 1-12-02 | gutumira | Ndashaka kubatumira. | 여러분을 초대하고 싶어요.
+E 1-12-02 | umunsi mukuru | Ejo ni umunsi mukuru. | 내일은 공휴일이에요.
+E 1-12-02 | impano | Mfite impano yawe. | 네 선물이 있어.
+E 1-12-02 | Twibuke | Twibuke twiyubaka. | 기억하며 다시 일어서자.
+E 1-12-02 | Isabukuru nziza! | Isabukuru nziza, nshuti! | 친구야, 생일 축하해!
+E 1-12-03 | umuhinzi | Umuhinzi ahinga ibirayi. | 농부가 감자를 심어요.
+E 1-12-03 | umushoferi | Umushoferi wa bisi. | 버스 기사.
+E 1-12-03 | umupolisi | Baza umupolisi. | 경찰에게 물어봐요.
+E 1-12-03 | umukozi | Abakozi ba banki. | 은행 직원들.
+E 1-12-03 | umukorerabushake | Abakorerabushake b'Abanyakoreya. | 한국인 봉사자들.
+E 1-05-04 | pasiporo | Erekana pasiporo. | 여권을 보여 주세요.
+E 1-05-04 | viza | Mfite viza. | 비자가 있어요.
+E 1-05-04 | imizigo | Imizigo yanjye iri he? | 제 짐 어디 있어요?
+E 1-05-04 | guhaguruka | Bisi irahaguruka saa mbiri. | 버스는 8시에 출발해요.
+E 1-05-04 | kugwa | Indege iragwa saa tatu. | 비행기는 9시에 착륙해요.
+E 1-04-05 | agaseke | Agaseke ni impano nziza. | 아가세케는 좋은 선물이에요.
+E 1-04-05 | imigongo | Imigongo ni nziza cyane. | 이미공고는 정말 예뻐요.
+E 1-04-05 | impano | Ndashaka kugura impano. | 선물을 사고 싶어요.
+E 1-04-05 | urwibutso | Ni urwibutso rwiza. | 좋은 추억이에요.
+E 1-06-05 | gusezera | Ndaje gusezera. | 작별 인사하러 왔어요.
+E 1-06-05 | tuzongera guhura | Murabeho, tuzongera guhura. | 안녕히 계세요, 다시 만나요.
+E 1-06-05 | impamyabumenyi | Abanyeshuri babonye impamyabumenyi. | 학생들이 수료증을 받았어요.
+E 1-06-05 | ibirori | Ibirori ni ejo. | 행사는 내일이에요.
+E 1-06-05 | urugendo rwiza | Murabeho, urugendo rwiza! | 안녕히 가세요, 좋은 여행 되세요!
+E 1-08-05 | hoteli | Hoteli iri hafi. | 호텔이 가까워요.
+E 1-08-05 | kurara | Ndashaka kurara hano. | 여기서 묵고 싶어요.
+E 1-08-05 | Mufite icyumba? | Uyu munsi mufite icyumba? | 오늘 방 있어요?
+E 1-08-05 | ijoro rimwe | Ni ijoro rimwe gusa. | 하룻밤만이에요.
+E 1-08-05 | gusohoka mu cyumba | Nzasohoka mu cyumba ejo. | 내일 체크아웃할게요.
+E 1-10-03 | mudasobwa | Mudasobwa yanjye ni nshya. | 제 컴퓨터는 새것이에요.
+E 1-10-03 | kubika | Ni byiza kubika amafaranga. | 돈을 모아 두는 게 좋아요.
+E 1-10-03 | gusiba | Siba ikibaho. | 칠판을 지워요.
+E 1-10-03 | kwandika kuri mudasobwa | Abana biga kwandika kuri mudasobwa. | 아이들이 타자를 배워요.
+E 1-10-03 | kohereza imeyili | Ndashaka kohereza imeyili. | 이메일을 보내고 싶어요.
+E 1-11-04 | umutuku | Ishati y'umutuku. | 빨간 셔츠.
+E 1-11-04 | umuhondo | Umuneke ni umuhondo. | 바나나는 노란색이에요.
+E 1-11-04 | icyatsi kibisi | Ibara ry'icyatsi kibisi. | 초록색.
+E 1-11-04 | ubururu | Ikirere ni ubururu. | 하늘은 파란색이에요.
+E 1-11-04 | umukara | Inkweto z'umukara. | 검은 신발.
+E 1-11-04 | umweru | Urupapuro rw'umweru. | 흰 종이.
+E 1-09-05 | Mfasha! | Mfasha, ndarwaye! | 도와주세요, 아파요!
+E 1-09-05 | kwiba | Kwiba ni bibi. | 훔치는 건 나빠요.
+E 1-12-04 | gusenga | Ku cyumweru njya gusenga. | 일요일에 예배하러 가요.
+E 1-12-04 | Imana | Imana ibahe umugisha. | 하나님이 복을 주시기를.
+E 1-12-04 | kiliziya | Kiliziya iri hafi. | 성당이 가까워요.
+E 1-12-04 | urusengero | Urusengero ruri he? | 교회가 어디예요?
+E 1-12-04 | umugisha | Imana iguhe umugisha. | 하나님이 복 주시기를 빌어요.
+E 1-12-04 | Amen | Bose bavuga bati Amen. | 모두 아멘이라고 해요.
+E 2-01-01 | nini | Inzu nini. | 큰 집.
+E 2-01-01 | nto | Inkweto nto. | 작은 신발.
+E 2-01-01 | ndende | Inzira ndende. | 긴 길.
+E 2-01-01 | ngufi | Ipantalo ngufi. | 짧은 바지.
+E 2-01-01 | kiremereye | Iki gikapu kiremereye. | 이 가방은 무거워요.
+E 2-01-01 | cyoroshye | Iki kibazo cyoroshye. | 이 문제는 쉬워요.
+E 2-01-02 | byiza | Kwiga ni byiza. | 공부하는 건 좋아요.
+E 2-01-02 | bibi | Kubeshya ni bibi. | 거짓말은 나빠요.
+E 2-01-02 | gishya | Igitabo gishya. | 새 책.
+E 2-01-02 | gishaje | Igikapu gishaje. | 낡은 가방.
+E 2-01-02 | bisukuye | Ibi bikombe bisukuye. | 이 컵들은 깨끗해요.
+E 2-01-02 | byanduye | Ibi bikombe byanduye. | 이 컵들은 더러워요.
+E 2-01-03 | gusohoka | Ndashaka gusohoka gato. | 잠깐 나가고 싶어요.
+E 2-01-03 | kuza | Ushobora kuza ejo? | 내일 올 수 있어요?
+E 2-01-03 | kugenda | Ubu ngomba kugenda. | 이제 가야 해요.
+E 2-01-03 | kuzamuka | Kuzamuka umusozi. | 언덕을 올라가다.
+E 2-01-03 | kumanuka | Kumanuka umusozi. | 언덕을 내려가다.
+E 2-01-04 | kugurisha | Agiye kugurisha ibirayi. | 그는 감자를 팔러 가요.
+E 2-01-04 | gutanga | Gutanga ni byiza. | 베푸는 것은 좋아요.
+E 2-01-04 | kwakira | Kwakira abashyitsi. | 손님을 맞이하다.
+E 2-01-04 | gusubiza | Ni nde ushaka gusubiza? | 누가 대답하고 싶어요?
+E 2-01-05 | hejuru | Reba hejuru. | 위를 봐요.
+E 2-01-05 | imbere | Icara imbere. | 앞에 앉아요.
+E 2-01-05 | inyuma | Icara inyuma. | 뒤에 앉아요.
+E 2-01-05 | hanze | Abana bari hanze. | 아이들은 밖에 있어요.
+E 2-01-05 | imbere mu nzu | Abana bari imbere mu nzu. | 아이들은 집 안에 있어요.
+E 2-02-01 | Amakuru? — Ni meza | Amakuru? Ni meza cyane. | 잘 지내요? 아주 잘 지내요.
+E 2-02-01 | Murakoze — Nta kibazo | Murakoze cyane. Nta kibazo. | 정말 고마워요. 천만에요.
+E 2-02-01 | Mwaramutse — Mwaramutse | Mwaramutse, mwarimu. Mwaramutse, bana. | 선생님, 좋은 아침이에요. 얘들아, 좋은 아침.
+E 2-02-01 | Mbabarira — Nta kibazo | Mbabarira cyane. Nta kibazo. | 정말 미안해요. 괜찮아요.
+E 2-02-01 | Murakaza neza — Murakoze | Murakaza neza iwacu. Murakoze cyane. | 저희 집에 잘 오셨어요. 정말 고마워요.
+E 2-02-01 | Urashaka iki? — Ndashaka… | Urashaka iki? Ndashaka icyayi. | 뭘 원해요? 차 주세요.
+E 3-01-01 | kuvuga | Kuvuga Ikinyarwanda. | 르완다어를 말하다.
+E 3-01-01 | kubwira | Ndashaka kubwira mwarimu. | 선생님께 말하고 싶어요.
+E 3-01-01 | kuganira | Nkunda kuganira n'inshuti. | 친구와 이야기하는 걸 좋아해요.
+E 3-01-01 | gusobanura | Ushobora gusobanura? | 설명해 줄 수 있어요?
+E 3-01-02 | kureba | Kureba umupira. | 축구를 보다.
+E 3-01-02 | kubona | Nishimiye kubona inshuti. | 친구를 만나서 기뻐요.
+E 3-01-02 | kumva | Kumva umuziki. | 음악을 듣다.
+E 3-01-03 | kujya | Kujya ku isoko. | 시장에 가다.
+E 3-01-03 | kugenda | Igihe cyo kugenda. | 갈 시간.
+E 3-01-03 | gutaha | Igihe cyo gutaha. | 집에 갈 시간.
+E 3-01-03 | kugaruka | Kugaruka mu rugo. | 집으로 돌아오다.
+E 3-01-03 | kugera | Kugera ku ishuri. | 학교에 도착하다.
+E 3-01-04 | guha | Guha umwana amata. | 아이에게 우유를 주다.
+E 3-01-04 | gutanga | Gutanga amafaranga. | 돈을 내다.
+E 3-01-04 | kuzana | Kuzana amazi. | 물을 가져오다.
+E 3-01-04 | gutwara | Gutwara imodoka. | 차를 운전하다.
+E 3-01-05 | gukunda | Gukunda igihugu. | 나라를 사랑하다.
+E 3-01-05 | gushaka | Gushaka akazi. | 일자리를 찾다.
+E 3-01-05 | kwishimira | Kwishimira umunsi mukuru. | 명절을 즐기다.
+E 3-01-05 | kwifuza | Kwifuza amahoro. | 평화를 바라다.
+E 3-01-06 | gukora | Gukora umukoro. | 숙제를 하다.
+E 3-01-06 | gukina | Gukina n'abana. | 아이들과 놀다.
+E 3-01-06 | guteka | Guteka ibishyimbo. | 콩을 요리하다.
+E 3-01-06 | gufasha | Gufasha ababyeyi. | 부모님을 돕다.
+E 4-01-01 | gukora | Gukora cyane. | 열심히 일하다.
+E 4-01-01 | umukozi | Umukozi mushya. | 새 직원.
+E 4-01-01 | gukoresha | Gukoresha mudasobwa. | 컴퓨터를 사용하다.
+E 4-01-01 | igikoresho | Igikoresho gishya. | 새 도구.
+E 4-01-02 | kwandika | Kwandika izina. | 이름을 쓰다.
+E 4-01-02 | umwanditsi | Umwanditsi w'ibitabo. | 책을 쓰는 작가.
+E 4-01-02 | kwiyandikisha | Ndashaka kwiyandikisha. | 등록하고 싶어요.
+E 4-01-03 | kwiga | Kwiga Igikoreya. | 한국어를 배우다.
+E 4-01-03 | kwigisha | Kwigisha abana. | 아이들을 가르치다.
+E 4-01-03 | umwigisha | Umwigisha mwiza. | 좋은 교사.
+E 4-01-03 | inyigisho | Inyigisho nziza. | 좋은 가르침.
+E 4-01-04 | gukina | Gukina umupira. | 축구를 하다.
+E 4-01-04 | umukino | Umukino mwiza. | 좋은 경기.
+E 4-01-04 | umukinnyi | Umukinnyi w'umupira. | 축구 선수.
+E 4-01-04 | igikinisho | Umwana afite igikinisho. | 아이가 장난감을 갖고 있어요.
+E 4-01-05 | kuririmba | Kuririmba indirimbo. | 노래를 부르다.
+E 4-01-05 | indirimbo | Indirimbo y'igihugu. | 국가(나라의 노래).
+E 4-01-05 | umuririmbyi | Umuririmbyi mwiza. | 좋은 가수.
+E 4-01-05 | korali | Korali iraririmba. | 합창단이 노래해요.
+E 4-01-06 | kugura | Kugura ibiryo. | 음식을 사다.
+E 4-01-06 | kugurisha | Kugurisha imboga. | 채소를 팔다.
+E 4-01-06 | umuguzi | Umuguzi araje. | 손님이 와요.
+E 4-01-06 | umucuruzi | Umucuruzi w'imbuto. | 과일 장수.
+E 4-01-07 | kuvura | Kuvura abarwayi. | 환자를 치료하다.
+E 4-01-07 | ivuriro | Ivuriro riri hafi. | 보건소가 가까워요.
+E 4-01-07 | ubuvuzi | Ubuvuzi bwiza. | 좋은 의료.
+E 4-01-08 | gufasha | Ushobora kumfasha? | 저 좀 도와줄 수 있어요?
+E 4-01-08 | umufasha | Umufasha wa mwarimu. | 선생님 조수.
+E 4-01-08 | gufashanya | Ni byiza gufashanya. | 서로 돕는 건 좋아요.
+E 4-01-09 | Umunyakoreya | Ni Umunyakoreya. | 그는 한국 사람이에요.
+E 4-01-09 | umunyeshuri | Umunyeshuri mushya. | 새 학생.
+E 4-01-09 | umunyamakuru | Umunyamakuru arabaza. | 기자가 물어요.
+E 5-01-01 | icumi | Amafaranga icumi. | 10프랑.
+E 5-01-01 | icyayi | Icyayi cy'amata. | 밀크티.
+E 5-01-01 | itsinda | Itsinda rya mbere. | 첫 번째 모둠.
+E 5-01-02 | isoko | Isoko rya Kimironko. | 키미롱코 시장.
+E 5-01-02 | ishuri | Ishuri ribanza. | 초등학교.
+E 5-01-02 | gushyira | Gushyira igitabo ku meza. | 책을 책상 위에 놓다.
+E 5-01-02 | isomo | Isomo rya mbere. | 첫 번째 수업.
+E 5-01-03 | ibara | Ibara ry'umutuku. | 빨간색.
+E 5-01-03 | kuva | Kuva mu rugo. | 집에서 나오다.
+E 5-01-03 | imbwa | Imbwa nini. | 큰 개.
+E 5-01-03 | kubona | Kubona akazi. | 일자리를 얻다.
+E 5-01-04 | ejo | Ejo ni ku wa kabiri. | 내일은 화요일이에요.
+E 5-01-04 | kujya | Kujya ku ishuri. | 학교에 가다.
+E 5-01-04 | amazi | Amazi meza. | 깨끗한 물.
+E 5-01-04 | inzu | Inzu nshya. | 새 집.
+E 5-01-05 | nini | Imodoka nini. | 큰 차.
+E 5-01-05 | inyama | Inyama z'inka. | 소고기.
+E 5-01-05 | inama | Inama itangira saa tatu. | 회의는 9시에 시작해요.
+E 5-01-05 | nyabuneka | Nyabuneka, ceceka. | 제발 조용히 해요.
+E 5-01-06 | rimwe | Rimwe ku munsi. | 하루에 한 번.
+E 5-01-06 | Kigali | Kigali ni nziza. | 키갈리는 아름다워요.
+E 5-01-06 | kurya | Kurya imbuto. | 과일을 먹다.
+E 5-01-06 | ikaramu | Ikaramu y'ubururu. | 파란 볼펜.
+E 6-01-01 | amata | Amata ashyushye. | 따뜻한 우유.
+E 6-01-01 | ejo | Ejo ni ku cyumweru. | 내일은 일요일이에요.
+E 6-01-01 | isomo | Isomo ryarangiye. | 수업이 끝났어요.
+E 6-01-01 | umuntu | Umuntu umwe. | 한 사람.
+E 6-01-02 | ibara | Ibara ry'umuhondo. | 노란색.
+E 6-01-02 | data | Data arakora. | 아버지는 일하세요.
+E 6-01-02 | igare | Igare rishya. | 새 자전거.
+E 6-01-02 | kabiri | Kabiri mu cyumweru. | 일주일에 두 번.
+E 6-01-02 | mama | Mama arateka. | 엄마가 요리해요.
+E 6-01-02 | nini | Isoko rinini. | 큰 시장.
+E 6-01-03 | icumi | Saa kumi. | (오후) 4시.
+E 6-01-03 | ijambo | Ijambo rishya. | 새 낱말.
+E 6-01-03 | rimwe | Rimwe gusa. | 한 번만.
+E 6-01-03 | amazi | Amazi yo kunywa. | 마실 물.
+E 6-01-03 | kuva | Kuva ejo. | 어제부터.
+E 6-01-03 | ifoto | Ifoto nziza. | 좋은 사진.
+E 6-01-04 | ishuri | Ishuri rya Kigali. | 키갈리의 학교.
+E 6-01-04 | icyayi | Icyayi gishyushye. | 뜨거운 차.
+E 6-01-04 | kujya | Kujya mu rugo. | 집에 가다.
+E 6-01-04 | inyama | Inyama z'inkoko. | 닭고기.
+E 6-01-04 | gushyira | Gushyira amazi mu gikombe. | 컵에 물을 붓다.
+E 6-01-04 | itsinda | Itsinda rya kabiri. | 두 번째 모둠.
+E 6-01-05 | imyaka | Imyaka itatu. | 3년.
+E 6-01-05 | kubyuka | Kubyuka saa kumi n'ebyiri. | 6시에 일어나다.
+E 6-01-06 | imbwa | Imbwa yanjye. | 내 개.
+E 6-01-06 | u Rwanda | U Rwanda ni rwiza. | 르완다는 아름다워요.
+E 6-01-06 | umwana | Umwana muto. | 어린아이.
+E 6-01-06 | ukwezi | Ukwezi gutaha. | 다음 달.
+E 6-01-06 | twese | Twese turiga. | 우리 모두 공부해요.
+E 6-01-07 | inda | Inda nini. | 큰 배.
+E 6-01-07 | imbuto | Imbuto nziza. | 좋은 과일.
+E 6-01-07 | inka | Inka nyinshi. | 소 여러 마리.
+E 6-01-07 | ingoma | Ingoma nini. | 큰 북.
+E 6-01-07 | inzu | Inzu y'ishuri. | 학교 건물.
+E 6-01-07 | ndashaka | Ndashaka amata. | 우유 주세요.
+E 6-01-08 | n'umwana | Mama n'umwana. | 엄마와 아이.
+E 6-01-08 | y'ishuri | Umwarimu w'ishuri. | 학교 선생님.
+E 6-01-08 | w'u Rwanda | Umuco w'u Rwanda. | 르완다의 문화.
+E 6-01-08 | cy'amata | Igikombe cy'amata. | 우유 한 컵.
+E 6-01-09 | bisi | Bisi ya Kigali. | 키갈리 버스.
+E 6-01-09 | telefoni | Telefoni nshya. | 새 휴대폰.
+E 6-01-09 | ishati | Ishati nshya. | 새 셔츠.
+E 6-01-09 | ipantalo | Ipantalo y'umukara. | 검은 바지.
+E 6-01-09 | sawa | Sawa, murakoze. | 좋아요, 고마워요.
+E 7-01-01 | umwana mwiza | Ni umwana mwiza. | 착한 아이예요.
+E 7-01-01 | inzu yanjye | Inzu yanjye ni nini. | 내 집은 커요.
+E 7-01-01 | uyu munsi | Uyu munsi ndakora. | 오늘은 일해요.
+E 7-01-02 | ndarya | Ndarya ubu. | 지금 먹어요.
+E 7-01-02 | urarya | Urarya inyama? | 고기 먹어?
+E 7-01-02 | ararya | Ararya imbuto. | 그는 과일을 먹어요.
+E 7-01-02 | turarya | Turarya saa sita. | 우리는 12시에 먹어요.
+E 7-01-02 | bararya | Bararya ibishyimbo. | 그들은 콩을 먹어요.
+E 7-01-03 | wowe | Wowe uri umunyeshuri. | 너는 학생이야.
+E 7-01-03 | we | We ni Umunyarwanda. | 그는 르완다 사람이에요.
+E 7-01-03 | twe | Twe turi inshuti. | 우리는 친구예요.
+E 7-01-03 | mwe | Mwe muri abanyeshuri. | 여러분은 학생이에요.
+E 7-01-03 | bo | Bo ni abarimu. | 그들은 선생님이에요.
+E 7-01-04 | umwana wanjye | Umwana wanjye ariga. | 내 아이는 공부해요.
+E 7-01-04 | umwana we | Umwana we ararwaye. | 그의 아이는 아파요.
+E 7-01-04 | umwana wacu | Umwana wacu ni muto. | 우리 아이는 어려요.
+E 7-01-04 | umwana wanyu | Umwana wanyu ari he? | 댁의 아이는 어디 있어요?
+E 7-01-04 | umwana wabo | Umwana wabo ni umuhanga. | 그들의 아이는 똑똑해요.
+E 7-01-05 | mu | Mu gikapu. | 가방 안에.
+E 7-01-05 | ku | Ku ishuri. | 학교에.
+E 7-01-05 | kwa | Ngiye kwa Keza. | 케자네 집에 가요.
+E 7-02-01 | umuntu | Umuntu mwiza. | 좋은 사람.
+E 7-02-01 | abantu | Abantu bose. | 모든 사람.
+E 7-02-01 | umukobwa | Umukobwa wanjye. | 내 딸.
+E 7-02-01 | umuhungu | Umuhungu wanjye. | 내 아들.
+E 7-02-01 | umushyitsi | Dufite umushyitsi. | 손님이 오셨어요.
+E 7-02-02 | umusozi | Umusozi wa Kigali. | 키갈리 언덕.
+E 7-02-02 | umuti | Umuti w'inkorora. | 기침약.
+E 7-02-02 | umwaka | Umwaka utaha. | 내년.
+E 7-02-02 | umupira | Umupira w'amaguru. | 축구.
+E 7-02-02 | umutwe | Umutwe munini. | 큰 머리.
+E 7-02-03 | ijambo | Ijambo rimwe. | 낱말 하나.
+E 7-02-03 | ishuri | Ishuri rishya. | 새 학교.
+E 7-02-03 | ijisho | Ijisho rimwe. | 눈 하나.
+E 7-02-03 | igi | Igi rimwe. | 달걀 한 개.
+E 7-02-03 | amazi | Amazi make. | 물 조금.
+E 7-02-04 | igitabo | Igitabo cyanjye. | 내 책.
+E 7-02-04 | icyumba | Icyumba kinini. | 큰 방.
+E 7-02-04 | ikintu | Ikintu kimwe. | 한 가지.
+E 7-02-04 | igihugu | Igihugu cyacu. | 우리나라.
+E 7-02-04 | ikibazo | Ikibazo gikomeye. | 어려운 문제.
+E 7-02-05 | inzu | Inzu yacu. | 우리 집.
+E 7-02-05 | inka | Inka y'umweru. | 흰 소.
+E 7-02-05 | urugo | Urugo rwiza. | 좋은 가정.
+E 7-02-05 | urupapuro | Urupapuro rumwe. | 종이 한 장.
+E 7-02-05 | urugendo | Urugendo rurerure. | 긴 여행.
+E 7-02-06 | umwana mwiza | Uri umwana mwiza. | 너는 착한 아이야.
+E 7-02-06 | abana beza | Aba ni abana beza. | 이 아이들은 착해요.
+E 7-02-06 | ibitabo byiza | Mfite ibitabo byiza. | 좋은 책들이 있어요.
+E 7-02-06 | inzu nziza | Afite inzu nziza. | 그는 좋은 집이 있어요.
+E 7-03-01 | ndagenda | Ndagenda ubu. | 지금 가요.
+E 7-03-01 | ndavuga | Ndavuga Igikoreya. | 한국어를 해요.
+E 7-03-02 | naje | Naje n'amaguru. | 걸어서 왔어요.
+E 7-03-02 | nagiye | Nagiye ku isoko. | 시장에 갔어요.
+E 7-03-02 | nariye | Nariye umuceri. | 밥을 먹었어요.
+E 7-03-02 | naguze | Naguze imbuto. | 과일을 샀어요.
+E 7-03-02 | nize | Nize Ikinyarwanda. | 르완다어를 배웠어요.
+E 7-03-03 | nzaza | Nzaza ku wa mbere. | 월요일에 올 거예요.
+E 7-03-03 | nzagenda | Nzagenda ejo. | 내일 갈 거예요.
+E 7-03-03 | nzarya | Nzarya nimugoroba. | 저녁에 먹을 거예요.
+E 7-03-03 | nzakora | Nzakora ejo. | 내일 할 거예요.
+E 7-03-03 | uzaza | Uzaza ejo? | 내일 올 거예요?
+E 7-03-04 | sinkunda | Sinkunda inyama. | 고기를 안 좋아해요.
+E 7-03-04 | ntukunda | Ntukunda icyayi? | 차를 안 좋아해?
+E 7-03-04 | ntakunda | Ntakunda imbeho. | 그는 추위를 안 좋아해요.
+E 7-03-04 | ntidukunda | Ntidukunda urusaku. | 우리는 시끄러운 걸 안 좋아해요.
+E 7-03-04 | ntibakunda | Ntibakunda imvura. | 그들은 비를 안 좋아해요.
+E 7-03-04 | ntabwo | Ntabwo ari byo. | 그게 아니에요.
+E 7-03-05 | ndimo kurya | Ubu ndimo kurya. | 지금 먹는 중이에요.
+E 7-03-05 | ndacyari | Ndacyari hano. | 아직 여기 있어요.
+E 7-03-05 | sindagera | Mbabarira, sindagera. | 미안해요, 아직 도착 안 했어요.
+E 7-03-05 | maze kurya | Murakoze, maze kurya. | 고마워요, 이미 먹었어요.
+E 7-04-01 | Ese | Ese uri umwarimu? | 혹시 선생님이세요?
+E 7-04-01 | Mbese | Mbese uri he? | 그런데 어디 있어요?
+E 7-04-01 | cyangwa | Ejo cyangwa uyu munsi? | 내일 아니면 오늘?
+E 7-04-01 | si byo? | Uri Umunyarwanda, si byo? | 르완다 사람이죠, 그렇죠?
+E 7-04-02 | nshobora + 동사 | Nshobora gufasha. | 도울 수 있어요.
+E 7-04-02 | ngomba + 동사 | Ngomba kwiga. | 공부해야 해요.
+E 7-04-02 | nzi + 동사 | Nzi guteka. | 요리할 줄 알아요.
+E 7-04-03 | na | Umuceri na brochette. | 밥과 꼬치.
+E 7-04-03 | kandi | Ni mwiza kandi ni umuhanga. | 착하고 똑똑해요.
+E 7-04-03 | ariko | Ndashaka kuza, ariko ndarwaye. | 가고 싶지만 아파요.
+E 7-04-03 | kuko | Ndishimye kuko uje. | 네가 와서 기뻐요.
+E 7-04-03 | hanyuma | Soma, hanyuma wandike. | 읽고, 그다음에 써요.
+E 7-04-04 | nka | Avuga nka mwarimu. | 그는 선생님처럼 말해요.
+E 7-04-04 | kimwe na | Iyi ni kimwe na ya yindi. | 이건 저것과 같아요.
+E 7-04-04 | cyane | Ndakunda cyane ikawa. | 커피를 아주 좋아해요.
+E 7-04-04 | cyane kuruta | Nkunda icyayi cyane kuruta ikawa. | 커피보다 차를 훨씬 좋아해요.
+E 7-04-05 | Reka | Reka tujye ku isoko. | 시장에 가자.
+E 7-04-05 | Ntugende | Ntugende wenyine. | 혼자 가지 마.
+E 1-01-01 | Tuzabonana | Tuzabonana nimugoroba. | 저녁에 만나요.
+E 1-01-02 | Nkomoka muri Koreya | Nkomoka muri Koreya, ntuye i Kigali. | 한국에서 왔고 키갈리에 살아요.
+E 1-01-02 | Ntuye i Kigali | Ntuye i Kigali, hafi y'isoko. | 키갈리 시장 근처에 살아요.
+E 1-01-02 | Ndi umwarimu | Ndi umwarimu hano. | 여기 선생님이에요.
+E 1-01-02 | Nishimiye kukumenya | Nishimiye kukumenya cyane. | 만나서 정말 반가워요.
+E 1-01-03 | Si byo | Ibyo si byo. | 그건 틀려요.
+E 1-01-04 | Simbizi | Mbabarira, simbizi. | 미안해요, 몰라요.
+E 1-01-04 | Ongera uvuge | Ongera uvuge rimwe. | 한 번만 다시 말해 줘요.
+E 1-01-04 | Buhoro buhoro | Genda buhoro buhoro. | 천천히 가요.
+E 1-01-05 | Ndishimye | Ndishimye kukubona. | 만나서 기뻐요.
+E 1-01-05 | Ndwaye | Ndwaye ibicurane. | 감기에 걸렸어요.
+E 1-01-05 | Birashyushye | Amazi arashyushye. | 물이 뜨거워요.
+E 1-01-06 | iki | Iki ni iki? | 이건 뭐예요?
+E 1-01-06 | nde | Uriya ni nde? | 저 사람은 누구예요?
+E 1-01-06 | kuki | Kuki utinze? | 왜 늦었어요?
+E 1-02-02 | makumyabiri | Amafaranga makumyabiri. | 20프랑.
+E 1-02-03 | amafaranga | Mfite amafaranga make. | 돈이 조금 있어요.
+E 1-02-03 | magana abiri | Amafaranga magana abiri gusa. | 200프랑만요.
+E 1-02-05 | mu gitondo | Tuzabonana ejo mu gitondo. | 내일 아침에 만나요.
+E 1-02-05 | ejo | Ejo ni ku wa gatanu. | 내일은 금요일이에요.
+E 1-02-07 | Mutarama | Mutarama ni ukwezi kwa mbere. | 1월은 첫째 달이에요.
+E 1-02-07 | Werurwe | Werurwe ni ukwezi kwa gatatu. | 3월은 셋째 달이에요.
+E 1-02-07 | Gicurasi | Gicurasi ni ukwezi kwa gatanu. | 5월은 다섯째 달이에요.
+E 1-02-07 | Nzeri | Nzeri ni ukwezi kwa cyenda. | 9월은 아홉째 달이에요.
+E 1-02-07 | Ukwakira | Nzagaruka mu Ukwakira. | 10월에 돌아올 거예요.
+E 1-03-01 | Mufite iki? | Mufite iki cyo kunywa? | 마실 건 뭐가 있어요?
+E 1-03-01 | menu | Menu ni iyi. | 메뉴 여기 있어요.
+E 1-03-01 | Ni angahe? | Amazi ni angahe? | 물은 얼마예요?
+E 1-03-03 | amata | Mpa icyayi cy'amata. | 밀크티 주세요.
+E 1-03-03 | kunywa | Nkunda kunywa icyayi. | 차 마시는 걸 좋아해요.
+E 1-03-04 | ndahaze | Oya, murakoze, ndahaze. | 아니요, 고마워요, 배불러요.
+E 1-03-04 | birarura | Icyayi nta sukari kirarura. | 설탕 없는 차는 써요.
+E 1-03-04 | birimo urusenda | Isombe irimo urusenda? | 이솜베 매워요?
+E 1-04-03 | birahendutse | Ku isoko birahendutse. | 시장에서는 싸요.
+E 1-04-03 | ndabigura | Ni byiza, ndabigura. | 좋네요, 살게요.
+E 1-04-04 | ikanzu | Ikanzu y'umutuku. | 빨간 원피스.
+E 1-04-04 | agakapu | Agakapu gashya. | 새 가방.
+E 1-05-01 | n'amaguru | Ngiye ku isoko n'amaguru. | 시장에 걸어서 가요.
+E 1-05-02 | ... iri he? | Farumasi iri he? | 약국이 어디예요?
+E 1-05-02 | iburyo | Banki iri iburyo. | 은행은 오른쪽에 있어요.
+E 1-05-02 | komeza imbere | Komeza imbere, hanyuma ukate iburyo. | 곧장 가다가 오른쪽으로 도세요.
+E 1-05-03 | buhoro | Vuga buhoro, nyabuneka. | 천천히 말해 주세요.
+E 1-05-03 | tugeze | Tugeze i Kigali. | 키갈리에 다 왔어요.
+E 1-06-01 | ishuri | Ishuri riratangira saa mbiri. | 학교는 8시에 시작해요.
+E 1-06-02 | ikibaho | Andika ku kibaho. | 칠판에 써요.
+E 1-06-02 | igikapu | Igikapu cyawe kiri he? | 네 가방 어디 있어?
+E 1-06-03 | Wakoze neza | Wakoze neza, Keza! | 잘했어, 케자!
+E 1-06-03 | Urashoboye | Urashoboye, komereza aho. | 할 수 있어요, 계속해요.
+E 1-06-04 | Haguruka | Haguruka, nyabuneka. | 일어나 주세요.
+E 1-06-04 | Ceceka | Ceceka, tega amatwi. | 조용히 하고 잘 들어요.
+E 1-06-04 | Reba | Reba iyi foto. | 이 사진을 봐요.
+E 1-06-04 | Andika | Andika mu ikaye. | 공책에 써요.
+E 1-07-01 | imibare | Imibare iroroshye. | 수학은 쉬워요.
+E 1-07-02 | Mfite ikibazo | Mfite ikibazo kimwe. | 질문이 하나 있어요.
+E 1-07-02 | Nshobora kubaza? | Mbabarira, nshobora kubaza? | 실례지만 물어봐도 돼요?
+E 1-07-02 | Nshobora gusohoka? | Nshobora gusohoka gato? | 잠깐 나가도 돼요?
+E 1-07-03 | Koreya y'Epfo | Seoul ni umurwa mukuru wa Koreya y'Epfo. | 서울은 대한민국의 수도예요.
+E 1-07-04 | umupira | Mpa umupira. | 공 줘.
+E 1-07-04 | umukino | Umukino wararangiye. | 경기가 끝났어요.
+E 1-08-01 | ubwiherero | Ubwiherero burasukuye. | 화장실이 깨끗해요.
+E 1-08-01 | igikoni | Igikoni ni gito. | 부엌이 작아요.
+E 1-08-01 | idirishya | Funga idirishya. | 창문을 닫아요.
+E 1-08-02 | umuriro | Nta muriro uhari. | 전기가 안 들어와요.
+E 1-08-02 | amazi ashyushye | Amazi ashyushye arahari? | 따뜻한 물 나와요?
+E 1-08-03 | kuruhuka | Ngomba kuruhuka. | 쉬어야 해요.
+E 1-08-04 | Ndagusaba | Ndagusaba imbabazi. | 용서를 구해요.
+E 1-08-04 | Ihangane | Ihangane cyane. | 정말 미안해요.
+E 1-08-04 | Gira amahoro | Gira amahoro, mwarimu. | 선생님, 평안하세요.
+E 1-09-01 | ugutwi | Ugutwi kw'iburyo. | 오른쪽 귀.
+E 1-09-01 | akanwa | Akanwa kanjye karumye. | 입이 말랐어요.
+E 1-09-01 | iryinyo | Iryinyo rimwe. | 이 하나.
+E 1-09-02 | umugongo | Mfite ikibazo cy'umugongo. | 허리가 안 좋아요.
+E 1-09-03 | umuriro | Umuriro waragabanutse. | 열이 내렸어요.
+E 1-09-04 | ibitaro | Ibitaro biri hafi. | 병원이 가까워요.
+E 1-09-04 | umuganga | Umuganga arahari? | 의사 선생님 계세요?
+E 1-10-01 | kuvunjisha | Kuvunjisha amafaranga. | 돈을 환전하다.
+E 1-11-01 | imvura | Imvura irahise. | 비가 그쳤어요.
+E 1-11-03 | inka | Inka itanga amata. | 소는 우유를 줘요.
+E 1-11-03 | imbwa | Mfite imbwa. | 개를 키워요.
+E 1-12-01 | data | Data ari muri Koreya. | 아버지는 한국에 계세요.
+E 1-12-01 | mama | Mama arakora. | 어머니는 일하세요.
+E 1-12-01 | umugore | Uyu mugore ni umuganga. | 이 여자분은 의사예요.
+E 1-12-03 | akazi | Ndashaka akazi. | 일자리를 구하고 있어요.
+E 1-12-03 | umucuruzi | Umucuruzi w'imboga. | 채소 장수.
+E 1-05-04 | ikibuga cy'indege | Ikibuga cy'indege kiri kure? | 공항이 멀어요?
+E 1-04-05 | ikawa y'u Rwanda | Ikawa y'u Rwanda iraryoshye. | 르완다 커피는 맛있어요.
+E 1-04-05 | ibikozwe n'intoki | Ibikozwe n'intoki ni byiza. | 수공예품은 예뻐요.
+E 1-06-05 | nzabakumbura | Nshuti, nzabakumbura. | 친구들, 보고 싶을 거예요.
+E 1-08-05 | ifunguro rya mu gitondo | Ifunguro rya mu gitondo riri he? | 아침 식사는 어디서 해요?
+E 1-10-03 | gukanda | Kanda iburyo. | 오른쪽을 눌러요.
+E 1-09-05 | polisi | Polisi iraje. | 경찰이 와요.
+E 1-09-05 | impanuka | Impanuka y'imodoka. | 자동차 사고.
+E 1-09-05 | umujura | Hari umujura! | 도둑이야!
+E 1-09-05 | imbangukiragutabara | Imbangukiragutabara iri he? | 구급차 어디 있어요?
+E 2-01-03 | kwinjira | Kwinjira mu ishuri. | 교실에 들어가다.
+E 2-01-04 | kugura | Kugura imboga ku isoko. | 시장에서 채소를 사다.
+E 2-01-04 | kubaza | Nshobora kubaza? | 물어봐도 돼요?
+E 2-01-05 | hasi | Shyira igikapu hasi. | 가방을 바닥에 놓아요.
+E 3-01-02 | kumenya | Kumenya gusoma. | 읽을 줄 알다.
+E 4-01-02 | inyandiko | Inyandiko ngufi. | 짧은 글.
+E 4-01-07 | kwivuza | Kwivuza ku bitaro. | 병원에서 치료받다.
+E 4-01-08 | ubufasha | Ubufasha bwawe ni bwiza. | 네 도움이 고마워.
+E 4-01-09 | Umunyarwanda | Ndi Umunyarwanda. | 저는 르완다 사람이에요.
+E 4-01-09 | umunyabwenge | Umunyabwenge arumva. | 지혜로운 사람은 귀 기울여요.
+E 5-01-01 | cyane | Ndagukunda cyane. | 많이 사랑해.
+E 6-01-01 | oya | Oya, simbizi. | 아니요, 몰라요.
+E 6-01-02 | hano | Ngwino hano. | 이리 와요.
+E 6-01-05 | byiza | Byiza cyane! | 아주 좋아요!
+E 6-01-05 | ryari | Ugenda ryari? | 언제 가요?
+E 6-01-09 | banki | Banki irafunze. | 은행이 문을 닫았어요.
+E 7-01-01 | Ndiga Ikinyarwanda | Ndiga Ikinyarwanda ku ishuri. | 학교에서 르완다어를 배워요.
+E 7-01-01 | Keza arya umugati | Keza arya umugati n'amata. | 케자가 빵과 우유를 먹어요.
+E 7-01-02 | murarya | Murarya iki? | 여러분은 뭘 먹어요?
+E 7-01-03 | njye | Njye ndi Umunyakoreya. | 나는 한국 사람이에요.
+E 7-01-04 | umwana wawe | Umwana wawe ari he? | 네 아이는 어디 있어?
+E 7-01-05 | i | Nkorera i Huye. | 후예에서 일해요.
+E 7-01-05 | hano | Ndi hano. | 여기 있어요.
+E 7-01-05 | hariya | Icara hariya. | 저기 앉아요.
+E 7-02-06 | igitabo cyiza | Mfite igitabo cyiza. | 좋은 책이 있어요.
+E 7-02-06 | amagambo meza | Amagambo meza ni impano. | 좋은 말은 선물이에요.
+E 7-03-01 | ndakora | Ndakora cyane. | 열심히 일해요.
+E 7-03-01 | ndanywa | Ndanywa ikawa mu gitondo. | 아침에 커피를 마셔요.
+E 7-03-01 | ndumva | Ndumva Ikinyarwanda gake. | 르완다어를 조금 알아들어요.
+E 7-03-02 | nakoze | Nakoze ku wa gatandatu. | 토요일에 일했어요.
+E 7-03-03 | tuzabonana | Tuzabonana vuba. | 곧 만나요.
+E 7-03-05 | ndimo kwiga | Ndimo kwiga imibare. | 수학을 공부하는 중이에요.
+E 7-03-05 | sindarya | Sindarya uyu munsi. | 오늘 아직 안 먹었어요.
+E 7-04-01 | Ni iki…? | Ni iki kiri ku meza? | 책상 위에 있는 건 뭐예요?
+E 7-04-02 | ndashaka + 동사 | Ndashaka kurya. | 먹고 싶어요.
+E 7-04-02 | nkeneye | Nkeneye umuti. | 약이 필요해요.
+E 7-04-02 | sinshobora | Sinshobora gusoma ibi. | 이건 못 읽겠어요.
+E 7-04-03 | niba | Niba urwaye, ruhuka. | 아프면 쉬어요.
+E 7-04-04 | kuruta | Uyu ni muremure kuruta uriya. | 이 사람이 저 사람보다 커요.
+E 7-04-05 | Genda | Genda ku ishuri. | 학교에 가라.
+E 7-04-05 | Ngwino | Ngwino vuba. | 빨리 와.
+E 7-04-05 | Ntukore ibyo | Ntukore ibyo hano. | 여기서 그러지 마.
+E 7-04-05 | Mufashe | Mufashe, ararwaye. | 그를 도와주세요, 아파요.
+x umuhanga | 똑똑한 사람
+x ushobora | 너는 할 수 있다
+x ndataha | 나는 집에 가요
+x mwaraye | 잘 주무셨어요(밤을 보내다)
+x minsu | 민수(이름)
+x simbishaka | 원하지 않아요
+x nje | 내가 오다
+x ndabyuka | 나는 일어나요
+x riratangira | 시작돼요
+x bararuhuka | 그들은 쉬어요
+x sindya | 나는 안 먹어요
+x iragenda | 떠나요
+x zirashize | 다 떨어졌어요
+x rirakomeye | 어려워요
+x rito | 작은
+x araruka | 그는 토해요
+x aracibwamo | 그는 설사해요
+x nyoherereza | 나에게 보내 줘요
+x kubatumira | 여러분을 초대하다
+x irahaguruka | 출발해요
+x babonye | 그들은 받았다
+x ibahe | (여러분에게) 주시기를
+x bati | ~라고 (그들이 말하다)
+x kubeshya | 거짓말하다
+x agiye | 그는 ~하러 간다
+x iraririmba | 노래해요
+x kumfasha | 나를 돕다
+x ribanza | 초등(처음의)
+x ryarangiye | 끝났어요
+x arakora | 그는 일해요
+x gishyushye | 뜨거운
+x ariga | 그는 공부해요
+x cyacu | 우리의
+x uje | 네가 오다
+x utinze | 네가 늦다
+x kirarura | 써요
+x gashya | 새로운
+x iroroshye | 쉬워요
+x wararangiye | 끝났어요
+x burasukuye | 깨끗해요
+x karumye | 말랐어요
+x waragabanutse | 내렸어요(줄었어요)
+x irahise | 그쳤어요(지나갔어요)
+x arumva | 그는 들어요

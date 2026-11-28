@@ -1,0 +1,633 @@
+// 말뿌리 더하기 (v1.1): 동사 뿌리 가족 더
+# P2-A | 동사 뿌리 가족
+
+@ 4-01-10 | -som- 읽다 | gusoma·isomero | 뿌리 -som-(읽다)에서 나온 낱말이에요.
+w gusoma | 읽다 | 읽다
+e Soma iyi nteruro. | 이 문장을 읽어요.
+e Nkunda gusoma ibitabo. | 책 읽는 걸 좋아해요.
+e Umwana azi gusoma. | 아이는 읽을 줄 알아요.
+w isomo | 수업 · 과 (읽는 것) | 수업
+e Isomo ritangira saa mbiri. | 수업은 8시에 시작해요.
+e Isomo rya kane. | 제4과.
+e Isomo ryari ryiza. | 수업이 좋았어요.
+w isomero | 도서관 (읽는 곳) | 도서관
+e Isomero rifunga saa kumi. | 도서관은 4시에 닫아요.
+e Njya mu isomero gusoma. | 도서관에 읽으러 가요.
+e Isomero ry'ishuri ni rinini. | 학교 도서관은 커요.
+w umusomyi | 읽는 사람 · 독자 | 독자
+e Ni umusomyi mwiza. | 그는 책을 잘 읽어요.
+e Abasomyi b'iki kinyamakuru. | 이 신문의 독자들.
+e Abana benshi ni abasomyi. | 많은 아이가 책을 즐겨 읽어요.
+tp gu-som-a(읽다) → i-som-o(읽는 것 = 수업) → i-som-ero(읽는 곳 = 도서관) → umu-som-yi(읽는 사람).
+tp -ero는 '~하는 곳'을 만들 때가 많아요: isomero(도서관), ivuriro(진료소, → 4-01-07).
+pr Gusoma | 읽다 || Isomo | 수업
+pr Isomero | 도서관 || Umusomyi | 독자
+sm Umusomyi mwiza ajya mu isomero buri munsi, agasoma, akiga amasomo mashya. | 책을 즐겨 읽는 사람은 매일 도서관에 가서 읽고 새 공부를 해요.
+qz '도서관'은? | isomero
+
+@ 4-01-11 | -vug- 말하다 | kuvuga·imvugo | 뿌리 -vug-(말하다)의 가족이에요.
+w kuvuga | 말하다 | 말하다
+e Vuga buhoro. | 천천히 말해요.
+e Uvuga Ikinyarwanda? | 르완다어 해요?
+e Yavuze ko azaza. | 그는 온다고 말했어요.
+w kuvugana | 서로 이야기하다 · 통화하다 | 이야기하다
+e Twavuganye kuri telefoni. | 전화로 이야기했어요.
+e Ndashaka kuvugana nawe. | 너랑 이야기하고 싶어.
+e Bavugana buri munsi. | 그들은 매일 이야기해요.
+w imvugo | 말투 · 표현 | 말투; 표현
+e Imvugo ye ni nziza. | 그의 말투는 좋아요.
+e Iyi ni imvugo y'urubyiruko. | 이건 젊은이들 말투예요.
+e Imvugo nyinshi. | 여러 표현.
+w umuvugizi | 대변인 · 말하는 사람 | 대변인
+e Umuvugizi wa leta. | 정부 대변인.
+e Umuvugizi yavuze amakuru. | 대변인이 소식을 말했어요.
+e Ni umuvugizi w'ishuri. | 그는 학교 대변인이에요.
+tp ku-vug-a(말하다) + -an-(서로) = kuvugana(서로 이야기하다). -an-은 '서로'예요(→ 4-03-03).
+tp umu-vug-izi: -izi/-i는 '~하는 사람'을 만들어요.
+pr Kuvuga | 말하다 || Kuvugana | 이야기 나누다
+pr Imvugo | 말투 || Umuvugizi | 대변인
+sm Umuvugizi avuga neza, kandi imvugo ye yumvikana; tuzavugana ejo. | 대변인은 말을 잘하고 말투도 잘 알아들을 수 있어요. 내일 이야기 나눠요.
+qz '서로 이야기하다'는? | kuvugana
+
+@ 4-01-12 | -gend- 가다 | kugenda·urugendo·umugenzi | 뿌리 -gend-(가다)의 가족이에요.
+w kugenda | 가다 · 걷다 · 떠나다 | 가다
+e Ngiye kugenda. | 이제 가 볼게요.
+e Tugende! | 가자!
+e Bagiye kare. | 그들은 일찍 떠났어요.
+w urugendo | 여행 · 길 · 여정 | 여행
+e Urugendo rwiza! | 좋은 여행 되세요!
+e Urugendo rwa Kigali–Musanze. | 키갈리–무산제 여정.
+e Urugendo rwari rurerure. | 여행이 길었어요.
+w umugenzi | 여행자 · 승객 | 여행자; 승객
+e Abagenzi benshi bari muri bisi. | 버스에 승객이 많아요.
+e Ndi umugenzi. | 저는 여행자예요.
+e Umugenzi yabuze igikapu. | 승객이 가방을 잃어버렸어요.
+w kugendagenda | 돌아다니다 · 산책하다 | 돌아다니다
+e Twagendagenze mu mujyi. | 시내를 돌아다녔어요.
+e Nkunda kugendagenda nimugoroba. | 저녁에 산책하는 걸 좋아해요.
+e Abashyitsi bagendagenda ku isoko. | 손님들이 시장을 돌아다녀요.
+tp 뿌리를 두 번 쓰면 '이리저리, 여러 번'이 돼요: kugenda → kugendagenda(돌아다니다).
+tp uru-gend-o(여행): uru-는 길고 이어지는 것에 많이 붙어요(→ 4-02-08).
+pr Kugenda | 가다 || Urugendo | 여행
+pr Umugenzi | 여행자 || Kugendagenda | 돌아다니다
+sm Abagenzi bakoze urugendo rurerure, bagera i Musanze bagendagenda mu mujyi. | 여행자들은 긴 여행 끝에 무산제에 도착해서 시내를 돌아다녔어요.
+qz '여행'은? | urugendo
+
+@ 4-01-13 | -kund- 사랑하다 | gukunda·urukundo | 뿌리 -kund-(사랑하다·좋아하다)의 가족이에요.
+w gukunda | 사랑하다 · 좋아하다 | 좋아하다
+e Nkunda u Rwanda. | 르완다를 좋아해요.
+e Ukunda iki? | 뭘 좋아해요?
+e Abana bakunda gukina. | 아이들은 노는 걸 좋아해요.
+w urukundo | 사랑 | 사랑
+e Urukundo rw'ababyeyi. | 부모의 사랑.
+e Indirimbo y'urukundo. | 사랑 노래.
+e Urukundo ni rwo rwa mbere. | 사랑이 가장 먼저예요.
+w umukunzi | 애인 · 팬 | 애인; 팬
+e Umukunzi we ni umwarimu. | 그의 애인은 선생님이에요.
+e Ndi umukunzi w'umupira. | 저는 축구 팬이에요.
+e Abakunzi ba APR. | APR(축구팀) 팬들.
+w gukundana | 서로 사랑하다 | 서로 사랑하다
+e Barakundana. | 그들은 서로 사랑해요.
+e Mukundane. | 서로 사랑하세요.
+e Abavandimwe bakundana. | 형제들이 서로 아껴요.
+tp gu-kund-a → uru-kund-o(사랑) → umu-kunz-i(사랑하는 사람·팬) → gu-kund-an-a(서로 사랑하다).
+tp 뿌리 끝 -d가 -z로 바뀌기도 해요: -kund- → umukunzi. 소리가 부드러워지는 거예요.
+pr Gukunda | 좋아하다 || Urukundo | 사랑
+pr Umukunzi | 애인·팬 || Gukundana | 서로 사랑하다
+sm Abakunzi barakundana, kandi urukundo rwabo ni rwiza. | 연인들은 서로 사랑하고, 그들의 사랑은 아름다워요.
+qz '사랑'은? | urukundo
+
+@ 4-01-14 | -meny- 알다 | kumenya·ubumenyi | 뿌리 -meny-(알다)의 가족이에요.
+w kumenya | 알다 | 알다
+e Ndashaka kumenya byinshi. | 많이 알고 싶어요.
+e Nishimiye kukumenya. | 알게 되어 반가워요.
+e Ntabwo mbizi. | 그건 몰라요.
+w ubumenyi | 지식 · 과학 | 지식; 과학
+e Ubumenyi ni ubukire. | 지식은 재산이에요.
+e Isomo ry'ubumenyi. | 과학 수업.
+e Afite ubumenyi bwinshi. | 그는 아는 게 많아요.
+w kumenyesha | 알리다 · 통지하다 | 알리다
+e Menyesha mwarimu. | 선생님께 알려요.
+e Turabamenyesha ko ishuri rifunze ejo. | 내일 휴교임을 알려 드려요.
+e Nzakumenyesha. | 알려 줄게요.
+w kumenyekana | 알려지다 · 유명해지다 | 알려지다
+e U Rwanda ruzwi ku isuku. | 르완다는 깨끗하기로 알려져 있어요.
+e Indirimbo ye yamenyekanye cyane. | 그의 노래가 아주 유명해졌어요.
+e Arashaka kumenyekana. | 그는 유명해지고 싶어 해요.
+tp ku-meny-a(알다) + -esh-(하게 하다) = kumenyesha(알게 하다 = 알리다).
+tp ku-meny-a + -ek-an-(될 수 있다) = kumenyekana(알려지다). '나는 안다'는 불규칙해서 nzi예요(→ 3-02-10).
+pr Kumenya | 알다 || Ubumenyi | 지식
+pr Kumenyesha | 알리다 || Kumenyekana | 알려지다
+sm Mwarimu yatumenyesheje ko ubumenyi butuma umuntu amenyekana. | 선생님은 지식이 사람을 알려지게 한다고 알려 주셨어요.
+qz '알리다'는? | kumenyesha
+
+@ 4-01-15 | -bar- 세다 | kubara·imibare·umubare | 뿌리 -bar-(세다)의 가족이에요.
+w kubara | 세다 · 계산하다 | 세다
+e Bara kugeza ku icumi. | 열까지 세요.
+e Bara amafaranga yawe. | 돈을 세어 봐요.
+e Ntabwo uzi kubara? | 셀 줄 몰라요?
+w umubare | 수 · 숫자 · 번호 | 숫자; 번호
+e Umubare wa telefoni yawe ni uwuhe? | 전화번호가 뭐예요?
+e Umubare w'abanyeshuri ni mirongo ine. | 학생 수는 40명이에요.
+e Andika umubare. | 숫자를 써요.
+w imibare | 수학 · 숫자들 | 수학
+e Nkunda imibare. | 수학을 좋아해요.
+e Isomo ry'imibare riragoye. | 수학 수업은 어려워요.
+e Mwarimu w'imibare. | 수학 선생님.
+w ibarura | 인구 조사 · 셈 | 인구 조사
+e Ibarura ry'abaturage. | 인구 조사.
+e Ibarura rizaba umwaka utaha. | 인구 조사가 내년에 있어요.
+e Ibarura ry'ibintu byo mu iduka. | 가게 물건 재고 조사.
+tp umu-bar-e(숫자 하나) ↔ imi-bar-e(숫자들 = 수학). 단수·복수가 뜻을 바꿔요.
+tp 전화번호는 umubare wa telefoni예요.
+pr Kubara | 세다 || Umubare | 숫자
+pr Imibare | 수학 || Ibarura | 인구 조사
+sm Mu isomo ry'imibare, abana babara imibare kuva kuri rimwe kugeza ku ijana. | 수학 시간에 아이들은 1부터 100까지 숫자를 세요.
+qz '수학'은? | imibare
+
+@ 4-01-16 | -subir- 돌아가다·다시 | gusubira·gusubiza | 뿌리 -subir-(돌아가다·다시)의 가족이에요.
+w gusubira | 돌아가다 · 다시 하다 | 돌아가다
+e Nzasubira muri Koreya. | 한국에 돌아갈 거예요.
+e Subira inyuma. | 뒤로 돌아가요.
+e Ntuzasubire! | 다시는 그러지 마!
+w gusubiza | 대답하다 · 돌려주다 | 대답하다; 돌려주다
+e Subiza ikibazo. | 질문에 대답해요.
+e Nsubiza igitabo cyanjye. | 내 책 돌려줘.
+e Ntiyasubije. | 그는 대답하지 않았어요.
+w igisubizo | 대답 · 답 | 대답
+e Igisubizo ni cyo. | 답이 맞아요.
+e Igisubizo cyawe ni ikihe? | 네 대답은 뭐야?
+e Ibisubizo by'ikizamini. | 시험 결과(답).
+w gusubiramo | 되풀이하다 · 복습하다 | 되풀이하다
+e Subiramo, nyabuneka. | 다시 말해 주세요.
+e Subiramo isomo ry'ejo. | 어제 수업을 복습해요.
+e Musubiremo mwese. | 다 같이 따라 해요.
+tp gu-subir-a(돌아가다) → gu-subiz-a(돌아가게 하다 = 돌려주다·대답하다) → igi-subiz-o(대답).
+tp -mo를 붙인 gusubiramo은 '다시 안으로' = 되풀이하다예요.
+pr Gusubira | 돌아가다 || Gusubiza | 대답하다
+pr Igisubizo | 대답 || Gusubiramo | 되풀이하다
+sm Mwarimu yabajije ikibazo, ndasubiza, hanyuma dusubiramo igisubizo twese. | 선생님이 질문하셔서 제가 대답했고, 모두 함께 답을 되풀이했어요.
+qz '대답'은? | igisubizo
+
+@ 4-01-17 | -baz- 묻다 | kubaza·ikibazo | 뿌리 -baz-(묻다)의 가족이에요.
+w kubaza | 묻다 | 묻다
+e Baza mwarimu. | 선생님께 여쭤봐요.
+e Nshobora kubaza? | 물어봐도 돼요?
+e Yambajije aho ntuye. | 그가 사는 곳을 물었어요.
+w ikibazo | 질문 · 문제 | 질문; 문제
+e Mfite ikibazo kimwe. | 질문 하나 있어요.
+e Nta kibazo. | 괜찮아요.
+e Ikibazo ni uko nta mafaranga mfite. | 문제는 돈이 없다는 거예요.
+w ibibazo | 질문들 · 문제들 | 질문들
+e Ibibazo bitanu. | 질문 다섯 개.
+e Mufite ibibazo? | 질문 있어요?
+e Turi gukemura ibibazo. | 문제들을 해결하고 있어요.
+w kubazwa | 질문받다 | 질문받다
+e Nabajijwe izina ryanjye. | 이름을 질문받았어요.
+e Umukandida arabazwa. | 지원자가 면접을 봐요.
+e Ntabwo nkunda kubazwa byinshi. | 질문을 많이 받는 게 싫어요.
+tp ku-baz-a(묻다) → iki-baz-o(묻는 것 = 질문·문제), 복수 ibi-baz-o.
+tp -w-를 넣으면 '받다·당하다': kubaza(묻다) → kubazwa(질문받다)(→ 4-03-04).
+pr Kubaza | 묻다 || Kubazwa | 질문받다
+pr Ikibazo | 질문 || Ibibazo | 질문들
+sm Mfite ibibazo byinshi, reka mbaze mwarimu, kandi nawe nkubaze. | 질문이 많아요. 선생님께 여쭤보고 당신에게도 물어볼게요.
+qz '질문들'은? | ibibazo
+
+@ 4-01-18 | -shak- 원하다·찾다 | gushaka·ubushake | 뿌리 -shak-(원하다·찾다)의 가족이에요.
+w gushaka | 원하다 · 찾다 · 결혼하다(남자가) | 원하다; 찾다
+e Ndashaka amazi. | 물을 원해요.
+e Ndashaka akazi. | 일자리를 찾고 있어요.
+e Yashatse umugore. | 그는 아내를 맞았어요(결혼했어요).
+w ubushake | 의지 · 바람 | 의지
+e Afite ubushake bwo kwiga. | 그는 배우려는 의지가 있어요.
+e Ku bushake bwanjye. | 제 뜻대로.
+e Ubushake ni ingenzi. | 의지가 중요해요.
+w umushakashatsi | 연구자 | 연구자
+e Ni umushakashatsi muri kaminuza. | 대학 연구자예요.
+e Abashakashatsi bakora ubushakashatsi. | 연구자들이 연구를 해요.
+e Umushakashatsi w'Umunyakoreya. | 한국인 연구자.
+w ubushakashatsi | 연구 · 조사 | 연구
+e Nkora ubushakashatsi ku ndimi. | 언어를 연구해요.
+e Ubushakashatsi bwarangiye. | 연구가 끝났어요.
+e Ubushakashatsi bushya. | 새 연구.
+tp gushaka는 '원하다·찾다'이고, 남자가 '아내를 맞다(결혼하다)'라는 뜻도 있어요.
+tp 뿌리를 늘려 -shakashak-(이리저리 찾다)에 umu-…-i를 붙이면 umushakashatsi(연구자)예요.
+pr Gushaka | 원하다 || Ubushake | 의지
+pr Umushakashatsi | 연구자 || Ubushakashatsi | 연구
+sm Umushakashatsi ufite ubushake ashaka ibisubizo mu bushakashatsi bwe. | 의지가 있는 연구자는 연구에서 답을 찾아요.
+qz '연구'는? | ubushakashatsi
+
+@ 4-01-19 | -tum- 보내다 | gutuma·ubutumwa·intumwa | 뿌리 -tum-(보내다·심부름)의 가족이에요.
+w gutuma | (사람을) 보내다 · 심부름시키다 · ~하게 하다 | 보내다
+e Mama yantumye ku isoko. | 엄마가 시장 심부름을 보냈어요.
+e Ni nde wagutumye? | 누가 너를 보냈니?
+e Imvura yatumye ntaza. | 비 때문에 못 왔어요.
+w ubutumwa | 메시지 · 소식 | 메시지
+e Nakoherereje ubutumwa. | 메시지 보냈어요.
+e Wabonye ubutumwa bwanjye? | 내 메시지 봤어요?
+e Ubutumwa bwiza. | 좋은 소식.
+w intumwa | 심부름꾼 · 사절 | 사절; 대표
+e Intumwa ya Koreya. | 한국 대표(사절).
+e Intumwa zaje i Kigali. | 대표단이 키갈리에 왔어요.
+e Ni intumwa y'ishuri. | 학교 대표예요.
+w gutumira | 초대하다 | 초대하다
+e Badutumiye mu bukwe. | 우리를 결혼식에 초대했어요.
+e Ndagutumiye iwanjye. | 우리 집에 초대할게요.
+e Urakoze kuntumira. | 초대해 줘서 고마워요.
+tp gu-tum-a(보내다) → ubu-tum-wa(보내진 것 = 메시지), in-tum-wa(보내진 사람 = 사절).
+tp gutuma는 '~하게 만들다'로도 써요: Imvura yatumye ntaza(비가 내가 못 오게 했어요 = 비 때문에 못 왔어요).
+pr Gutuma | 보내다 || Ubutumwa | 메시지
+pr Intumwa | 사절 || Gutumira | 초대하다
+sm Intumwa yazanye ubutumwa bwo kudutumira mu birori. | 사절이 우리를 행사에 초대한다는 메시지를 가져왔어요.
+qz '메시지'는? | ubutumwa
+
+@ 4-01-20 | -yobor- 이끌다 | kuyobora·umuyobozi | 뿌리 -yobor-(이끌다·안내하다)의 가족이에요.
+w kuyobora | 이끌다 · 안내하다 | 이끌다
+e Nzakuyobora. | 제가 안내할게요.
+e Ayobora ishuri. | 그는 학교를 이끌어요.
+e Yayoboye inama. | 그가 회의를 진행했어요.
+w umuyobozi | 지도자 · 책임자 · 교장 | 책임자
+e Umuyobozi w'ishuri. | 교장 선생님.
+e Umuyobozi w'umudugudu. | 마을 대표.
+e Ndashaka kuvugana n'umuyobozi. | 책임자와 이야기하고 싶어요.
+w ubuyobozi | 행정 · 관리 · 지도부 | 행정
+e Ubuyobozi bw'akarere. | 군청(군 행정).
+e Ubuyobozi bwiza. | 좋은 행정.
+e Baza ubuyobozi. | 행정 기관에 물어봐요.
+w kuyoborwa | 안내받다 · 이끌리다 | 안내받다
+e Twayobowe n'umuyobozi wa pariki. | 공원 책임자의 안내를 받았어요.
+e Abashyitsi bayoborwa mu ishyamba. | 손님들은 숲에서 안내를 받아요.
+e Igihugu kiyoborwa neza. | 나라가 잘 운영돼요.
+tp ku-yobor-a(이끌다) → umu-yobozi(이끄는 사람) → ubu-yobozi(이끄는 일·기관).
+tp -w-를 넣으면 '이끌림을 받다': kuyobora(이끌다) → kuyoborwa(안내받다).
+pr Kuyobora | 이끌다 || Umuyobozi | 책임자
+pr Ubuyobozi | 행정 || Kuyoborwa | 안내받다
+sm Umuyobozi wa pariki yatuyoboye mu ishyamba, maze tuyoborwa neza. | 공원 책임자가 숲을 안내해 줘서 안내를 잘 받았어요.
+qz '책임자·교장'은? | umuyobozi
+
+@ 4-01-21 | -rer- 기르다 | kurera·umurezi·uburezi | 뿌리 -rer-(아이를 기르다·가르치다)의 가족이에요.
+w kurera | (아이를) 기르다 · 키우다 | 기르다
+e Arera abana batatu. | 그는 아이 셋을 키워요.
+e Nyogokuru yanyereye. | 할머니가 저를 키우셨어요.
+e Kurera umwana biragoye. | 아이를 키우는 건 어려워요.
+w umurezi | 교육자 · 기르는 사람 | 교육자
+e Mwarimu ni umurezi. | 선생님은 교육자예요.
+e Abarezi b'ishuri. | 학교 교직원들.
+e Umurezi mwiza akunda abana. | 좋은 교육자는 아이를 사랑해요.
+w uburezi | 교육 | 교육
+e Minisiteri y'Uburezi. | 교육부.
+e Uburezi ni uburenganzira. | 교육은 권리예요.
+e Uburezi bw'abana. | 아이들의 교육.
+w irerero | 유치원 · 어린이집 | 유치원
+e Umwana wanjye ajya mu irerero. | 제 아이는 유치원에 다녀요.
+e Irerero riri hafi y'urugo. | 유치원은 집 가까이 있어요.
+e Abana bo mu irerero baririmba. | 유치원 아이들이 노래해요.
+tp ku-rer-a(기르다) → umu-rezi(기르는 사람 = 교육자) → ubu-rezi(교육) → i-rer-ero(기르는 곳 = 유치원).
+tp 교육 봉사를 하러 왔다면 Ndi umurezi(저는 교육자예요)라고 소개할 수 있어요.
+pr Kurera | 기르다 || Umurezi | 교육자
+pr Uburezi | 교육 || Irerero | 유치원
+sm Abarezi beza barera abana neza, kandi uburezi butangirira mu irerero. | 좋은 교육자는 아이들을 잘 기르고, 교육은 유치원에서 시작해요.
+qz '교육'은? | uburezi
+
+@ 4-01-22 | -tsind- 이기다 | gutsinda·intsinzi | 뿌리 -tsind-(이기다)의 가족이에요.
+w gutsinda | 이기다 · 합격하다 | 이기다
+e Twatsinze! | 이겼어요!
+e Natsinze ikizamini. | 시험에 합격했어요.
+e Uzatsinda! | 너는 이길 거야!
+w intsinzi | 승리 | 승리
+e Intsinzi yacu! | 우리의 승리!
+e Twishimiye intsinzi. | 승리를 축하해요.
+e Intsinzi ni iy'ikipe yose. | 승리는 팀 모두의 것이에요.
+w umutsinzi | 승자 · 이긴 사람 | 승자
+e Umutsinzi ahabwa igihembo. | 승자가 상을 받아요.
+e Ninde mutsinzi? | 누가 승자예요?
+e Abatsinzi barishimye. | 이긴 사람들이 기뻐해요.
+w gutsindwa | 지다 · 떨어지다 | 지다
+e Twatsinzwe. | 우리가 졌어요.
+e Ntibyoroshye gutsindwa. | 지는 건 쉽지 않아요.
+e Yatsinzwe ariko azongera. | 떨어졌지만 다시 도전할 거예요.
+tp gu-tsind-a → in-tsinz-i(승리), umu-tsinz-i(승자): 끝소리 -d가 -z로 바뀌어요.
+tp -w-를 넣으면 반대쪽: gutsinda(이기다) → gutsindwa(지다, 이김을 당하다).
+pr Gutsinda | 이기다 || Gutsindwa | 지다
+pr Intsinzi | 승리 || Umutsinzi | 승자
+sm Umutsinzi yishimiye intsinzi, naho uwatsinzwe avuga ko azongera kugerageza. | 승자는 승리를 기뻐했고, 진 사람은 다시 도전하겠다고 했어요.
+qz '승리'는? | intsinzi
+
+@ 4-01-23 | -byin- 춤추다 | kubyina·imbyino | 뿌리 -byin-(춤추다)의 가족이에요.
+w kubyina | 춤추다 | 춤추다
+e Nkunda kubyina. | 춤추는 걸 좋아해요.
+e Tubyine! | 춤추자!
+e Abana babyina neza. | 아이들이 춤을 잘 춰요.
+w imbyino | 춤 | 춤
+e Imbyino gakondo. | 전통 춤.
+e Imbyino y'intore. | 인토레 춤.
+e Nize imbyino nshya. | 새 춤을 배웠어요.
+w umubyinnyi | 춤추는 사람 · 무용수 | 무용수
+e Ni umubyinnyi mwiza. | 그는 춤을 잘 추는 사람이에요.
+e Ababyinnyi b'intore. | 인토레 무용수들.
+e Ababyinnyi bambaye imyenda gakondo. | 무용수들이 전통 옷을 입었어요.
+w intore | 인토레 (전통 무용수·선택된 사람) | 인토레
+e Intore zibyina neza. | 인토레들이 멋지게 춤춰요.
+e Imbyino y'intore irakomeye. | 인토레 춤은 힘차요.
+e Intore ziri ku rubyiniro. | 인토레가 무대에 있어요.
+tp ku-byin-a(춤추다) → im-byin-o(춤) → umu-byinnyi(춤추는 사람) → uru-byin-iro(춤추는 곳 = 무대).
+tp 인토레(intore)는 옛 왕궁의 전사 춤에서 온 르완다 대표 전통 무용이에요. 머리에 긴 장식을 써요.
+pr Kubyina | 춤추다 || Imbyino | 춤
+pr Umubyinnyi | 무용수 || Intore | 인토레
+sm Ababyinnyi b'intore babyinnye imbyino gakondo, abantu bose barishima. | 인토레 무용수들이 전통 춤을 추자 모두 기뻐했어요.
+qz '춤'은? | imbyino
+
+@ 4-01-24 | -hing- 농사짓다 | guhinga·umuhinzi·ubuhinzi | 뿌리 -hing-(밭을 갈다)의 가족이에요.
+w guhinga | 농사짓다 · 밭을 갈다 | 농사짓다
+e Data ahinga ibishyimbo. | 아빠는 콩 농사를 지어요.
+e Duhinga mu gitondo. | 아침에 밭을 갈아요.
+e Bahinga ku musozi. | 언덕에서 농사를 지어요.
+w umuhinzi | 농부 | 농부
+e Ni umuhinzi. | 그는 농부예요.
+e Abahinzi bakora cyane. | 농부들은 열심히 일해요.
+e Umuhinzi w'icyayi. | 차 농부.
+w ubuhinzi | 농업 | 농업
+e Ubuhinzi ni ingenzi mu Rwanda. | 르완다에서 농업은 중요해요.
+e Yiga ubuhinzi. | 그는 농업을 공부해요.
+e Ubuhinzi bw'ikawa. | 커피 농업.
+w igihingwa | 농작물 · 작물 | 작물
+e Ikawa ni igihingwa gikomeye. | 커피는 중요한 작물이에요.
+e Ibihingwa byeze. | 작물이 익었어요.
+e Ibihingwa bikeneye imvura. | 작물은 비가 필요해요.
+tp gu-hing-a → umu-hinz-i(농부) → ubu-hinz-i(농업) → igi-hing-wa(심긴 것 = 작물).
+tp 르완다 사람 많은 수가 농사를 지어요. 주요 수출 작물은 차(icyayi)와 커피(ikawa)예요.
+pr Guhinga | 농사짓다 || Umuhinzi | 농부
+pr Ubuhinzi | 농업 || Igihingwa | 작물
+sm Abahinzi bahinga ibihingwa byinshi, kandi ubuhinzi butunga abantu benshi. | 농부들은 많은 작물을 기르고, 농업은 많은 사람을 먹여 살려요.
+qz '농부'는? | umuhinzi
+
+@ 4-01-25 | -ganir- 이야기하다 | kuganira·ikiganiro | 뿌리 -ganir-(이야기 나누다)의 가족이에요.
+w kuganira | 이야기 나누다 · 수다 떨다 | 이야기하다
+e Twaganiriye igihe kirekire. | 오래 이야기 나눴어요.
+e Reka tuganire. | 이야기 좀 해요.
+e Abagore baganira ku isoko. | 여자들이 시장에서 이야기해요.
+w ikiganiro | 대화 · 방송 프로그램 | 대화; 프로그램
+e Ikiganiro cyiza. | 좋은 대화.
+e Ikiganiro kuri radiyo. | 라디오 프로그램.
+e Ikiganiro n'abanyamakuru. | 기자 회견.
+w kuganiriza | ~에게 이야기해 주다 | 이야기해 주다
+e Nyogokuru aganiriza abana. | 할머니가 아이들에게 이야기해 줘요.
+e Ganiriza inshuti yawe. | 친구에게 말을 걸어 봐요.
+e Yanganirije amateka. | 그가 저에게 역사를 이야기해 줬어요.
+w ibiganiro | 대화들 · 회담 | 회담
+e Ibiganiro by'amahoro. | 평화 회담.
+e Ibiganiro byarangiye. | 회담이 끝났어요.
+e Ibiganiro byinshi. | 많은 대화.
+tp ku-ganir-a(이야기하다) → ku-ganir-iz-a(~에게 이야기해 주다) → iki-ganir-o(대화) → ibi-ganir-o(대화들·회담).
+tp 르완다 사람들은 저녁에 모여 이야기 나누는 것(kuganira)을 좋아해요.
+pr Kuganira | 이야기하다 || Kuganiriza | 이야기해 주다
+pr Ikiganiro | 대화 || Ibiganiro | 회담
+sm Nimugoroba turaganira, nyogokuru akaduganiriza inkuru, maze ikiganiro kikaryoha. | 저녁이면 이야기를 나누고, 할머니가 옛이야기를 들려주면 대화가 즐거워져요.
+qz '대화'는? | ikiganiro
+
+@ 4-01-26 | -bik- 보관하다 | kubika·ububiko·kubitsa | 뿌리 -bik-(두다·보관하다)의 가족이에요. 은행 말에도 많이 써요.
+w kubika | 보관하다 · 저장하다 | 보관하다
+e Bika aya mafaranga. | 이 돈을 보관해요.
+e Nabitse ifoto. | 사진을 저장했어요.
+e Bika ibiryo muri firigo. | 음식을 냉장고에 보관해요.
+w ububiko | 창고 · 저장소 | 창고
+e Ububiko bw'ibiribwa. | 식품 창고.
+e Ububiko buri inyuma y'inzu. | 창고는 집 뒤에 있어요.
+e Ububiko bwa telefoni bwuzuye. | 휴대폰 저장 공간이 가득 찼어요.
+w kubitsa | 예금하다 · 맡기다 | 예금하다
+e Ndashaka kubitsa amafaranga. | 돈을 예금하고 싶어요.
+e Yabikije muri banki. | 그는 은행에 예금했어요.
+e Kubitsa ni ubuntu. | 예금은 무료예요.
+w kubikuza | (돈을) 찾다 · 인출하다 | 인출하다
+e Ndashaka kubikuza. | 돈을 찾고 싶어요.
+e Nabikuje ibihumbi icumi. | 만 프랑을 찾았어요.
+e Kubikuza kuri MoMo. | MoMo에서 인출하기.
+tp ku-bik-a(보관하다) → ku-bik-itsa(보관하게 하다 = 예금하다) → ku-bik-uza(보관한 것을 꺼내다 = 인출하다).
+tp 은행에서: kubitsa(입금) ↔ kubikuza(출금). MoMo 가게에서도 같은 말을 써요(→ 1-10-01).
+pr Kubitsa | 예금하다 || Kubikuza | 인출하다
+pr Kubika | 보관하다 || Ububiko | 창고
+sm Mu gitondo nabikije amafaranga muri banki, nimugoroba ndabikuza make. | 아침에 은행에 돈을 예금하고, 저녁에 조금 찾았어요.
+qz '예금하다'는? | kubitsa
+
+@ 4-01-27 | -ishyur- 갚다 | kwishyura·ubwishyu | 뿌리 -ishyur-(값을 치르다)의 가족이에요.
+w kwishyura | 돈을 내다 · 갚다 | 내다; 갚다
+e Ndashaka kwishyura. | 계산할게요.
+e Nishyuye ubukode. | 집세를 냈어요.
+e Ishyura na MoMo. | MoMo로 내요.
+w ubwishyu | 지불 · 납부 | 지불
+e Ubwishyu bwakozwe. | 지불이 완료됐어요.
+e Uburyo bw'ubwishyu. | 지불 방법.
+e Ubwishyu bwa buri kwezi. | 매달 내는 돈.
+w kwishyuza | (돈을) 받다 · 청구하다 | 청구하다
+e Banyishyuje ibihumbi bitatu. | 3천 프랑을 청구했어요.
+e Ntimunyishyuze cyane! | 너무 많이 받지 마세요!
+e Umushoferi yanyishyuje make. | 운전사가 조금만 받았어요.
+w kwishyurwa | (돈을) 받다 · 지불받다 | 지불받다
+e Nishyuwe uyu munsi. | 오늘 돈을 받았어요.
+e Abakozi bishyurwa buri kwezi. | 직원들은 매달 급여를 받아요.
+e Ntiturishyurwa. | 아직 돈을 못 받았어요.
+tp kw-ishyur-a(내다) → kw-ishyur-iz-a(내게 하다 = 청구하다) → kw-ishyur-w-a(지불받다).
+tp 택시·모토에서 바가지를 쓰지 않으려면 타기 전에 Unyishyuza angahe?(얼마 받아요?)라고 물어봐요.
+pr Kwishyura | 내다 || Kwishyuza | 청구하다
+pr Ubwishyu | 지불 || Kwishyurwa | 지불받다
+sm Umushoferi yanyishyuje igihumbi, ndishyura na MoMo, nawe yishyurwa ako kanya. | 운전사가 천 프랑을 청구해서 MoMo로 냈더니 바로 돈을 받았어요.
+qz '청구하다'는? | kwishyuza
+
+@ 4-01-28 | -rwar- 아프다 | kurwara·umurwayi·indwara | 뿌리 -rwar-(병들다)의 가족이에요.
+w kurwara | 병들다 · 아프다 | 아프다
+e Ndwaye. | 아파요.
+e Yarwaye ibicurane. | 그는 감기에 걸렸어요.
+e Ntiwarwara niba wikingije. | 예방 접종을 하면 병에 안 걸려요.
+w umurwayi | 환자 | 환자
+e Umurwayi ari mu bitaro. | 환자가 병원에 있어요.
+e Abarwayi bategereje umuganga. | 환자들이 의사를 기다려요.
+e Sura umurwayi. | 환자를 문병해요.
+w indwara | 병 · 질병 | 병
+e Malariya ni indwara mbi. | 말라리아는 나쁜 병이에요.
+e Indwara z'abana. | 아이들 병.
+e Iyi ndwara ivurwa. | 이 병은 치료돼요.
+w uburwayi | 아픔 · 질병 상태 | 병환
+e Uburwayi bwe bumeze bute? | 그의 병환은 어때요?
+e Yakize uburwayi. | 그는 병이 나았어요.
+e Uburwayi bw'umutima. | 심장병.
+tp ku-rwar-a(아프다) → umu-rway-i(아픈 사람) → in-dwar-a(병) → ubu-rway-i(아픈 상태).
+tp in-이 r 앞에서 nd-가 돼요: in + rwara → indwara.
+pr Kurwara | 아프다 || Umurwayi | 환자
+pr Indwara | 병 || Uburwayi | 병환
+sm Umurwayi ufite indwara ya malariya yavuwe, none uburwayi bwe bwarakize. | 말라리아에 걸린 환자가 치료를 받아 이제 다 나았어요.
+qz '병'은? | indwara
+
+@ 4-01-29 | -ubak- 짓다 | kubaka·inyubako | 뿌리 -ubak-(짓다·세우다)의 가족이에요.
+w kubaka | 짓다 · 세우다 | 짓다
+e Twubaka inzu nshya. | 새 집을 지어요.
+e Bubatse ishuri. | 그들이 학교를 지었어요.
+e Twubake igihugu. | 나라를 세워요.
+w inyubako | 건물 | 건물
+e Inyubako ndende. | 높은 건물.
+e Kigali Convention Centre ni inyubako nziza. | 키갈리 컨벤션 센터는 멋진 건물이에요.
+e Inyubako y'ishuri. | 학교 건물.
+w umwubatsi | 건축가 · 건설 노동자 | 건축가; 건설 노동자
+e Ni umwubatsi. | 그는 건설 일을 해요.
+e Abubatsi bakora ku zuba. | 건설 노동자들이 햇볕 아래서 일해요.
+e Umwubatsi w'inzu. | 집 짓는 사람.
+w kwiyubaka | 스스로를 다시 세우다 | 다시 일어서다
+e Kwibuka twiyubaka. | 기억하며 다시 일어서요.
+e U Rwanda rwiyubatse. | 르완다는 스스로 다시 일어섰어요.
+e Urubyiruko rwiyubaka. | 젊은이들이 스스로를 세워 가요.
+tp ku-bak-a → kw-ubak-a: 뿌리 -ubak-. umw-ubats-i(짓는 사람), iny-ubak-o(지어진 것 = 건물).
+tp kwiyubaka는 '자기 자신을 짓다'예요. 4월 추모 기간 표어 Kwibuka twiyubaka(기억하며 다시 일어서기)에 나와요.
+pr Kubaka | 짓다 || Inyubako | 건물
+pr Umwubatsi | 건설 노동자 || Kwiyubaka | 다시 일어서다
+sm Abubatsi bubatse inyubako nshya, kandi abaturage biyubaka buri munsi. | 건설 노동자들이 새 건물을 지었고, 주민들은 날마다 다시 일어서요.
+qz '건물'은? | inyubako
+x bwe | 그의
+x gakondo | 전통
+x ababyinnyi | 무용수들
+x ibihingwa | 작물들
+x abasomyi | 독자들
+x rurerure | 긴
+x abagenzi | 승객들
+x bagendagenda | 돌아다닌다
+x abakunzi | 팬들, 연인들
+x barakundana | 서로 사랑한다
+x ibisubizo | 대답들, 결과
+x abarezi | 교육자들
+x azongera | 다시 할 것이다
+x yanyishyuje | 나에게 청구했다
+x bubatse | 지었다
+x abubatsi | 건설 노동자들
+x azi | 안다
+x kinyamakuru | 신문
+x agasoma | 그리고 읽는다
+x akiga | 그리고 배운다
+x amasomo | 수업들
+x twavuganye | 우리는 이야기했다
+x bavugana | 서로 이야기한다
+x leta | 정부
+x yumvikana | 알아들을 수 있다
+x tuzavugana | 우리는 이야기할 것이다
+x bagiye | 그들은 갔다
+x rwari | ~였다
+x twagendagenze | 우리는 돌아다녔다
+x bakoze | 그들은 했다
+x bagera | 도착해서
+x rwo | 바로 그것
+x apr | APR(축구팀)
+x mukundane | 서로 사랑하세요
+x rwabo | 그들의
+x mbizi | 나는 그것을 안다
+x bwinshi | 많은
+x menyesha | 알려라
+x turabamenyesha | 여러분께 알린다
+x rifunze | 닫혀 있다
+x nzakumenyesha | 너에게 알려 줄게
+x ruzwi | 알려져 있다
+x isuku | 깨끗함
+x yamenyekanye | 알려졌다
+x yatumenyesheje | 우리에게 알려 줬다
+x butuma | ~하게 한다
+x amenyekana | 알려진다
+x uwuhe | 어느 것
+x rizaba | 있을 것이다
+x babara | 그들은 센다
+x subira | 돌아가라
+x ntuzasubire | 다시 하지 마라
+x nsubiza | 나에게 돌려줘
+x ntiyasubije | 대답하지 않았다
+x yabajije | 물었다
+x ndasubiza | 나는 대답했다
+x dusubiramo | 우리는 되풀이한다
+x uko | ~라는 것
+x gukemura | 해결하다
+x nabajijwe | 나는 질문받았다
+x umukandida | 지원자
+x arabazwa | 질문받는다
+x mbaze | 내가 묻다
+x nkubaze | 내가 너에게 묻다
+x yashatse | 결혼했다(아내를 맞았다)
+x abashakashatsi | 연구자들
+x bwarangiye | 끝났다
+x bushya | 새
+x ashaka | 찾는다
+x yantumye | 나를 보냈다
+x wagutumye | 너를 보낸(사람)
+x yatumye | ~하게 했다
+x ntaza | 내가 오지 않다
+x nakoherereje | 너에게 보냈다
+x zaje | 왔다
+x iwanjye | 우리 집에
+x kudutumira | 우리를 초대하다
+x nzakuyobora | 너를 안내할게
+x ayobora | 이끈다
+x yayoboye | 진행했다
+x twayobowe | 우리는 안내받았다
+x bayoborwa | 안내받는다
+x kiyoborwa | 운영된다
+x yatuyoboye | 우리를 안내했다
+x tuyoborwa | 우리는 안내받는다
+x arera | 기른다
+x yanyereye | 나를 길렀다
+x minisiteri | 부(정부 부처)
+x barera | 기른다
+x butangirira | 시작한다
+x ahabwa | 받는다
+x igihembo | 상
+x abatsinzi | 승자들
+x ntibyoroshye | 쉽지 않다
+x yishimiye | 기뻐했다
+x naho | 반면에
+x uwatsinzwe | 진 사람
+x babyina | 춤춘다
+x bambaye | 입었다
+x zibyina | 춤춘다
+x irakomeye | 힘차다
+x rubyiniro | 무대
+x babyinnye | 춤췄다
+x barishima | 기뻐한다
+x ahinga | 농사짓는다
+x duhinga | 우리는 밭을 간다
+x byeze | 익었다
+x bikeneye | 필요하다
+x butunga | 먹여 살린다
+x twaganiriye | 우리는 이야기했다
+x n'abanyamakuru | 기자들과
+x aganiriza | 이야기해 준다
+x ganiriza | 말을 걸어라
+x yanganirije | 나에게 이야기해 줬다
+x byarangiye | 끝났다
+x akaduganiriza | 그리고 우리에게 이야기해 준다
+x kikaryoha | 그리고 즐거워진다
+x aya | 이
+x nabitse | 나는 저장했다
+x bw'ibiribwa | 식품의
+x yabikije | 예금했다
+x ubuntu | 무료, 친절
+x nabikuje | 나는 인출했다
+x nabikije | 나는 예금했다
+x ndabikuza | 나는 인출했다
+x ubukode | 집세
+x ishyura | 내라
+x bwakozwe | 완료됐다
+x uburyo | 방법
+x banyishyuje | 나에게 청구했다
+x ntimunyishyuze | 나에게 청구하지 마세요
+x nishyuwe | 나는 돈을 받았다
+x bishyurwa | 돈을 받는다
+x ntiturishyurwa | 아직 돈을 못 받았다
+x ndishyura | 나는 냈다
+x yishyurwa | 돈을 받았다
+x ako | 그
+x wikingije | 예방 접종을 하면
+x bategereje | 기다린다
+x sura | 방문해라
+x mbi | 나쁜
+x ivurwa | 치료된다
+x yakize | 나았다
+x bw'umutima | 심장의
+x yavuwe | 치료받았다
+x bwarakize | 나았다
+x twubaka | 우리는 짓는다
+x convention centre | 컨벤션 센터
+x rwiyubatse | 다시 일어섰다
+x rwiyubaka | 스스로를 세워 간다
+x biyubaka | 다시 일어선다

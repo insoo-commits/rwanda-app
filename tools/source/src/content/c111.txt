@@ -1,0 +1,170 @@
+# P5-H | 날씨·자연
+
+@ 1-11-01 | 날씨 | imvura·izuba | 날씨를 말하는 표현이에요. 르완다는 일 년 내내 봄처럼 따뜻해요.
+w imvura | 비 | 비
+e Imvura iragwa. | 비가 와요.
+e Imvura nyinshi yaguye ejo. | 어제 비가 많이 왔어요.
+w izuba | 해 · 햇볕 | 해; 햇볕
+e Uyu munsi hari izuba. | 오늘은 해가 났어요.
+e Izuba rirava cyane. | 햇볕이 아주 강해요.
+w umuyaga | 바람 | 바람
+e Hari umuyaga mwinshi. | 바람이 많이 불어요.
+e Umuyaga urahuha. | 바람이 불어요.
+w ibicu | 구름 | 구름
+e Hari ibicu byinshi uyu munsi. | 오늘 구름이 많아요.
+e Ibicu birirabura, imvura iraza. | 구름이 까매요, 비가 오겠어요.
+w ikirere | 날씨 · 하늘 | 날씨; 하늘
+e Ikirere kimeze gute? | 날씨가 어때요?
+e Ikirere ni cyiza uyu munsi. | 오늘 날씨가 좋아요.
+w birashyushye | 더워요 | 더워요
+e Ku manywa birashyushye. | 낮에는 더워요.
+e Uyu munsi birashyushye cyane. | 오늘 아주 더워요.
+w birakonje | 추워요 · 쌀쌀해요 | 추워요
+e Nijoro birakonje gato. | 밤에는 조금 쌀쌀해요.
+e Mu misozi birakonje. | 산에서는 추워요.
+w umutaka | 우산 | 우산
+e Fata umutaka, imvura iraza. | 우산 가져가요, 비 와요.
+e Nibagiwe umutaka. | 우산을 깜빡했어요.
+tp 비가 오는 것은 Imvura iragwa(비가 떨어져요)예요.
+tp 르완다는 고원이라 낮에는 따뜻하고 밤에는 쌀쌀해요. 우기에는 오후에 소나기가 자주 와요.
+pr Birashyushye. | 더워요. || Birakonje. | 추워요.
+pr Imvura iragwa. | 비가 와요. || Hari izuba. | 해가 났어요.
+dl 민준 | Ikirere kimeze gute? | 날씨 어때요?
+dl 케자 | Hari ibicu. Imvura iraza. | 구름이 꼈어요. 비가 오겠어요.
+dl 민준 | Nta mutaka mfite! | 우산이 없는데!
+dl 케자 | Fata uwanjye. | 내 거 가져가요.
+sm Mu gitondo hari izuba, nimugoroba imvura iragwa. | 아침에는 해가 나고, 저녁에는 비가 와요.
+qz '비'는? | imvura
+
+@ 1-11-02 | 자연 | umusozi·ikiyaga | 르완다의 자연이에요. 언덕, 호수, 숲이 아름다워요.
+w umusozi | 언덕 · 산 | 언덕; 산
+e U Rwanda rufite imisozi myinshi. | 르완다에는 언덕이 많아요.
+e Tuzamuka umusozi. | 언덕을 올라가요.
+w ikiyaga | 호수 | 호수
+e Ikiyaga cya Kivu ni cyiza cyane. | 키부 호수는 아주 아름다워요.
+e Twogeye mu kiyaga. | 호수에서 수영했어요.
+w uruzi | 강 | 강
+e Uruzi rwa Nyabarongo ni runini. | 냐바롱고강은 커요.
+e Abana boga mu ruzi. | 아이들이 강에서 수영해요.
+w ishyamba | 숲 | 숲
+e Ishyamba rya Nyungwe ni rinini. | 늉궤 숲은 넓어요.
+e Mu ishyamba hari inguge. | 숲에 원숭이가 있어요.
+w igiti | 나무 | 나무
+e Iki giti ni kirekire. | 이 나무는 키가 커요.
+e Twateye ibiti ku munsi w'umuganda. | 우무간다 날에 나무를 심었어요.
+w indabo | 꽃 | 꽃
+e Indabo ni nziza. | 꽃이 예뻐요.
+e Ndashaka kugura indabo. | 꽃을 사고 싶어요.
+w icyayi | 차 · 차밭 | 차(식물·음료)
+e Icyayi gihingwa ku misozi. | 차는 언덕에서 재배해요.
+e Imirima y'icyayi ni myiza. | 차밭이 아름다워요.
+tp 르완다는 '천 개의 언덕의 나라'(igihugu cy'imisozi igihumbi)예요.
+tp 유명한 곳: 키부 호수(Ikiyaga cya Kivu), 늉궤 숲(Ishyamba rya Nyungwe), 화산 국립공원(산악 고릴라).
+pr Umusozi | 언덕 || Imisozi | 언덕들
+pr Igiti | 나무 || Ibiti | 나무들
+dl 수아 | Ndashaka gusura Ikiyaga cya Kivu. | 키부 호수에 가 보고 싶어요.
+dl 무기샤 | Ni cyiza cyane! Kiri i Rubavu. | 아주 아름다워요! 루바부에 있어요.
+dl 수아 | Ni kure ya Kigali? | 키갈리에서 멀어요?
+dl 무기샤 | Ni amasaha atatu mu modoka. | 차로 세 시간이에요.
+sm U Rwanda rufite imisozi, ibiyaga, inzuzi n'amashyamba meza. | 르완다에는 아름다운 언덕, 호수, 강, 숲이 있어요.
+qz '호수'는? | ikiyaga
+
+@ 1-11-03 | 동물 | inka·ingagi | 르완다에서 볼 수 있는 동물이에요. 소(inka)는 르완다 사람에게 아주 귀한 동물이에요.
+w inka | 소 | 소
+e Inka ni ingenzi mu muco w'u Rwanda. | 소는 르완다 문화에서 중요해요.
+e Afite inka eshatu. | 그는 소가 세 마리 있어요.
+w ihene | 염소 | 염소
+e Ihene irarya ibyatsi. | 염소가 풀을 먹어요.
+e Twagurishije ihene ku isoko. | 시장에서 염소를 팔았어요.
+w inkoko | 닭 | 닭
+e Inkoko zitera amagi. | 닭이 알을 낳아요.
+e Dufite inkoko icumi. | 닭이 열 마리 있어요.
+w imbwa | 개 | 개
+e Imbwa iramoka. | 개가 짖어요.
+e Iyi mbwa ni nziza. | 이 개는 예뻐요.
+w injangwe | 고양이 | 고양이
+e Injangwe iryamye ku ntebe. | 고양이가 의자 위에 누워 있어요.
+e Nkunda injangwe. | 고양이를 좋아해요.
+w ingagi | 고릴라 | 고릴라
+e Ingagi ziba mu birunga. | 고릴라는 화산 지대에 살아요.
+e Ndashaka kubona ingagi. | 고릴라를 보고 싶어요.
+w inyoni | 새 | 새
+e Inyoni ziraririmba mu gitondo. | 아침에 새들이 노래해요.
+e Iyo nyoni ni nziza. | 그 새는 예뻐요.
+w umubu | 모기 | 모기
+e Hari imibu myinshi nijoro. | 밤에 모기가 많아요.
+e Umubu wandumye. | 모기에 물렸어요.
+tp 르완다에서 소(inka)는 부와 우정의 상징이에요. 소를 선물하는 것은 큰 존경의 표시예요.
+tp 동물 이름은 대부분 in-/im-으로 시작하고, 여러 마리여도 모양이 같아요: inka(소 한 마리·소들).
+pr Inka | 소 || Ihene | 염소
+pr Imbwa | 개 || Injangwe | 고양이
+dl 민준 | Muri Pariki y'Ibirunga habamo iki? | 화산 국립공원에는 뭐가 있어요?
+dl 하비마나 | Habamo ingagi. | 고릴라가 있어요.
+dl 민준 | Nshobora kuzibona? | 볼 수 있어요?
+dl 하비마나 | Yego, ariko itike irahenze. | 네, 그런데 표가 비싸요.
+sm Mu cyaro hari inka, ihene, inkoko n'imbwa. | 시골에는 소, 염소, 닭, 개가 있어요.
+qz '소'는? | inka
+x iragwa | 내린다
+x yaguye | 내렸다
+x rirava | (해가) 강하다
+x urahuha | 분다
+x birirabura | 까맣다
+x iraza | 온다
+x kimeze gute | 어때요?
+x cyiza | 좋은
+x mu misozi | 산에서
+x nta mutaka | 우산이 없다
+x uwanjye | 내 것
+x rufite | 가지고 있다
+x myinshi | 많은
+x tuzamuka | 우리는 올라간다
+x cya | ~의
+x kivu | 키부(호수)
+x twogeye | 우리는 수영했다
+x mu kiyaga | 호수에서
+x rwa | ~의
+x nyabarongo | 냐바롱고(강)
+x runini | 큰
+x boga | 그들은 수영한다
+x mu ruzi | 강에서
+x nyungwe | 늉궤(숲)
+x mu ishyamba | 숲에
+x inguge | 원숭이
+x giti | 나무
+x twateye | 우리는 심었다
+x ibiti | 나무들
+x w'umuganda | 우무간다의
+x gihingwa | 재배된다
+x ku misozi | 언덕에서
+x imirima | 밭들
+x y'icyayi | 차의
+x myiza | 좋은, 아름다운
+x gusura | 방문하다
+x kiri | 있다
+x rubavu | 루바부(키부 호숫가 도시)
+x amasaha | 시간(들)
+x ibiyaga | 호수들
+x inzuzi | 강들
+x n'amashyamba | 그리고 숲들
+x mu muco | 문화에서
+x w'u rwanda | 르완다의
+x eshatu | 셋
+x irarya | 먹는다
+x ibyatsi | 풀
+x twagurishije | 우리는 팔았다
+x zitera | 낳는다
+x amagi | 알, 달걀
+x iramoka | 짖는다
+x iryamye | 누워 있다
+x ziba | 산다
+x mu birunga | 화산 지대에
+x ziraririmba | 노래한다
+x iyo | 그
+x imibu | 모기들
+x wandumye | 나를 물었다
+x pariki | 공원
+x y'ibirunga | 화산들의(비룽가)
+x habamo | 안에 ~이 있다
+x kuzibona | 그것들을 보다
+x mu cyaro | 시골에
+x n'imbwa | 그리고 개

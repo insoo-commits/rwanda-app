@@ -1,0 +1,166 @@
+# P7-A | 문장의 뼈대
+
+@ 7-01-01 | 어순 | 주어+동사+목적어 | 르완다어 어순은 영어처럼 '주어 + 동사 + 목적어'예요. 주어는 동사 앞에 붙어서 생략할 수 있어요.
+w Ndiga Ikinyarwanda | 나는 + 배운다 + 르완다어 | 르완다어를 배워요
+e Ndiga Ikinyarwanda buri munsi. | 날마다 르완다어를 배워요.
+e Njye ndiga Ikinyarwanda, we yiga Icyongereza. | 저는 르완다어를 배우고, 그는 영어를 배워요.
+w Keza arya umugati | 케자는 + 먹는다 + 빵 | 케자가 빵을 먹어요
+e Keza arya umugati mu gitondo. | 케자는 아침에 빵을 먹어요.
+e Umwana arya umuneke. | 아이가 바나나를 먹어요.
+w umwana mwiza | 꾸미는 말은 뒤에 · 착한 아이 | 착한(예쁜) 아이
+e Ni umwana mwiza cyane. | 아주 착한 아이예요.
+e Afite umwana mwiza. | 그는 예쁜 아이가 있어요.
+w inzu yanjye | '나의'도 뒤에 · 내 집 | 내 집
+e Inzu yanjye iri hafi. | 내 집은 가까워요.
+e Iyi ni inzu yanjye. | 이게 내 집이에요.
+w uyu munsi | '이(this)'는 앞에 · 오늘 | 오늘
+e Uyu munsi birashyushye. | 오늘은 더워요.
+e Uyu mwana ni nde? | 이 아이는 누구예요?
+tp 기본 어순: 주어 + 동사 + 목적어 + 때·곳. Keza arya umugati mu gitondo(케자는 먹는다 빵을 아침에).
+tp 꾸미는 말(형용사·소유)은 낱말 뒤에 와요: inzu nini(큰 집), inzu yanjye(내 집). '이·그'(uyu, iyi)는 앞에도 뒤에도 와요.
+tp 주어는 동사 앞머리에 들어 있어요: n-diga(나는 배운다). 그래서 Njye(나)를 따로 말하지 않아도 돼요.
+pr Ndiga. | 배워요. || Njye ndiga. | '저는' 배워요.
+pr Inzu nini | 큰 집 || Inzu yanjye | 내 집
+sm Uyu munsi Keza arya umugati n'amata mu gitondo. | 오늘 케자는 아침에 빵과 우유를 먹어요.
+qz '큰 집'의 순서는? | inzu nini (집 + 큰)
+
+@ 7-01-02 | 주어 표시 | n-·u-·a-·tu-·mu-·ba- | 동사 앞에 붙는 '누가'예요. kurya(먹다)로 연습해요.
+w ndarya | 나는 먹는다 · n- = 나 | 나는 먹어요
+e Ndarya umuceri. | 저는 밥을 먹어요.
+e Ndarya saa sita. | 12시에 먹어요.
+w urarya | 너는 먹는다 · u- = 너 | 너는 먹어
+e Urarya iki? | 너 뭐 먹어?
+e Urarya cyane! | 너 많이 먹는다!
+w ararya | 그(녀)는 먹는다 · a- = 그·그녀 | 그는 먹어요
+e Ararya ibishyimbo. | 그는 콩을 먹어요.
+e Umwana ararya. | 아이가 먹어요.
+w turarya | 우리는 먹는다 · tu- = 우리 | 우리는 먹어요
+e Turarya hamwe. | 우리는 함께 먹어요.
+e Turarya nimugoroba. | 우리는 저녁에 먹어요.
+w murarya | 너희는 먹는다 · mu- = 너희·당신 | 여러분은 먹어요
+e Murarya inyama? | 여러분은 고기 먹어요?
+e Murarya ryari? | 여러분은 언제 먹어요?
+w bararya | 그들은 먹는다 · ba- = 그들 | 그들은 먹어요
+e Abana bararya. | 아이들이 먹어요.
+e Bararya ubugari. | 그들은 우부가리를 먹어요.
+tp n-(나) u-(너) a-(그·그녀) tu-(우리) mu-(너희·윗사람) ba-(그들). 가운데 -ra-는 '지금·보통 ~한다'예요.
+tp 르완다어는 '그'와 '그녀'를 구별하지 않아요. a-가 둘 다예요.
+tp 윗사람에게는 mu-(너희)를 써서 높여요: Murarya?(드세요?), Murakoze(고맙습니다).
+pr Ndarya. | 나는 먹어요. || Turarya. | 우리는 먹어요.
+pr Ararya. | 그는 먹어요. || Bararya. | 그들은 먹어요.
+sm Ndarya, urarya, ararya — twese turarya! | 나도 먹고, 너도 먹고, 그도 먹어요. 우리 모두 먹어요!
+qz '우리는 먹어요'는? | turarya
+
+@ 7-01-03 | 인칭대명사 | njye·wowe·we | '나, 너, 그'를 강조할 때 따로 쓰는 말이에요.
+w njye | 나 | 나
+e Njye ndi umwarimu. | 저는 선생님이에요.
+e Ni njye! | 저예요!
+w wowe | 너 | 너
+e Wowe witwa nde? | 너는 이름이 뭐야?
+e Ni wowe? | 너야?
+w we | 그 · 그녀 | 그; 그녀
+e We ni umunyeshuri. | 그는 학생이에요.
+e Ni we mwarimu wanjye. | 그분이 제 선생님이에요.
+w twe | 우리 | 우리
+e Twe turi Abanyakoreya. | 우리는 한국 사람이에요.
+e Ni twe twatsinze! | 우리가 이겼어!
+w mwe | 너희 · 여러분 | 너희; 여러분
+e Mwe muri he? | 여러분은 어디 있어요?
+e Namwe murakoze. | 여러분도 고마워요.
+w bo | 그들 | 그들
+e Bo ni abanyeshuri. | 그들은 학생이에요.
+e Ni bo bazaza. | 그들이 올 거예요.
+tp 동사 앞에 이미 '누가'가 있어서, njye·wowe 같은 말은 강조할 때만 써요: Njye ndi umwarimu(저'는' 선생님이에요).
+tp '~도'는 na-를 붙여요: nanjye(나도), nawe(너도), natwe(우리도), namwe(여러분도).
+pr Njye | 나 || Twe | 우리
+pr Nanjye | 나도 || Namwe | 여러분도
+sm Njye ndi umwarimu, wowe uri umunyeshuri, twe turi inshuti. | 나는 선생님, 너는 학생, 우리는 친구예요.
+qz '나도'는? | nanjye
+
+@ 7-01-04 | 소유 '나의·너의' | wanjye·wawe·wacu | '~의 것'은 낱말 뒤에 붙고, 앞 낱말에 맞춰 첫소리가 바뀌어요. umwana(아이)로 연습해요.
+w umwana wanjye | 내 아이 | 내 아이
+e Umwana wanjye afite imyaka itanu. | 제 아이는 다섯 살이에요.
+e Uyu ni umwana wanjye. | 이 아이가 제 아이예요.
+w umwana wawe | 네 아이 | 네 아이
+e Umwana wawe yitwa nde? | 네 아이 이름이 뭐야?
+e Umwana wawe ni mwiza. | 네 아이 예쁘다.
+w umwana we | 그(녀)의 아이 | 그의 아이
+e Umwana we ari ku ishuri. | 그의 아이는 학교에 있어요.
+e Keza n'umwana we baraje. | 케자와 그녀의 아이가 왔어요.
+w umwana wacu | 우리 아이 | 우리 아이
+e Umwana wacu yiga hano. | 우리 아이는 여기서 공부해요.
+e Umwana wacu arwaye. | 우리 아이가 아파요.
+w umwana wanyu | 너희(당신의) 아이 | 당신(들)의 아이
+e Umwana wanyu ameze ate? | 아이는 잘 지내요?
+e Umwana wanyu ni umunyeshuri mwiza. | 당신 아이는 좋은 학생이에요.
+w umwana wabo | 그들의 아이 | 그들의 아이
+e Umwana wabo aba i Kigali. | 그들의 아이는 키갈리에 살아요.
+e Umwana wabo ni muto. | 그들의 아이는 어려요.
+tp -anjye(나의) -awe(너의) -e(그의) -acu(우리의) -anyu(너희의) -abo(그들의)에 앞 낱말의 표시가 붙어요.
+tp 낱말이 바뀌면 첫소리가 바뀌어요: umwana wanjye, inzu yanjye(내 집), igitabo cyanjye(내 책), ibitabo byanjye(내 책들), abana banjye(내 아이들).
+pr Inzu yanjye | 내 집 || Igitabo cyanjye | 내 책
+pr Abana banjye | 내 아이들 || Ibitabo byanjye | 내 책들
+sm Igitabo cyanjye kiri mu nzu yawe. | 내 책이 네 집에 있어.
+qz '우리 아이'는? | umwana wacu
+
+@ 7-01-05 | 장소 표현 | mu·ku·i·kwa | '~에·~에서'를 나타내는 짧은 말이에요.
+w mu | ~ 안에 · ~에 | ~ 안에
+e Ari mu nzu. | 그는 집 안에 있어요.
+e Shyira mu gikapu. | 가방 안에 넣어요.
+w ku | ~ 위에 · ~에(장소·때) | ~ 위에; ~에
+e Igitabo kiri ku meza. | 책이 책상 위에 있어요.
+e Njya ku isoko. | 시장에 가요.
+w i | ~에(도시·마을 이름 앞) | ~에(지명)
+e Ntuye i Kigali. | 키갈리에 살아요.
+e Nzajya i Rubavu. | 루바부에 갈 거예요.
+w kwa | ~네 집에 · 사람 앞 | ~네(집)에
+e Ngiye kwa muganga. | 병원(의사에게) 가요.
+e Turi kwa nyogokuru. | 할머니 댁에 있어요.
+w hano | 여기 | 여기
+e Ngwino hano. | 여기로 와.
+e Hano harashyushye. | 여기는 더워요.
+w hariya | 저기 | 저기
+e Isoko riri hariya. | 시장은 저기 있어요.
+e Reba hariya! | 저기 봐!
+tp mu = 안(mu nzu 집 안), ku = 위·표면·장소(ku meza 책상 위, ku isoko 시장에), i = 지명(i Kigali), kwa = 사람의 집(kwa mama 엄마 집).
+tp hano(여기) ↔ hariya(저기).
+pr Mu nzu | 집 안에 || Hanze | 밖에
+pr Hano | 여기 || Hariya | 저기
+sm Ntuye i Kigali, nkora ku ishuri, ku cyumweru njya kwa mama. | 키갈리에 살고, 학교에서 일하고, 일요일에는 엄마 집에 가요.
+qz '키갈리에'는? | i Kigali
+x njye | 나
+x yiga | 그는 배운다
+x arya | 그는 먹는다
+x umugati | 빵
+x umuneke | 바나나
+x yanjye | 나의
+x iyi | 이것
+x mwana | 아이
+x ndarya | 나는 먹는다
+x urarya | 너는 먹는다
+x ararya | 그는 먹는다
+x turarya | 우리는 먹는다
+x murarya | 여러분은 먹는다
+x bararya | 그들은 먹는다
+x nawe | 너도
+x natwe | 우리도
+x twatsinze | 우리가 이겼다
+x muri | 여러분은 있다
+x bazaza | 그들은 올 것이다
+x itanu | 다섯
+x baraje | 그들은 왔다
+x arwaye | 아프다
+x ameze ate | 어떻게 지내요?
+x ameze | ~ 상태이다
+x ate | 어떻게
+x banjye | 나의
+x byanjye | 나의
+x kiri | (그것이) 있다
+x mu nzu | 집 안에
+x nzajya | 나는 갈 것이다
+x muganga | 의사
+x kwa muganga | 병원에(의사에게)
+x ngwino | 와라
+x harashyushye | 덥다
+x nkora | 나는 일한다
+x kwa mama | 엄마 집에

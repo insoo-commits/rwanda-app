@@ -1,0 +1,171 @@
+# P7-D | 자주 쓰는 틀
+
+@ 7-04-01 | 질문 만들기 | ese·cyangwa | 평서문 끝을 올리면 질문이 돼요. 앞에 Ese(혹시)를 붙이면 더 분명해요.
+w Ese | 혹시 · 질문의 시작 | 혹시 ~?
+e Ese urashaka icyayi? | 혹시 차 마실래요?
+e Ese uri Umunyakoreya? | 혹시 한국 사람이에요?
+w Mbese | 그런데 · 질문 시작 | 그런데 ~?
+e Mbese amakuru? | 그런데 잘 지내요?
+e Mbese uzaza? | 그런데 올 거예요?
+w cyangwa | 또는 · ~이나 | 또는; 아니면
+e Icyayi cyangwa ikawa? | 차예요, 커피예요?
+e Uyu munsi cyangwa ejo? | 오늘이요, 내일이요?
+w si byo? | 그렇죠? · 맞죠? | 그렇죠?
+e Uri umwarimu, si byo? | 선생님이시죠, 그렇죠?
+e Isoko riri hafi, si byo? | 시장은 가깝죠, 그렇죠?
+w Ni iki…? | ~은 뭐예요? | ~은 뭐예요?
+e Ni iki kiri mu gikapu? | 가방 안에 뭐가 있어요?
+e Ni iki ushaka? | 뭘 원해요?
+tp 질문은 말끝을 올리기만 해도 돼요: Urashaka icyayi.(차를 원하는군요) → Urashaka icyayi?(차 원해요?)
+tp Ese/Mbese는 질문을 시작하는 말이에요. 한국어 '혹시, 그런데'와 비슷해요.
+pr Urashaka icyayi. | 차를 원하는군요. || Ese urashaka icyayi? | 혹시 차 원해요?
+pr Icyayi | 차 || Cyangwa ikawa? | 아니면 커피?
+sm Ese urashaka icyayi cyangwa ikawa? | 차 마실래요, 커피 마실래요?
+qz '또는'은? | cyangwa
+
+@ 7-04-02 | 원하다·할 수 있다·해야 하다 | gushaka·gushobora·kugomba | 다른 동사 원형 앞에 와서 뜻을 더하는 동사예요.
+w ndashaka + 동사 | ~하고 싶어요 | ~하고 싶어요
+e Ndashaka kwiga Ikinyarwanda. | 르완다어를 배우고 싶어요.
+e Ndashaka kuruhuka. | 쉬고 싶어요.
+w nshobora + 동사 | ~할 수 있어요 · ~해도 돼요? | ~할 수 있어요
+e Nshobora kuvuga Ikinyarwanda gake. | 르완다어를 조금 할 수 있어요.
+e Nshobora kwicara hano? | 여기 앉아도 돼요?
+w ngomba + 동사 | ~해야 해요 | ~해야 해요
+e Ngomba kugenda ubu. | 지금 가야 해요.
+e Ngomba gukora umukoro. | 숙제를 해야 해요.
+w nkeneye | ~이 필요해요 | 필요해요
+e Nkeneye ubufasha. | 도움이 필요해요.
+e Nkeneye amazi. | 물이 필요해요.
+w nzi + 동사 | ~할 줄 알아요 | ~할 줄 알아요
+e Nzi koga. | 수영할 줄 알아요.
+e Nzi gutwara imodoka. | 운전할 줄 알아요.
+w sinshobora | ~할 수 없어요 | 할 수 없어요
+e Sinshobora kuza ejo. | 내일 못 와요.
+e Sinshobora kurya urusenda. | 매운 걸 못 먹어요.
+tp 형식: 조동사 + 동사 원형(ku-/gu-). Ndashaka kurya(먹고 싶어요), Nshobora kuza(올 수 있어요), Ngomba kugenda(가야 해요).
+tp 부정은 조동사에 붙여요: sinshaka(원하지 않아요), sinshobora(못 해요).
+pr Nshobora. | 할 수 있어요. || Sinshobora. | 못 해요.
+pr Ndashaka. | 원해요. || Sinshaka. | 원하지 않아요.
+sm Ndashaka kuza, ariko sinshobora — ngomba gukora. | 가고 싶지만 못 가요. 일해야 해요.
+qz '~해야 해요'는? | ngomba
+
+@ 7-04-03 | 이음말 | na·kandi·ariko·kuko | 문장을 이어 주는 말이에요.
+w na | ~와 · 그리고(낱말 사이) | ~와; ~도
+e Data na mama. | 아빠와 엄마.
+e Ndashaka icyayi n'umugati. | 차와 빵 주세요.
+w kandi | 그리고 · 또 | 그리고; 또
+e Ni mwiza kandi ni umunyabwenge. | 그는 착하고 똑똑해요.
+e Ndashonje kandi ndananiwe. | 배고프고 피곤해요.
+w ariko | 그러나 · 하지만 | 그러나
+e Ndashaka kuza, ariko ndwaye. | 오고 싶지만 아파요.
+e Ni nziza ariko irahenze. | 좋지만 비싸요.
+w kuko | 왜냐하면 · ~니까 | 왜냐하면
+e Sinaje kuko nari ndwaye. | 아파서 안 왔어요.
+e Ndiga Ikinyarwanda kuko nkunda u Rwanda. | 르완다가 좋아서 르완다어를 배워요.
+w niba | 만약 ~면 | 만약 ~면
+e Niba imvura iguye, sinzaza. | 비가 오면 안 갈게요.
+e Niba ushaka, ngwino. | 원하면 와.
+w hanyuma | 그다음에 · 그리고 나서 | 그다음에
+e Ndya, hanyuma nkaryama. | 먹고 나서 자요.
+e Banza ukarabe, hanyuma urye. | 먼저 손 씻고, 그다음에 먹어.
+tp na는 낱말과 낱말을(data na mama), kandi는 문장과 문장을 잇는 경우가 많아요.
+tp na + 모음 → n': n'umugati(빵과), n'inyama(고기와).
+pr Kandi | 그리고 || Ariko | 그러나
+pr Kuko | 왜냐하면 || Niba | 만약
+sm Ndiga Ikinyarwanda kuko nkunda u Rwanda, ariko biragoye. | 르완다가 좋아서 르완다어를 배우지만 어려워요.
+qz '그러나'는? | ariko
+
+@ 7-04-04 | 비교 | kuruta·nka | '~보다 더'는 kuruta, '~처럼'은 nka예요.
+w kuruta | ~보다 더 | ~보다 더
+e Kigali ni nini kuruta Huye. | 키갈리는 후예보다 커요.
+e Nkunda icyayi kuruta ikawa. | 커피보다 차를 더 좋아해요.
+w nka | ~처럼 · ~와 같이 | ~처럼
+e Avuga Ikinyarwanda nk'Umunyarwanda. | 그는 르완다 사람처럼 르완다어를 해요.
+e Ni nziza nk'indabo. | 꽃처럼 예뻐요.
+w kimwe na | ~와 똑같이 | ~와 같은
+e Iyi shati ni kimwe n'iyanjye. | 이 셔츠는 제 것과 똑같아요.
+e Ibiciro ni kimwe n'ibya ejo. | 값이 어제와 똑같아요.
+w cyane | 아주 · 많이 | 아주; 많이
+e Ni byiza cyane. | 아주 좋아요.
+e Imvura iragwa cyane. | 비가 많이 와요.
+w cyane kuruta | 가장 · 제일 | 가장; 제일
+e Ni we munyeshuri mwiza kuruta abandi. | 그가 학생 중에서 제일 잘해요.
+e Iyi ni nziza kuruta izindi zose. | 이게 다른 것 중에 제일 좋아요.
+tp A + 형용사 + kuruta + B: Kigali ni nini kuruta Huye(키갈리는 후예보다 커요).
+tp '가장 ~'은 kuruta abandi(다른 사람들보다), kuruta izindi zose(다른 모든 것보다)로 말해요.
+tp nka + 모음 → nk': nk'Umunyarwanda(르완다 사람처럼).
+pr Nini kuruta | ~보다 커요 || Nto kuruta | ~보다 작아요
+pr Nka | ~처럼 || Kimwe na | ~와 같은
+sm Kigali ni nini kuruta Huye, ariko Huye ni nziza nka Kigali. | 키갈리가 후예보다 크지만, 후예도 키갈리처럼 아름다워요.
+qz '~보다 더'는? | kuruta
+
+@ 7-04-05 | 명령·부탁 | genda·ngwino·ntu- | 동사 줄기만 말하면 명령, 앞에 ntu-를 붙이면 '하지 마'예요.
+w Genda | 가 | 가라
+e Genda vuba! | 빨리 가!
+e Genda neza. | 잘 가.
+w Ngwino | 와 · 이리 와 | 와라
+e Ngwino hano. | 여기로 와.
+e Ngwino turye. | 와서 먹자.
+w Reka | ~하자 · 내버려 둬 | ~하자; 그만둬
+e Reka tugende. | 가자.
+e Reka, nzabikora. | 그냥 둬, 내가 할게.
+w Ntugende | 가지 마 | 가지 마
+e Ntugende, tegereza. | 가지 마, 기다려.
+e Ntugende wenyine nijoro. | 밤에 혼자 가지 마.
+w Ntukore ibyo | 그거 하지 마 | 그러지 마
+e Ntukore ibyo, ni bibi. | 그러지 마, 나빠.
+e Mwana wanjye, ntukore ibyo! | 얘야, 그러지 마!
+w Mufashe | 도와주세요 · 그를 도와줘 | 그를 도와주세요
+e Mufashe gutwara igikapu. | 그가 가방 드는 걸 도와줘요.
+e Mumfashe, nyabuneka. | 저 좀 도와주세요.
+tp 명령: 동사 줄기 그대로(Genda 가, Soma 읽어). 여러 명이나 공손하게는 mu-…-e: Mugende(가세요), Musome(읽으세요).
+tp 하지 마: ntu- + 동사(-e): Ntugende(가지 마), Ntukore(하지 마). 여러 명에게는 Ntimugende.
+tp '가자'는 Reka tugende 또는 Tugende.
+pr Genda. | 가. || Ngwino. | 와.
+pr Kora. | 해. || Ntukore. | 하지 마.
+sm Ngwino hano, ntugende wenyine — reka tugende hamwe. | 이리 와, 혼자 가지 마. 같이 가자.
+qz '가지 마'는? | Ntugende
+x urashaka | 너는 원한다
+x uri | 너는 ~이다
+x uzaza | 너는 올 것이다
+x icyayi | 차
+x kiri | 있는
+x ushaka | 너는 원한다
+x kwicara | 앉다
+x kugenda | 가다, 떠나다
+x ubufasha | 도움
+x koga | 수영하다
+x gutwara | 운전하다, 나르다
+x kuza | 오다
+x sinshaka | 나는 원하지 않는다
+x ngomba | 나는 ~해야 한다
+x n'umugati | 그리고 빵
+x umunyabwenge | 똑똑한 사람
+x sinaje | 나는 안 왔다
+x nari ndwaye | 나는 아팠다
+x iguye | (비가) 내리면
+x sinzaza | 나는 안 올 것이다
+x nkaryama | 그리고 나는 잔다
+x banza | 먼저 ~해라
+x ukarabe | 네가 손 씻어라
+x urye | 네가 먹어라
+x nk'umunyarwanda | 르완다 사람처럼
+x nk'indabo | 꽃처럼
+x n'iyanjye | 내 것과
+x ibiciro | 값들
+x n'ibya ejo | 어제 것과
+x abandi | 다른 사람들
+x izindi | 다른 것들
+x zose | 모두
+x munyeshuri | 학생
+x tugende | 가자
+x nzabikora | 내가 그것을 할게
+x wenyine | 혼자
+x ibyo | 그것
+x mwana | 얘야
+x mumfashe | 저를 도와주세요
+x mugende | 가세요
+x ntimugende | (여러분) 가지 마세요
+x kora | 해라
+x ntukore | 하지 마
+x turye | 우리 먹자

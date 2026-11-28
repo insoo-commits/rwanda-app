@@ -1,0 +1,240 @@
+# P2-A | 동사 뿌리 가족
+
+@ 4-01-01 | -kor- 일하다 | gukora·umukozi | 뿌리 -kor-(일하다)에 앞뒤가 붙어 낱말 가족이 돼요. umu-는 '하는 사람', -esha는 '~하게 하다'예요.
+w gukora | 일하다 · 하다 | 일하다; 하다
+e Nkora ku ishuri. | 학교에서 일해요.
+e Wakoze neza! | 잘했어요!
+w umukozi | 일하는 사람 · 직원 | 직원; 일꾼
+e Ndi umukozi wa banki. | 은행 직원이에요.
+e Abakozi bakora cyane. | 직원들이 열심히 일해요.
+w gukoresha | 사용하다 · 일을 시키다 | 사용하다
+e Koresha ikaramu yanjye. | 내 볼펜 써.
+e Ukoresha telefoni ki? | 어떤 휴대폰 써요?
+w igikoresho | 도구 · 기기 | 도구; 기기
+e Mudasobwa ni igikoresho cy'ingenzi. | 컴퓨터는 중요한 도구예요.
+e Ibikoresho by'ishuri biri he? | 학용품이 어디 있어요?
+tp 뿌리 -kor-: gu-kor-a(일하다) → umu-koz-i(일하는 사람) → gu-kor-esha(사용하다) → igi-kor-esho(도구).
+tp umu-…-i는 '~하는 사람'을 만드는 일이 많아요: umukozi(일꾼), umuguzi(사는 사람).
+pr Gukora | 일하다 || Umukozi | 일하는 사람
+pr Gukoresha | 사용하다 || Igikoresho | 도구
+sm Umukozi akoresha igikoresho gishya ku kazi. | 직원이 직장에서 새 도구를 써요.
+qz '사용하다'는? | gukoresha
+
+@ 4-01-02 | -andik- 쓰다 | kwandika·inyandiko | 쓰다(-andik-)에서 나온 낱말이에요.
+w kwandika | 쓰다 | 쓰다
+e Andika izina ryawe. | 이름을 써요.
+e Ndandika ibaruwa. | 편지를 써요.
+w umwanditsi | 작가 · 쓰는 사람 | 작가; 서기
+e Umwanditsi w'iki gitabo ni Umunyarwanda. | 이 책의 작가는 르완다 사람이에요.
+e Ndashaka kuba umwanditsi. | 작가가 되고 싶어요.
+w inyandiko | 글 · 서류 | 글; 서류
+e Soma iyi nyandiko. | 이 글을 읽어요.
+e Nkeneye inyandiko z'akazi. | 업무 서류가 필요해요.
+w kwiyandikisha | 등록하다 · 자기 이름을 쓰게 하다 | 등록하다
+e Ngomba kwiyandikisha ku ishuri. | 학교에 등록해야 해요.
+e Wiyandikishije? | 등록했어요?
+tp -andik- + umu…-i → umwanditsi(쓰는 사람), in- → inyandiko(쓴 것), kwi-…-isha → kwiyandikisha(자기를 쓰게 하다=등록하다).
+tp kwi-는 '자기 자신을'이에요: kwiyandikisha(자기를 등록하다), kwiga(배우다)도 원래 이 모양이에요.
+pr Kwandika | 쓰다 || Gusoma | 읽다
+pr Umwanditsi | 작가 || Inyandiko | 글
+sm Umwanditsi yanditse inyandiko nziza. | 작가가 좋은 글을 썼어요.
+qz '작가'는? | umwanditsi
+
+@ 4-01-03 | -ig- 배우다 | kwiga·kwigisha | 배우다(kwiga)에 -isha가 붙으면 '가르치다'(배우게 하다)가 돼요.
+w kwiga | 배우다 · 공부하다 | 배우다
+e Ndiga Ikinyarwanda. | 르완다어를 배워요.
+e Abana biga mu ishuri. | 아이들은 학교에서 배워요.
+w kwigisha | 가르치다 · 배우게 하다 | 가르치다
+e Nigisha Igikoreya. | 한국어를 가르쳐요.
+e Unyigishe iri jambo. | 이 낱말 가르쳐 줘.
+w umwigisha | 가르치는 사람 · 교사 | 교사
+e Ni umwigisha mwiza. | 좋은 교사예요.
+e Abigisha bateranye. | 교사들이 모였어요.
+w inyigisho | 가르침 · 교훈 | 가르침; 교육
+e Inyigisho ze ni nziza. | 그의 가르침은 좋아요.
+e Twize inyigisho nyinshi. | 많은 가르침을 받았어요.
+tp kwiga(배우다) + -isha(하게 하다) = kwigisha(가르치다). 같은 방법: kugura(사다) → kugurisha(팔다).
+tp '선생님'은 umwarimu가 일반적이고, umwigisha는 '가르치는 사람'이라는 뜻이 잘 드러나는 말이에요.
+pr Kwiga | 배우다 || Kwigisha | 가르치다
+pr Umunyeshuri | 학생 || Umwigisha | 교사
+sm Umwigisha yigisha, abanyeshuri biga. | 교사는 가르치고 학생들은 배워요.
+qz '가르치다'는? | kwigisha
+
+@ 4-01-04 | -kin- 놀다 | gukina·umukino | 놀다·경기하다(-kin-)의 가족이에요.
+w gukina | 놀다 · 경기하다 | 놀다
+e Reka dukine! | 놀자!
+e Bakina umupira. | 그들은 축구를 해요.
+w umukino | 경기 · 놀이 | 경기; 놀이
+e Umukino uratangira. | 경기가 시작돼요.
+e Uyu mukino ni mwiza. | 이 놀이는 좋아요.
+w umukinnyi | 선수 · 노는 사람 | 선수
+e Ni umukinnyi mwiza w'umupira. | 좋은 축구 선수예요.
+e Abakinnyi barinjiye. | 선수들이 들어왔어요.
+w igikinisho | 장난감 | 장난감
+e Umwana afite igikinisho gishya. | 아이가 새 장난감이 있어요.
+e Shyira ibikinisho mu gasanduku. | 장난감을 상자에 넣어.
+tp gu-kin-a → umu-kin-o(경기) → umu-kinny-i(선수) → igi-kin-isho(장난감).
+tp '-o'로 끝나면 '하는 일·것'이 돼요: umukino(놀이), urugendo(여행, kugenda에서).
+pr Gukina | 놀다 || Umukino | 경기
+pr Umukinnyi | 선수 || Igikinisho | 장난감
+sm Abakinnyi bakina umukino mwiza. | 선수들이 좋은 경기를 해요.
+qz '선수'는? | umukinnyi
+
+@ 4-01-05 | -ririmb- 노래하다 | kuririmba·indirimbo | 노래하다(-ririmb-)의 가족이에요.
+w kuririmba | 노래하다 | 노래하다
+e Turirimbe hamwe. | 같이 노래해요.
+e Aririmba neza. | 그는 노래를 잘해요.
+w indirimbo | 노래 | 노래
+e Iyi ndirimbo ni nziza. | 이 노래는 좋아요.
+e Ndashaka kwiga indirimbo y'Ikinyarwanda. | 르완다어 노래를 배우고 싶어요.
+w umuririmbyi | 가수 | 가수
+e Ni umuririmbyi uzwi. | 유명한 가수예요.
+e Abaririmbyi baririmba mu birori. | 가수들이 행사에서 노래해요.
+w korali | 합창단 | 합창단
+e Ndi muri korali y'ishuri. | 학교 합창단에 있어요.
+e Korali iririmba ku cyumweru. | 합창단은 일요일에 노래해요.
+tp ku-ririmb-a → in-dirimb-o(노래) → umu-ririmby-i(가수). in- 뒤에서 r이 d로 바뀌어요: indirimbo.
+pr Kuririmba | 노래하다 || Indirimbo | 노래
+pr Umuririmbyi | 가수 || Abaririmbyi | 가수들
+sm Umuririmbyi aririmba indirimbo nshya. | 가수가 새 노래를 불러요.
+qz '가수'는? | umuririmbyi
+
+@ 4-01-06 | -gur- 사다 | kugura·umuguzi | 사다(-gur-)와 팔다(-gurisha)의 가족이에요.
+w kugura | 사다 | 사다
+e Ngiye kugura imboga. | 채소를 사러 가요.
+e Naguze ishati. | 셔츠를 샀어요.
+w kugurisha | 팔다 · 사게 하다 | 팔다
+e Agurisha imyenda. | 그는 옷을 팔아요.
+e Ndashaka kugurisha igare ryanjye. | 제 자전거를 팔고 싶어요.
+w umuguzi | 사는 사람 · 손님 | 손님(사는 사람)
+e Umuguzi arashaka kugabanyirizwa. | 손님이 깎아 달래요.
+e Hari abaguzi benshi uyu munsi. | 오늘 손님이 많아요.
+w umucuruzi | 장사하는 사람 · 상인 | 상인
+e Umucuruzi agurisha imbuto. | 상인이 과일을 팔아요.
+e Abacuruzi bari ku isoko. | 상인들이 시장에 있어요.
+tp kugura(사다) + -isha = kugurisha(팔다). umuguzi(사는 사람) ↔ umucuruzi(파는 사람, 뿌리 -curuz- 장사하다).
+pr Kugura | 사다 || Kugurisha | 팔다
+pr Umuguzi | 사는 사람 || Umucuruzi | 상인
+sm Umucuruzi agurisha, umuguzi agura. | 상인은 팔고 손님은 사요.
+qz '팔다'는? | kugurisha
+
+@ 4-01-07 | -vur- 치료하다 | kuvura·ivuriro | 치료하다(-vur-)의 가족이에요. 병원 낱말이 많이 나와요.
+w kuvura | 치료하다 | 치료하다
+e Umuganga avura abarwayi. | 의사는 환자를 치료해요.
+e Baramuvuye neza. | 그를 잘 치료했어요.
+w ivuriro | 보건소 · 진료소 | 보건소; 진료소
+e Ivuriro riri hafi y'ishuri. | 보건소는 학교 가까이 있어요.
+e Ngiye ku ivuriro. | 보건소에 가요.
+w ubuvuzi | 치료 · 의료 | 의료; 치료
+e Ubuvuzi mu Rwanda bwateye imbere. | 르완다의 의료는 발전했어요.
+e Nkeneye ubuvuzi. | 치료가 필요해요.
+w kwivuza | 치료받다 · 자기를 치료하게 하다 | 치료받다
+e Ngiye kwivuza. | 치료받으러 가요.
+e Wivuje? | 치료받았어요?
+tp ku-vur-a(치료하다) → i-vur-iro(치료하는 곳=보건소) → ubu-vuz-i(의료) → kwi-vuz-a(자기를 치료받게 하다).
+tp -iro로 끝나면 '하는 곳'이 돼요: ivuriro(치료하는 곳), isomero(읽는 곳=도서관).
+pr Kuvura | 치료하다 || Kwivuza | 치료받다
+pr Ivuriro | 보건소 || Ibitaro | 병원
+sm Ngiye kwivuza ku ivuriro, kuko nkeneye ubuvuzi. | 치료가 필요해서 보건소에 치료받으러 가요.
+qz '보건소'는? | ivuriro
+
+@ 4-01-08 | -fash- 돕다 | gufasha·ubufasha | 돕다(-fash-)의 가족이에요.
+w gufasha | 돕다 | 돕다
+e Mfasha, nyabuneka. | 도와주세요.
+e Nshobora kugufasha? | 도와드릴까요?
+w ubufasha | 도움 | 도움
+e Murakoze ku bufasha. | 도와줘서 고마워요.
+e Nkeneye ubufasha. | 도움이 필요해요.
+w umufasha | 돕는 사람 · 조수 | 조수; 돕는 사람
+e Ni umufasha wa mwarimu. | 선생님 조수예요.
+e Nkeneye umufasha. | 도와줄 사람이 필요해요.
+w gufashanya | 서로 돕다 | 서로 돕다
+e Tugomba gufashanya. | 서로 도와야 해요.
+e Abaturage barafashanya mu muganda. | 주민들이 우무간다에서 서로 도와요.
+tp gu-fash-a(돕다) → ubu-fash-a(도움) → umu-fash-a(돕는 사람) → gu-fash-anya(서로 돕다).
+tp -ana/-anya는 '서로'예요: gufashanya(서로 돕다), kubonana(서로 만나다 → Tuzabonana 또 만나요).
+pr Gufasha | 돕다 || Gufashanya | 서로 돕다
+pr Ubufasha | 도움 || Umufasha | 조수
+sm Mu muganda abantu barafashanya, buri wese atanga ubufasha. | 우무간다에서는 사람들이 서로 도와요, 모두가 도움을 줘요.
+qz '서로 돕다'는? | gufashanya
+
+@ 4-01-09 | Umunya- ~ 사람 | Umunyarwanda·umunyeshuri | umunya-(여럿은 abanya-)는 '~에 속한 사람, ~하는 사람'을 만들어요.
+w Umunyarwanda | 르완다 사람 | 르완다 사람
+e Ni Umunyarwanda. | 르완다 사람이에요.
+e Abanyarwanda bakunda ikawa. | 르완다 사람들은 커피를 좋아해요.
+w Umunyakoreya | 한국 사람 | 한국 사람
+e Ndi Umunyakoreya. | 저는 한국 사람이에요.
+e Abanyakoreya benshi baba i Kigali. | 키갈리에 한국 사람이 많이 살아요.
+w umunyeshuri | 학생 · 배우는 사람 | 학생
+e Ndi umunyeshuri. | 저는 학생이에요.
+e Abanyeshuri barasoma. | 학생들이 읽어요.
+w umunyamakuru | 기자 · 소식을 다루는 사람 | 기자
+e Umunyamakuru arabaza ibibazo. | 기자가 질문해요.
+e Ndashaka kuba umunyamakuru. | 기자가 되고 싶어요.
+w umunyabwenge | 똑똑한 사람 · 지혜로운 사람 | 똑똑한 사람
+e Ni umunyabwenge cyane. | 아주 똑똑한 사람이에요.
+e Umwana wawe ni umunyabwenge. | 네 아이는 똑똑해.
+tp Umunya- + 나라: Umunyarwanda, Umunyakoreya, Umunyamerika(미국 사람). Umunya- + 낱말: umunyamakuru(amakuru 소식 → 기자), umunyabwenge(ubwenge 지혜 → 똑똑한 사람).
+tp 나라 사람은 대문자로 써요: Umunyarwanda, Abanyakoreya.
+pr Umunyarwanda | 르완다 사람 || Abanyarwanda | 르완다 사람들
+pr Umunyakoreya | 한국 사람 || Abanyakoreya | 한국 사람들
+sm Umunyakoreya n'Umunyarwanda ni abanyeshuri b'Ikinyarwanda. | 한국 사람과 르완다 사람이 르완다어 학생이에요.
+qz '기자'는? | umunyamakuru
+x nkora | 나는 일한다
+x wa banki | 은행의
+x koresha | 사용해라
+x ukoresha | 너는 사용한다
+x mudasobwa | 컴퓨터
+x cy'ingenzi | 중요한
+x ibikoresho | 도구들
+x by'ishuri | 학교의
+x akoresha | 사용한다
+x gishya | 새로운
+x ndandika | 나는 쓴다
+x ibaruwa | 편지
+x w'iki | 이것의
+x kuba | ~이 되다
+x z'akazi | 일의
+x wiyandikishije | 너는 등록했니
+x yanditse | 썼다
+x biga | 그들은 배운다
+x nigisha | 나는 가르친다
+x unyigishe | 나에게 가르쳐 줘
+x abigisha | 교사들
+x bateranye | 모였다
+x ze | 그의
+x twize | 우리는 배웠다
+x yigisha | 그는 가르친다
+x dukine | 우리 놀자
+x uratangira | 시작한다
+x w'umupira | 축구의
+x abakinnyi | 선수들
+x barinjiye | 들어왔다
+x mu gasanduku | 상자에
+x ibikinisho | 장난감들
+x turirimbe | 우리 노래하자
+x y'ikinyarwanda | 르완다어의
+x uzwi | 유명한
+x abaririmbyi | 가수들
+x baririmba | 그들은 노래한다
+x y'ishuri | 학교의
+x iririmba | 노래한다
+x ryanjye | 나의
+x kugabanyirizwa | 깎아 받다
+x abaguzi | 손님들
+x abacuruzi | 상인들
+x agura | 그는 산다
+x avura | 치료한다
+x baramuvuye | 그를 치료했다
+x bwateye imbere | 발전했다
+x wivuje | 너는 치료받았니
+x ku bufasha | 도움에 대해
+x wa mwarimu | 선생님의
+x tugomba | 우리는 ~해야 한다
+x barafashanya | 서로 돕는다
+x buri wese | 모두, 각자
+x atanga | 준다
+x barasoma | 읽는다
+x arabaza | 묻는다
+x umunyamerika | 미국 사람
+x b'ikinyarwanda | 르완다어의

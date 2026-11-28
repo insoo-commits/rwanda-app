@@ -1,0 +1,238 @@
+# P4-A | 반대말
+
+@ 2-01-01 | 크다·작다·길다·짧다 | nini·nto | 크기와 길이의 반대말이에요. 앞 낱말에 따라 첫소리가 바뀌어요(→ 7-02-06).
+w nini | 크다 | 큰
+e Inzu yabo ni nini. | 그들의 집은 커요.
+e Ndashaka ishati nini. | 큰 셔츠를 원해요.
+w nto | 작다 | 작은
+e Icyumba cyanjye ni gito. | 제 방은 작아요.
+e Iyi nkweto ni nto. | 이 신발은 작아요.
+w ndende | 길다 · 키가 크다 | 긴; 키 큰
+e Umuhanda ni muremure. | 길이 길어요.
+e Ipantalo ni ndende cyane. | 바지가 너무 길어요.
+w ngufi | 짧다 · 키가 작다 | 짧은; 키 작은
+e Ikanzu ni ngufi. | 원피스가 짧아요.
+e Umwana ni mugufi. | 아이는 키가 작아요.
+w kiremereye | 무겁다 | 무거운
+e Igikapu kiraremereye. | 가방이 무거워요.
+e Iki gitabo kiraremereye. | 이 책은 무거워요.
+w cyoroshye | 가볍다 · 쉽다 | 가벼운; 쉬운
+e Igikapu cyanjye kiroroshye. | 제 가방은 가벼워요.
+e Isomo ry'uyu munsi ryoroshye. | 오늘 수업은 쉬워요.
+tp '-nini 크다 / -to 작다 / -re-re 길다 / -gufi 짧다'의 앞은 낱말 무리에 맞춰 바뀌어요: inzu nini, umuntu munini, igitabo kinini.
+tp 키가 큰 사람은 muremure, 작은 사람은 mugufi예요.
+pr Nini | 커요 || Nto | 작아요
+pr Ndende | 길어요 || Ngufi | 짧아요
+dl 수아 | Iyi shati ni nto. | 이 셔츠 작아요.
+dl 상인 | Gerageza iyi nini. | 이 큰 걸 입어 봐요.
+dl 수아 | Iyi ni ndende cyane. | 이건 너무 길어요.
+dl 상인 | Dore indi. | 여기 다른 거요.
+sm Igikapu ni kinini kandi kiraremereye, ariko igitabo ni gito kandi kiroroshye. | 가방은 크고 무겁지만, 책은 작고 가벼워요.
+qz '작다'는? | nto
+
+@ 2-01-02 | 좋다·나쁘다·새것·헌것 | byiza·bibi | 좋고 나쁨, 새것과 헌것의 반대말이에요.
+w byiza | 좋다 | 좋은
+e Ni byiza cyane! | 아주 좋아요!
+e Ikirere ni cyiza uyu munsi. | 오늘 날씨가 좋아요.
+w bibi | 나쁘다 | 나쁜
+e Ni bibi cyane. | 아주 나빠요.
+e Ikirere ni kibi uyu munsi. | 오늘 날씨가 나빠요.
+w gishya | 새롭다 | 새로운
+e Mfite telefoni nshya. | 새 휴대폰이 있어요.
+e Iki gitabo ni gishya. | 이 책은 새것이에요.
+w gishaje | 낡다 · 오래되다 | 낡은; 오래된
+e Inkweto zanjye zirashaje. | 제 신발이 낡았어요.
+e Iyi modoka irashaje. | 이 차는 낡았어요.
+w bisukuye | 깨끗하다 | 깨끗한
+e Icyumba kirasukuye. | 방이 깨끗해요.
+e Amazi asukuye ni ingenzi. | 깨끗한 물은 중요해요.
+w byanduye | 더럽다 | 더러운
+e Imyenda yanjye yanduye. | 옷이 더러워요.
+e Intoki zawe zanduye, karaba. | 손이 더러워, 씻어.
+tp -iza 좋은 ↔ -bi 나쁜, -shya 새로운 ↔ -shaje 낡은, 깨끗한(-sukuye) ↔ 더러운(-anduye).
+tp 날씨가 좋아도 Ni byiza, 음식이 좋아도 Ni byiza: Ni byiza는 '좋아요'로 아주 많이 써요.
+pr Byiza | 좋아요 || Bibi | 나빠요
+pr Gishya | 새것 || Gishaje | 헌것
+dl 엄마 | Imyenda yawe yanduye! | 옷이 더러워!
+dl 민준 | Nakinnye umupira. | 축구했어요.
+dl 엄마 | Yimese, hanyuma wambare isukuye. | 빨고, 깨끗한 옷 입어.
+dl 민준 | Sawa, mama. | 네, 엄마.
+sm Inkweto zanjye zirashaje kandi zanduye, ndashaka inkweto nshya. | 제 신발이 낡고 더러워서 새 신발이 필요해요.
+qz '나쁘다'는? | bibi
+
+@ 2-01-03 | 들어가다·나가다·오다·가다 | kwinjira·gusohoka | 움직임의 반대말이에요.
+w kwinjira | 들어가다 | 들어가다
+e Injira, nyabuneka. | 들어오세요.
+e Nshobora kwinjira? | 들어가도 될까요?
+w gusohoka | 나가다 | 나가다
+e Sohoka hanze gato. | 잠깐 밖에 나가요.
+e Mwarimu, nshobora gusohoka? | 선생님, 나가도 돼요?
+w kuza | 오다 | 오다
+e Ngwino hano. | 여기로 와.
+e Uzaza ryari? | 언제 올 거예요?
+w kugenda | 가다 · 떠나다 | 가다; 떠나다
+e Ndagenda, tuzabonana. | 갈게요, 또 봐요.
+e Bisi igenda saa cyenda. | 버스는 3시에 떠나요.
+w kuzamuka | 올라가다 | 올라가다
+e Tuzamuke umusozi. | 언덕을 올라가요.
+e Zamuka hejuru. | 위로 올라와.
+w kumanuka | 내려가다 | 내려가다
+e Manuka hasi. | 아래로 내려와.
+e Tumanuke buhoro. | 천천히 내려가요.
+tp '오다'의 명령형은 특별해요: Ngwino(와)! 여러 명에게는 Nimuze(오세요).
+tp kwinjira(들어가다) ↔ gusohoka(나가다), kuzamuka(올라가다) ↔ kumanuka(내려가다).
+pr Injira. | 들어와. || Sohoka. | 나가.
+pr Zamuka. | 올라가. || Manuka. | 내려가.
+dl 손님 | Nshobora kwinjira? | 들어가도 될까요?
+dl 엄마 | Yego, injira! Murakaza neza. | 네, 들어오세요! 환영해요.
+dl 손님 | Murakoze. Ngomba kugenda saa kumi. | 고마워요. 4시에는 가야 해요.
+dl 엄마 | Nta kibazo. | 괜찮아요.
+sm Twinjiye mu nzu, hanyuma dusohoka tujya ku isoko. | 집에 들어갔다가 나와서 시장에 갔어요.
+qz '들어가다'는? | kwinjira
+
+@ 2-01-04 | 사다·팔다·주다·받다 | kugura·kugurisha | 주고받는 동작의 짝이에요.
+w kugura | 사다 | 사다
+e Ndashaka kugura imbuto. | 과일을 사고 싶어요.
+e Naguze inkweto. | 신발을 샀어요.
+w kugurisha | 팔다 | 팔다
+e Mama agurisha imboga. | 엄마는 채소를 팔아요.
+e Murugurisha iki? | 뭘 팔아요?
+w gutanga | 주다 · 내다 | 주다; 내다
+e Tanga amafaranga. | 돈을 내요.
+e Natanze impano. | 선물을 줬어요.
+w kwakira | 받다 · 맞이하다 | 받다; 맞이하다
+e Nakiriye ubutumwa bwawe. | 메시지 받았어요.
+e Twakiriye abashyitsi. | 손님을 맞이했어요.
+w kubaza | 묻다 | 묻다
+e Ndashaka kubaza ikibazo. | 질문 하나 하고 싶어요.
+e Baza umwarimu. | 선생님께 물어봐.
+w gusubiza | 대답하다 | 대답하다
+e Subiza ikibazo. | 질문에 대답해.
+e Yasubije neza. | 그는 잘 대답했어요.
+tp kugura(사다)에 -isha를 붙이면 kugurisha(팔다)예요. '~하게 하다'의 -isha는 자주 나와요(→ 단어가족).
+tp kubaza(묻다) ↔ gusubiza(대답하다). Igisubizo는 '대답'이에요.
+pr Kugura | 사다 || Kugurisha | 팔다
+pr Kubaza | 묻다 || Gusubiza | 대답하다
+dl 상인 | Murashaka kugura iki? | 뭘 사실래요?
+dl 민준 | Mugurisha amagi? | 달걀 팔아요?
+dl 상인 | Yego. Ni ijana rimwe. | 네. 하나에 100프랑이에요.
+dl 민준 | Mpa icumi. Dore amafaranga. | 열 개 주세요. 여기 돈이요.
+sm Ku isoko umuntu umwe agura, undi akagurisha. | 시장에서 한 사람은 사고 다른 사람은 팔아요.
+qz '팔다'는? | kugurisha
+
+@ 2-01-05 | 위치 반대 | hejuru·hasi | 위·아래, 앞·뒤, 안·밖의 반대말이에요.
+w hejuru | 위 | 위
+e Igitabo kiri hejuru y'ameza. | 책이 책상 위에 있어요.
+e Icyumba cyanjye kiri hejuru. | 제 방은 위층이에요.
+w hasi | 아래 · 바닥 | 아래; 바닥
+e Icara hasi. | 바닥에 앉아.
+e Injangwe iri munsi y'ameza. | 고양이가 책상 밑에 있어요.
+w imbere | 앞 · 안 | 앞
+e Imbere y'inzu hari indabo. | 집 앞에 꽃이 있어요.
+e Komeza imbere. | 앞으로 계속 가.
+w inyuma | 뒤 | 뒤
+e Igikoni kiri inyuma y'inzu. | 부엌은 집 뒤에 있어요.
+e Reba inyuma yawe! | 뒤를 봐!
+w hanze | 밖 | 밖
+e Abana bakina hanze. | 아이들이 밖에서 놀아요.
+e Hanze harakonje. | 밖은 추워요.
+w imbere mu nzu | 집 안 | 안(실내)
+e Ngwino imbere mu nzu. | 집 안으로 들어와.
+e Imbere mu nzu harashyushye. | 집 안은 따뜻해요.
+tp '~의 위/아래/앞/뒤'는 ya를 붙여요: hejuru y'ameza(책상 위), inyuma y'inzu(집 뒤). '~ 밑에'는 munsi ya.
+tp imbere는 '앞'과 '안' 둘 다예요: imbere y'inzu(집 앞), imbere mu nzu(집 안).
+pr Hejuru | 위 || Hasi | 아래
+pr Imbere | 앞 || Inyuma | 뒤
+dl 수아 | Urufunguzo ruri he? | 열쇠가 어디 있어요?
+dl 엄마 | Ruri hejuru y'ameza. | 책상 위에 있어.
+dl 수아 | Ntiruhari! | 없는데요!
+dl 엄마 | Reba hasi, munsi y'intebe. | 바닥을 봐, 의자 밑에.
+sm Hanze harakonje, ariko imbere mu nzu harashyushye. | 밖은 춥지만 집 안은 따뜻해요.
+qz '위'는? | hejuru
+
+@ 2-02-01 | 묻고 답하는 짝 | Amakuru?·Ni meza | 인사와 부탁에는 정해진 대답이 있어요. 짝으로 외우면 바로 쓸 수 있어요.
+w Amakuru? — Ni meza | 잘 지내요? — 잘 지내요 | 잘 지내요? — 잘 지내요
+e Amakuru yawe? — Ni meza, murakoze. | 잘 지내? — 잘 지내요, 고마워요.
+e Amakuru y'urugo? — Ni meza cyane. | 집안은 잘 지내요? — 아주 잘 지내요.
+w Murakoze — Nta kibazo | 고마워요 — 천만에요 | 고마워요 — 천만에요
+e Murakoze cyane! — Nta kibazo. | 정말 고마워요! — 천만에요.
+e Urakoze, nshuti. — Nta kibazo! | 고마워, 친구. — 천만에!
+w Mwaramutse — Mwaramutse | 좋은 아침 — 좋은 아침 | 좋은 아침이에요(대답도 같아요)
+e Mwaramutse, mwarimu! — Mwaramutse, bana! | 좋은 아침이에요, 선생님! — 좋은 아침, 얘들아!
+e Waramutse? — Waramutse. | 잘 잤어? — 잘 잤어.
+w Mbabarira — Nta kibazo | 미안해요 — 괜찮아요 | 미안해요 — 괜찮아요
+e Mbabarira, natinze. — Nta kibazo. | 늦어서 미안해요. — 괜찮아요.
+e Mbabarira cyane. — Nta kibazo, ihangane. | 정말 미안해요. — 괜찮아요, 신경 쓰지 마요.
+w Murakaza neza — Murakoze | 환영해요 — 고마워요 | 환영해요 — 고마워요
+e Murakaza neza mu Rwanda! — Murakoze cyane! | 르완다에 오신 걸 환영해요! — 정말 고마워요!
+e Murakaza neza mu rugo! — Murakoze. | 집에 잘 왔어요! — 고마워요.
+w Urashaka iki? — Ndashaka… | 뭘 원해요? — ~을 원해요 | 뭘 원해요? — ~ 원해요
+e Urashaka iki? — Ndashaka amazi. | 뭘 원해요? — 물 원해요.
+e Murashaka iki? — Ndashaka icyayi. | 뭘 드릴까요? — 차 주세요.
+tp Mwaramutse, Mwiriwe 같은 인사는 똑같은 말로 대답해요.
+tp '고마워요'와 '미안해요'에는 둘 다 Nta kibazo(괜찮아요·천만에요)로 대답할 수 있어요.
+pr Amakuru? | 잘 지내요? || Ni meza. | 잘 지내요.
+pr Murakoze. | 고마워요. || Nta kibazo. | 천만에요.
+dl 케자 | Mwiriwe! Amakuru? | 안녕하세요! 잘 지내요?
+dl 민준 | Mwiriwe! Ni meza. Namwe? | 안녕하세요! 잘 지내요. 당신은요?
+dl 케자 | Ni meza. Murakaza neza! | 잘 지내요. 환영해요!
+dl 민준 | Murakoze cyane! | 정말 고마워요!
+sm Amakuru? — Ni meza! Murakoze? — Nta kibazo! | 잘 지내요? — 잘 지내요! 고마워요? — 천만에요!
+qz 'Murakoze'에 대한 대답은? | Nta kibazo
+x yabo | 그들의
+x gito | 작은
+x nkweto | 신발
+x umuhanda | 길
+x muremure | 긴, 키 큰
+x mugufi | 키 작은
+x kiraremereye | 무겁다
+x kiroroshye | 가볍다, 쉽다
+x ry'uyu munsi | 오늘의
+x ryoroshye | 쉽다
+x indi | 다른 것
+x kinini | 큰
+x cyiza | 좋은
+x kibi | 나쁜
+x zirashaje | 낡았다
+x irashaje | 낡았다
+x kirasukuye | 깨끗하다
+x asukuye | 깨끗한
+x yanduye | 더럽다
+x zanduye | 더럽다
+x nakinnye | 나는 놀았다(했다)
+x yimese | 그것을 빨아라
+x wambare | 입어라
+x isukuye | 깨끗한 것
+x injira | 들어와라
+x sohoka | 나가라
+x tuzamuke | 우리 올라가자
+x zamuka | 올라가라
+x manuka | 내려가라
+x tumanuke | 우리 내려가자
+x nimuze | (여러분) 오세요
+x twinjiye | 우리는 들어갔다
+x dusohoka | 우리는 나왔다
+x agurisha | 판다
+x murugurisha | 여러분은 판다
+x tanga | 줘라, 내라
+x natanze | 나는 줬다
+x nakiriye | 나는 받았다
+x twakiriye | 우리는 맞이했다
+x yasubije | 그는 대답했다
+x mugurisha | 여러분은 판다
+x ijana rimwe | 100
+x undi | 다른 사람
+x akagurisha | 그리고 판다
+x hejuru y'ameza | 책상 위에
+x munsi y'ameza | 책상 밑에
+x munsi | 밑
+x y'inzu | 집의
+x harakonje | 춥다
+x mu nzu | 집 안
+x harashyushye | 따뜻하다
+x ntiruhari | 그것이 없다
+x y'intebe | 의자의
+x waramutse | 잘 잤니
+x y'urugo | 집안의
+x murakaza | 환영해요
+x murashaka | 여러분은 원한다

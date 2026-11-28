@@ -1,0 +1,732 @@
+// 짝말 더하기 (v1.1): 사람 짝, 때 짝, 곳 짝, 공손 짝
+# P4-C | 사람 짝
+
+@ 2-04-01 | 남자·여자·소년·소녀 | umugabo·umugore | 성별 짝이에요. umugabo/umugore는 '남편/아내'라는 뜻도 있어요.
+w umugabo | 남자 · 남편 | 남자; 남편
+e Uriya mugabo ni umwarimu. | 저 남자는 선생님이에요.
+e Umugabo wanjye ari muri Koreya. | 제 남편은 한국에 있어요.
+e Abagabo bakora mu murima. | 남자들이 밭에서 일해요.
+w umugore | 여자 · 아내 | 여자; 아내
+e Uriya mugore ni umuganga. | 저 여자는 의사예요.
+e Umugore we ni Umunyarwandakazi. | 그의 아내는 르완다 사람이에요.
+e Abagore bagurisha imboga. | 여자들이 채소를 팔아요.
+w umuhungu | 소년 · 아들 | 소년; 아들
+e Umuhungu wanjye afite imyaka itanu. | 제 아들은 다섯 살이에요.
+e Abahungu barakina umupira. | 남자아이들이 공을 차요.
+e Uyu muhungu yitwa Eric. | 이 남자아이 이름은 에릭이에요.
+w umukobwa | 소녀 · 딸 | 소녀; 딸
+e Umukobwa wanjye yiga mu wa gatatu. | 제 딸은 3학년이에요.
+e Abakobwa baririmba neza. | 여자아이들이 노래를 잘해요.
+e Uyu mukobwa yitwa Keza. | 이 여자아이 이름은 케자예요.
+tp umugabo(남자·남편), umugore(여자·아내): 앞에 wanjye를 붙이면 '내 남편, 내 아내'가 돼요.
+tp 여러 명은 aba-: abagabo, abagore, abahungu, abakobwa.
+pr Umugabo | 남자 || Umugore | 여자
+pr Umuhungu | 남자아이 || Umukobwa | 여자아이
+dl 무기샤 | Ufite abana? | 아이 있어요?
+dl 민준 | Yego, umuhungu n'umukobwa. | 네, 아들 하나 딸 하나요.
+dl 무기샤 | Ni byiza! Bafite imyaka ingahe? | 좋네요! 몇 살이에요?
+dl 민준 | Umuhungu afite irindwi, umukobwa afite itanu. | 아들은 일곱 살, 딸은 다섯 살이에요.
+sm Mu ishuri ryacu hari abahungu makumyabiri n'abakobwa makumyabiri na batanu. | 우리 학교에는 남자아이 20명과 여자아이 25명이 있어요.
+qz '여자아이'는? | umukobwa
+
+@ 2-04-02 | 부모·자식·조부모 | umubyeyi·sogokuru | 집안 어른과 아이의 짝이에요.
+w umubyeyi | 부모(한 분) · 어머니 | 부모; 어머니
+e Umubyeyi wanjye ari mu rugo. | 제 어머니는 집에 계세요.
+e Ababyeyi banjye baba i Seoul. | 제 부모님은 서울에 사세요.
+e Murakoze, mubyeyi. | 고맙습니다, 어머니.
+w umwana | 아이 · 자식 | 아이; 자식
+e Mfite abana babiri. | 아이가 둘 있어요.
+e Umwana arasinziriye. | 아이가 자고 있어요.
+e Ni umwana wa kabiri. | 둘째 아이예요.
+w sogokuru | 할아버지 | 할아버지
+e Sogokuru afite imyaka mirongo inani. | 할아버지는 여든 살이에요.
+e Sogokuru yari umuhinzi. | 할아버지는 농부셨어요.
+e Nasuye sogokuru mu cyaro. | 시골에 계신 할아버지를 찾아뵈었어요.
+w umwuzukuru | 손주 | 손주
+e Afite abuzukuru icumi. | 그분은 손주가 열 명이에요.
+e Umwuzukuru we aba i Kigali. | 그분 손주는 키갈리에 살아요.
+e Nyogokuru akunda abuzukuru be. | 할머니는 손주들을 사랑해요.
+tp umubyeyi는 '부모 한 사람'이지만, 어머니를 공손하게 부를 때도 써요: Mubyeyi!(어머니!)
+tp 할아버지 sogokuru ↔ 할머니 nyogokuru(→ 1-12-01), 손주 umwuzukuru ↔ abuzukuru(여러 명).
+pr Umubyeyi | 부모 || Umwana | 자식
+pr Sogokuru | 할아버지 || Umwuzukuru | 손주
+dl 케자 | Sogokuru wawe aracyariho? | 할아버지 아직 살아 계세요?
+dl 수아 | Yego, afite imyaka mirongo inani. | 네, 여든 살이세요.
+dl 케자 | Imana imuhe umugisha. | 복 받으시길.
+dl 수아 | Murakoze. Afite abuzukuru batandatu. | 고마워요. 손주가 여섯 명이에요.
+sm Ababyeyi bakunda abana babo, sogokuru na nyogokuru bagakunda abuzukuru. | 부모는 자식을, 할아버지 할머니는 손주를 사랑해요.
+qz '할아버지'는? | sogokuru
+
+@ 2-04-03 | 형제자매 | mukuru·murumuna | 르완다어는 위아래와 성별로 형제를 나눠 불러요.
+w mukuru wanjye | 내 손위 (같은 성별 형제) | 언니; 형; 누나·오빠(같은 성)
+e Mukuru wanjye aba muri Amerika. | 우리 언니(형)는 미국에 살아요.
+e Mukuru wanjye ni umuganga. | 우리 언니(형)는 의사예요.
+e Mfite bakuru banjye babiri. | 손위 형제가 둘 있어요.
+w murumuna wanjye | 내 손아래 (같은 성별 형제) | 동생(같은 성)
+e Murumuna wanjye yiga muri kaminuza. | 제 동생은 대학에 다녀요.
+e Murumuna wanjye afite imyaka cumi n'itanu. | 제 동생은 열다섯 살이에요.
+e Nkunda murumuna wanjye. | 동생을 좋아해요.
+w mushiki wanjye | (남자가 말하는) 누나·여동생 | 누나; 여동생
+e Mushiki wanjye ni umwarimu. | 제 누나(여동생)는 선생님이에요.
+e Mushiki wanjye arashaka kuza mu Rwanda. | 여동생이 르완다에 오고 싶어 해요.
+e Mfite mushiki wanjye umwe. | 누나(여동생)가 한 명 있어요.
+w musaza wanjye | (여자가 말하는) 오빠·남동생 | 오빠; 남동생
+e Musaza wanjye ni umushoferi. | 우리 오빠(남동생)는 운전사예요.
+e Musaza wanjye akunda umupira. | 오빠(남동생)는 축구를 좋아해요.
+e Mfite basaza banjye babiri. | 오빠(남동생)가 둘 있어요.
+tp mukuru = 나와 같은 성별의 손위, murumuna = 같은 성별의 손아래예요.
+tp 다른 성별 형제는 나이와 상관없이: 남자가 말하는 자매 = mushiki, 여자가 말하는 형제 = musaza.
+tp 한국어 '형·오빠·누나·언니'와 나누는 방법이 달라서 처음엔 헷갈려요. 위아래보다 '나와 같은 성인가'가 먼저예요.
+pr Mukuru wanjye | 손위(같은 성) || Murumuna wanjye | 손아래(같은 성)
+pr Mushiki wanjye | 자매(남자 기준) || Musaza wanjye | 형제(여자 기준)
+dl 무기샤 (여) | Ufite abavandimwe? | 형제 있어요?
+dl 수아 (여) | Yego. Mukuru wanjye na musaza wanjye. | 네. 언니랑 남동생이요.
+dl 무기샤 | Musaza wawe ari he? | 남동생은 어디 있어요?
+dl 수아 | Ari i Busan, yiga muri kaminuza. | 부산에서 대학 다녀요.
+sm Mfite mukuru wanjye umwe, murumuna wanjye umwe na musaza wanjye umwe. | 저는 언니 한 명, 여동생 한 명, 남동생 한 명이 있어요.
+qz 남자가 '내 여동생'이라고 할 때는? | mushiki wanjye
+
+@ 2-04-04 | 삼촌·고모·이모 | marume·nyirasenge | 아빠 쪽과 엄마 쪽 친척을 다르게 불러요.
+w marume | 외삼촌 (엄마의 남자 형제) | 외삼촌
+e Marume aba i Musanze. | 외삼촌은 무산제에 살아요.
+e Marume yampaye impano. | 외삼촌이 선물을 주셨어요.
+e Marume afite inka nyinshi. | 외삼촌은 소가 많아요.
+w nyirasenge | 고모 (아빠의 여자 형제) | 고모
+e Nyirasenge ni umuforomo. | 고모는 간호사예요.
+e Nasuye nyirasenge ku cyumweru. | 일요일에 고모를 찾아뵈었어요.
+e Nyirasenge ateka neza cyane. | 고모는 요리를 정말 잘해요.
+w data wacu | 큰아버지·작은아버지 (아빠의 남자 형제) | 삼촌(아빠 쪽)
+e Data wacu ni umucuruzi. | 삼촌(아빠 쪽)은 장사를 해요.
+e Data wacu yaje mu bukwe. | 삼촌이 결혼식에 오셨어요.
+e Mfite ba data wacu batatu. | 아빠 쪽 삼촌이 셋 있어요.
+w mama wacu | 이모 (엄마의 여자 형제) | 이모
+e Mama wacu aba i Huye. | 이모는 후예에 살아요.
+e Mama wacu ameze nka mama. | 이모는 엄마랑 닮았어요.
+e Mama wacu yanyigishije guteka. | 이모가 요리를 가르쳐 줬어요.
+tp 아빠의 남자 형제는 data wacu(우리 아버지), 엄마의 여자 형제는 mama wacu(우리 어머니)라고 불러요. 부모와 같은 사람으로 여기는 거예요.
+tp 반대로 아빠의 여자 형제는 nyirasenge(고모), 엄마의 남자 형제는 marume(외삼촌)로 따로 불러요.
+pr Data wacu | 삼촌(아빠 쪽) || Marume | 외삼촌
+pr Mama wacu | 이모 || Nyirasenge | 고모
+dl 케자 | Uyu ni nde? | 이분은 누구예요?
+dl 무기샤 | Ni marume, musaza wa mama. | 외삼촌이요, 엄마 남동생이에요.
+dl 케자 | Na we? | 그럼 저분은요?
+dl 무기샤 | Ni nyirasenge, mushiki wa data. | 고모예요, 아빠 여동생이에요.
+sm Mu bukwe haje marume, nyirasenge, data wacu na mama wacu. | 결혼식에 외삼촌, 고모, 삼촌, 이모가 오셨어요.
+qz '외삼촌'은? | marume
+
+@ 2-04-05 | 신랑·신부·결혼하다 | umukwe·umugeni | 결혼식에서 쓰는 사람 짝이에요.
+w umugeni | 신부 | 신부
+e Umugeni ni mwiza cyane. | 신부가 정말 예뻐요.
+e Umugeni yambaye umushanana. | 신부가 우무샤나나를 입었어요.
+e Umugeni araje! | 신부가 와요!
+w umukwe | 신랑 · 사위 | 신랑; 사위
+e Umukwe yazanye inka. | 신랑이 소를 가져왔어요.
+e Umukwe ni umwarimu. | 신랑은 선생님이에요.
+e Ababyeyi bakira umukwe. | 부모님이 사위를 맞이해요.
+w gushyingiranwa | 결혼하다 | 결혼하다
+e Bazashyingiranwa mu Kanama. | 그들은 8월에 결혼해요.
+e Twashyingiranwe umwaka ushize. | 우리는 작년에 결혼했어요.
+e Urashaka gushyingiranwa? | 결혼하고 싶어요?
+w inkwano | 신부 집에 주는 예물 | 예물(인콰노)
+e Inkwano ni inka. | 예물은 소예요.
+e Gufata irembo no gutanga inkwano. | 청혼하고 예물을 드려요.
+e Inkwano ni umuco w'u Rwanda. | 예물은 르완다 문화예요.
+tp 르완다 전통 결혼에는 gufata irembo(청혼), gusaba(신부 집에 청하기), inkwano(예물, 예전엔 소) 같은 순서가 있어요.
+tp 신부는 우무샤나나(umushanana)라는 전통 옷을 입어요.
+pr Umugeni | 신부 || Umukwe | 신랑
+pr Gushyingiranwa | 결혼하다 || Ubukwe | 결혼식
+dl 수아 | Ubukwe ni ryari? | 결혼식이 언제예요?
+dl 케자 | Ku wa gatandatu. Uzaze! | 토요일이에요. 와요!
+dl 수아 | Umugeni ni nde? | 신부가 누구예요?
+dl 케자 | Ni mushiki wanjye! | 제 언니예요!
+sm Umukwe n'umugeni bazashyingiranwa ku wa gatandatu, kandi umukwe azatanga inkwano. | 신랑과 신부는 토요일에 결혼하고, 신랑은 예물을 드릴 거예요.
+qz '신부'는? | umugeni
+
+@ 2-04-06 | 주인·손님 | nyir'inzu·umushyitsi | 맞이하는 사람과 찾아온 사람의 짝이에요.
+w nyir'inzu | 집주인 | 집주인
+e Nyir'inzu ni umuntu mwiza. | 집주인은 좋은 분이에요.
+e Nishyura nyir'inzu buri kwezi. | 매달 집주인에게 돈을 내요.
+e Hamagara nyir'inzu. | 집주인에게 전화해요.
+w umushyitsi | 손님 | 손님
+e Dufite abashyitsi uyu munsi. | 오늘 손님이 와요.
+e Umushyitsi ni umugisha. | 손님은 복이에요.
+e Murakaza neza, bashyitsi! | 손님들, 환영해요!
+w umukiriya | (가게) 손님 · 고객 | 고객
+e Umukiriya ni umwami. | 고객은 왕이에요.
+e Abakiriya benshi baje uyu munsi. | 오늘 손님이 많이 왔어요.
+e Mwakire umukiriya neza. | 손님을 잘 맞이해요.
+w nyiri iduka | 가게 주인 | 가게 주인
+e Nyiri iduka ari he? | 가게 주인은 어디 있어요?
+e Nyiri iduka yampaye igabanywa. | 가게 주인이 깎아 줬어요.
+e Ndashaka kuvugana na nyiri iduka. | 가게 주인과 말하고 싶어요.
+tp nyiri-/nyir'-는 '~의 주인'이에요: nyir'inzu(집주인), nyiri iduka(가게 주인), nyir'imodoka(차 주인).
+tp 집에 온 손님은 umushyitsi, 가게 손님은 umukiriya예요.
+pr Nyir'inzu | 집주인 || Umushyitsi | 손님
+pr Nyiri iduka | 가게 주인 || Umukiriya | 고객
+dl 손님 | Mwiriwe. Nyiri iduka arahari? | 안녕하세요. 가게 주인 계세요?
+dl 직원 | Oya, yagiye. Nagufasha? | 아니요, 나가셨어요. 제가 도와드릴까요?
+dl 손님 | Ndashaka kugura ikawa. | 커피를 사고 싶어요.
+dl 직원 | Murakaza neza, mukiriya! | 어서 오세요, 손님!
+sm Nyir'inzu yakiriye abashyitsi, nyiri iduka yakira abakiriya. | 집주인은 손님을 맞이하고, 가게 주인은 고객을 맞이해요.
+qz '손님(집에 온)'은? | umushyitsi
+
+@ 2-04-07 | 의사·환자·간호사 | umuganga·umurwayi | 병원에서의 사람 짝이에요.
+w umuganga | 의사 | 의사
+e Umuganga araje. | 의사가 와요.
+e Ndashaka kubonana n'umuganga. | 의사를 만나고 싶어요.
+e Umuganga yampaye umuti. | 의사가 약을 줬어요.
+w umurwayi | 환자 | 환자
+e Umurwayi aryamye. | 환자가 누워 있어요.
+e Hari abarwayi benshi uyu munsi. | 오늘 환자가 많아요.
+e Umurwayi akeneye amazi. | 환자는 물이 필요해요.
+w umuforomo | 간호사 | 간호사
+e Umuforomo azaguha urushinge. | 간호사가 주사를 놓아 줄 거예요.
+e Umuforomokazi ni mwiza. | 간호사가 친절해요.
+e Abaforomo bakora nijoro. | 간호사들은 밤에도 일해요.
+w kuvura | 치료하다 | 치료하다
+e Umuganga avura abarwayi. | 의사가 환자를 치료해요.
+e Banvuye neza. | 저를 잘 치료해 줬어요.
+e Ibitaro bivura malariya. | 병원은 말라리아를 치료해요.
+tp umu-(한 사람) ↔ aba-(여러 사람): umurwayi ↔ abarwayi, umuganga ↔ abaganga.
+tp -kazi를 붙이면 여자를 나타낼 때가 있어요: umuforomokazi(여자 간호사), Umunyarwandakazi(르완다 여자).
+pr Umuganga | 의사 || Umurwayi | 환자
+pr Kuvura | 치료하다 || Gukira | 낫다
+dl 간호사 | Ni wowe murwayi ukurikiyeho? | 다음 환자분이세요?
+dl 수아 | Yego. Ndwaye umutwe. | 네. 머리가 아파요.
+dl 간호사 | Icara. Umuganga araza vuba. | 앉으세요. 의사 선생님이 곧 오세요.
+dl 수아 | Murakoze. | 고마워요.
+sm Umuganga n'umuforomo bavura abarwayi, maze abarwayi bagakira. | 의사와 간호사가 환자를 치료하면 환자가 나아요.
+qz '환자'는? | umurwayi
+
+@ 2-04-08 | 친구·이웃·적 | inshuti·umuturanyi | 주변 사람의 짝이에요.
+w inshuti | 친구 | 친구
+e Ni inshuti yanjye. | 제 친구예요.
+e Mfite inshuti nyinshi mu Rwanda. | 르완다에 친구가 많아요.
+e Inshuti nyanshuti ni umugisha. | 진짜 친구는 복이에요.
+w umuturanyi | 이웃 | 이웃
+e Umuturanyi wanjye ni umwarimu. | 제 이웃은 선생님이에요.
+e Abaturanyi bacu ni beza. | 우리 이웃들은 좋아요.
+e Umuturanyi yampaye imboga. | 이웃이 채소를 줬어요.
+w umukunzi | 애인 · 사랑하는 사람 | 애인
+e Afite umukunzi. | 그는 애인이 있어요.
+e Umukunzi wanjye aba muri Koreya. | 제 애인은 한국에 살아요.
+e Bakundana cyane. | 그들은 서로 많이 사랑해요.
+w umwanzi | 적 | 적
+e Si umwanzi wanjye. | 그는 제 적이 아니에요.
+e Twese turi abavandimwe, nta mwanzi. | 우리는 모두 형제예요, 적은 없어요.
+e Umwanzi w'amahoro. | 평화의 적.
+tp '친구'는 inshuti 하나로 단수와 복수가 같아요: inshuti yanjye(내 친구), inshuti zanjye(내 친구들).
+tp 르완다에서는 이웃(umuturanyi)끼리 서로 많이 도와요. 이웃과 소금이나 채소를 나누는 일이 흔해요.
+pr Inshuti | 친구 || Umwanzi | 적
+pr Umuturanyi | 이웃 || Umukunzi | 애인
+dl 민준 | Uyu ni nde? | 이분은 누구예요?
+dl 무기샤 | Ni umuturanyi wanjye, kandi ni inshuti yanjye. | 제 이웃이자 친구예요.
+dl 민준 | Nishimiye kukumenya! | 만나서 반가워요!
+dl 이웃 | Nanjye! | 저도요!
+sm Umuturanyi mwiza ni inshuti, kandi inshuti nziza ntiba umwanzi. | 좋은 이웃은 친구이고, 좋은 친구는 적이 되지 않아요.
+qz '이웃'은? | umuturanyi
+
+@ 2-04-09 | 어른·아이·아기·젊은이 | umuntu mukuru·uruhinja | 나이로 사람을 나누는 짝이에요.
+w umuntu mukuru | 어른 | 어른
+e Ni umuntu mukuru. | 그분은 어른이에요.
+e Abantu bakuru bicara imbere. | 어른들은 앞에 앉아요.
+e Wubahe abantu bakuru. | 어른을 공경해요.
+w uruhinja | 아기 | 아기
+e Uruhinja rurasinziriye. | 아기가 자고 있어요.
+e Uruhinja rufite amezi atatu. | 아기는 3개월이에요.
+e Uruhinja rurarira. | 아기가 울어요.
+w urubyiruko | 젊은이들 · 청년 | 젊은이
+e Urubyiruko ni ejo h'igihugu. | 젊은이는 나라의 미래예요.
+e Urubyiruko rukunda umupira. | 젊은이들은 축구를 좋아해요.
+e Urubyiruko rwinshi rwiga ikoranabuhanga. | 많은 젊은이가 정보기술을 배워요.
+w umusaza | 할아버지(나이 든 남자) | 노인(남)
+e Umusaza yicaye munsi y'igiti. | 할아버지가 나무 밑에 앉아 계세요.
+e Abasaza baganira. | 노인들이 이야기해요.
+e Umukecuru n'umusaza. | 할머니와 할아버지.
+tp umusaza(나이 든 남자) ↔ umukecuru(나이 든 여자)예요. 남의 할아버지·할머니를 부를 때도 써요.
+tp 르완다는 젊은 나라예요. 사람들의 절반 넘게가 서른 살이 안 돼요.
+pr Umuntu mukuru | 어른 || Umwana | 아이
+pr Umusaza | 할아버지 || Umukecuru | 할머니
+dl 할머니 | Uruhinja rwawe rufite amezi angahe? | 아기가 몇 개월이에요?
+dl 엄마 | Amezi atandatu. | 6개월이에요.
+dl 할머니 | Ni rwiza cyane! | 정말 예뻐요!
+dl 엄마 | Murakoze, mukecuru. | 고마워요, 할머니.
+sm Mu muryango hari uruhinja, abana, urubyiruko, abantu bakuru n'abasaza. | 집안에는 아기, 아이들, 젊은이, 어른, 노인이 있어요.
+qz '아기'는? | uruhinja
+
+# P4-D | 때 짝
+
+@ 2-05-01 | 어제·내일·그저께·모레 | ejo hashize·ejo hazaza | 르완다어 ejo는 '어제'와 '내일' 둘 다예요. 동사의 때(과거·미래)로 구별해요.
+w ejo hashize | 어제 | 어제
+e Ejo hashize nagiye ku isoko. | 어제 시장에 갔어요.
+e Ejo nariye isombe. | 어제 이솜베를 먹었어요.
+e Ejo hashize imvura yaguye. | 어제 비가 왔어요.
+w ejo hazaza | 내일 | 내일
+e Ejo nzajya ku ishuri. | 내일 학교에 갈 거예요.
+e Ejo hazaza tuzabonana. | 내일 만나요.
+e Ejo hazaza hazaba izuba. | 내일은 해가 날 거예요.
+w ejobundi | 그저께 · 모레 | 그저께; 모레
+e Ejobundi nageze i Kigali. | 그저께 키갈리에 도착했어요.
+e Ejobundi nzasubira i Seoul. | 모레 서울로 돌아가요.
+e Twahuye ejobundi. | 그저께 만났어요.
+w uyu munsi | 오늘 | 오늘
+e Uyu munsi ni ku wa mbere. | 오늘은 월요일이에요.
+e Uyu munsi nta shuri. | 오늘은 학교가 없어요.
+e Uyu munsi birashyushye. | 오늘은 더워요.
+tp ejo 하나로 어제·내일을 다 말해요. naje(왔다, 과거)면 어제, nzaza(올 거다, 미래)면 내일이에요.
+tp 분명히 하고 싶으면 ejo hashize(지나간 ejo = 어제), ejo hazaza(올 ejo = 내일)라고 해요. ejobundi도 그저께·모레 둘 다예요.
+pr Ejo nagiye | 어제 갔어요 || Ejo nzajya | 내일 갈 거예요
+pr Ejobundi naje | 그저께 왔어요 || Ejobundi nzagenda | 모레 갈 거예요
+dl 무기샤 | Wageze ryari? | 언제 도착했어요?
+dl 수아 | Ejobundi. | 그저께요.
+dl 무기샤 | Ejo uzakora iki? | 내일 뭐 할 거예요?
+dl 수아 | Ejo nzasura ingagi! | 내일 고릴라 보러 가요!
+sm Ejo hashize nageze i Musanze, uyu munsi ndaruhuka, ejo hazaza nzasura ingagi. | 어제 무산제에 도착했고, 오늘은 쉬고, 내일 고릴라를 보러 가요.
+qz '그저께'는? | ejobundi
+
+@ 2-05-02 | 전·후 | mbere·nyuma | 때의 앞뒤를 말하는 짝이에요.
+w mbere | 전에 · 먼저 | 전에; 먼저
+e Mbere nabaga i Busan. | 전에는 부산에 살았어요.
+e Wowe mbere. | 당신 먼저요.
+e Ni ubwa mbere nza mu Rwanda. | 르완다는 처음 와요.
+w nyuma | 나중에 · 뒤에 | 나중에
+e Tuzabonana nyuma. | 나중에 봐요.
+e Nyuma y'isomo, turakina. | 수업 끝나고 놀아요.
+e Ndaza nyuma gato. | 조금 뒤에 갈게요.
+w mbere yo | ~하기 전에 | ~하기 전에
+e Karaba mbere yo kurya. | 먹기 전에 손을 씻어요.
+e Mbere yo kuryama, nsoma igitabo. | 자기 전에 책을 읽어요.
+e Hamagara mbere yo kuza. | 오기 전에 전화해요.
+w nyuma ya | ~ 뒤에 · ~ 후에 | ~ 후에
+e Nyuma ya saa sita. | 12시 이후에.
+e Nyuma y'ubukwe, twarabyinnye. | 결혼식 후에 춤을 췄어요.
+e Nyuma y'iminsi itatu. | 사흘 뒤에.
+tp 동사 앞에는 mbere yo / nyuma yo + 동사(ku-), 명사 앞에는 mbere ya / nyuma ya + 명사예요.
+tp ubwa mbere는 '처음'이에요: Ni ubwa mbere(처음이에요).
+pr Mbere | 전에 || Nyuma | 후에
+pr Mbere yo kurya | 먹기 전에 || Nyuma yo kurya | 먹은 후에
+dl 케자 | Ni ubwa mbere uza mu Rwanda? | 르완다는 처음이에요?
+dl 민준 | Yego. Mbere nari i Kenya. | 네. 전에는 케냐에 있었어요.
+dl 케자 | Nyuma y'u Rwanda uzajya he? | 르완다 다음엔 어디 가요?
+dl 민준 | Nzataha muri Koreya. | 한국에 돌아가요.
+sm Mbere yo kurya turakaraba, nyuma yo kurya turaruhuka. | 먹기 전에 손을 씻고, 먹은 후에 쉬어요.
+qz '~하기 전에'는? | mbere yo
+
+@ 2-05-03 | 지난주·다음 주·작년·내년 | gishize·gitaha | 지난 때와 올 때의 짝이에요.
+w icyumweru gishize | 지난주 | 지난주
+e Icyumweru gishize nari ndwaye. | 지난주에 아팠어요.
+e Twahuye icyumweru gishize. | 지난주에 만났어요.
+e Icyumweru gishize cyari kiza. | 지난주는 좋았어요.
+w icyumweru gitaha | 다음 주 | 다음 주
+e Icyumweru gitaha nzajya i Huye. | 다음 주에 후예에 가요.
+e Ikizamini ni icyumweru gitaha. | 시험은 다음 주예요.
+e Tuzabonana icyumweru gitaha. | 다음 주에 만나요.
+w umwaka ushize | 작년 | 작년
+e Umwaka ushize nari muri Koreya. | 작년에 한국에 있었어요.
+e Naje umwaka ushize. | 작년에 왔어요.
+e Umwaka ushize imvura yari nyinshi. | 작년엔 비가 많이 왔어요.
+w umwaka utaha | 내년 | 내년
+e Umwaka utaha nzataha. | 내년에 돌아가요.
+e Umwaka utaha nzarangiza kwiga. | 내년에 공부를 마쳐요.
+e Umwaka utaha muhire! | 새해 복 많이 받으세요!
+tp '지난'은 -shize, '다음'은 -taha예요. 앞 낱말에 맞춰: icyumweru gishize, ukwezi gushize, umwaka ushize.
+tp '다음 달'은 ukwezi gutaha, '지난달'은 ukwezi gushize예요.
+pr Icyumweru gishize | 지난주 || Icyumweru gitaha | 다음 주
+pr Umwaka ushize | 작년 || Umwaka utaha | 내년
+dl 학생 | Ikizamini ni ryari? | 시험이 언제예요?
+dl 선생님 | Icyumweru gitaha, ku wa gatatu. | 다음 주 수요일이요.
+dl 학생 | Icyumweru gishize mwavuze ko ari uyu munsi! | 지난주에 오늘이라고 하셨잖아요!
+dl 선생님 | Twarabihinduye. | 바꿨어요.
+sm Umwaka ushize nize Icyongereza, uyu mwaka ndiga Ikinyarwanda, umwaka utaha nzigisha. | 작년엔 영어를 배웠고, 올해는 르완다어를 배우고, 내년엔 가르칠 거예요.
+qz '다음 주'는? | icyumweru gitaha
+
+@ 2-05-04 | 항상·자주·가끔·절대 | buri gihe·kenshi | 얼마나 자주 하는지 말하는 짝이에요.
+w buri gihe | 항상 · 늘 | 항상
+e Buri gihe nywa icyayi mu gitondo. | 아침엔 항상 차를 마셔요.
+e Aseka buri gihe. | 그는 늘 웃어요.
+e Buri gihe ndakwibuka. | 늘 너를 생각해.
+w kenshi | 자주 | 자주
+e Njya ku isoko kenshi. | 시장에 자주 가요.
+e Imvura igwa kenshi muri Mata. | 4월엔 비가 자주 와요.
+e Duhura kenshi. | 우리는 자주 만나요.
+w rimwe na rimwe | 가끔 | 가끔
+e Rimwe na rimwe ndya inyama. | 가끔 고기를 먹어요.
+e Rimwe na rimwe ndwara umutwe. | 가끔 머리가 아파요.
+e Tujya i Gisenyi rimwe na rimwe. | 우리는 가끔 기세니에 가요.
+w nta na rimwe | 한 번도 ~않다 · 절대 | 한 번도 안
+e Nta na rimwe nagiye muri Uganda. | 우간다는 한 번도 안 가 봤어요.
+e Ntabwo nywa inzoga na rimwe. | 술은 절대 안 마셔요.
+e Nta na rimwe atinda. | 그는 한 번도 늦지 않아요.
+tp buri는 '매~'예요: buri munsi(매일), buri cyumweru(매주), buri gihe(항상).
+tp rimwe는 '한 번', rimwe na rimwe는 '한 번 그리고 한 번' = 가끔이에요.
+pr Buri gihe | 항상 || Nta na rimwe | 한 번도 안
+pr Kenshi | 자주 || Rimwe na rimwe | 가끔
+dl 무기샤 | Ukunda ibitoki? | 바나나 요리 좋아해요?
+dl 수아 | Yego, mbirya kenshi. | 네, 자주 먹어요.
+dl 무기샤 | Na isombe? | 이솜베는요?
+dl 수아 | Rimwe na rimwe. | 가끔이요.
+sm Buri gihe njya ku ishuri, kenshi njya ku isoko, rimwe na rimwe njya ku kiyaga. | 늘 학교에 가고, 자주 시장에 가고, 가끔 호수에 가요.
+qz '가끔'은? | rimwe na rimwe
+
+@ 2-05-05 | 지금·곧·옛날·요즘 | ubu·kera | 때를 가리키는 말의 짝이에요.
+w ubu | 지금 | 지금
+e Ndi hano ubu. | 지금 여기 있어요.
+e Ubu ni saa ngahe? | 지금 몇 시예요?
+e Ngwino ubu! | 지금 와!
+w vuba aha | 곧 · 얼마 전 | 곧; 최근에
+e Azaza vuba aha. | 그는 곧 올 거예요.
+e Naje vuba aha. | 얼마 전에 왔어요.
+e Vuba aha nzakubwira. | 곧 말해 줄게요.
+w kera | 옛날 · 오래전 | 옛날
+e Kera nta modoka zari zihari. | 옛날엔 차가 없었어요.
+e Kera cyane. | 아주 오래전.
+e Twaraziranye kera. | 우리는 오래전부터 알았어요.
+w muri iki gihe | 요즘 | 요즘
+e Muri iki gihe birashyushye. | 요즘 더워요.
+e Muri iki gihe ndiga cyane. | 요즘 열심히 공부해요.
+e Muri iki gihe abantu bose bafite telefoni. | 요즘은 모두 휴대폰이 있어요.
+tp 르완다 옛이야기는 Kera habayeho…(옛날 옛적에…)로 시작해요.
+tp vuba aha는 앞으로면 '곧', 지난 일이면 '얼마 전'이에요.
+pr Ubu | 지금 || Kera | 옛날
+pr Vuba aha | 곧 || Muri iki gihe | 요즘
+dl 손님 | Bisi igiye kugenda ubu? | 버스가 지금 떠나요?
+dl 직원 | Oya, vuba aha. Mu minota itanu. | 아니요, 곧이요. 5분 뒤에요.
+dl 손님 | Kera bisi zatindaga cyane. | 옛날엔 버스가 많이 늦었는데.
+dl 직원 | Muri iki gihe zigenda ku gihe. | 요즘은 제시간에 가요.
+sm Kera nta telefoni zari zihari, ariko ubu, muri iki gihe, buri wese afite telefoni. | 옛날엔 휴대폰이 없었지만 지금은, 요즘은 모두 휴대폰이 있어요.
+qz '옛날'은? | kera
+
+# P4-E | 곳 짝
+
+@ 2-06-01 | 동서남북 | amajyaruguru·amajyepfo | 방향의 짝이에요. 르완다 지방 이름도 방향에서 왔어요.
+w amajyaruguru | 북쪽 | 북쪽
+e Musanze iri mu majyaruguru. | 무산제는 북쪽에 있어요.
+e Intara y'Amajyaruguru. | 북부 주.
+e Ingagi ziba mu majyaruguru. | 고릴라는 북쪽에 살아요.
+w amajyepfo | 남쪽 | 남쪽
+e Huye iri mu majyepfo. | 후예는 남쪽에 있어요.
+e Intara y'Amajyepfo. | 남부 주.
+e Burundi iri mu majyepfo y'u Rwanda. | 부룬디는 르완다 남쪽에 있어요.
+w iburasirazuba | 동쪽 (해 뜨는 곳) | 동쪽
+e Akagera kari iburasirazuba. | 아카게라는 동쪽에 있어요.
+e Izuba rirasira iburasirazuba. | 해는 동쪽에서 떠요.
+e Intara y'Iburasirazuba. | 동부 주.
+w iburengerazuba | 서쪽 (해 지는 곳) | 서쪽
+e Ikiyaga cya Kivu kiri iburengerazuba. | 키부 호수는 서쪽에 있어요.
+e Izuba rirenga iburengerazuba. | 해는 서쪽으로 져요.
+e Intara y'Iburengerazuba. | 서부 주.
+tp 르완다는 5개 지역으로 나뉘어요: 키갈리 시와 북부(Amajyaruguru), 남부(Amajyepfo), 동부(Iburasirazuba), 서부(Iburengerazuba) 주.
+tp iburasirazuba는 '해가 뜨는(kurasa) 곳', iburengerazuba는 '해가 지는(kurenga) 곳'이에요.
+pr Amajyaruguru | 북쪽 || Amajyepfo | 남쪽
+pr Iburasirazuba | 동쪽 || Iburengerazuba | 서쪽
+dl 민준 | Ingagi ziri he? | 고릴라는 어디 있어요?
+dl 무기샤 | Mu majyaruguru, i Musanze. | 북쪽 무산제에요.
+dl 민준 | Na Kivu? | 키부는요?
+dl 무기샤 | Iburengerazuba, i Rubavu. | 서쪽 루바부에요.
+sm Ingagi ziri mu majyaruguru, Kivu iri iburengerazuba, Akagera kari iburasirazuba, Huye iri mu majyepfo. | 고릴라는 북쪽, 키부는 서쪽, 아카게라는 동쪽, 후예는 남쪽에 있어요.
+qz '남쪽'은? | amajyepfo
+
+@ 2-06-02 | 여기·거기·저기·어디나 | hano·aho·hariya | 곳을 가리키는 짝이에요.
+w hano | 여기 | 여기
+e Icara hano. | 여기 앉아요.
+e Ntuye hano. | 여기 살아요.
+e Hano ni heza. | 여기 좋아요.
+w aho | 거기 (말한 곳) | 거기
+e Shyira aho. | 거기 놓아요.
+e Aho ni he? | 거기가 어디예요?
+e Aho ni ho nkora. | 거기가 제가 일하는 곳이에요.
+w hariya | 저기 (먼 곳) | 저기
+e Isoko riri hariya. | 시장은 저기 있어요.
+e Reba hariya! | 저기 봐요!
+e Hariya ni kure. | 저기는 멀어요.
+w hose | 어디나 · 모든 곳 | 어디나
+e Narebye hose. | 다 찾아봤어요.
+e Hose hari abantu. | 어디나 사람이 있어요.
+e U Rwanda rwose ni rwiza, hose. | 르완다는 어디나 다 아름다워요.
+tp hano(여기, 나 가까이) → aho(거기, 너 가까이·말한 곳) → hariya(저기, 멀리): 한국어 '여기·거기·저기'와 비슷해요.
+tp 그 밖에 ahandi(다른 곳), ahantu hose(모든 곳)도 써요.
+pr Hano | 여기 || Hariya | 저기
+pr Aho | 거기 || Hose | 어디나
+dl 수아 | Ubwiherero buri he? | 화장실 어디예요?
+dl 직원 | Hariya, iruhande rw'urugi. | 저기, 문 옆이요.
+dl 수아 | Aho? | 거기요?
+dl 직원 | Yego, aho. | 네, 거기요.
+sm Hano ni mu ishuri, aho ni mu isomero, hariya ni ku kibuga. | 여기는 교실, 거기는 도서관, 저기는 운동장이에요.
+qz '저기'는? | hariya
+
+@ 2-06-03 | 가운데·옆·가장자리·사이 | hagati·iruhande | 놓인 자리를 말하는 짝이에요.
+w hagati | 가운데 · 사이 | 가운데
+e Shyira ameza hagati. | 책상을 가운데 놓아요.
+e Ndi hagati ya Keza na Eric. | 저는 케자와 에릭 사이에 있어요.
+e U Rwanda ruri hagati muri Afurika. | 르완다는 아프리카 한가운데에 있어요.
+w iruhande | 옆 | 옆
+e Icara iruhande rwanjye. | 내 옆에 앉아요.
+e Banki iri iruhande rw'isoko. | 은행은 시장 옆에 있어요.
+e Iruhande rw'urugi. | 문 옆.
+w ku nkombe | 가장자리 · 물가 | 가장자리; 물가
+e Twicaye ku nkombe y'ikiyaga. | 호숫가에 앉았어요.
+e Ntuhagarare ku nkombe. | 가장자리에 서지 마요.
+e Hoteli iri ku nkombe ya Kivu. | 호텔은 키부 호숫가에 있어요.
+w munsi | 밑에 · 아래 | 밑에
+e Injangwe iri munsi y'ameza. | 고양이가 책상 밑에 있어요.
+e Twicaye munsi y'igiti. | 나무 밑에 앉았어요.
+e Shyira inkweto munsi y'uburiri. | 신발을 침대 밑에 놓아요.
+tp 뒤에 명사가 오면 iruhande rwa, hagati ya, munsi ya, ku nkombe ya처럼 '~의'가 붙어요.
+tp munsi(밑) ↔ hejuru(위, → 2-01-05).
+pr Hagati | 가운데 || Iruhande | 옆
+pr Munsi | 밑 || Hejuru | 위
+dl 민준 | Telefoni yanjye iri he? | 제 휴대폰 어디 있어요?
+dl 케자 | Reba munsi y'ameza. | 책상 밑을 봐요.
+dl 민준 | Oya. Ahubwo iri iruhande rw'igitabo! | 아니네요. 책 옆에 있어요!
+dl 케자 | Ni byiza! | 잘됐네요!
+sm Hoteli iri ku nkombe y'ikiyaga, iruhande rw'isoko, hagati y'ibiti. | 호텔은 호숫가, 시장 옆, 나무들 사이에 있어요.
+qz '옆'은? | iruhande
+
+@ 2-06-04 | 도시·시골·마을·군 | umujyi·icyaro | 사는 곳의 짝이에요.
+w umujyi | 도시 | 도시
+e Kigali ni umujyi mwiza. | 키갈리는 아름다운 도시예요.
+e Umujyi wa Kigali urasukuye. | 키갈리 시는 깨끗해요.
+e Mba mu mujyi. | 도시에 살아요.
+w icyaro | 시골 | 시골
+e Ababyeyi banjye baba mu cyaro. | 부모님은 시골에 사세요.
+e Mu cyaro hari inka nyinshi. | 시골에는 소가 많아요.
+e Nkunda ubuzima bwo mu cyaro. | 시골 생활을 좋아해요.
+w umudugudu | 마을 | 마을
+e Umudugudu wacu ni muto. | 우리 마을은 작아요.
+e Umukuru w'umudugudu. | 마을 대표.
+e Abantu bo mu mudugudu barafashanya. | 마을 사람들은 서로 도와요.
+w akarere | 군·구 (행정 구역) | 군; 구
+e Akarere ka Musanze. | 무산제 군.
+e Uri uwo mu kahe karere? | 어느 군 출신이에요?
+e U Rwanda rufite uturere mirongo itatu. | 르완다에는 군이 30개 있어요.
+tp 르완다 행정 구역: intara(주) → akarere(군·구) → umurenge(면) → akagari(리) → umudugudu(마을).
+tp Uri uwo mu kahe karere?(어느 군 출신이에요?)는 처음 만났을 때 자주 묻는 말이에요.
+pr Umujyi | 도시 || Icyaro | 시골
+pr Umudugudu | 마을 || Akarere | 군
+dl 케자 | Uri uwo mu kahe karere? | 어느 군 출신이에요?
+dl 무기샤 | Ndi uwo mu karere ka Nyanza. | 냔자 군이요.
+dl 케자 | Mu mujyi cyangwa mu cyaro? | 도시요, 시골이요?
+dl 무기샤 | Mu cyaro, mu mudugudu muto. | 시골 작은 마을이요.
+sm Ntuye mu mujyi wa Kigali, ariko ababyeyi banjye baba mu mudugudu wo mu cyaro. | 저는 키갈리 시에 살지만 부모님은 시골 마을에 사세요.
+qz '시골'은? | icyaro
+
+# P4-F | 공손 짝
+
+@ 2-07-01 | 너·여러분(공손) | u-·mu- | 한 사람에게도 공손하게 말할 때는 '여러분' 꼴(mu-)을 써요.
+w urakoze / murakoze | 고마워 / 고맙습니다 | 고마워; 고맙습니다
+e Urakoze, nshuti. | 고마워, 친구야.
+e Murakoze cyane, mwarimu. | 정말 고맙습니다, 선생님.
+e Murakoze mwese. | 모두 고맙습니다.
+w uraho / muraho | 안녕 / 안녕하세요 | 안녕; 안녕하세요
+e Uraho, Eric! | 안녕, 에릭!
+e Muraho, mubyeyi. | 안녕하세요, 어머니.
+e Muraho neza? | 안녕하세요?
+w wakoze / mwakoze | 잘했어 / 잘하셨어요 · 고마워요 | 잘했어; 고마워요
+e Wakoze neza! | 잘했어!
+e Mwakoze cyane! | 정말 고마워요!
+e Mwakoze kuza. | 와 주셔서 고마워요.
+w ngwino / nimuze | 와 / 오세요 | 와; 오세요
+e Ngwino hano. | 여기 와.
+e Nimuze turye. | 와서 드세요.
+e Nimuze mwese! | 모두 오세요!
+tp 친구나 아이에게는 u-(너), 어른·처음 보는 사람·여러 명에게는 mu-(여러분)를 써요. 한국어 반말·존댓말과 비슷해요.
+tp Mwakoze는 '잘하셨어요'이면서 '고마워요'로도 자주 써요.
+pr Urakoze | 고마워 || Murakoze | 고맙습니다
+pr Uraho | 안녕 || Muraho | 안녕하세요
+dl 학생 | Muraho, mwarimu! | 안녕하세요, 선생님!
+dl 선생님 | Uraho, Eric! Amakuru? | 안녕, 에릭! 잘 지내?
+dl 학생 | Ni meza. Murakoze. | 잘 지내요. 고맙습니다.
+dl 선생님 | Urakoze. Icara. | 고마워. 앉아.
+sm Abana bavuga "Muraho" ku bantu bakuru, ariko bakavuga "Uraho" ku nshuti zabo. | 아이들은 어른에게는 공손하게, 친구에게는 편하게 인사해요.
+qz '안녕하세요(공손)'는? | muraho
+
+@ 2-07-02 | 해 줘·해 주세요 | mpa·mumpe | 부탁을 부드럽게 하는 짝이에요.
+w mpa | 줘 | 줘
+e Mpa amazi. | 물 줘.
+e Mpa ikaramu yawe. | 볼펜 줘.
+e Mpa akanya gato. | 잠깐만 시간 줘.
+w mumpe | 주세요 (공손) | 주세요
+e Mumpe amazi, nyabuneka. | 물 좀 주세요.
+e Mumpe inyemezabuguzi. | 영수증 주세요.
+e Mumpe icyayi. | 차 주세요.
+w ndagusaba | 부탁해 · 부탁드려요 | 부탁해요
+e Ndagusaba, mfasha. | 부탁이야, 도와줘.
+e Ndabasaba kuza kare. | 일찍 와 주시길 부탁드려요.
+e Ndagusaba imbabazi. | 용서를 구해요.
+w byakunda | 괜찮으시면 · 가능하면 | 괜찮으시면
+e Byakunda ko mumfasha? | 괜찮으시면 도와주실래요?
+e Niba byakunda, uze ejo. | 가능하면 내일 와요.
+e Byakunda ko nicara hano? | 여기 앉아도 될까요?
+tp 명령 Mpa(줘) → 공손 Mumpe(주세요) → 더 공손 Mumpe…, nyabuneka(주시겠어요, 부디).
+tp Byakunda ko…?는 '~해도 될까요?, ~해 주실 수 있을까요?'처럼 아주 부드러운 부탁이에요.
+pr Mpa | 줘 || Mumpe | 주세요
+pr Ndagusaba | 부탁해 || Ndabasaba | 부탁드려요
+dl 수아 | Mumpe icyayi, nyabuneka. | 차 좀 주세요.
+dl 직원 | Kirimo isukari? | 설탕 넣을까요?
+dl 수아 | Oya. Byakunda ko mumpa n'amata? | 아니요. 괜찮으시면 우유도 주실래요?
+dl 직원 | Yego rwose. | 그럼요.
+sm Aho kuvuga "Mpa", vuga "Mumpe, nyabuneka" ku bantu bakuru. | 어른에게는 "줘" 대신 "주세요"라고 말해요.
+qz '주세요(공손)'는? | mumpe
+
+@ 2-07-03 | 시간대 인사 짝 | mwaramutse·mwiriwe·muramuke | 때에 따라 바뀌는 인사의 짝이에요.
+w mwaramutse | 좋은 아침 (아침 인사) | 좋은 아침
+e Mwaramutse, mwarimu! | 안녕하세요, 선생님! (아침)
+e Mwaramutse neza? | 아침 잘 맞으셨어요?
+e Waramutse, Keza! | 안녕, 케자! (아침)
+w mwiriwe | 안녕하세요 (낮·저녁 인사) | 안녕하세요(오후)
+e Mwiriwe! | 안녕하세요! (오후)
+e Mwiriwe neza? | 오후 잘 보내셨어요?
+e Wiriwe, Eric! | 안녕, 에릭! (오후)
+w muramuke | 안녕히 주무세요 · 잘 자요 | 잘 자요
+e Muramuke! | 안녕히 주무세요!
+e Uramuke neza. | 잘 자.
+e Muramuke, tuzabonana ejo. | 잘 자요, 내일 봐요.
+w mwirirwe | 좋은 하루 보내세요 (헤어질 때) | 좋은 하루 보내세요
+e Mwirirwe! | 좋은 하루 보내세요!
+e Wirirwe neza. | 좋은 하루 보내.
+e Mwirirwe, murakoze. | 좋은 하루 보내세요, 고마워요.
+tp 만날 때: Mwaramutse(아침) / Mwiriwe(낮·저녁). 헤어질 때: Mwirirwe(좋은 하루), Muramuke(잘 자요).
+tp 한 사람에게 편하게 말할 때는 mu-를 빼고 Waramutse, Wiriwe, Uramuke예요.
+pr Mwaramutse | 좋은 아침 || Mwiriwe | 안녕하세요(오후)
+pr Mwirirwe | 좋은 하루 || Muramuke | 잘 자요
+dl 직원 | Mwaramutse! | 좋은 아침이에요!
+dl 민준 | Mwaramutse neza. Amakuru? | 좋은 아침이에요. 잘 지내요?
+dl 직원 | Ni meza. Mwirirwe! | 잘 지내요. 좋은 하루 보내세요!
+dl 민준 | Namwe! | 당신도요!
+sm Mu gitondo tuvuga "Mwaramutse", nyuma ya saa sita "Mwiriwe", nijoro "Muramuke". | 아침에는 아침 인사, 낮 12시가 지나면 오후 인사, 밤에는 잘 자라는 인사를 해요.
+qz '잘 자요'는? | muramuke
+x bakuru | 손위 형제들, 어른들
+x abuzukuru | 손주들
+x intara | 주(지방)
+x uwo | 그 사람
+x uraho | 안녕
+x yari | ~였다
+x kaminuza | 대학교
+x araje | 온다
+x bazashyingiranwa | 그들은 결혼할 것이다
+x abakiriya | 고객들
+x umukecuru | 할머니(나이 든 여자)
+x nageze | 나는 도착했다
+x twahuye | 우리는 만났다
+x nzasura | 나는 방문할 것이다
+x ubwa | ~번째
+x nzataha | 나는 돌아갈 것이다
+x zihari | 있는
+x akagera | 아카게라(국립공원)
+x ziri | 있다
+x twicaye | 우리는 앉았다
+x kahe | 어느
+x ndabasaba | 여러분께 부탁드려요
+x abagabo | 남자들
+x murima | 밭
+x umunyarwandakazi | 르완다 여자
+x bagurisha | 그들은 판다
+x irindwi | 일곱(살)
+x arasinziriye | 자고 있다
+x aracyariho | 아직 살아 계신다
+x imuhe | 그에게 주시기를
+x batandatu | 여섯 명
+x bagakunda | 그리고 사랑한다
+x amerika | 미국
+x basaza | 형제들(여자 기준)
+x yanyigishije | 나에게 가르쳐 줬다
+x haje | 왔다
+x yambaye | 입었다
+x umushanana | 우무샤나나(전통 옷)
+x yazanye | 가져왔다
+x bakira | 맞이한다
+x twashyingiranwe | 우리는 결혼했다
+x irembo | 대문(청혼)
+x no | 그리고
+x uzaze | 와라
+x azatanga | 줄 것이다
+x umwami | 왕
+x mwakire | 맞이하세요
+x igabanywa | 할인
+x kuvugana | 이야기하다
+x nagufasha | 내가 도와줄까
+x yakiriye | 맞이했다
+x yakira | 맞이한다
+x kubonana | 만나다
+x akeneye | 필요하다
+x azaguha | 너에게 줄 것이다
+x urushinge | 주사, 바늘
+x umuforomokazi | 여자 간호사
+x abaforomo | 간호사들
+x banvuye | 나를 치료했다
+x bivura | 치료한다
+x ukurikiyeho | 다음 차례인
+x araza | 온다
+x bavura | 치료한다
+x bagakira | 그리고 낫는다
+x nyanshuti | 진짜 친구
+x abaturanyi | 이웃들
+x bacu | 우리의
+x beza | 좋은
+x bakundana | 서로 사랑한다
+x ntiba | ~이 되지 않는다
+x bicara | 앉는다
+x wubahe | 공경해라
+x rurasinziriye | 자고 있다
+x rurarira | 운다
+x rukunda | 좋아한다
+x rwiga | 배운다
+x ikoranabuhanga | 정보기술
+x yicaye | 앉아 있다
+x abasaza | 노인들
+x baganira | 이야기한다
+x rwawe | 너의
+x mukecuru | 할머니(부를 때)
+x n'abasaza | 그리고 노인들
+x hazaba | ~일 것이다
+x wageze | 너는 도착했다
+x uzakora | 너는 할 것이다
+x nabaga | 나는 살았었다
+x turakina | 우리는 논다
+x ndaza | 내가 간다
+x nsoma | 나는 읽는다
+x twarabyinnye | 우리는 춤췄다
+x uza | 네가 온다
+x kenya | 케냐
+x uzajya | 너는 갈 것이다
+x turakaraba | 우리는 손을 씻는다
+x kiza | 좋은
+x nzarangiza | 나는 마칠 것이다
+x muhire | 복된
+x mwavuze | 여러분은 말했다
+x twarabihinduye | 우리는 그것을 바꿨다
+x nzigisha | 나는 가르칠 것이다
+x aseka | 웃는다
+x duhura | 우리는 만난다
+x gisenyi | 기세니
+x uganda | 우간다
+x inzoga | 술
+x atinda | 늦는다
+x mbirya | 나는 그것을 먹는다
+x twaraziranye | 우리는 서로 알았다
+x igiye | 가려고 한다
+x zatindaga | 늦곤 했다
+x zigenda | 간다
+x burundi | 부룬디
+x rirasira | 해가 뜬다
+x rirenga | 해가 진다
+x heza | 좋은
+x afurika | 아프리카
+x ntuhagarare | 서지 마라
+x ahubwo | 오히려
+x urasukuye | 깨끗하다
+x mba | 나는 산다
+x umukuru | 대표, 어른
+x uturere | 군들
+x nyanza | 냔자
+x wo | ~의
+x zabo | 그들의
+x akanya | 잠깐
+x inyemezabuguzi | 영수증
+x imbabazi | 용서
+x mumfasha | 저를 도와주시다
+x nicara | 내가 앉다
+x mumpa | 저에게 주시다
+x wiriwe | 안녕(오후)
+x uramuke | 잘 자
+x wirirwe | 좋은 하루 보내

@@ -1,0 +1,215 @@
+# P5-A | 학교
+rd annyeong | 안녕
+
+@ 1-06-01 | 학교 사람·장소 | ishuri·umwarimu | 학교에서 만나는 사람과 장소예요.
+w ishuri | 학교 · 교실 | 학교; 교실
+e Ishuri ryacu ni rinini. | 우리 학교는 커요.
+e Njya ku ishuri saa moya. | 7시에 학교에 가요.
+w umwarimu | 선생님 | 선생님
+e Umwarimu wacu ni mwiza. | 우리 선생님은 좋으세요.
+e Umwarimu arigisha Igikoreya. | 선생님이 한국어를 가르쳐요.
+w umunyeshuri | 학생 | 학생
+e Ndi umunyeshuri w'umwaka wa kabiri. | 저는 2학년 학생이에요.
+e Abanyeshuri barakina hanze. | 학생들이 밖에서 놀아요.
+w umuyobozi w'ishuri | 교장 선생님 · 학교의 지도자 | 교장 선생님
+e Umuyobozi w'ishuri ari mu biro. | 교장 선생님은 사무실에 계세요.
+e Umuyobozi w'ishuri yatuvugishije. | 교장 선생님이 우리에게 말씀하셨어요.
+w isomero | 도서관 | 도서관
+e Isomero rifunguye kugeza saa kumi. | 도서관은 4시까지 열어요.
+e Ndiga mu isomero. | 도서관에서 공부해요.
+w ikibuga | 운동장 | 운동장
+e Abana bakinira ku kibuga. | 아이들은 운동장에서 놀아요.
+e Ikibuga cy'ishuri ni kinini. | 학교 운동장이 넓어요.
+w ibiro | 사무실 | 사무실
+e Ibiro by'abarimu biri he? | 교무실이 어디예요?
+e Ngiye mu biro. | 사무실에 가요.
+w inshuti | 친구 | 친구
+e Keza ni inshuti yanjye. | 케자는 제 친구예요.
+e Mfite inshuti nyinshi ku ishuri. | 학교에 친구가 많아요.
+tp 사람 낱말은 umu-(한 명) ↔ aba-(여러 명)으로 바뀌어요: umwarimu → abarimu(선생님들), umunyeshuri → abanyeshuri(학생들).
+tp '우리 ~'는 낱말 뒤에 붙어요: ishuri ryacu(우리 학교), umwarimu wacu(우리 선생님).
+pr Umwarimu | 선생님 || Abarimu | 선생님들
+pr Umunyeshuri | 학생 || Abanyeshuri | 학생들
+dl 민준 | Muraho! Ndi umwarimu mushya w'Igikoreya. | 안녕하세요! 새로 온 한국어 선생님이에요.
+dl 하비마나 | Murakaza neza! Ndi umuyobozi w'ishuri. | 환영합니다! 저는 교장이에요.
+dl 민준 | Ishuri rifite abanyeshuri bangahe? | 학교에 학생이 몇 명이에요?
+dl 하비마나 | Rifite abanyeshuri magana atanu. | 학생이 500명이에요.
+sm Mu ishuri ryacu hari abarimu makumyabiri n'abanyeshuri magana atanu. | 우리 학교에는 선생님 20명과 학생 500명이 있어요.
+qz '학생'은? | umunyeshuri
+
+@ 1-06-02 | 교실 물건 | ikaramu·ikaye | 교실에서 쓰는 물건이에요.
+w ikaramu | 펜 · 볼펜 | 펜; 볼펜
+e Ntije ikaramu, nyabuneka. | 볼펜 좀 빌려주세요.
+e Ikaramu yanjye yabuze. | 제 볼펜이 없어졌어요.
+w ikaye | 공책 | 공책
+e Andika mu ikaye yawe. | 공책에 써요.
+e Ikaye yanjye yuzuye. | 공책이 꽉 찼어요.
+w igitabo | 책 | 책
+e Fungura igitabo cyawe. | 책을 펴요.
+e Iki gitabo ni icy'isomero. | 이 책은 도서관 책이에요.
+w ikibaho | 칠판 | 칠판
+e Reba ku kibaho. | 칠판을 봐요.
+e Mwarimu yanditse ku kibaho. | 선생님이 칠판에 썼어요.
+w ingwa | 분필 | 분필
+e Ingwa yashize. | 분필이 다 떨어졌어요.
+e Mpa ingwa, nyabuneka. | 분필 좀 주세요.
+w intebe | 의자 | 의자
+e Icara ku ntebe yawe. | 자기 의자에 앉아요.
+e Iyi ntebe yaravunitse. | 이 의자가 부서졌어요.
+w ameza | 책상 · 탁자 | 책상; 탁자
+e Shyira igitabo ku meza. | 책을 책상 위에 놓아요.
+e Ameza ni manini. | 책상이 커요.
+w igikapu | 가방 · 책가방 | 가방
+e Igikapu cyanjye kiraremereye. | 제 가방이 무거워요.
+e Shyira ibitabo mu gikapu. | 책을 가방에 넣어요.
+tp ikaramu는 펜·볼펜이에요. 연필은 ikaramu y'igiti(나무 펜)라고 해요.
+tp '~에(위에)'는 ku: ku kibaho(칠판에), ku meza(책상 위에). '~ 안에'는 mu: mu gikapu(가방 안에).
+pr Ikaramu | 볼펜 || Ikaye | 공책
+pr Intebe | 의자 || Ameza | 책상
+dl 학생 | Mwarimu, nibagiwe ikaramu. | 선생님, 볼펜을 잊어버렸어요.
+dl 선생님 | Dore ikaramu. Fungura ikaye yawe. | 여기 볼펜. 공책을 펴요.
+dl 학생 | Murakoze, mwarimu. | 고맙습니다, 선생님.
+dl 선생님 | Andika ibiri ku kibaho. | 칠판에 있는 것을 써요.
+sm Shyira igitabo, ikaye n'ikaramu ku meza. | 책, 공책, 볼펜을 책상 위에 놓아요.
+qz '칠판'은? | ikibaho
+
+@ 1-06-03 | 칭찬·격려 | Wakoze neza·Komereza aho | 학생을 칭찬하고 힘을 주는 말이에요.
+w Wakoze neza | 잘했어요 | 잘했어요
+e Wakoze neza cyane! | 아주 잘했어요!
+e Wakoze neza uyu munsi. | 오늘 잘했어요.
+w Ni byiza cyane | 아주 좋아요 | 아주 좋아요
+e Ni byiza cyane, Keza! | 아주 좋아요, 케자!
+e Igisubizo cyawe ni cyiza cyane. | 네 대답이 아주 좋아요.
+w Komereza aho | 계속 그렇게 해요 · 거기서 계속 | 계속 그렇게 해요
+e Komereza aho, uriga neza. | 계속 그렇게 해요, 공부 잘하고 있어요.
+e Ni byiza, komereza aho! | 좋아요, 계속 그렇게 해요!
+w Urashoboye | 넌 할 수 있어 | 할 수 있어요
+e Ntugire ubwoba, urashoboye. | 걱정 마, 넌 할 수 있어.
+e Urashoboye, ongera ugerageze. | 할 수 있어, 다시 해 봐.
+w Gerageza | 해 봐요 | 해 봐요
+e Gerageza gusoma. | 읽어 봐요.
+e Gerageza nanone. | 다시 해 봐요.
+w Ntucike intege | 포기하지 마요 · 힘을 잃지 마 | 포기하지 마요
+e Ntucike intege, uzatsinda. | 포기하지 마, 합격할 거야.
+e Byari bigoye ariko ntucike intege. | 어려웠지만 포기하지 마.
+w Mwakoze neza | (여러분) 잘했어요 | 여러분 잘했어요
+e Bana, mwakoze neza! | 얘들아, 잘했어요!
+e Mwakoze neza cyane uyu munsi. | 여러분 오늘 아주 잘했어요.
+tp 한 명에게는 Wakoze neza, 여러 명에게는 Mwakoze neza예요. 앞의 W(너)와 Mw(너희)만 달라요.
+tp Komereza aho는 '거기서 계속해'라는 뜻으로, 잘하고 있을 때 하는 칭찬이에요.
+pr Wakoze neza. | (너) 잘했어. || Mwakoze neza. | (여러분) 잘했어요.
+pr Urashoboye. | 넌 할 수 있어. || Ntucike intege. | 포기하지 마.
+dl 학생 | Mwarimu, biragoye. | 선생님, 어려워요.
+dl 선생님 | Gerageza, urashoboye. | 해 봐, 넌 할 수 있어.
+dl 학생 | Ni uku? | 이렇게요?
+dl 선생님 | Yego! Wakoze neza cyane! | 네! 아주 잘했어요!
+sm Wakoze neza — komereza aho, kandi ntucike intege! | 잘했어요. 계속 그렇게 하고, 포기하지 마요!
+qz '잘했어요'는? | Wakoze neza
+
+@ 1-06-04 | 교실 지시말 | Icara·Andika | 수업에서 선생님이 자주 하는 짧은 지시말이에요.
+w Icara | 앉아요 | 앉아요
+e Icara, nyabuneka. | 앉아요.
+e Mwicare mwese. | 모두 앉아요.
+w Haguruka | 일어나요 | 일어나요
+e Haguruka, usome. | 일어나서 읽어요.
+e Muhaguruke mwese. | 모두 일어나요.
+w Ceceka | 조용히 해요 | 조용히 해요
+e Ceceka gato. | 잠깐 조용히 해요.
+e Bana, nimuceceke. | 얘들아, 조용히 해.
+w Tega amatwi | 잘 들어요 · 귀를 기울여라 | 잘 들어요
+e Tega amatwi neza. | 잘 들어요.
+e Mutege amatwi, mwese. | 모두 잘 들어요.
+w Reba | 봐요 | 봐요
+e Reba hano. | 여기 봐요.
+e Reba ku kibaho. | 칠판을 봐요.
+w Andika | 써요 | 써요
+e Andika izina ryawe. | 이름을 써요.
+e Andika iri jambo. | 이 낱말을 써요.
+w Soma | 읽어요 | 읽어요
+e Soma interuro ya mbere. | 첫 번째 문장을 읽어요.
+e Soma n'ijwi riranguruye. | 큰 소리로 읽어요.
+w Subiramo | 따라 해요 · 다시 해요 | 따라 해요; 반복해요
+e Subiramo nyuma yanjye. | 저를 따라 해요.
+e Subiramo kabiri. | 두 번 반복해요.
+tp 한 명에게는 동사 그대로(Icara 앉아), 여러 명에게는 Mu-/Mw-를 붙이고 끝을 -e로 바꿔요: Mwicare(앉아요), Muhaguruke(일어나요).
+tp Tega amatwi는 '귀를 기울여라'예요. 수업 시작할 때 많이 써요.
+pr Icara. | 앉아요. || Haguruka. | 일어나요.
+pr Soma. | 읽어요. || Andika. | 써요.
+dl 선생님 | Mwaramutse bana! Mwicare. | 얘들아, 좋은 아침! 앉아요.
+dl 학생 | Mwaramutse mwarimu! | 좋은 아침이에요, 선생님!
+dl 선생님 | Mutege amatwi. Subiramo: annyeong! | 잘 들어요. 따라 해요: 안녕!
+dl 학생 | Annyeong! | 안녕!
+sm Mwicare, mutege amatwi, hanyuma musome ku kibaho. | 앉아서 잘 듣고, 그다음에 칠판을 읽어요.
+qz '앉아요'는? | Icara
+x ryacu | 우리의
+x rinini | 큰
+x saa moya | 7시
+x wacu | 우리의
+x mwiza | 좋은, 예쁜
+x arigisha | 그는 가르친다
+x w'umwaka | 해의, 학년의
+x barakina | 그들은 논다
+x hanze | 밖
+x umuyobozi | 지도자
+x w'ishuri | 학교의
+x biro | 사무실
+x mu biro | 사무실에
+x yatuvugishije | 그가 우리에게 말했다
+x rifunguye | 열려 있다
+x bakinira | 그들은 ~에서 논다
+x cy'ishuri | 학교의
+x by'abarimu | 선생님들의
+x biri | (그것들이) 있다
+x yanjye | 나의
+x abarimu | 선생님들
+x mushya | 새로운
+x w'igikoreya | 한국어의
+x murakaza neza | 환영해요
+x n'abanyeshuri | 그리고 학생들
+x ntije | 나에게 빌려줘
+x yabuze | 없어졌다
+x mu ikaye | 공책에
+x yuzuye | 꽉 찼다
+x fungura | 열어라, 펴라
+x cyawe | 너의
+x icy'isomero | 도서관의 것
+x yanditse | 그가 썼다
+x kibaho | 칠판
+x yashize | 다 떨어졌다
+x ku ntebe | 의자에
+x yaravunitse | 부서졌다
+x shyira | 놓아라, 넣어라
+x ku meza | 책상 위에
+x manini | 큰
+x cyanjye | 나의
+x kiraremereye | 무겁다
+x mu gikapu | 가방 안에
+x nibagiwe | 나는 잊었다
+x ibiri | ~에 있는 것들
+x n'ikaramu | 그리고 볼펜
+x igisubizo | 대답
+x cyiza | 좋은
+x uriga | 너는 공부한다
+x ntugire | ~하지 마
+x gusoma | 읽다
+x nanone | 다시, 또
+x uzatsinda | 너는 이길(합격할) 것이다
+x byari | 그것은 ~였다
+x bigoye | 어려운
+x biragoye | 어렵다
+x uku | 이렇게
+x mwicare | (여러분) 앉아요
+x mwese | 여러분 모두
+x usome | 네가 읽어라
+x muhaguruke | (여러분) 일어나요
+x nimuceceke | (여러분) 조용히 해
+x mutege | (여러분) 기울여라
+x amatwi | 귀들
+x izina | 이름
+x ryawe | 너의
+x interuro | 문장
+x n'ijwi | 목소리로
+x riranguruye | 큰(소리)
+x nyuma yanjye | 내 뒤에, 나를 따라
+x annyeong | 안녕(한국어)
+x musome | (여러분) 읽어라

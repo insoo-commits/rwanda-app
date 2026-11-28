@@ -1,0 +1,547 @@
+// 닮은말 더하기 (v1.1): 비슷한 동사
+# P3-B | 비슷한 동사 더
+
+@ 3-02-01 | '입다·벗다' | kwambara·gukuramo | 옷·신발·모자 모두 kwambara 하나로 '입다·신다·쓰다'예요.
+w kwambara | 입다 · 신다 · 쓰다 | 입다; 신다; 쓰다
+e Ambara ikoti, birakonje. | 추우니까 재킷 입어요.
+e Nambaye inkweto nshya. | 새 신발을 신었어요.
+e Ambara ingofero ku zuba. | 햇볕에선 모자를 써요.
+w gukuramo | 벗다 · 꺼내다 | 벗다; 꺼내다
+e Kuramo inkweto mbere yo kwinjira. | 들어가기 전에 신발을 벗어요.
+e Yakuyemo ikoti. | 그는 재킷을 벗었어요.
+e Kuramo ikaye mu gikapu. | 가방에서 공책을 꺼내요.
+w imyenda | 옷 (여러 벌) | 옷
+e Imyenda yanjye iri mu gikapu. | 제 옷은 가방에 있어요.
+e Ndashaka kugura imyenda. | 옷을 사고 싶어요.
+e Imyenda y'ishuri ni ubururu. | 교복은 파란색이에요.
+w ingofero | 모자 | 모자
+e Ingofero yanjye yatakaye. | 모자를 잃어버렸어요.
+e Iyi ngofero ni nziza. | 이 모자 예뻐요.
+e Abana bambara ingofero ku zuba. | 아이들은 햇볕에서 모자를 써요.
+tp 한국어는 옷은 '입다', 신발은 '신다', 모자는 '쓰다'로 나누지만, 르완다어는 모두 kwambara예요.
+tp 반대로 벗을 때는 모두 gukuramo예요. gukuramo는 '(안에서) 꺼내다'라는 뜻도 있어요.
+pr Ambara | 입어요 || Kuramo | 벗어요
+pr Imyenda | 옷 || Ingofero | 모자
+dl 엄마 | Ambara ikoti, hanze harakonje. | 재킷 입어, 밖이 추워.
+dl 아이 | Na ingofero? | 모자도요?
+dl 엄마 | Yego. Ugeze mu ishuri, ukuremo. | 응. 교실에 들어가면 벗어.
+dl 아이 | Sawa, mama. | 네, 엄마.
+sm Nambaye imyenda mishya n'ingofero, ngeze mu rugo ndabikuramo. | 새 옷을 입고 모자를 썼다가 집에 와서 벗었어요.
+qz '벗다'는? | gukuramo
+
+@ 3-02-02 | '타다·내리다' | gufata·kuva | 탈것을 타고 내릴 때 쓰는 말이에요.
+w gufata bisi | 버스를 타다 | 버스 타다
+e Mfata bisi saa moya. | 7시에 버스를 타요.
+e Fata bisi ijya i Nyabugogo. | 냐부고고 가는 버스를 타요.
+e Twafashe moto. | 우리는 모토를 탔어요.
+w kuva muri | ~에서 내리다 · ~에서 나오다 | 내리다
+e Mvuye muri bisi. | 버스에서 내렸어요.
+e Va mu modoka hano. | 여기서 차에서 내려요.
+e Tuzava muri bisi i Huye. | 후예에서 버스에서 내릴 거예요.
+w kugendera kuri | ~를 타고 가다 | 타고 가다
+e Ngendera kuri moto. | 모토를 타고 가요.
+e Agendera ku igare. | 그는 자전거를 타고 가요.
+e Ntugendere kuri moto nta ngofero. | 헬멧 없이 모토 타지 마요.
+w gutwara | 운전하다 · 태우다 · 나르다 | 운전하다; 나르다
+e Utwara imodoka? | 차 운전해요?
+e Ntwara abana ku ishuri. | 아이들을 학교에 데려다줘요.
+e Iyi moto itwara abantu babiri. | 이 모토는 두 명을 태워요.
+tp '타다'는 탈것을 잡는다는 뜻으로 gufata(잡다)를 써요: gufata bisi, gufata moto.
+tp 르완다 모토 택시는 운전자와 손님 모두 헬멧(ingofero)을 써야 해요.
+pr Gufata bisi | 버스 타다 || Kuva muri bisi | 버스에서 내리다
+pr Gutwara | 운전하다 || Kugendera kuri | 타고 가다
+dl 민준 | Iyi bisi ijya i Huye? | 이 버스 후예 가요?
+dl 운전사 | Yego. Injira. | 네. 타세요.
+dl 민준 | Nzava he? | 어디서 내려요?
+dl 운전사 | Nzakubwira tugeze. | 도착하면 말해 줄게요.
+sm Mfata bisi i Kigali, nkava muri bisi i Huye, hanyuma ngendera kuri moto. | 키갈리에서 버스를 타고 후예에서 내려서 모토를 타고 가요.
+qz '운전하다'는? | gutwara
+
+@ 3-02-03 | '기다리다·만나다·방문하다' | gutegereza·guhura·gusura | 사람을 기다리고 만나는 말이에요.
+w gutegereza | 기다리다 | 기다리다
+e Tegereza gato. | 잠깐 기다려요.
+e Ndagutegereje. | 기다리고 있어요.
+e Twategereje bisi isaha yose. | 버스를 한 시간이나 기다렸어요.
+w guhura | 만나다 (마주치다) | 만나다
+e Twahuriye ku isoko. | 시장에서 마주쳤어요.
+e Tuzahura ejo. | 내일 만나요.
+e Nishimiye guhura nawe. | 만나서 반가워요.
+w kubonana | 만나다 (약속하고 보다) | 만나다
+e Tuzabonana saa kumi. | 4시에 만나요.
+e Ndashaka kubonana n'umuyobozi. | 교장 선생님을 만나고 싶어요.
+e Tuzabonana! | 또 봐요!
+w gusura | 방문하다 · 찾아가다 | 방문하다
+e Nzagusura ku cyumweru. | 일요일에 놀러 갈게요.
+e Twasuye ingagi. | 고릴라를 보러 갔어요.
+e Ndashaka gusura Ikiyaga cya Kivu. | 키부 호수에 가 보고 싶어요.
+tp guhura는 '마주치다·만나다', kubonana는 '서로 보다(약속하고 만나다)'예요. 헤어질 때 Tuzabonana(또 봐요)를 많이 써요.
+tp 기다리게 할 때는 Tegereza gato(잠깐만요), 공손하게는 Mutegereze gato.
+pr Gutegereza | 기다리다 || Guhura | 만나다
+pr Kubonana | 약속하고 만나다 || Gusura | 방문하다
+dl 케자 | Uri he? Ndagutegereje. | 어디예요? 기다리고 있어요.
+dl 수아 | Mbabarira, ndaje. Iminota itanu. | 미안해요, 가고 있어요. 5분이요.
+dl 케자 | Sawa, tuzahurira ku muryango. | 좋아요, 입구에서 만나요.
+dl 수아 | Murakoze kunyihanganira. | 기다려 줘서 고마워요.
+sm Nategereje inshuti yanjye, turahura, hanyuma dusura ingoro ndangamurage. | 친구를 기다렸다가 만나서 박물관을 방문했어요.
+qz '방문하다'는? | gusura
+
+@ 3-02-04 | '돈 내다·빌리다·빌려주다' | kwishyura·gutira·kuguriza | 돈과 물건을 주고받는 말이에요.
+w kwishyura | (돈을) 내다 · 계산하다 | 계산하다
+e Ndashaka kwishyura. | 계산할게요.
+e Nishyura na MoMo. | MoMo로 낼게요.
+e Wishyuye angahe? | 얼마 냈어요?
+w kuguriza | 빌려주다 (돈) | 빌려주다
+e Wanguriza amafaranga? | 돈 좀 빌려줄래요?
+e Namugurije ibihumbi bitanu. | 그에게 5천 프랑을 빌려줬어요.
+e Banki iguriza abantu. | 은행은 사람들에게 돈을 빌려줘요.
+w gutira | 빌리다 (물건) | 빌리다
+e Nshobora gutira ikaramu yawe? | 볼펜 빌려도 돼요?
+e Natiye igitabo mu isomero. | 도서관에서 책을 빌렸어요.
+e Natiye igare rya Eric. | 에릭의 자전거를 빌렸어요.
+w umwenda | 빚 · 옷감 | 빚; 옷감
+e Mfite umwenda. | 빚이 있어요.
+e Nishyuye umwenda wanjye. | 빚을 갚았어요.
+e Uyu mwenda ni mwiza. | 이 천은 예뻐요.
+tp 물건은 gutira(빌리다) ↔ gutiza(빌려주다), 돈은 kuguza(빌리다) ↔ kuguriza(빌려주다)예요.
+tp umwenda는 '천·옷'이면서 '빚'이에요. 여러 벌 옷은 imyenda예요.
+pr Kwishyura | 내다 || Kuguriza | 빌려주다
+pr Gutira | 빌리다 || Umwenda | 빚
+dl 수아 | Nshobora gutira ikaramu yawe? | 볼펜 빌려도 돼요?
+dl 케자 | Yego, dore. | 네, 여기요.
+dl 수아 | Nzayigarura nyuma y'isomo. | 수업 끝나고 돌려줄게요.
+dl 케자 | Nta kibazo. | 괜찮아요.
+sm Natiye igitabo, ngurizwa amafaranga n'inshuti, hanyuma nishyura umwenda wanjye. | 책을 빌리고, 친구에게 돈을 빌려서, 빚을 갚았어요.
+qz '(물건을) 빌리다'는? | gutira
+
+@ 3-02-05 | '찾다·발견하다·잃다' | gushaka·kubona·gutakaza | 물건을 찾고 잃는 말이에요.
+w gushaka | 찾다 · 원하다 | 찾다; 원하다
+e Ndashaka telefoni yanjye. | 휴대폰을 찾고 있어요.
+e Urashaka iki? | 뭘 찾아요?
+e Ndashaka akazi. | 일자리를 찾아요.
+w kubona | 찾아내다 · 보다 · 얻다 | 찾다; 보다
+e Nabonye urufunguzo! | 열쇠 찾았어요!
+e Sinabonye igikapu cyanjye. | 가방을 못 찾았어요.
+e Nabonye akazi. | 일자리를 구했어요.
+w gutakaza | 잃어버리다 | 잃다
+e Natakaje pasiporo yanjye. | 여권을 잃어버렸어요.
+e Ntutakaze itike. | 표 잃어버리지 마요.
+e Yatakaje amafaranga. | 그는 돈을 잃어버렸어요.
+w kubura | 없어지다 · 모자라다 | 없어지다; 없다
+e Urufunguzo rwabuze. | 열쇠가 없어졌어요.
+e Twabuze amazi. | 물이 떨어졌어요.
+e Nabuze icyo mvuga. | 할 말이 없었어요.
+tp gushaka는 '원하다'와 '찾다' 둘 다예요. Ndashaka urufunguzo = 열쇠를 찾아요(원해요).
+tp 물건이 없어졌을 때는 ○○ rwabuze/yabuze(○○이 없어졌어요)라고 해요.
+pr Gushaka | 찾다 || Kubona | 찾아내다
+pr Gutakaza | 잃어버리다 || Kubura | 없어지다
+dl 민준 | Ndashaka urufunguzo rwanjye. | 열쇠를 찾고 있어요.
+dl 케자 | Wareba mu gikapu? | 가방 안 봤어요?
+dl 민준 | Narebye. Rwabuze. | 봤어요. 없어요.
+dl 케자 | Dore! Ruri ku meza. | 여기요! 책상 위에 있어요.
+sm Natakaje urufunguzo, ndarushaka hose, hanyuma ndarubona munsi y'ameza. | 열쇠를 잃어버려서 다 찾다가 책상 밑에서 찾았어요.
+qz '잃어버리다'는? | gutakaza
+
+@ 3-02-06 | '놓다·두다·버리다·줍다' | gushyira·kubika·guta | 물건을 두고 버리는 말이에요.
+w gushyira | 놓다 · 넣다 | 놓다; 넣다
+e Shyira igitabo ku meza. | 책을 책상에 놓아요.
+e Shyira isukari mu cyayi. | 차에 설탕을 넣어요.
+e Nashyize telefoni mu mufuka. | 휴대폰을 주머니에 넣었어요.
+w kubika | 보관하다 · 저장하다 | 보관하다
+e Bika amafaranga yawe neza. | 돈을 잘 보관해요.
+e Mbika ibiryo muri firigo. | 음식을 냉장고에 보관해요.
+e Bika iyi nyandiko. | 이 문서를 저장해요.
+w guta | 버리다 | 버리다
+e Ta imyanda mu gitebo. | 쓰레기는 쓰레기통에 버려요.
+e Ntuta imyanda mu muhanda. | 길에 쓰레기 버리지 마요.
+e Nataye impapuro zishaje. | 헌 종이를 버렸어요.
+w gutora | 줍다 · 고르다 · 투표하다 | 줍다; 고르다
+e Tora iyo kaye. | 그 공책 주워요.
+e Tora imwe. | 하나 골라요.
+e Abantu batora perezida. | 사람들이 대통령을 뽑아요.
+tp 르완다는 아주 깨끗한 나라예요. 비닐봉지(isashe)는 법으로 금지돼 있고, 쓰레기를 길에 버리면 안 돼요.
+tp gutora는 '줍다', '고르다', '투표하다' 모두예요.
+pr Gushyira | 놓다 || Kubika | 보관하다
+pr Guta | 버리다 || Gutora | 줍다
+dl 선생님 | Ni nde wataye uru rupapuro hano? | 누가 이 종이를 여기 버렸어요?
+dl 학생 | Si njye, mwarimu. | 제가 아니에요, 선생님.
+dl 선생님 | Rutore, uruteye mu gitebo. | 주워서 쓰레기통에 버려요.
+dl 학생 | Yego, mwarimu. | 네, 선생님.
+sm Tora imyanda, uyite mu gitebo, kandi ubike ibikoresho byawe neza. | 쓰레기를 주워서 쓰레기통에 버리고, 물건은 잘 보관해요.
+qz '버리다'는? | guta
+
+@ 3-02-07 | '씻다' | gukaraba·kwiyuhagira·kumesa·koza | 무엇을 씻는지에 따라 동사가 달라요.
+w gukaraba | (손·얼굴을) 씻다 | 손 씻다
+e Karaba intoki mbere yo kurya. | 먹기 전에 손 씻어요.
+e Nkaraba mu maso mu gitondo. | 아침에 세수해요.
+e Abana barakaraba. | 아이들이 손을 씻어요.
+w kwiyuhagira | 목욕하다 · 샤워하다 | 샤워하다
+e Ndiyuhagira buri munsi. | 매일 샤워해요.
+e Nshaka kwiyuhagira. | 샤워하고 싶어요.
+e Amazi ashyushye yo kwiyuhagira arahari? | 샤워할 뜨거운 물 있어요?
+w kumesa | 빨래하다 | 빨래하다
+e Ndamesa ku wa gatandatu. | 토요일에 빨래해요.
+e Mesa imyenda yawe. | 네 옷 빨아.
+e Yamesheje imyenda yose. | 그는 옷을 다 빨았어요.
+w koza | (그릇·이를) 씻다 · 닦다 | 닦다; 설거지하다
+e Oza amasahani. | 설거지해요.
+e Oza amenyo mbere yo kuryama. | 자기 전에 이를 닦아요.
+e Twogeje imodoka. | 차를 닦았어요.
+tp 손·얼굴 = gukaraba, 몸 전체 = kwiyuhagira, 옷 = kumesa, 그릇·이·차 = koza예요.
+tp kwiyuhagira의 -iy-는 '자기 자신을'이에요: kwi-yuhagira = 자기를 씻기다.
+pr Gukaraba | 손 씻다 || Kwiyuhagira | 샤워하다
+pr Kumesa | 빨래하다 || Koza amenyo | 이 닦다
+dl 홈스테이 엄마 | Wiyuhagiye? | 샤워했어?
+dl 수아 | Yego. Nshobora kumesa imyenda yanjye? | 네. 제 옷 빨아도 돼요?
+dl 홈스테이 엄마 | Yego, amazi ari hanze. | 그럼, 물은 밖에 있어.
+dl 수아 | Murakoze. Nyuma nzoza amasahani. | 고마워요. 나중에 설거지할게요.
+sm Mu gitondo ndiyuhagira, nkoza amenyo; ku wa gatandatu ndamesa. | 아침에는 샤워하고 이를 닦고, 토요일에는 빨래해요.
+qz '빨래하다'는? | kumesa
+
+@ 3-02-08 | '자르다' | guca·gukata·kogosha·gutema | 무엇을 어떻게 자르는지에 따라 달라요.
+w gukata | (칼로) 썰다 · 자르다 | 썰다
+e Kata inyanya. | 토마토를 썰어요.
+e Kata umugati mo kabiri. | 빵을 반으로 잘라요.
+e Nakase igitunguru. | 양파를 썰었어요.
+w guca | 자르다 · 끊다 · 지나가다 | 자르다; 지나가다
+e Ca urupapuro mo kabiri. | 종이를 반으로 잘라요.
+e Umuriro wacitse. | 전기가 끊겼어요.
+e Tunyuze hano, duca iruhande. | 여기로 지나가요, 옆으로 가요.
+w kogosha | 머리를 깎다 · 면도하다 | 머리 깎다
+e Ndashaka kwiyogoshesha. | 머리 깎고 싶어요.
+e Yogoshe umusatsi. | 그는 머리를 깎았어요.
+e Inzu yo kogosha iri he? | 이발소가 어디예요?
+w gutema | (칼로) 베다 · 자르다 | 베다
+e Batema ibiti. | 나무를 베어요.
+e Tema ibyatsi. | 풀을 베어요.
+e Natemye urutoki! | 손가락을 베었어요!
+tp 칼로 음식을 썰 때 gukata, 종이·줄 따위를 끊을 때 guca, 머리는 kogosha, 큰칼로 나무·풀을 벨 때 gutema예요.
+tp 전기가 나갔을 때는 Umuriro wacitse(전기가 끊겼어요)라고 해요.
+pr Gukata | 썰다 || Gutema | 베다
+pr Guca | 자르다 || Kogosha | 머리 깎다
+dl 민준 | Umusatsi wanjye ni muremure. | 머리가 길어요.
+dl 무기샤 | Jya kwiyogoshesha. | 머리 깎으러 가요.
+dl 민준 | Hari inzu yo kogosha hafi? | 근처에 이발소 있어요?
+dl 무기샤 | Yego, iruhande rwa banki. | 네, 은행 옆에요.
+sm Mama akata inyanya, data atema ibyatsi, nanjye njya kwiyogoshesha. | 엄마는 토마토를 썰고, 아빠는 풀을 베고, 저는 머리를 깎으러 가요.
+qz '(음식을) 썰다'는? | gukata
+
+@ 3-02-09 | '요리하다' | guteka·gukaranga·kotsa·gutogosa | 음식을 만드는 방법에 따라 동사가 달라요.
+w guteka | 요리하다 · 끓이다 | 요리하다
+e Mama arateka. | 엄마가 요리해요.
+e Uzi guteka isombe? | 이솜베 만들 줄 알아요?
+e Duteka ibishyimbo buri munsi. | 매일 콩을 요리해요.
+w gukaranga | 볶다 · 튀기다 | 튀기다; 볶다
+e Karanga ibirayi. | 감자를 튀겨요.
+e Nkunda ibirayi bikaranze. | 튀긴 감자를 좋아해요.
+e Bakaranga amagi. | 달걀을 부쳐요.
+w kotsa | 굽다 | 굽다
+e Botsa inyama. | 고기를 구워요.
+e Ibigori byokeje biraryoshye. | 구운 옥수수가 맛있어요.
+e Nokeje ibitoki. | 바나나를 구웠어요.
+w gutogosa | (물을) 끓이다 · 삶다 | 끓이다
+e Togosa amazi mbere yo kunywa. | 마시기 전에 물을 끓여요.
+e Amazi aratogota. | 물이 끓어요.
+e Togosa amagi iminota icumi. | 달걀을 10분 삶아요.
+tp guteka는 요리 전체, gukaranga는 기름에 볶기·튀기기, kotsa는 불에 굽기, gutogosa는 물을 끓이기예요.
+tp 르완다 길거리에서는 구운 옥수수(ibigori byokeje)와 브로셰트(꼬치구이)를 많이 팔아요.
+pr Guteka | 요리하다 || Gukaranga | 튀기다
+pr Kotsa | 굽다 || Gutogosa | 끓이다
+dl 수아 | Urateka iki? | 뭐 요리해요?
+dl 케자 | Ndakaranga ibirayi, n'inyama ndazotsa. | 감자 튀기고 고기 구워요.
+dl 수아 | Nshobora kugufasha? | 도와줄까요?
+dl 케자 | Yego, togosa amazi y'icyayi. | 네, 차 끓일 물 끓여 줘요.
+sm Mama yatetse ibishyimbo, akaranga ibirayi, yotsa inyama, kandi atogosa amazi y'icyayi. | 엄마가 콩을 요리하고, 감자를 튀기고, 고기를 굽고, 찻물을 끓였어요.
+qz '굽다'는? | kotsa
+
+@ 3-02-10 | '알다·이해하다' | kumenya·kumva·gusobanukirwa | 아는 것과 이해하는 것의 말이에요.
+w kumenya | 알다 · 알게 되다 | 알다
+e Ndamuzi. | 그를 알아요.
+e Ushaka kumenya iki? | 뭘 알고 싶어요?
+e Nashimishijwe no kukumenya. | 알게 되어 기뻐요.
+w nzi | 나는 안다 | 알아요
+e Nzi aho atuye. | 그가 사는 곳을 알아요.
+e Sinzi. | 몰라요.
+e Uzi Ikinyarwanda? | 르완다어 알아요?
+w kumva | 듣다 · 이해하다 · 느끼다 | 이해하다; 듣다
+e Ndabyumva. | 이해해요.
+e Simbyumva. | 이해가 안 돼요.
+e Ndumva nshonje. | 배고픈 것 같아요.
+w gusobanukirwa | 확실히 이해하다 | 확실히 이해하다
+e Nasobanukiwe neza. | 잘 이해했어요.
+e Wasobanukiwe? | 이해했어요?
+e Sinasobanukiwe iri jambo. | 이 낱말이 이해가 안 돼요.
+tp kumenya의 '나는 안다'는 불규칙해서 Nzi, '몰라요'는 Sinzi예요.
+tp kumva는 '듣다·이해하다·느끼다' 셋 다예요. Ndabyumva = (그것을) 이해해요.
+pr Nzi | 알아요 || Sinzi | 몰라요
+pr Ndabyumva | 이해해요 || Simbyumva | 이해 못 해요
+dl 선생님 | Mwasobanukiwe? | 이해했어요?
+dl 학생 | Oya, simbyumva neza. | 아니요, 잘 모르겠어요.
+dl 선생님 | Reka nongere nsobanure. | 다시 설명할게요.
+dl 학생 | Noneho ndabyumva! | 이제 이해돼요!
+sm Nzi amagambo menshi, ariko sinumva neza iyo bavuga vuba. | 낱말은 많이 알지만, 빨리 말하면 잘 못 알아들어요.
+qz '몰라요'는? | sinzi
+
+@ 3-02-11 | '생각하다·믿다' | gutekereza·kwizera·gukeka | 머릿속 생각을 말하는 말이에요.
+w gutekereza | 생각하다 | 생각하다
+e Ndatekereza ko azaza. | 그가 올 거라고 생각해요.
+e Tekereza neza. | 잘 생각해 봐요.
+e Urabitekerezaho iki? | 그것에 대해 어떻게 생각해요?
+w kwizera | 믿다 · 바라다 | 믿다; 바라다
+e Ndakwizera. | 너를 믿어.
+e Nizera ko uzatsinda. | 네가 합격하길 바라.
+e Twizera Imana. | 우리는 하나님을 믿어요.
+w gukeka | 짐작하다 · 의심하다 | 짐작하다
+e Ndakeka ko imvura iza kugwa. | 비가 올 것 같아요.
+e Ndakeka ari we. | 그 사람인 것 같아요.
+e Ntukeke nabi. | 나쁘게 의심하지 마요.
+w igitekerezo | 생각 · 의견 · 아이디어 | 의견
+e Mfite igitekerezo. | 생각이 있어요.
+e Ni igitekerezo cyiza! | 좋은 생각이에요!
+e Igitekerezo cyawe ni ikihe? | 당신 의견은 뭐예요?
+tp '~라고 생각해요'는 Ndatekereza ko…, '~인 것 같아요'는 Ndakeka ko…예요.
+tp gu-tekerez-a(생각하다) → igi-tekerez-o(생각): 동사 뿌리에 igi-…-o를 붙이면 명사가 돼요.
+pr Ndatekereza | 생각해요 || Ndakeka | ~인 것 같아요
+pr Ndakwizera | 널 믿어 || Igitekerezo | 생각
+dl 케자 | Ejo tujye ku kiyaga? | 내일 호수에 갈까요?
+dl 민준 | Ni igitekerezo cyiza! | 좋은 생각이에요!
+dl 케자 | Ariko ndakeka imvura izagwa. | 그런데 비가 올 것 같아요.
+dl 민준 | Ndizera ko izuba rizava. | 해가 나길 바라요.
+sm Ndatekereza ko Ikinyarwanda kiroroshye, kandi nizera ko nzakimenya vuba. | 르완다어가 쉽다고 생각하고, 곧 알게 되길 바라요.
+qz '생각·의견'은? | igitekerezo
+
+@ 3-02-12 | '부르다·묻다·청하다·초대하다' | guhamagara·kubaza·gusaba·gutumira | 남에게 말을 거는 여러 동사예요.
+w guhamagara | 부르다 · 전화하다 | 부르다; 전화하다
+e Hamagara mwarimu. | 선생님 불러요.
+e Nzaguhamagara nimugoroba. | 저녁에 전화할게요.
+e Ninde wampamagaye? | 누가 나를 불렀어요?
+w kubaza | 묻다 | 묻다
+e Nshobora kubaza ikibazo? | 질문해도 돼요?
+e Mbaza icyo ushaka. | 원하는 걸 물어봐요.
+e Yambajije izina ryanjye. | 그가 제 이름을 물었어요.
+w gusaba | 청하다 · 부탁하다 | 부탁하다
+e Ndagusaba imbabazi. | 용서를 구해요.
+e Yansabye amafaranga. | 그가 저에게 돈을 달라고 했어요.
+e Saba uruhushya. | 허락을 구해요.
+w gutumira | 초대하다 | 초대하다
+e Ndagutumiye mu bukwe. | 결혼식에 초대해요.
+e Badutumiye ku munsi mukuru. | 그들이 우리를 잔치에 초대했어요.
+e Urakoze kuntumira. | 초대해 줘서 고마워요.
+tp gusaba uruhushya = 허락을 구하다. 수업 중에 나갈 때도 Nsabye uruhushya(허락해 주세요)라고 해요.
+tp guhamagara는 이름을 '부르다'와 '전화하다' 둘 다예요.
+pr Guhamagara | 부르다 || Kubaza | 묻다
+pr Gusaba | 부탁하다 || Gutumira | 초대하다
+dl 케자 | Ndagutumiye mu isabukuru yanjye. | 제 생일에 초대할게요.
+dl 수아 | Urakoze! Ni ryari? | 고마워요! 언제예요?
+dl 케자 | Ku wa gatandatu. Nzaguhamagara. | 토요일이요. 전화할게요.
+dl 수아 | Nzaza rwose! | 꼭 갈게요!
+sm Inshuti yampamagaye, irambaza amakuru, maze intumira mu bukwe. | 친구가 전화해서 안부를 묻고 결혼식에 초대했어요.
+qz '초대하다'는? | gutumira
+
+@ 3-02-13 | '쉬다·휴가' | kuruhuka·ikiruhuko·konji | 쉬는 것에 관한 말이에요.
+w kuruhuka | 쉬다 | 쉬다
+e Reka turuhuke gato. | 잠깐 쉬어요.
+e Ku cyumweru ndaruhuka. | 일요일에는 쉬어요.
+e Ruhuka neza! | 푹 쉬어요!
+w ikiruhuko | 쉬는 시간 · 휴식 | 쉬는 시간
+e Ikiruhuko ni saa yine. | 쉬는 시간은 10시예요.
+e Abana bakina mu kiruhuko. | 아이들은 쉬는 시간에 놀아요.
+e Ikiruhuko kirangiye. | 쉬는 시간이 끝났어요.
+w konji | 휴가 · 공휴일 | 휴가
+e Ndi mu konji. | 휴가 중이에요.
+e Ejo ni konji. | 내일은 공휴일이에요.
+e Konji ndende iratangira. | 긴 방학이 시작돼요.
+w umunaniro | 피로 · 지침 | 피로
+e Mfite umunaniro. | 피곤해요.
+e Umunaniro wanteye kuryama kare. | 피곤해서 일찍 잤어요.
+e Kuruhuka bimara umunaniro. | 쉬면 피로가 풀려요.
+tp konji는 프랑스어 congé(휴가)에서 왔어요.
+tp 르완다 공휴일: 1월 1일, 2월 1일 영웅의 날, 4월 7일 추모의 날, 7월 1일 독립기념일, 7월 4일 해방기념일 등.
+pr Kuruhuka | 쉬다 || Gukora | 일하다
+pr Ikiruhuko | 쉬는 시간 || Konji | 휴가
+dl 학생 | Mwarimu, ikiruhuko ni ryari? | 선생님, 쉬는 시간 언제예요?
+dl 선생님 | Mu minota icumi. | 10분 뒤에요.
+dl 학생 | Mfite umunaniro. | 피곤해요.
+dl 선생님 | Ihangane, turaruhuka vuba. | 참아요, 곧 쉬어요.
+sm Nyuma y'akazi kenshi nari mfite umunaniro, none ndi mu konji ndaruhuka. | 일을 많이 해서 피곤했는데 지금 휴가라서 쉬고 있어요.
+qz '휴가'는? | konji
+
+@ 3-02-14 | '가르치다·연습하다' | kwigisha·kwitoza·kwiga | 배우고 가르치는 말이에요.
+w kwigisha | 가르치다 | 가르치다
+e Nigisha Igikoreya. | 한국어를 가르쳐요.
+e Unyigishe Ikinyarwanda. | 르완다어 가르쳐 줘요.
+e Mwarimu yigisha neza. | 선생님은 잘 가르쳐요.
+w kwiga | 배우다 · 공부하다 | 배우다
+e Ndiga Ikinyarwanda. | 르완다어를 배워요.
+e Yiga muri kaminuza. | 그는 대학에 다녀요.
+e Twize amagambo mashya. | 새 낱말을 배웠어요.
+w kwitoza | 연습하다 · 훈련하다 | 연습하다
+e Nitoza kuvuga buri munsi. | 매일 말하기를 연습해요.
+e Ikipe yitoza ku wa kabiri. | 팀은 화요일에 연습해요.
+e Itoze gusoma. | 읽기를 연습해요.
+w isomo | 수업 · 과 | 수업
+e Isomo ry'uyu munsi ni irihe? | 오늘 수업은 뭐예요?
+e Isomo rya gatatu. | 제3과.
+e Nkunda isomo ry'imibare. | 수학 수업을 좋아해요.
+tp kwiga(배우다) → kwigisha(가르치다): -isha를 붙이면 '~하게 하다' = 배우게 하다 = 가르치다예요.
+tp kwitoza는 운동 연습과 말하기 연습 모두에 써요.
+pr Kwiga | 배우다 || Kwigisha | 가르치다
+pr Kwitoza | 연습하다 || Isomo | 수업
+dl 무기샤 | Unyigisha Igikoreya? | 한국어 가르쳐 줄래요?
+dl 민준 | Yego! Nawe unyigishe Ikinyarwanda. | 좋아요! 당신도 르완다어 가르쳐 줘요.
+dl 무기샤 | Ni byiza. Tuzitoza buri munsi. | 좋아요. 매일 연습해요.
+dl 민준 | Isomo rya mbere ni ejo! | 첫 수업은 내일이에요!
+sm Ndiga Ikinyarwanda, nkitoza buri munsi, kandi nigisha Igikoreya. | 르완다어를 배우고, 매일 연습하고, 한국어를 가르쳐요.
+qz '연습하다'는? | kwitoza
+x ambara | 입어라
+x ndakeka | ~인 것 같다
+x ikoti | 재킷
+x natiye | 나는 빌렸다
+x imyanda | 쓰레기
+x gitebo | 바구니, 쓰레기통
+x tora | 주워라, 골라라
+x kwiyogoshesha | 머리를 깎다(깎게 하다)
+x togosa | 끓여라
+x nambaye | 나는 입었다
+x mfata | 나는 탄다
+x ngendera | 나는 타고 간다
+x ndagutegereje | 너를 기다리고 있다
+x natakaje | 나는 잃어버렸다
+x rwabuze | 없어졌다
+x icyo | 그것, ~하는 것
+x amasahani | 접시들
+x mo | 안에, ~으로
+x uzi | 너는 안다
+x ndakwizera | 나는 너를 믿는다
+x nizera | 나는 바란다, 믿는다
+x yakuyemo | 벗었다
+x yatakaye | 없어졌다
+x bambara | 그들은 입는다
+x ugeze | 네가 도착하면
+x ukuremo | 벗어라
+x mishya | 새
+x ngeze | 내가 도착해서
+x ndabikuramo | 나는 그것들을 벗었다
+x twafashe | 우리는 탔다
+x va | 내려라, 나와라
+x tuzava | 우리는 내릴 것이다
+x agendera | 타고 간다
+x ntugendere | 타고 가지 마라
+x utwara | 너는 운전한다
+x ntwara | 나는 데려다준다
+x itwara | 태운다
+x nzava | 나는 내릴 것이다
+x nkava | 그리고 나는 내린다
+x twategereje | 우리는 기다렸다
+x twahuriye | 우리는 마주쳤다
+x nzagusura | 너를 방문할 것이다
+x twasuye | 우리는 방문했다
+x tuzahurira | 우리는 만날 것이다
+x kunyihanganira | 나를 참아 주다
+x nategereje | 나는 기다렸다
+x turahura | 우리는 만났다
+x dusura | 우리는 방문한다
+x ingoro ndangamurage | 박물관
+x wishyuye | 너는 냈다
+x wanguriza | 나에게 빌려줄래
+x namugurije | 그에게 빌려줬다
+x iguriza | 빌려준다
+x nzayigarura | 그것을 돌려줄게
+x ngurizwa | 나는 빌렸다(빌려받았다)
+x ntutakaze | 잃어버리지 마라
+x yatakaje | 잃어버렸다
+x twabuze | 우리는 떨어졌다(없다)
+x nabuze | 나는 없었다
+x mvuga | 내가 말하다
+x wareba | 봤니
+x ndarushaka | 그것을 찾았다
+x ndarubona | 그것을 찾아냈다
+x nashyize | 나는 넣었다
+x mufuka | 주머니
+x mbika | 나는 보관한다
+x firigo | 냉장고
+x ta | 버려라
+x ntuta | 버리지 마라
+x nataye | 나는 버렸다
+x zishaje | 오래된
+x batora | 그들은 뽑는다
+x perezida | 대통령
+x wataye | 버린(사람)
+x uru | 이
+x rutore | 그것을 주워라
+x uruteye | 그것을 버려라
+x uyite | 그것을 버려라
+x byawe | 너의
+x nkaraba | 나는 씻는다
+x barakaraba | 그들은 씻는다
+x nshaka | 나는 원한다
+x mesa | 빨아라
+x yamesheje | 빨았다
+x twogeje | 우리는 닦았다
+x wiyuhagiye | 너는 샤워했다
+x nzoza | 나는 닦을 것이다
+x nkoza | 나는 닦는다
+x nakase | 나는 썰었다
+x ca | 잘라라
+x wacitse | 끊겼다
+x tunyuze | 우리는 지나간다
+x duca | 우리는 지나간다
+x yogoshe | 깎았다
+x batema | 그들은 벤다
+x tema | 베어라
+x natemye | 나는 베었다
+x akata | 썬다
+x atema | 벤다
+x duteka | 우리는 요리한다
+x karanga | 튀겨라
+x bakaranga | 그들은 튀긴다
+x botsa | 그들은 굽는다
+x ibigori | 옥수수
+x byokeje | 구운
+x nokeje | 나는 구웠다
+x aratogota | 끓는다
+x urateka | 너는 요리한다
+x ndakaranga | 나는 튀긴다
+x ndazotsa | 나는 그것을 굽는다
+x yatetse | 요리했다
+x akaranga | 그리고 튀긴다
+x yotsa | 구웠다
+x atogosa | 끓인다
+x ndamuzi | 나는 그를 안다
+x nashimishijwe | 나는 기뻤다
+x atuye | 산다
+x nasobanukiwe | 나는 이해했다
+x wasobanukiwe | 너는 이해했다
+x sinasobanukiwe | 나는 이해하지 못했다
+x mwasobanukiwe | 여러분은 이해했다
+x nongere | 내가 다시
+x nsobanure | 내가 설명하다
+x sinumva | 나는 알아듣지 못한다
+x tekereza | 생각해라
+x urabitekerezaho | 그것을 어떻게 생각하니
+x twizera | 우리는 믿는다
+x ntukeke | 의심하지 마라
+x nabi | 나쁘게
+x rizava | 해가 날 것이다
+x nzakimenya | 나는 그것을 알게 될 것이다
+x wampamagaye | 나를 부른(사람)
+x mbaza | 나에게 물어라
+x yambajije | 나에게 물었다
+x yansabye | 나에게 달라고 했다
+x saba | 구해라
+x uruhushya | 허락
+x badutumiye | 우리를 초대했다
+x yampamagaye | 나에게 전화했다
+x irambaza | 나에게 묻는다
+x intumira | 나를 초대한다
+x turuhuke | 쉬자
+x ruhuka | 쉬어라
+x kirangiye | 끝났다
+x iratangira | 시작된다
+x wanteye | 나를 ~하게 했다
+x bimara | 없앤다
+x nitoza | 나는 연습한다
+x yitoza | 연습한다
+x itoze | 연습해라
+x unyigisha | 나를 가르쳐 줄래
+x tuzitoza | 우리는 연습할 것이다
+x nkitoza | 그리고 나는 연습한다

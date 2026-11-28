@@ -1,0 +1,416 @@
+# P5-J | 숫자·시간
+
+@ 1-02-01 | 숫자 1~10 | rimwe·kabiri·gatatu | 하나부터 열까지 세는 말이에요. '첫째, 둘째'처럼 순서를 말할 때도 이 모양을 써요.
+w rimwe | 하나(1) · 셀 때 | 하나; 한 번
+e Rimwe, kabiri, gatatu! | 하나, 둘, 셋!
+e Nagiye i Huye rimwe gusa. | 후예에는 딱 한 번 가 봤어요.
+w kabiri | 둘(2) · 두 번 | 둘; 두 번
+e Isomo rya kabiri ni ryoroshye. | 2과는 쉬워요.
+e Ku wa kabiri ndi ku ishuri. | 화요일에는 학교에 있어요.
+w gatatu | 셋(3) | 셋
+e Umunsi wa gatatu ni uyu munsi. | 셋째 날은 오늘이에요.
+e Icyumba cya gatatu ni icyanjye. | 세 번째 방이 제 방이에요.
+w kane | 넷(4) | 넷
+e Ndi mu mwaka wa kane. | 저는 4학년이에요.
+e Isomo rya kane ni irihe? | 4과는 어느 거예요?
+w gatanu | 다섯(5) | 다섯
+e Ku wa gatanu tujya ku isoko. | 금요일에 우리는 시장에 가요.
+e Igice cya gatanu ni kirekire. | 다섯째 부분은 길어요.
+w gatandatu | 여섯(6) | 여섯
+e Ku wa gatandatu nta shuri. | 토요일에는 학교가 없어요.
+e Umunsi wa gatandatu turaruhuka. | 여섯째 날에는 쉬어요.
+w karindwi | 일곱(7) | 일곱
+e Icyumweru gifite iminsi karindwi. | 한 주는 7일이에요.
+e Isomo rya karindwi ni rishya. | 7과는 새로운 과예요.
+w umunani | 여덟(8) | 여덟
+e Ukwezi kwa munani ni Kanama. | 8월은 카나마예요.
+e Abanyeshuri umunani baraje. | 학생 여덟 명이 왔어요.
+w icyenda | 아홉(9) | 아홉
+e Ukwezi kwa cyenda ni Nzeri. | 9월은 은제리예요.
+e Isomo rya cyenda riragoye. | 9과는 어려워요.
+w icumi | 열(10) | 열
+e Mfite amafaranga icumi. | 10프랑이 있어요.
+e Bara kugeza ku icumi. | 열까지 세어 봐요.
+tp 셀 때는 rimwe, kabiri, gatatu, kane, gatanu, gatandatu, karindwi, umunani, icyenda, icumi 라고 해요.
+tp 순서를 말할 때는 '~의 + 숫자'예요: isomo rya kabiri(2과), umunsi wa gatatu(셋째 날). '첫째'만은 mbere예요: ku wa mbere(월요일).
+tp 물건을 셀 때는 숫자 모양이 앞 낱말에 맞춰 바뀌어요: abana babiri(아이 둘), ibitabo bitatu(책 세 권) → 문장규칙 7-02 명사 부류·일치.
+pr Rimwe | 하나 || Kabiri | 둘
+pr Gatanu | 다섯 || Icumi | 열
+dl 선생님 | Bara kugeza ku icumi. | 열까지 세어 봐요.
+dl 학생 | Rimwe, kabiri, gatatu, kane, gatanu… | 하나, 둘, 셋, 넷, 다섯…
+dl 선생님 | Komeza! | 계속해요!
+dl 학생 | Gatandatu, karindwi, umunani, icyenda, icumi! | 여섯, 일곱, 여덟, 아홉, 열!
+sm Rimwe, kabiri, gatatu, kane, gatanu! | 하나, 둘, 셋, 넷, 다섯!
+qz '셋'은? | gatatu
+
+@ 1-02-02 | 숫자 11~100 | cumi na rimwe·makumyabiri | 열하나부터 백까지예요. 10 + 1 처럼 na(그리고)로 이어 말해요.
+w cumi na rimwe | 열하나(11) · 10 + 1 | 열하나
+e Mfite imyaka cumi n'umwe. | 열한 살이에요.
+e Ishuri rifite ibyumba cumi na kimwe. | 학교에 교실이 열한 개 있어요.
+w cumi na gatanu | 열다섯(15) · 10 + 5 | 열다섯
+e Mfite imyaka cumi n'itanu. | 열다섯 살이에요.
+e Abanyeshuri cumi na batanu barahari. | 학생 열다섯 명이 와 있어요.
+w makumyabiri | 스물(20) | 스물
+e Mfite imyaka makumyabiri. | 스무 살이에요.
+e Hari abanyeshuri makumyabiri mu ishuri. | 교실에 학생이 스무 명 있어요.
+w mirongo itatu | 서른(30) · 10 × 3 | 서른
+e Ukwezi gufite iminsi mirongo itatu. | 한 달은 30일이에요.
+e Mwarimu afite imyaka mirongo itatu. | 선생님은 서른 살이에요.
+w mirongo ine | 마흔(40) | 마흔
+e Isomo rimara iminota mirongo ine. | 수업은 40분 걸려요.
+e Data afite imyaka mirongo ine. | 아버지는 마흔 살이에요.
+w mirongo itanu | 쉰(50) | 쉰
+e Ni amafaranga mirongo itanu. | 50프랑이에요.
+e Hari abantu mirongo itanu. | 사람이 쉰 명 있어요.
+w ijana | 백(100) | 백
+e Ni amafaranga ijana. | 100프랑이에요.
+e Ishuri rifite abanyeshuri ijana. | 학교에 학생이 100명 있어요.
+tp 11~19는 cumi na + 숫자: cumi na rimwe(11), cumi na kabiri(12). na 다음에 모음이 오면 n'으로 줄어요: cumi n'itanu.
+tp 20은 makumyabiri, 30~90은 mirongo + 숫자: mirongo itatu(30), mirongo ine(40), mirongo itanu(50).
+tp 셀 물건이 있으면 뒤 숫자도 그 낱말에 맞춰요: imyaka cumi n'itanu(15살), abanyeshuri cumi na batanu(학생 15명).
+pr Cumi na rimwe | 열하나 || Makumyabiri | 스물
+pr Mirongo itanu | 쉰 || Ijana | 백
+dl 케자 | Ufite imyaka ingahe? | 몇 살이에요?
+dl 민준 | Mfite imyaka makumyabiri n'itanu. Wowe? | 스물다섯 살이에요. 당신은요?
+dl 케자 | Mfite imyaka cumi n'icyenda. | 열아홉 살이에요.
+dl 민준 | Uracyari muto! | 아직 어리네요!
+sm Ishuri ryacu rifite abanyeshuri ijana na makumyabiri. | 우리 학교에는 학생이 120명 있어요.
+qz '스물'은? | makumyabiri
+
+@ 1-02-03 | 큰 수·돈 | igihumbi·amafaranga | 시장에서 꼭 듣는 큰 숫자와 돈 이야기예요. 르완다 돈은 프랑(amafaranga)이에요.
+w amafaranga | 돈 · 르완다 프랑 | 돈; 프랑
+e Nta mafaranga mfite. | 돈이 없어요.
+e Ni amafaranga angahe? | 얼마예요?
+w magana abiri | 이백(200) · 100 × 2 | 이백
+e Ni amafaranga magana abiri. | 200프랑이에요.
+e Umugati ni magana atatu. | 빵은 300프랑이에요.
+w igihumbi | 천(1,000) | 천
+e Ni igihumbi. | 1,000프랑이에요.
+e Mpa igihumbi, ngusubize magana abiri. | 1,000프랑 주세요, 200프랑 거슬러 드릴게요.
+w ibihumbi bibiri | 이천(2,000) · 1,000 × 2 | 이천
+e Igitabo ni ibihumbi bibiri. | 책은 2,000프랑이에요.
+e Moto ni ibihumbi bibiri gusa. | 오토바이 택시는 2,000프랑밖에 안 해요.
+w ibihumbi icumi | 만(10,000) · 1,000 × 10 | 만
+e Inkweto ni ibihumbi icumi. | 신발은 10,000프랑이에요.
+e Nishyuye ibihumbi icumi. | 10,000프랑 냈어요.
+w miliyoni | 백만(1,000,000) | 백만
+e U Rwanda rufite abaturage miliyoni cumi n'eshatu. | 르완다는 인구가 1,300만 명이에요.
+e Imodoka ni miliyoni icumi. | 차는 1,000만 프랑이에요.
+w kubara | 세다 · 계산하다 | 세다; 계산하다
+e Ndashaka kubara amafaranga. | 돈을 세고 싶어요.
+e Abana bazi kubara. | 아이들은 셀 줄 알아요.
+tp 100은 ijana, 200 이상은 magana + 숫자: magana abiri(200), magana atatu(300).
+tp 1,000은 igihumbi, 2,000 이상은 ibihumbi + 숫자: ibihumbi bibiri(2,000), ibihumbi icumi(10,000).
+tp 값을 물을 때는 Ni angahe?(얼마예요?). 돈 낱말 없이 숫자만 말해도 돼요: Ni igihumbi.(천 프랑이에요.)
+pr Igihumbi | 천 || Ibihumbi bibiri | 이천
+pr Magana abiri | 이백 || Ijana | 백
+dl 수아 | Iki gitabo ni angahe? | 이 책 얼마예요?
+dl 상인 | Ni ibihumbi bibiri. | 2,000프랑이에요.
+dl 수아 | Dore ibihumbi bitatu. | 여기 3,000프랑이요.
+dl 상인 | Murakoze, dore igihumbi. | 고마워요, 여기 1,000프랑(거스름돈)이요.
+sm Igitabo ni ibihumbi bibiri, ikaramu ni magana abiri. | 책은 2,000프랑, 볼펜은 200프랑이에요.
+qz '천'은? | igihumbi
+
+@ 1-02-04 | 요일 | ku wa mbere·ku cyumweru | 일주일 요일이에요. 월요일이 '첫째 날'(ku wa mbere)이고, 일요일은 Icyumweru이에요.
+w icyumweru | 주(週) · 일요일 | 주; 일요일
+e Icyumweru gitaha nzaba ndi i Huye. | 다음 주에는 후예에 있을 거예요.
+e Ku cyumweru tujya gusenga. | 일요일에 우리는 예배하러 가요.
+w ku wa mbere | 월요일(에) · 첫째 날 | 월요일(에)
+e Ku wa mbere isomo ritangira saa mbiri. | 월요일에 수업은 8시에 시작해요.
+e Uyu munsi ni ku wa mbere. | 오늘은 월요일이에요.
+w ku wa kabiri | 화요일(에) · 둘째 날 | 화요일(에)
+e Ku wa kabiri dufite siporo. | 화요일에는 체육이 있어요.
+e Ejo ni ku wa kabiri. | 내일은 화요일이에요.
+w ku wa gatatu | 수요일(에) · 셋째 날 | 수요일(에)
+e Ku wa gatatu ngira isomo ry'Igikoreya. | 수요일에 한국어 수업이 있어요.
+e Tuzahura ku wa gatatu. | 수요일에 만나요.
+w ku wa kane | 목요일(에) · 넷째 날 | 목요일(에)
+e Ku wa kane nza mu gitondo. | 목요일에는 아침에 와요.
+e Ikizamini ni ku wa kane. | 시험은 목요일이에요.
+w ku wa gatanu | 금요일(에) · 다섯째 날 | 금요일(에)
+e Ku wa gatanu nimugoroba turabyina. | 금요일 저녁에 우리는 춤춰요.
+e Ku wa gatanu ishuri rirangira kare. | 금요일에는 학교가 일찍 끝나요.
+w ku wa gatandatu | 토요일(에) · 여섯째 날 | 토요일(에)
+e Ku wa gatandatu ngura ibiryo ku isoko. | 토요일에 시장에서 먹을 것을 사요.
+e Umuganda ni ku wa gatandatu wa nyuma. | 우무간다는 마지막 토요일이에요.
+tp 요일은 '~번째 날'이라는 뜻이에요: ku wa mbere(첫째 날=월), ku wa kabiri(둘째 날=화) … ku wa gatandatu(여섯째 날=토).
+tp 일요일은 ku cyumweru이에요. icyumweru은 '주(週)'라는 뜻도 있어요: icyumweru gitaha(다음 주).
+tp Umuganda(우무간다)는 매달 마지막 토요일 아침에 온 마을이 함께하는 청소·봉사 날이에요.
+pr Ku wa mbere | 월요일 || Ku wa gatanu | 금요일
+pr Ku wa gatandatu | 토요일 || Ku cyumweru | 일요일
+dl 민준 | Uyu munsi ni ku wa kangahe? | 오늘 무슨 요일이에요?
+dl 하비마나 | Ni ku wa kane. | 목요일이에요.
+dl 민준 | Ikizamini ni ryari? | 시험은 언제예요?
+dl 하비마나 | Ni ku wa gatanu. | 금요일이에요.
+sm Ku wa mbere kugeza ku wa gatanu ndi ku ishuri. | 월요일부터 금요일까지 학교에 있어요.
+qz '월요일'은? | ku wa mbere
+
+@ 1-02-05 | 하루의 때 | mu gitondo·nimugoroba | 아침, 낮, 저녁, 밤, 오늘, 내일처럼 하루의 때를 말해요.
+w mu gitondo | 아침에 | 아침에
+e Mu gitondo nywa icyayi. | 아침에 차를 마셔요.
+e Mbyuka saa kumi n'imwe za mu gitondo. | 아침 5시에 일어나요.
+w ku manywa | 낮에 | 낮에
+e Ku manywa birashyushye. | 낮에는 더워요.
+e Ku manywa ndya ku ishuri. | 낮에는 학교에서 먹어요.
+w nimugoroba | 저녁에 | 저녁에
+e Nimugoroba ndi mu rugo. | 저녁에는 집에 있어요.
+e Tuzahura nimugoroba. | 저녁에 만나요.
+w nijoro | 밤에 | 밤에
+e Nijoro biratuje. | 밤에는 조용해요.
+e Ndyama saa yine z'ijoro. | 밤 10시에 자요.
+w uyu munsi | 오늘 | 오늘
+e Uyu munsi ni ku wa gatatu. | 오늘은 수요일이에요.
+e Uyu munsi nta isomo. | 오늘은 수업이 없어요.
+w ejo | 내일 · 어제 | 내일; 어제
+e Ejo nzaza. | 내일 올게요.
+e Ejo nari ndwaye. | 어제 아팠어요.
+w ubu | 지금 | 지금
+e Ubu ndi mu ishuri. | 지금 교실에 있어요.
+e Ubu ni saa ngahe? | 지금 몇 시예요?
+tp ejo는 '내일'과 '어제' 둘 다예요. 동사의 시제로 구별해요: Ejo nzaza(내일 올 거예요), Ejo naje(어제 왔어요).
+tp mu gitondo(아침에) → ku manywa(낮에) → nimugoroba(저녁에) → nijoro(밤에).
+pr Mu gitondo | 아침에 || Nimugoroba | 저녁에
+pr Ejo nzaza. | 내일 올게요. || Ejo naje. | 어제 왔어요.
+dl 케자 | Uzaza ryari? | 언제 올 거예요?
+dl 민준 | Ejo mu gitondo. | 내일 아침에요.
+dl 케자 | Si nimugoroba? | 저녁이 아니고요?
+dl 민준 | Oya, nimugoroba mfite isomo. | 아니요, 저녁에는 수업이 있어요.
+sm Uyu munsi mu gitondo nagiye ku ishuri, nimugoroba nagarutse mu rugo. | 오늘 아침에 학교에 갔고, 저녁에 집에 돌아왔어요.
+qz '저녁에'는? | nimugoroba
+
+@ 1-02-06 | 시각 말하기 | saa ngahe·saa mbiri | 르완다의 시각은 아침 6시를 0시로 세요. 그래서 오전 7시가 saa moya(1시)예요.
+w Ni saa ngahe? | 몇 시예요? | 몇 시예요?
+e Mbabarira, ni saa ngahe? | 실례지만, 몇 시예요?
+e Isomo ritangira saa ngahe? | 수업은 몇 시에 시작해요?
+w saa moya | 7시 · 르완다식 1시 | 7시(오전·오후)
+e Mbyuka saa moya. | 7시에 일어나요.
+e Dufungura saa moya z'ijoro. | 우리는 저녁 7시에 저녁을 먹어요.
+w saa mbiri | 8시 · 르완다식 2시 | 8시
+e Ishuri ritangira saa mbiri. | 학교는 8시에 시작해요.
+e Ni saa mbiri n'igice. | 8시 반이에요.
+w saa tatu | 9시 · 르완다식 3시 | 9시
+e Ni saa tatu za mu gitondo. | 오전 9시예요.
+e Tuzahura saa tatu. | 9시에 만나요.
+w saa sita | 12시 · 정오·자정 | 12시
+e Saa sita turarya. | 12시에 밥을 먹어요.
+e Ni saa sita z'amanywa. | 낮 12시예요.
+w saa kumi | 4시(오후) · 르완다식 10시 | 4시
+e Ishuri rirangira saa kumi. | 학교는 4시에 끝나요.
+e Ngera mu rugo saa kumi n'igice. | 4시 반에 집에 도착해요.
+w n'igice | ~시 반 · 그리고 반 | 반(30분)
+e Ni saa tanu n'igice. | 11시 반이에요.
+e Bisi igenda saa cyenda n'igice. | 버스는 3시 반에 떠나요.
+tp 르완다식 시각은 우리 시각과 여섯 시간 차이가 나요(해 뜨는 6시가 0시): saa moya(7시), saa mbiri(8시), saa tatu(9시), saa yine(10시), saa tanu(11시), saa sita(12시), saa saba(1시), saa munani(2시), saa cyenda(3시), saa kumi(4시).
+tp 5시는 saa kumi n'imwe, 6시는 saa kumi n'ebyiri예요.
+tp 오전·오후가 헷갈리면 뒤에 붙여요: za mu gitondo(아침), z'amanywa(낮), z'ijoro(밤).
+pr Saa mbiri | 8시 || Saa sita | 12시
+pr Saa tatu | 9시 || Saa tatu n'igice | 9시 반
+dl 수아 | Ni saa ngahe? | 몇 시예요?
+dl 하비마나 | Ni saa tatu n'igice. | 9시 반이에요.
+dl 수아 | Isomo ritangira saa yine? | 수업이 10시에 시작해요?
+dl 하비마나 | Yego, saa yine. | 네, 10시요.
+sm Ishuri ritangira saa mbiri, rikarangira saa kumi. | 학교는 8시에 시작해서 4시에 끝나요.
+qz '몇 시예요?'는? | Ni saa ngahe?
+
+@ 1-02-07 | 열두 달 | Mutarama·Ukuboza | 르완다어 달 이름은 숫자가 아니라 고유한 이름이에요.
+w Mutarama | 1월 | 1월
+e Muri Mutarama birashyushye. | 1월에는 더워요.
+e Umwaka utangira muri Mutarama. | 한 해는 1월에 시작해요.
+w Gashyantare | 2월 | 2월
+e Isabukuru yanjye ni muri Gashyantare. | 제 생일은 2월이에요.
+e Gashyantare ifite iminsi makumyabiri n'umunani. | 2월은 28일이에요.
+w Werurwe | 3월 | 3월
+e Muri Werurwe imvura iragwa. | 3월에는 비가 와요.
+e Nzaza muri Werurwe. | 3월에 올 거예요.
+w Mata | 4월 | 4월
+e Muri Mata twibuka Jenoside. | 4월에 우리는 제노사이드를 추모해요.
+e Mata ni ukwezi kwa kane. | 4월은 넷째 달이에요.
+w Gicurasi | 5월 | 5월
+e Muri Gicurasi imvura iragabanuka. | 5월에는 비가 줄어요.
+e Ikizamini ni muri Gicurasi. | 시험은 5월이에요.
+w Kamena | 6월 | 6월
+e Muri Kamena izuba ritangira. | 6월에 건기가 시작돼요.
+e Kamena ni ukwezi kwa gatandatu. | 6월은 여섯째 달이에요.
+w Nyakanga | 7월 | 7월
+e Muri Nyakanga turi mu biruhuko. | 7월에는 방학이에요.
+e Ku itariki enye Nyakanga ni umunsi mukuru. | 7월 4일은 공휴일이에요.
+w Kanama | 8월 | 8월
+e Muri Kanama haba umuyaga. | 8월에는 바람이 불어요.
+e Nzasubira muri Koreya muri Kanama. | 8월에 한국에 돌아갈 거예요.
+w Nzeri | 9월 | 9월
+e Amashuri atangira muri Nzeri. | 학교는 9월에 시작해요.
+e Muri Nzeri imvura iragaruka. | 9월에 비가 다시 와요.
+w Ukwakira | 10월 | 10월
+e Muri Ukwakira imvura iragwa cyane. | 10월에는 비가 많이 와요.
+e Ukwakira ni ukwezi kwa cumi. | 10월은 열째 달이에요.
+w Ugushyingo | 11월 | 11월
+e Muri Ugushyingo hari ibicu byinshi. | 11월에는 구름이 많아요.
+e Naje mu Rwanda muri Ugushyingo. | 11월에 르완다에 왔어요.
+w Ukuboza | 12월 | 12월
+e Noheli ni muri Ukuboza. | 크리스마스는 12월이에요.
+e Muri Ukuboza abantu basura imiryango. | 12월에는 사람들이 가족을 찾아가요.
+tp '~월에'는 muri + 달 이름: muri Mutarama(1월에), muri Ukuboza(12월에).
+tp 날짜는 itariki + 숫자예요: itariki ya mbere Mutarama(1월 1일).
+tp 르완다는 건기(izuba, 6~8월)와 우기(imvura, 3~5월·9~12월)가 있어요.
+pr Mutarama | 1월 || Ukuboza | 12월
+pr Kamena | 6월 || Nyakanga | 7월
+dl 민준 | Isabukuru yawe ni ryari? | 생일이 언제예요?
+dl 케자 | Ni muri Werurwe. Iyawe se? | 3월이에요. 당신은요?
+dl 민준 | Iyanjye ni muri Ukwakira. | 제 생일은 10월이에요.
+dl 케자 | Tuzayizihiza! | 축하해 줄게요!
+sm Naje mu Rwanda muri Nzeri, nzasubira muri Koreya muri Kamena. | 9월에 르완다에 왔고, 6월에 한국에 돌아갈 거예요.
+qz '1월'은? | Mutarama
+x gusa | 단지, ~만
+x nagiye | 나는 갔다
+x huye | 후예(남부 도시)
+x isomo | 수업, 과
+x rya | ~의
+x ryoroshye | 쉽다
+x umunsi | 날
+x wa | ~의
+x icyumba | 방
+x cya | ~의
+x icyanjye | 나의 것
+x mwaka | 해, 학년
+x irihe | 어느 것
+x tujya | 우리는 간다
+x isoko | 시장
+x igice | 부분, 반
+x kirekire | 길다
+x nta shuri | 학교가 없다
+x turaruhuka | 우리는 쉰다
+x icyumweru | 주, 일요일
+x gifite | (그것은) 가지고 있다
+x iminsi | 날들
+x rishya | 새로운
+x ukwezi | 달, 월
+x kwa | ~의
+x munani | 여덟
+x cyenda | 아홉
+x abanyeshuri | 학생들
+x baraje | 그들이 왔다
+x nzeri | 9월
+x kanama | 8월
+x riragoye | 어렵다
+x bara | 세어라
+x kugeza | ~까지
+x komeza | 계속해라
+x imyaka | 해, 나이
+x n'umwe | 그리고 하나
+x rifite | (그것은) 가지고 있다
+x ibyumba | 방들
+x kimwe | 하나
+x n'itanu | 그리고 다섯
+x batanu | 다섯 명
+x barahari | 그들이 와 있다
+x hari | ~이 있다
+x gufite | (그것은) 가지고 있다
+x itatu | 셋
+x afite | 그는 가지고 있다
+x rimara | (시간이) 걸리다
+x iminota | 분(分)
+x data | 나의 아버지
+x abantu | 사람들
+x wowe | 너는?
+x n'icyenda | 그리고 아홉
+x uracyari | 너는 아직 ~이다
+x muto | 어린, 작은
+x ryacu | 우리의
+x na | 그리고, ~와
+x mafaranga | 돈
+x umugati | 빵
+x atatu | 셋
+x mpa | 나에게 줘
+x ngusubize | 내가 거슬러 줄게
+x igitabo | 책
+x moto | 오토바이 택시
+x inkweto | 신발
+x nishyuye | 나는 지불했다
+x u rwanda | 르완다
+x rufite | (그것은) 가지고 있다
+x abaturage | 주민, 인구
+x n'eshatu | 그리고 셋
+x imodoka | 자동차
+x bazi | 그들은 안다
+x ibitabo | 책들
+x bitatu | 셋
+x ikaramu | 볼펜
+x gitaha | 다음
+x nzaba | 나는 ~일 것이다
+x gusenga | 기도하다, 예배하다
+x isomo | 수업
+x ritangira | 시작한다
+x saa mbiri | 8시
+x dufite | 우리는 가지고 있다
+x siporo | 체육, 운동
+x ngira | 나는 가진다
+x ry'igikoreya | 한국어의
+x tuzahura | 우리는 만날 것이다
+x nza | 나는 온다
+x ikizamini | 시험
+x nimugoroba | 저녁에
+x turabyina | 우리는 춤춘다
+x rirangira | 끝난다
+x kare | 일찍
+x ngura | 나는 산다
+x ibiryo | 음식
+x umuganda | 우무간다(공동 봉사의 날)
+x nyuma | 마지막, 뒤
+x kangahe | 몇 번째
+x nywa | 나는 마신다
+x mbyuka | 나는 일어난다
+x n'imwe | 그리고 하나
+x za | ~의
+x ndya | 나는 먹는다
+x biratuje | 조용하다
+x ndyama | 나는 잔다
+x saa yine | 10시
+x z'ijoro | 밤의
+x nzaza | 나는 올 것이다
+x nari | 나는 ~였다
+x naje | 나는 왔다
+x isomo | 수업
+x nagarutse | 나는 돌아왔다
+x dufungura | 우리는 저녁을 먹는다
+x n'igice | 반(30분)
+x z'amanywa | 낮의
+x turarya | 우리는 먹는다
+x ngera | 나는 도착한다
+x saa tanu | 11시
+x bisi | 버스
+x igenda | (그것은) 간다, 떠난다
+x saa cyenda | 3시
+x rikarangira | 그리고 끝난다
+x umwaka | 해, 년
+x utangira | (그것은) 시작한다
+x isabukuru | 생일
+x yanjye | 나의
+x ifite | (그것은) 가지고 있다
+x n'umunani | 그리고 여덟
+x imvura | 비
+x iragwa | (비가) 내린다
+x twibuka | 우리는 기억한다
+x jenoside | 제노사이드(1994년)
+x iragabanuka | 줄어든다
+x izuba | 해; 건기
+x turi | 우리는 있다
+x ibiruhuko | 방학, 휴가
+x itariki | 날짜
+x enye | 넷
+x mukuru | 큰
+x umunsi mukuru | 명절, 공휴일
+x haba | ~이 있다
+x umuyaga | 바람
+x nzasubira | 나는 돌아갈 것이다
+x amashuri | 학교들
+x atangira | 시작한다
+x iragaruka | 다시 온다
+x ibicu | 구름
+x byinshi | 많은
+x noheli | 크리스마스
+x basura | 그들은 방문한다
+x imiryango | 가족들
+x iyawe se | 너의 것은?
+x iyanjye | 나의 것
+x tuzayizihiza | 우리가 축하할 것이다
+x mu rwanda | 르완다에

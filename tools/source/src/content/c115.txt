@@ -1,0 +1,472 @@
+// 주제별 더하기 (v1.2): 학교·수업·숙소·병원
+# P5-A | 학교
+
+@ 1-06-06 | 학교 하루 | gutangira·ikiruhuko | 학교의 하루 흐름을 말하는 말이에요.
+w kwinjira mu ishuri | 교실에 들어가다 | 교실에 들어가다
+e Twinjira mu ishuri saa moya. | 7시에 교실에 들어가요.
+e Mwinjire mu ishuri! | 교실에 들어가세요!
+e Abana binjira mu ishuri bari ku murongo. | 아이들이 줄 서서 교실에 들어가요.
+w indirimbo y'igihugu | 국가 (나라 노래) | 국가
+e Turirimba indirimbo y'igihugu mu gitondo. | 아침에 국가를 불러요.
+e Haguruka, ni indirimbo y'igihugu. | 일어나요, 국가예요.
+e Indirimbo y'igihugu yitwa Rwanda Nziza. | 국가 이름은 '르완다 은지자'예요.
+w ikiruhuko cya saa yine | 10시 쉬는 시간 | 쉬는 시간
+e Ikiruhuko cya saa yine kimara iminota makumyabiri. | 10시 쉬는 시간은 20분이에요.
+e Mu kiruhuko turakina. | 쉬는 시간에 놀아요.
+e Ikiruhuko kirarangiye, mwinjire. | 쉬는 시간 끝났어요, 들어와요.
+w ifunguro ryo ku ishuri | 학교 급식 | 급식
+e Ifunguro ryo ku ishuri ni ibishyimbo n'umuceri. | 급식은 콩과 밥이에요.
+e Abana bose babona ifunguro ryo ku ishuri. | 아이들 모두 급식을 받아요.
+e Ifunguro ryo ku ishuri ni saa sita. | 급식은 12시예요.
+w gutaha | 하교하다 · 집에 가다 | 하교하다
+e Dutaha saa kumi. | 4시에 하교해요.
+e Mutahe amahoro! | 조심히 가요!
+e Abana bataha n'amaguru. | 아이들은 걸어서 집에 가요.
+w kwiga nimugoroba | 오후 수업 · 자습 | 자습
+e Kwiga nimugoroba ni ku wa mbere. | 오후 자습은 월요일이에요.
+e Abanyeshuri biga nimugoroba mu isomero. | 학생들이 오후에 도서관에서 공부해요.
+e Ndabafasha kwiga nimugoroba. | 오후 자습을 도와줘요.
+tp 르완다 학교는 보통 7시 반쯤 시작해서 오후 4~5시에 끝나요. 아침 조회에서 국가 Rwanda Nziza를 불러요.
+tp 하교하는 아이들에게 Mutahe amahoro!(평안히 가세요!)라고 인사해요.
+pr Kwinjira | 들어가다 || Gutaha | 집에 가다
+pr Ikiruhuko | 쉬는 시간 || Ifunguro | 급식
+dl 선생님 | Ikiruhuko kirarangiye! | 쉬는 시간 끝났어요!
+dl 학생 | Mwarimu, iminota itanu gusa! | 선생님, 5분만요!
+dl 선생님 | Oya, mwinjire mu ishuri. | 안 돼요, 교실에 들어가요.
+dl 학생 | Yego, mwarimu. | 네, 선생님.
+sm Twinjira mu ishuri saa moya, turuhuka saa yine, turya saa sita, tugataha saa kumi. | 7시에 교실에 들어가고, 10시에 쉬고, 12시에 먹고, 4시에 하교해요.
+qz '하교하다'는? | gutaha
+
+@ 1-06-07 | 학교 행사 | inama y'ababyeyi·imikino | 학교에서 열리는 행사예요.
+w inama y'ababyeyi | 학부모 회의 | 학부모 회의
+e Inama y'ababyeyi ni ku wa gatandatu. | 학부모 회의는 토요일이에요.
+e Ababyeyi benshi baje mu nama. | 학부모님이 많이 오셨어요.
+e Mu nama y'ababyeyi tuvuga ku manota. | 학부모 회의에서 성적 이야기를 해요.
+w imikino y'amashuri | 학교 대항 경기 | 학교 대항전
+e Imikino y'amashuri iratangira. | 학교 대항전이 시작돼요.
+e Ishuri ryacu ryatsinze mu mikino. | 우리 학교가 대회에서 이겼어요.
+e Abakinnyi bitoza imikino y'amashuri. | 선수들이 대항전을 연습해요.
+w umunsi w'ababyeyi | 부모님의 날 · 공개 수업 | 부모님의 날
+e Umunsi w'ababyeyi ni ejo. | 부모님의 날이 내일이에요.
+e Abana baririmba ku munsi w'ababyeyi. | 아이들이 부모님의 날에 노래해요.
+e Ababyeyi basura amashuri. | 부모님들이 학교를 방문해요.
+w gusoza umwaka | 종업하다 · 학년을 마치다 | 종업식
+e Twasoje umwaka w'amashuri. | 학년을 마쳤어요.
+e Ibirori byo gusoza umwaka. | 종업식.
+e Umwaka w'amashuri usozwa mu Kuboza. | 학년은 12월에 끝나요.
+w amanota | 성적 · 점수 | 성적
+e Amanota yawe ni meza. | 성적이 좋아요.
+e Yabonye amanota menshi. | 그는 점수를 많이 받았어요.
+e Indangamanota. | 성적표.
+w ikiruhuko kirekire | 방학 | 방학
+e Ikiruhuko kirekire gitangira mu Kuboza. | 방학은 12월에 시작해요.
+e Mu kiruhuko kirekire nzajya muri Koreya. | 방학에 한국에 갈 거예요.
+e Abana bari mu kiruhuko kirekire. | 아이들은 방학 중이에요.
+tp 르완다 학년은 보통 9월에 시작해서 다음 해 7월쯤 끝나요. 큰 방학은 그 뒤예요.
+tp 성적표는 indangamanota(점수를 보여 주는 것)라고 해요.
+pr Amanota | 성적 || Indangamanota | 성적표
+pr Inama y'ababyeyi | 학부모 회의 || Ikiruhuko kirekire | 방학
+dl 학부모 | Mwarimu, umwana wanjye yiga ate? | 선생님, 우리 아이 공부 어때요?
+dl 민준 | Amanota ye ni meza, cyane cyane imibare. | 성적이 좋아요, 특히 수학이요.
+dl 학부모 | Imana ishimwe! Murakoze. | 다행이에요! 고맙습니다.
+dl 민준 | Mukomeze kumufasha mu rugo. | 집에서도 계속 도와주세요.
+sm Mu nama y'ababyeyi twavuze ku manota, ku mikino no ku kiruhuko kirekire. | 학부모 회의에서 성적, 대회, 방학 이야기를 했어요.
+qz '성적'은? | amanota
+
+# P5-L | 수업
+
+@ 1-07-07 | 과학 수업 | ubumenyi·igerageza | 과학 시간에 쓰는 말이에요.
+w igerageza | 실험 | 실험
+e Uyu munsi dufite igerageza. | 오늘 실험이 있어요.
+e Igerageza ry'amazi. | 물 실험.
+e Igerageza ryagenze neza. | 실험이 잘됐어요.
+w ibimera | 식물 | 식물
+e Ibimera bikenera izuba. | 식물은 햇빛이 필요해요.
+e Ibimera n'inyamaswa. | 식물과 동물.
+e Twiga ku bimera. | 식물에 대해 배워요.
+w inyamaswa | 동물 (짐승) | 동물
+e Inyamaswa z'ishyamba. | 숲의 동물들.
+e Inzovu ni inyamaswa nini. | 코끼리는 큰 동물이에요.
+e Inyamaswa zimwe zirya ibyatsi. | 어떤 동물은 풀을 먹어요.
+w umubiri w'umuntu | 사람의 몸 | 인체
+e Umubiri w'umuntu ufite amagufa menshi. | 사람 몸에는 뼈가 많아요.
+e Twiga umubiri w'umuntu. | 인체를 배워요.
+e Umutima uri mu mubiri. | 심장은 몸 안에 있어요.
+w izuba n'ukwezi | 해와 달 | 해와 달
+e Isi izenguruka izuba. | 지구는 해를 돌아요.
+e Ukwezi kumurika nijoro. | 달은 밤에 빛나요.
+e Izuba ni inyenyeri. | 해는 별이에요.
+w umwuka | 공기 · 숨 | 공기
+e Dukenera umwuka. | 우리는 공기가 필요해요.
+e Umwuka mwiza w'imisozi. | 언덕의 맑은 공기.
+e Humeka umwuka. | 숨을 쉬어요.
+tp 과학은 ubumenyi(지식) 또는 siyansi라고 해요(→ 1-07-01).
+tp 동물 중 집짐승은 amatungo, 야생 동물은 inyamaswa라고 나눠 말해요.
+pr Ibimera | 식물 || Inyamaswa | 동물
+pr Izuba | 해 || Ukwezi | 달
+dl 선생님 | Ibimera bikenera iki? | 식물은 무엇이 필요해요?
+dl 학생 | Amazi n'izuba! | 물과 햇빛이요!
+dl 선생님 | Ni byo. N'iki kindi? | 맞아요. 또 뭐가 있죠?
+dl 학생 | Umwuka n'ubutaka. | 공기와 흙이요.
+sm Mu isomo ry'ubumenyi twakoze igerageza ku bimera, izuba n'umwuka. | 과학 시간에 식물, 햇빛, 공기에 관한 실험을 했어요.
+qz '동물(야생)'은? | inyamaswa
+
+@ 1-07-08 | 지리 수업 | ikarita·umugabane | 지리 시간에 쓰는 말이에요.
+w ikarita y'isi | 세계 지도 | 세계 지도
+e Reba ku ikarita y'isi. | 세계 지도를 봐요.
+e Koreya iri he ku ikarita y'isi? | 세계 지도에서 한국은 어디예요?
+e Ikarita y'isi iri ku rukuta. | 세계 지도가 벽에 있어요.
+w umugabane | 대륙 | 대륙
+e Afurika ni umugabane munini. | 아프리카는 큰 대륙이에요.
+e Koreya iri ku mugabane wa Aziya. | 한국은 아시아 대륙에 있어요.
+e Isi ifite imigabane irindwi. | 세계에는 대륙이 일곱 개 있어요.
+w igihugu | 나라 | 나라
+e U Rwanda ni igihugu gito. | 르완다는 작은 나라예요.
+e Ibihugu bituranye n'u Rwanda. | 르완다의 이웃 나라들.
+e Igihugu cyawe ni ikihe? | 어느 나라 사람이에요?
+w umupaka | 국경 | 국경
+e Umupaka wa Uganda. | 우간다 국경.
+e Twambutse umupaka. | 국경을 넘었어요.
+e U Rwanda rufite imipaka ine. | 르완다는 국경이 네 곳이에요.
+w ibirunga | 화산들 | 화산들
+e Ibirunga biri mu majyaruguru. | 화산들은 북쪽에 있어요.
+e Pariki y'Ibirunga. | 화산 국립공원.
+e Ikirunga cya Karisimbi ni kirekire. | 카리심비 화산은 높아요.
+w uruzi rwa Nili | 나일강 | 나일강
+e Uruzi rwa Nili rutangirira mu Rwanda. | 나일강은 르완다에서 시작해요.
+e Uruzi rwa Nili ni rurerure cyane. | 나일강은 아주 길어요.
+e Isoko ya Nili iri muri Nyungwe. | 나일강의 수원은 늉궤에 있어요.
+tp 르완다 이웃 나라: Uganda(북), Tanzaniya(동), u Burundi(남), DR Congo(서).
+tp 가장 높은 산은 카리심비(Karisimbi) 화산, 4,507미터예요.
+pr Igihugu | 나라 || Umupaka | 국경
+pr Umugabane | 대륙 || Ibirunga | 화산들
+dl 선생님 | U Rwanda ruri ku mugabane uwuhe? | 르완다는 어느 대륙에 있어요?
+dl 학생 | Afurika! | 아프리카요!
+dl 선생님 | Na Koreya? | 그럼 한국은요?
+dl 학생 | Aziya. Ni kure cyane! | 아시아요. 아주 멀어요!
+sm Ku ikarita y'isi, u Rwanda ni igihugu gito muri Afurika, gifite ibirunga n'isoko ya Nili. | 세계 지도에서 르완다는 아프리카의 작은 나라이고, 화산과 나일강의 수원이 있어요.
+qz '나라'는? | igihugu
+
+@ 1-07-09 | 한국어 수업 | Hangeul·Annyeonghaseyo | 한국어를 가르칠 때 쓰는 말이에요.
+w inyuguti za Hangeul | 한글 글자 | 한글
+e Inyuguti za Hangeul ni 24. | 한글 글자는 24개예요.
+e Twiga inyuguti za Hangeul. | 한글을 배워요.
+e Andika izina ryawe mu nyuguti za Hangeul. | 한글로 이름을 써 봐요.
+w gusuhuza mu Gikoreya | 한국어로 인사하다 | 한국어 인사
+e "Annyeonghaseyo" ni "Muraho" mu Gikoreya. | '안녕하세요'는 한국어로 Muraho예요.
+e Reka dusuhuze mu Gikoreya. | 한국어로 인사해 봐요.
+e "Gamsahamnida" ni "Murakoze". | '감사합니다'는 Murakoze예요.
+w gusubiramo nyuma yanjye | 나를 따라 하다 | 따라 하기
+e Musubiremo nyuma yanjye. | 저를 따라 하세요.
+e Subiramo nyuma yanjye: "an-nyeong". | 따라 해요: '안녕'.
+e Bose basubiramo nyuma ya mwarimu. | 모두 선생님을 따라 해요.
+w inyajwi n'ingombajwi | 모음과 자음 | 모음과 자음
+e Inyajwi ni a, e, i, o, u. | 모음은 a, e, i, o, u예요.
+e Hangeul ifite ingombajwi 14. | 한글은 자음이 14개예요.
+e Inyajwi n'ingombajwi zihura. | 모음과 자음이 만나요.
+w umuco wa Koreya | 한국 문화 | 한국 문화
+e Twize umuco wa Koreya. | 한국 문화를 배웠어요.
+e K-pop ni igice cy'umuco wa Koreya. | 케이팝은 한국 문화의 일부예요.
+e Umuco wa Koreya urashimishije. | 한국 문화는 재미있어요.
+w Taekwondo | 태권도 | 태권도
+e Twiga Taekwondo ku wa gatanu. | 금요일에 태권도를 배워요.
+e Taekwondo ikomoka muri Koreya. | 태권도는 한국에서 왔어요.
+e Abana bakunda Taekwondo. | 아이들은 태권도를 좋아해요.
+tp 르완다어로 모음은 inyajwi, 자음은 ingombajwi예요. 한글을 가르칠 때 유용해요.
+tp 르완다에는 태권도를 배우는 아이들이 많아요. 한국 봉사자들이 가르치기도 해요.
+pr Inyajwi | 모음 || Ingombajwi | 자음
+pr Annyeonghaseyo | 안녕하세요 || Gamsahamnida | 감사합니다
+dl 민준 | Mwiriwe! Uyu munsi twiga Hangeul. | 안녕하세요! 오늘은 한글을 배워요.
+dl 학생들 | Annyeonghaseyo, mwarimu! | 안녕하세요, 선생님!
+dl 민준 | Ni byiza cyane! Musubiremo nyuma yanjye. | 아주 좋아요! 저를 따라 하세요.
+dl 학생들 | Yego! | 네!
+sm Mu isomo ry'Igikoreya twize inyuguti za Hangeul, gusuhuza n'umuco wa Koreya. | 한국어 시간에 한글, 인사, 한국 문화를 배웠어요.
+qz '모음'은? | inyajwi
+
+@ 1-07-10 | 수업 관리 | guceceka·kwitaba | 교실을 관리할 때 쓰는 말이에요.
+w kwitaba | (이름을 부르면) 대답하다 | 부름에 대답하다
+e Mwitabe iyo mbahamagaye. | 이름을 부르면 대답하세요.
+e Keza? — Ndahari! | 케자? — 여기요!
+e Abatitabye ni batatu. | 대답 안 한 사람이 세 명이에요.
+w Ndahari | 여기 있어요 (출석) | 여기 있어요
+e Ndahari, mwarimu! | 여기 있어요, 선생님!
+e Eric? — Ndahari. | 에릭? — 여기요.
+e Ni nde utahari? | 누가 안 왔어요?
+w Mwicecekere | 조용히 하세요 | 조용히 하세요
+e Mwicecekere, nyabuneka! | 조용히 해 주세요!
+e Bana, mwicecekere. | 얘들아, 조용히.
+e Ishuri ryose ryicecekere. | 반 전체 조용히.
+w Muzamure ukuboko | 손을 드세요 | 손 드세요
+e Uzi igisubizo, zamura ukuboko. | 답을 알면 손 들어요.
+e Muzamure ukuboko mbere yo kuvuga. | 말하기 전에 손 들어요.
+e Abazi bazamure ukuboko. | 아는 사람 손 들어요.
+w Mukore amatsinda | 모둠을 만드세요 | 모둠 만들기
+e Mukore amatsinda ane. | 네 모둠을 만들어요.
+e Buri tsinda rifite abantu batanu. | 모둠마다 다섯 명이에요.
+e Mukorere mu matsinda. | 모둠으로 활동해요.
+w Mwiteguye? | 준비됐어요? | 준비됐어요?
+e Mwiteguye? — Yego! | 준비됐어요? — 네!
+e Nditeguye. | 준비됐어요.
+e Ntabwo turiteguye. | 아직 준비 안 됐어요.
+tp 출석은 이름을 부르면 Ndahari(여기 있어요)라고 대답해요.
+tp 반 전체에 하는 지시는 mu-…-e 꼴(Mwicecekere, Muzamure)로 공손하게 해요(→ 7-04-05).
+pr Ndahari | 여기 있어요 || Ntahari | 안 왔어요
+pr Mwicecekere | 조용히 || Muzamure ukuboko | 손 들어요
+dl 선생님 | Mwiriwe! Reka mpamagare amazina. Keza? | 안녕하세요! 출석 부를게요. 케자?
+dl 케자 | Ndahari! | 여기요!
+dl 선생님 | Eric? … Eric ntahari? | 에릭? … 에릭 안 왔어요?
+dl 학생 | Ararwaye, mwarimu. | 아파요, 선생님.
+sm Mwarimu yahamagaye amazina, asaba abana guceceka, maze bakora amatsinda. | 선생님이 출석을 부르고 조용히 하라고 한 다음 모둠을 만들었어요.
+qz 출석 때 '여기 있어요'는? | Ndahari
+
+# P5-F | 숙소·집
+
+@ 1-08-06 | 가구·살림 | akabati·ameza·intebe | 집 안 가구와 살림살이예요.
+w akabati | 장 · 찬장 · 옷장 | 장
+e Shyira imyenda mu kabati. | 옷을 옷장에 넣어요.
+e Akabati k'igikoni. | 부엌 찬장.
+e Akabati karafunze. | 장이 잠겨 있어요.
+w matela | 매트리스 | 매트리스
+e Matela nshya. | 새 매트리스.
+e Matela iri ku buriri. | 매트리스가 침대 위에 있어요.
+e Matela irakomeye. | 매트리스가 딱딱해요.
+w inzitiramibu | 모기장 | 모기장
+e Ryama mu nzitiramibu. | 모기장 안에서 자요.
+e Inzitiramibu irimo umwobo. | 모기장에 구멍이 났어요.
+e Inzitiramibu irinda malariya. | 모기장은 말라리아를 막아 줘요.
+w itapi | 깔개 · 카펫 | 깔개
+e Itapi iri hasi. | 깔개가 바닥에 있어요.
+e Sukura itapi. | 깔개를 청소해요.
+e Itapi nziza. | 예쁜 깔개.
+w ishuka | 침대 시트 · 이불 | 시트
+e Hindura amashuka. | 시트를 바꿔요.
+e Ishuka isukuye. | 깨끗한 시트.
+e Amashuka abiri. | 시트 두 장.
+w umusego | 베개 | 베개
+e Mpa undi musego. | 베개 하나 더 줘요.
+e Umusego woroshye. | 부드러운 베개.
+e Umusego uri ku buriri. | 베개가 침대 위에 있어요.
+tp 르완다에서는 말라리아 때문에 모기장(inzitiramibu)을 꼭 쳐요. 구멍이 나면 바로 바꿔요.
+tp 프랑스어에서 온 말: matela(matelas), itapi(tapis).
+pr Akabati | 장 || Matela | 매트리스
+pr Inzitiramibu | 모기장 || Umusego | 베개
+dl 손님 | Inzitiramibu irimo umwobo. | 모기장에 구멍이 있어요.
+dl 직원 | Mbabarira. Nzayihindura. | 죄송해요. 바꿔 드릴게요.
+dl 손님 | Kandi mpa undi musego. | 그리고 베개 하나 더 주세요.
+dl 직원 | Yego, ako kanya. | 네, 바로요.
+sm Mu cyumba hari uburiri, matela, umusego, amashuka, inzitiramibu n'akabati. | 방에는 침대, 매트리스, 베개, 시트, 모기장, 옷장이 있어요.
+qz '모기장'은? | inzitiramibu
+
+@ 1-08-07 | 고장·수리 | byapfuye·gusana | 집에서 뭔가 고장 났을 때 쓰는 말이에요.
+w byapfuye | 고장 났어요 | 고장 났어요
+e Itara ryapfuye. | 전등이 고장 났어요.
+e Robine yapfuye. | 수도꼭지가 고장 났어요.
+e Telefoni yanjye yapfuye. | 휴대폰이 고장 났어요.
+w gusana | 고치다 · 수리하다 | 고치다
+e Mushobora kubisana? | 고칠 수 있어요?
+e Umukozi azaza gusana. | 직원이 고치러 올 거예요.
+e Basannye urugi. | 문을 고쳤어요.
+w amazi ntaza | 물이 안 나와요 | 물이 안 나와요
+e Amazi ntaza mu bwiherero. | 화장실에 물이 안 나와요.
+e Kuva ejo amazi ntaza. | 어제부터 물이 안 나와요.
+e Amazi ntaza, ndabigenza nte? | 물이 안 나오는데 어떻게 해요?
+w umuriro wabuze | 전기가 나갔어요 | 정전
+e Umuriro wabuze! | 정전이에요!
+e Umuriro wagarutse. | 전기가 들어왔어요.
+e Umuriro ubura kenshi nijoro. | 밤에 자주 정전돼요.
+w cash power | 선불 전기 충전 | 전기 충전
+e Ngomba kugura cash power. | 전기를 충전해야 해요.
+e Cash power yarangiye. | 전기 충전이 다 됐어요(없어요).
+e Gura cash power kuri MoMo. | MoMo로 전기를 충전해요.
+w umufundi | 수리공 · 기술자 | 수리공
+e Hamagara umufundi. | 수리공을 불러요.
+e Umufundi w'amazi. | 배관공.
+e Umufundi yaje gusana. | 수리공이 고치러 왔어요.
+tp 르완다 집 전기는 대부분 선불이에요. 전기가 끊기면 정전인지 충전(cash power)이 끝난 건지 먼저 확인해요.
+tp 고장은 ○○ cyapfuye/yapfuye(○○이 죽었어요 = 고장 났어요)라고 해요.
+pr Byapfuye | 고장 났어요 || Gusana | 고치다
+pr Umuriro wabuze | 정전 || Umuriro wagarutse | 전기 들어옴
+dl 민준 | Umuriro wabuze. | 전기가 나갔어요.
+dl 집주인 | Wareba cash power? | 전기 충전 확인했어요?
+dl 민준 | Ahaa, yarangiye! Ngiye kugura kuri MoMo. | 아, 다 됐네요! MoMo로 살게요.
+dl 집주인 | Ni byiza. | 좋아요.
+sm Umuriro wabuze n'amazi ntaza, rero nahamagaye umufundi ngo aze gusana. | 정전되고 물도 안 나와서 수리공에게 고쳐 달라고 전화했어요.
+qz '고치다'는? | gusana
+
+# P5-D | 병원
+
+@ 1-09-06 | 약국·약 먹기 | ibinini·inshuro | 약을 받고 먹는 방법을 말하는 말이에요.
+w ibinini | 알약 | 알약
+e Ibinini bibiri. | 알약 두 개.
+e Mira ibinini n'amazi. | 물과 함께 알약을 삼켜요.
+e Ibinini by'umutwe. | 두통약.
+w inshuro eshatu ku munsi | 하루 세 번 | 하루 세 번
+e Nywa inshuro eshatu ku munsi. | 하루 세 번 드세요.
+e Inshuro ebyiri ku munsi. | 하루 두 번.
+e Rimwe ku munsi. | 하루 한 번.
+w nyuma yo kurya | 식후에 | 식후
+e Nywa nyuma yo kurya. | 식후에 드세요.
+e Mbere yo kurya cyangwa nyuma? | 식전이요, 식후요?
+e Nyuma yo kurya iminota mirongo itatu. | 식후 30분에.
+w siro | 시럽 (물약) | 시럽
+e Siro y'inkorora. | 기침 시럽.
+e Ikiyiko kimwe cya siro. | 시럽 한 숟가락.
+e Siro y'abana. | 어린이 시럽.
+w urupapuro rw'umuganga | 처방전 | 처방전
+e Mfite urupapuro rw'umuganga. | 처방전이 있어요.
+e Uyu muti ukenera urupapuro rw'umuganga. | 이 약은 처방전이 필요해요.
+e Erekana urupapuro rw'umuganga. | 처방전을 보여 주세요.
+w ingaruka | 부작용 · 결과 | 부작용
+e Uyu muti ufite ingaruka? | 이 약 부작용 있어요?
+e Ingaruka ni ibitotsi. | 부작용은 졸음이에요.
+e Nta ngaruka. | 부작용 없어요.
+tp 약사에게 Nywa ryari?(언제 먹어요?), Inshuro zingahe?(몇 번이요?)라고 물어봐요.
+tp 약을 '먹다'는 kunywa(마시다)를 써요: Nywa ibinini(알약을 드세요).
+pr Mbere yo kurya | 식전 || Nyuma yo kurya | 식후
+pr Ibinini | 알약 || Siro | 시럽
+dl 약사 | Nywa ibi binini inshuro ebyiri ku munsi. | 이 알약을 하루 두 번 드세요.
+dl 수아 | Mbere cyangwa nyuma yo kurya? | 식전이요, 식후요?
+dl 약사 | Nyuma yo kurya. | 식후에요.
+dl 수아 | Bifite ingaruka? | 부작용 있어요?
+sm Nywa ibinini bibiri inshuro eshatu ku munsi nyuma yo kurya. | 알약 두 개를 하루 세 번 식후에 드세요.
+qz '알약'은? | ibinini
+
+@ 1-09-07 | 말라리아 예방 | umubu·inzitiramibu | 말라리아를 막는 말이에요.
+w kurumwa n'umubu | 모기에 물리다 | 모기에 물리다
+e Narumwe n'umubu. | 모기에 물렸어요.
+e Wirinde kurumwa n'imibu. | 모기에 물리지 않게 조심해요.
+e Abana barumwa n'imibu nijoro. | 아이들은 밤에 모기에 물려요.
+w umuti wirukana imibu | 모기 기피제 | 모기 기피제
+e Isige umuti wirukana imibu. | 모기 기피제를 발라요.
+e Ufite umuti wirukana imibu? | 모기 기피제 있어요?
+e Gura umuti wirukana imibu muri farumasi. | 약국에서 모기 기피제를 사요.
+w gupimisha | 검사받다 | 검사받다
+e Jya gupimisha malariya. | 말라리아 검사받으러 가요.
+e Napimishije, nta malariya mfite. | 검사받았는데 말라리아 아니에요.
+e Gupimisha ni ubuntu. | 검사는 무료예요.
+w ibimenyetso | 증상 · 표시 | 증상
+e Ibimenyetso bya malariya. | 말라리아 증상.
+e Ibimenyetso ni umuriro n'umutwe. | 증상은 열과 두통이에요.
+e Ufite ibihe bimenyetso? | 어떤 증상이 있어요?
+w amazi ateretse | 고인 물 | 고인 물
+e Imibu ivukira mu mazi ateretse. | 모기는 고인 물에서 생겨요.
+e Kuraho amazi ateretse. | 고인 물을 없애요.
+e Nta mazi ateretse hafi y'inzu. | 집 근처에 고인 물이 없어요.
+w umujyanama w'ubuzima | 마을 보건 요원 | 보건 요원
+e Umujyanama w'ubuzima atuye mu mudugudu. | 보건 요원이 마을에 살아요.
+e Jya ku mujyanama w'ubuzima. | 보건 요원에게 가요.
+e Umujyanama w'ubuzima apima malariya. | 보건 요원이 말라리아 검사를 해요.
+tp 열이 나면 바로 말라리아 검사(gupimisha)를 받아요. 마을마다 보건 요원(umujyanama w'ubuzima)이 있어요.
+tp 저녁에는 긴소매를 입고, 모기장 안에서 자요.
+pr Umubu | 모기 || Imibu | 모기들
+pr Gupimisha | 검사받다 || Ibimenyetso | 증상
+dl 수아 | Mfite umuriro n'umutwe. | 열이 나고 머리가 아파요.
+dl 무기샤 | Ibyo ni ibimenyetso bya malariya. Jya gupimisha! | 말라리아 증상이에요. 검사받아요!
+dl 수아 | He? | 어디서요?
+dl 무기샤 | Ku mujyanama w'ubuzima cyangwa ku ivuriro. | 보건 요원이나 진료소에서요.
+sm Kugira ngo wirinde malariya, ryama mu nzitiramibu, isige umuti wirukana imibu, kandi kuraho amazi ateretse. | 말라리아를 막으려면 모기장에서 자고, 기피제를 바르고, 고인 물을 없애요.
+qz '증상'은? | ibimenyetso
+x mwinjire | 들어가세요
+x annyeonghaseyo | 안녕하세요(한국어)
+x amashuka | 시트들
+x twinjira | 우리는 들어간다
+x kirarangiye | 끝났다
+x mikino | 경기
+x indangamanota | 성적표
+x bikenera | 필요로 한다
+x gamsahamnida | 감사합니다(한국어)
+x ingombajwi | 자음
+x mwitabe | 대답하세요
+x mbahamagaye | 내가 여러분을 부르다
+x mpamagare | 내가 부르다
+x amazina | 이름들
+x ntahari | 없다(안 왔다)
+x irimo | 안에 있다
+x umwobo | 구멍
+x yapfuye | 고장 났다
+x yarangiye | 다 됐다
+x isige | 발라라
+x kuraho | 없애라
+x mujyanama | 상담원, 요원
+x binjira | 들어간다
+x turirimba | 우리는 노래한다
+x kimara | 걸린다(지속)
+x babona | 받는다
+x dutaha | 우리는 집에 간다
+x mutahe | 집에 가세요
+x bataha | 집에 간다
+x ndabafasha | 그들을 돕는다
+x turuhuka | 우리는 쉰다
+x tugataha | 그리고 집에 간다
+x bitoza | 연습한다
+x twasoje | 우리는 마쳤다
+x usozwa | 끝난다
+x gitangira | 시작한다
+x kumufasha | 그를 돕다
+x twavuze | 우리는 말했다
+x ryagenze | 진행됐다
+x zimwe | 어떤
+x zirya | 먹는다
+x amagufa | 뼈들
+x izenguruka | 돈다
+x kumurika | 빛난다
+x inyenyeri | 별
+x dukenera | 우리는 필요로 한다
+x humeka | 숨 쉬어라
+x imigabane | 대륙들
+x bituranye | 이웃한
+x imipaka | 국경들
+x ine | 넷
+x ikirunga | 화산
+x karisimbi | 카리심비(화산)
+x rutangirira | 시작한다
+x dusuhuze | 인사하자
+x an-nyeong | 안녕(한국어)
+x basubiramo | 따라 한다
+x a | 아
+x e | 에
+x o | 오
+x u | 우
+x zihura | 만난다
+x k-pop | 케이팝
+x ikomoka | ~에서 왔다
+x inyajwi | 모음
+x abatitabye | 결석한 사람들
+x utahari | 없는(사람)
+x ryicecekere | 조용히 해라
+x abazi | 아는 사람들
+x bazamure | 들어라
+x ane | 네
+x mukorere | 활동하세요
+x nditeguye | 나는 준비됐다
+x turiteguye | 우리는 준비됐다
+x ararwaye | 아프다
+x yahamagaye | 그가 불렀다
+x asaba | 그가 부탁하다
+x abasaba | 그들에게 부탁한다
+x guceceka | 조용히 하다
+x karafunze | 잠겨 있다
+x irinda | 막아 준다
+x hindura | 바꿔라
+x woroshye | 부드러운
+x nzayihindura | 그것을 바꿀게
+x ryapfuye | 고장 났다
+x robine | 수도꼭지
+x mushobora | 여러분은 할 수 있다
+x kubisana | 그것을 고치다
+x basannye | 고쳤다
+x ndabigenza nte | 어떻게 하지
+x ubura | 없어진다
+x nahamagaye | 나는 전화했다
+x aze | 와서
+x mira | 삼켜라
+x ukenera | 필요로 한다
+x ibitotsi | 졸음
+x inshuro | 횟수
+x bifite | 가지고 있다
+x narumwe | 나는 물렸다
+x barumwa | 물린다
+x napimishije | 나는 검사받았다
+x ibihe | 어떤
+x ivukira | 생긴다
+x apima | 검사한다

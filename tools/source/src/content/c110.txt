@@ -1,0 +1,103 @@
+# P5-G | 은행·통신
+
+@ 1-10-01 | 은행·돈 | banki·MoMo | 은행과 돈에 관한 말이에요. 르완다는 휴대폰 돈(MoMo)을 아주 많이 써요.
+w banki | 은행 | 은행
+e Ngiye kuri banki. | 은행에 가요.
+e Banki ifunga saa kumi n'imwe. | 은행은 5시에 문 닫아요.
+w kuvunjisha | 환전하다 | 환전하다
+e Ndashaka kuvunjisha amadolari. | 달러를 환전하고 싶어요.
+e Nshobora kuvunjisha he? | 어디서 환전할 수 있어요?
+w kohereza amafaranga | 돈을 보내다 | 송금하다
+e Nzakoherereza amafaranga kuri MoMo. | 모모로 돈을 보낼게요.
+e Ndashaka kohereza amafaranga muri Koreya. | 한국에 돈을 보내고 싶어요.
+w kubikuza | 돈을 찾다 · 인출하다 | 인출하다
+e Ngiye kubikuza amafaranga. | 돈을 찾으러 가요.
+e ATM iri he yo kubikuza? | 돈 찾을 ATM이 어디 있어요?
+w konti | 계좌 | 계좌
+e Mfite konti muri Banki ya Kigali. | 키갈리 은행에 계좌가 있어요.
+e Ndashaka gufungura konti. | 계좌를 만들고 싶어요.
+w MoMo | 모바일 머니 · 휴대폰 돈 | 모바일 머니
+e Nishyura kuri MoMo. | 모모로 낼게요.
+e Ufite MoMo? | 모모 있어요?
+w amadolari | 달러 | 달러
+e Idolari rimwe ni angahe? | 1달러에 얼마예요?
+e Mfite amadolari ijana. | 100달러 있어요.
+tp 르완다에서는 작은 가게와 모토 요금까지 휴대폰으로 많이 내요. 이것을 MoMo(Mobile Money)라고 해요.
+tp '보내다'는 kohereza, '돈을 찾다'는 kubikuza예요.
+pr Kohereza | 보내다 || Kwakira | 받다
+pr Kubitsa | 맡기다(저금) || Kubikuza | 찾다(인출)
+dl 직원 | Mwaramutse, mbafashe iki? | 안녕하세요, 무엇을 도와드릴까요?
+dl 민준 | Ndashaka kuvunjisha amadolari magana abiri. | 200달러를 환전하고 싶어요.
+dl 직원 | Mufite pasiporo? | 여권 있으세요?
+dl 민준 | Yego, dore. | 네, 여기요.
+sm Navunjishije amadolari, hanyuma nohereza amafaranga kuri MoMo. | 달러를 환전한 다음 모모로 돈을 보냈어요.
+qz '은행'은? | banki
+
+@ 1-10-02 | 휴대폰·인터넷 | telefoni·interineti | 휴대폰과 인터넷에 관한 말이에요.
+w telefoni | 휴대폰 · 전화 | 휴대폰; 전화
+e Telefoni yanjye yabuze. | 휴대폰을 잃어버렸어요.
+e Nimero ya telefoni yawe ni iyihe? | 전화번호가 뭐예요?
+w guhamagara | 전화하다 · 부르다 | 전화하다; 부르다
+e Nzaguhamagara nimugoroba. | 저녁에 전화할게요.
+e Mpamagara ejo. | 내일 전화해 줘요.
+w ubutumwa | 메시지 · 문자 | 메시지
+e Nkoherereza ubutumwa. | 메시지 보내 줘요.
+e Nabonye ubutumwa bwawe. | 메시지 받았어요.
+w interineti | 인터넷 | 인터넷
+e Interineti iratinda uyu munsi. | 오늘 인터넷이 느려요.
+e Hano hari interineti? | 여기 인터넷 돼요?
+w Wi-Fi | 와이파이 | 와이파이
+e Ijambo ry'ibanga rya Wi-Fi ni irihe? | 와이파이 비밀번호가 뭐예요?
+e Wi-Fi ntikora. | 와이파이가 안 돼요.
+w ikarita ya SIM | 유심 카드 | 유심 카드
+e Ndashaka kugura ikarita ya SIM. | 유심을 사고 싶어요.
+e Ikarita ya SIM ni magana atanu. | 유심은 500프랑이에요.
+w ama-inite | 통화·데이터 충전 · 유닛 | 충전(유닛)
+e Ndashaka kugura ama-inite. | 충전하고 싶어요.
+e Ama-inite yanjye yashize. | 충전한 게 다 떨어졌어요.
+tp 르완다 휴대폰 회사는 MTN과 Airtel이 있어요. 유심 카드는 여권만 있으면 쉽게 살 수 있어요.
+tp 통화·데이터를 채우는 것을 '유닛'(ama-inite)이라고 많이 말해요.
+pr Hamagara. | 전화해. || Ohereza ubutumwa. | 문자 보내.
+pr Interineti irihuta. | 인터넷이 빨라요. || Interineti iratinda. | 인터넷이 느려요.
+dl 수아 | Hano hari Wi-Fi? | 여기 와이파이 돼요?
+dl 하비마나 | Yego. Ijambo ry'ibanga ni "kigali2026". | 네. 비밀번호는 'kigali2026'이에요.
+dl 수아 | Ntikora… | 안 되는데요…
+dl 하비마나 | Ongera ugerageze. Ubu irakora? | 다시 해 봐요. 이제 돼요?
+sm Nguze ikarita ya SIM n'ama-inite, ubu mfite interineti. | 유심과 충전을 사서 이제 인터넷이 돼요.
+qz '메시지'는? | ubutumwa
+x ifunga | 문을 닫는다
+x saa kumi n'imwe | 5시
+x amadolari | 달러
+x nzakoherereza | 내가 너에게 보낼 것이다
+x kohereza | 보내다
+x atm | 현금 인출기
+x yo | ~할
+x banki ya kigali | 키갈리 은행
+x gufungura | 열다, 만들다
+x nishyura | 내가 낸다
+x idolari | 달러(하나)
+x kwakira | 받다
+x kubitsa | 저금하다
+x pasiporo | 여권
+x navunjishije | 나는 환전했다
+x nohereza | 그리고 나는 보냈다
+x yabuze | 잃어버렸다
+x nimero | 번호
+x iyihe | 무엇, 어느 것
+x nzaguhamagara | 내가 너에게 전화할 것이다
+x mpamagara | 나에게 전화해
+x nkoherereza | 나에게 보내 줘
+x bwawe | 너의
+x iratinda | 느리다
+x irihuta | 빠르다
+x ry'ibanga | 비밀의
+x ijambo ry'ibanga | 비밀번호
+x rya | ~의
+x ntikora | 작동하지 않는다
+x ikarita | 카드
+x sim | 유심
+x yashize | 다 떨어졌다
+x ohereza | 보내라
+x irakora | 작동한다
+x n'ama-inite | 그리고 충전
+x kigali2026 | (비밀번호)

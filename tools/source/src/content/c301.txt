@@ -1,0 +1,207 @@
+# P3-A | 비슷한 동사
+
+@ 3-01-01 | 말하다·이야기하다 | kuvuga·kubwira | 모두 '말하다'지만 쓰임이 달라요. kubwira는 '누구에게' 말할 때 써요.
+w kuvuga | 말하다 · 언어를 하다 | 말하다
+e Vuga buhoro, nyabuneka. | 천천히 말해 주세요.
+e Uvuga Ikinyarwanda? | 르완다어 할 줄 알아요?
+w kubwira | ~에게 말하다 · 알려 주다 | (누구에게) 말하다
+e Mbwira izina ryawe. | 이름을 말해 줘.
+e Nzakubwira ejo. | 내일 알려 줄게.
+w kuganira | 이야기를 나누다 | 이야기하다; 대화하다
+e Turaganira nimugoroba. | 우리는 저녁에 이야기를 나눠요.
+e Nkunda kuganira n'abantu. | 사람들과 이야기하는 걸 좋아해요.
+w gusobanura | 설명하다 | 설명하다; 뜻하다
+e Sobanura neza, nyabuneka. | 잘 설명해 주세요.
+e Mwarimu yasobanuye isomo. | 선생님이 수업을 설명했어요.
+tp kuvuga = 말을 하다(Vuga! 말해!), kubwira = 누구에게 말하다(Mbwira! 나에게 말해!), kuganira = 함께 이야기 나누다.
+tp '~를 할 줄 알다(언어)'는 kuvuga: Uvuga Icyongereza?(영어 해요?)
+pr Vuga. | 말해. || Mbwira. | 나한테 말해.
+pr Kuganira | 대화하다 || Gusobanura | 설명하다
+dl 수아 | Mbwira, iri jambo risobanura iki? | 말해 줘요, 이 낱말 무슨 뜻이에요?
+dl 하비마나 | Reka ngusobanurire. | 설명해 줄게요.
+dl 수아 | Vuga buhoro, nyabuneka. | 천천히 말해 주세요.
+dl 하비마나 | Sawa. Tuganire buhoro buhoro. | 좋아요. 천천히 이야기해요.
+sm Mbwira, uvuga indimi zingahe? | 말해 줘요, 몇 개 언어를 해요?
+qz '누구에게 말하다'는? | kubwira
+
+@ 3-01-02 | 보다·알다·듣다 | kureba·kubona·kumenya | '보다'도 두 가지예요. kureba는 일부러 보다, kubona는 눈에 보이다·만나다예요.
+w kureba | 보다 · 쳐다보다 | 보다(일부러)
+e Reba ku kibaho. | 칠판을 봐요.
+e Ndashaka kureba filime. | 영화를 보고 싶어요.
+w kubona | 보이다 · 만나다 · 얻다 | 보다(보이다); 만나다; 얻다
+e Nakubonye ku isoko. | 시장에서 너를 봤어.
+e Nabonye akazi. | 일자리를 얻었어요.
+w kumenya | 알다 · 알게 되다 | 알다
+e Ndashaka kumenya Ikinyarwanda. | 르완다어를 알고 싶어요.
+e Nashakaga kumenya aho ishuri riri. | 학교가 어디 있는지 알고 싶었어요.
+w kumva | 듣다 · 이해하다 · 느끼다 | 듣다; 이해하다; 느끼다
+e Ndumva umuziki. | 음악을 들어요.
+e Ndumva ndananiwe. | 피곤하게 느껴져요.
+tp kureba = 쳐다보다(Reba! 봐!), kubona = 눈에 들어오다·찾다·만나다(Nakubonye 너를 봤어).
+tp kumva는 '듣다·이해하다·느끼다' 세 가지 뜻이에요: Ndabyumva(이해해요), Ndumva ndwaye(아픈 것 같아요).
+pr Reba! | 봐! || Wabonye? | 봤어?
+pr Ndabizi. | 알아요. || Ndabyumva. | 이해해요.
+dl 케자 | Wabonye Minjun? | 민준 봤어요?
+dl 수아 | Oya, simubonye. Reba hariya! | 아니요, 못 봤어요. 저기 봐요!
+dl 케자 | Yego, ndamubonye! | 아, 보여요!
+dl 수아 | Minjun! Uratwumva? | 민준! 우리 말 들려요?
+sm Narebye hose ariko sinabonye urufunguzo rwanjye. | 여기저기 봤는데 열쇠를 못 찾았어요.
+qz '(일부러) 보다'는? | kureba
+
+@ 3-01-03 | 가다·오다·돌아가다 | kujya·kugenda·gutaha | 가는 말이 여럿이에요. 목적지를 말할 때는 kujya, 떠날 때는 kugenda, 집에 갈 때는 gutaha예요.
+w kujya | (어디로) 가다 | 가다(목적지로)
+e Njya ku ishuri. | 학교에 가요.
+e Ujya he? | 어디 가요?
+w kugenda | 떠나다 · 걷다 · 가다 | 떠나다; 가다
+e Ndagenda ubu. | 지금 떠나요.
+e Tugende n'amaguru. | 걸어가요.
+w gutaha | 집에 가다 · 귀가하다 | 집에 가다
+e Ngiye gutaha. | 집에 갈게요.
+e Utaha ryari? | 언제 집에 가요?
+w kugaruka | 돌아오다 | 돌아오다
+e Nzagaruka vuba. | 곧 돌아올게요.
+e Yagarutse muri Koreya. | 그는 한국에서 돌아왔어요.
+w kugera | 도착하다 | 도착하다
+e Twageze i Kigali. | 키갈리에 도착했어요.
+e Uzagera ryari? | 언제 도착해요?
+tp 목적지가 있으면 kujya: Njya ku isoko(시장에 가요). 그냥 '떠나요'는 Ndagenda.
+tp gutaha는 '집(또는 고향)에 돌아가다'예요. 수업이 끝나면 Turatashye!(집에 가요!)
+pr Kujya | 가다 || Kuza | 오다
+pr Kugenda | 떠나다 || Kugaruka | 돌아오다
+dl 엄마 | Ujya he? | 어디 가니?
+dl 민준 | Njya ku isoko, nzagaruka vuba. | 시장에 가요, 곧 돌아올게요.
+dl 엄마 | Uzataha ryari? | 언제 집에 올 거니?
+dl 민준 | Saa kumi n'imwe. | 5시에요.
+sm Njya ku kazi mu gitondo, ngataha nimugoroba. | 아침에 일하러 가고 저녁에 집에 와요.
+qz '집에 가다'는? | gutaha
+
+@ 3-01-04 | 주다·가져오다·가져가다 | guha·kuzana·gutwara | 물건을 주고 옮기는 말이에요.
+w guha | (누구에게) 주다 | 주다
+e Mpa amazi. | 물 주세요.
+e Nzaguha igitabo. | 책을 줄게.
+w gutanga | 내주다 · 바치다 | 주다; 내다
+e Tanga umukoro. | 숙제를 내요.
+e Yatanze amafaranga. | 그는 돈을 냈어요.
+w kuzana | 가져오다 | 가져오다
+e Zana amazi, nyabuneka. | 물 좀 가져와 주세요.
+e Nazanye impano. | 선물 가져왔어요.
+w gutwara | 가져가다 · 나르다 · 운전하다 | 가져가다; 운전하다
+e Twara igikapu cyawe. | 네 가방 가져가.
+e Atwara moto. | 그는 모토를 운전해요.
+tp guha = 누구에게 주다(Mpa 나에게 줘), gutanga = 내주다·제출하다(tanga umukoro 숙제를 내).
+tp kuzana(가져오다) ↔ gutwara(가져가다). gutwara는 '운전하다'도 돼요.
+pr Zana. | 가져와. || Twara. | 가져가.
+pr Mpa. | 나한테 줘. || Muhe. | 그에게 줘.
+dl 엄마 | Zana isahani, nyabuneka. | 접시 좀 가져와.
+dl 수아 | Dore. Mpa n'ikiyiko. | 여기요. 숟가락도 주세요.
+dl 엄마 | Dore. Twara ibi mu gikoni. | 여기. 이거 부엌에 가져가.
+dl 수아 | Sawa! | 네!
+sm Zana igitabo, umpe ikaramu, hanyuma utware igikapu. | 책 가져오고, 볼펜 주고, 그다음 가방 가져가.
+qz '가져오다'는? | kuzana
+
+@ 3-01-05 | 좋아하다·원하다 | gukunda·gushaka·kwishimira | 좋아하는 것과 원하는 것, 기뻐하는 것이에요.
+w gukunda | 좋아하다 · 사랑하다 | 좋아하다; 사랑하다
+e Nkunda u Rwanda. | 르완다를 좋아해요.
+e Ndagukunda. | 사랑해.
+w gushaka | 원하다 · 찾다 | 원하다; 찾다
+e Ndashaka amazi. | 물을 원해요.
+e Ndashaka urufunguzo rwanjye. | 열쇠를 찾고 있어요.
+w kwishimira | 기뻐하다 · 즐기다 | 기뻐하다; 즐기다
+e Nishimiye kukumenya. | 만나서 반가워요.
+e Twishimiye ibirori. | 행사를 즐겼어요.
+w kwifuza | 바라다 · 소망하다 | 바라다
+e Nifuza kuzasura Koreya. | 언젠가 한국에 가 보고 싶어요.
+e Ndabifuriza amahirwe. | 행운을 빌어요.
+tp gukunda는 '좋아하다'와 '사랑하다' 둘 다예요: Nkunda icyayi(차를 좋아해요), Ndagukunda(너를 사랑해).
+tp gushaka는 '원하다'와 '찾다' 둘 다예요: Ndashaka umwarimu(선생님을 찾아요).
+pr Nkunda. | 좋아해요. || Sinkunda. | 안 좋아해요.
+pr Ndashaka. | 원해요. || Sinshaka. | 원하지 않아요.
+dl 하비마나 | Ukunda ibiryo by'u Rwanda? | 르완다 음식 좋아해요?
+dl 수아 | Yego, nkunda isombe cyane! | 네, 이솜베를 아주 좋아해요!
+dl 하비마나 | Urashaka kurya ubu? | 지금 먹고 싶어요?
+dl 수아 | Yego, ndabyishimiye! | 네, 좋아요!
+sm Nkunda u Rwanda, ndashaka kwiga Ikinyarwanda, kandi nishimiye kuba hano. | 르완다가 좋아서 르완다어를 배우고 싶고, 여기 있어서 기뻐요.
+qz '좋아하다·사랑하다'는? | gukunda
+
+@ 3-01-06 | 일하다·하다·만들다 | gukora·gukina | gukora는 '일하다·하다·만들다'로 아주 많이 써요.
+w gukora | 일하다 · 하다 · 만들다 | 일하다; 하다; 만들다
+e Ukora iki? | 무슨 일을 해요?
+e Nakoze umukoro. | 숙제를 했어요.
+w gukina | 놀다 · 운동하다 · 연주하다 | 놀다; (운동) 하다
+e Abana bakina hanze. | 아이들이 밖에서 놀아요.
+e Ukina umupira? | 축구 해요?
+w guteka | 요리하다 · 끓이다 | 요리하다
+e Mama arateka. | 엄마가 요리해요.
+e Ndashaka kwiga guteka isombe. | 이솜베 요리를 배우고 싶어요.
+w gufasha | 돕다 | 돕다
+e Nshobora kugufasha? | 도와줄까요?
+e Mfasha, nyabuneka. | 도와주세요.
+tp gukora는 거의 모든 '하다'에 써요: gukora umukoro(숙제를 하다), gukora siporo(운동하다), gukora umuganda(우무간다를 하다).
+tp 운동 경기·놀이는 gukina: gukina umupira(축구를 하다).
+pr Gukora | 일하다 || Kuruhuka | 쉬다
+pr Gukina | 놀다 || Kwiga | 공부하다
+dl 케자 | Ukora iki ubu? | 지금 뭐 해요?
+dl 민준 | Ndimo guteka. Wamfasha? | 요리하는 중이에요. 도와줄래요?
+dl 케자 | Yego! Nkore iki? | 네! 뭘 할까요?
+dl 민준 | Kata ibitunguru. | 양파 좀 썰어 줘요.
+sm Mu gitondo ndakora, nimugoroba ndateka, ku cyumweru ndakina umupira. | 아침에는 일하고, 저녁에는 요리하고, 일요일에는 축구를 해요.
+qz '돕다'는? | gufasha
+x mbwira | 나에게 말해
+x nzakubwira | 너에게 말해 줄게
+x turaganira | 우리는 이야기한다
+x n'abantu | 사람들과
+x sobanura | 설명해라
+x yasobanuye | 설명했다
+x ngusobanurire | 너에게 설명해 줄게
+x tuganire | 우리 이야기하자
+x indimi | 언어들
+x zingahe | 몇 개
+x filime | 영화
+x nakubonye | 나는 너를 봤다
+x nabonye | 나는 얻었다, 봤다
+x akazi | 일, 일자리
+x nashakaga | 나는 원했다
+x riri | 있다
+x ndumva | 나는 느낀다, 듣는다
+x wabonye | 너는 봤니
+x simubonye | 나는 그를 못 봤다
+x ndamubonye | 나는 그를 봤다
+x uratwumva | 우리 말 들리니
+x narebye | 나는 봤다
+x hose | 곳곳
+x sinabonye | 나는 못 찾았다
+x ujya | 너는 간다
+x utaha | 너는 집에 간다
+x nzagaruka | 나는 돌아올 것이다
+x yagarutse | 돌아왔다
+x twageze | 우리는 도착했다
+x uzagera | 너는 도착할 것이다
+x turatashye | 우리는 집에 간다
+x kuza | 오다
+x nzaguha | 너에게 줄게
+x yatanze | 냈다
+x zana | 가져와라
+x nazanye | 나는 가져왔다
+x twara | 가져가라
+x atwara | 운전한다
+x muhe | 그에게 줘라
+x n'ikiyiko | 숟가락도
+x ikiyiko | 숟가락
+x umpe | 나에게 줘
+x utware | 네가 가져가라
+x ndagukunda | 너를 사랑해
+x twishimiye | 우리는 즐겼다
+x nifuza | 나는 바란다
+x kuzasura | 언젠가 방문하다
+x ndabifuriza | 여러분에게 빌어요
+x amahirwe | 행운
+x ndabyishimiye | 나는 그것이 기쁘다
+x bakina | 그들은 논다
+x ukina | 너는 한다(논다)
+x arateka | 요리한다
+x kugufasha | 너를 돕다
+x wamfasha | 나를 도와줄래
+x nkore | 내가 할까
+x ibitunguru | 양파들
+x ndateka | 나는 요리한다
+x ndakina | 나는 한다(논다)

@@ -1,0 +1,200 @@
+# P7-B | 명사 부류
+
+@ 7-02-01 | 사람 umu- ↔ aba- | umuntu·abantu | 르완다어 명사는 앞머리(접두사)로 무리가 나뉘어요. 사람은 umu-(한 명) ↔ aba-(여러 명)이에요.
+w umuntu | 사람 · 한 명 | 사람
+e Umuntu umwe arahari. | 한 사람이 와 있어요.
+e Ni umuntu mwiza. | 좋은 사람이에요.
+w abantu | 사람들 | 사람들
+e Hari abantu benshi ku isoko. | 시장에 사람이 많아요.
+e Abantu bose barahageze. | 사람들이 모두 도착했어요.
+w umukobwa | 여자아이 · 소녀 | 여자아이; 딸
+e Umukobwa wanjye yiga hano. | 제 딸은 여기서 공부해요.
+e Abakobwa barakina. | 여자아이들이 놀아요.
+w umuhungu | 남자아이 · 소년 | 남자아이; 아들
+e Umuhungu we afite imyaka icumi. | 그의 아들은 열 살이에요.
+e Abahungu bakina umupira. | 남자아이들이 축구를 해요.
+w umushyitsi | 손님 | 손님
+e Dufite umushyitsi uyu munsi. | 오늘 손님이 와요.
+e Abashyitsi bageze. | 손님들이 도착했어요.
+tp 사람 낱말: umu- (한 명) ↔ aba- (여러 명). umuntu → abantu, umwana → abana, umukobwa → abakobwa.
+tp 모음 앞에서는 umw-/ab-: umwana → abana, umwarimu → abarimu.
+tp 사람 낱말을 꾸미는 말도 같이 바뀌어요: umuntu mwiza(좋은 사람) → abantu beza(좋은 사람들).
+pr Umuntu | 사람 || Abantu | 사람들
+pr Umukobwa | 여자아이 || Abakobwa | 여자아이들
+sm Abantu benshi, abahungu n'abakobwa, baje mu birori. | 많은 사람들, 남자아이와 여자아이들이 행사에 왔어요.
+qz 'umuntu'의 여럿은? | abantu
+
+@ 7-02-02 | 물건·자연 umu- ↔ imi- | umusozi·imisozi | 사람이 아닌 umu- 낱말은 여럿이면 imi-가 돼요.
+w umusozi | 언덕 → imisozi | 언덕
+e Uyu musozi ni muremure. | 이 언덕은 높아요.
+e U Rwanda rufite imisozi myinshi. | 르완다에는 언덕이 많아요.
+w umuti | 약 → imiti | 약
+e Uyu muti urarura. | 이 약은 써요.
+e Imiti iri kuri farumasi. | 약은 약국에 있어요.
+w umwaka | 해 → imyaka | 해; 년
+e Umwaka utaha nzasubira muri Koreya. | 내년에 한국에 돌아갈 거예요.
+e Mfite imyaka makumyabiri. | 스무 살이에요.
+w umupira | 공 → imipira | 공
+e Dufite imipira itatu. | 공이 세 개 있어요.
+e Umupira wanjye wabuze. | 제 공을 잃어버렸어요.
+w umutwe | 머리 → imitwe | 머리
+e Umutwe urandya. | 머리가 아파요.
+e Imitwe yacu irakora! | 우리 머리가 잘 돌아가요!
+tp 같은 umu-라도 사람이면 aba-, 사람이 아니면 imi-: umwana → abana, 그러나 umwaka → imyaka.
+tp 이 무리를 꾸미는 말: umusozi muremure(높은 언덕) → imisozi miremire(높은 언덕들).
+pr Umusozi | 언덕 || Imisozi | 언덕들
+pr Umwaka | 해 || Imyaka | 해들(나이)
+sm Uyu mwaka nzazamuka imisozi itatu. | 올해 언덕 세 개를 올라갈 거예요.
+qz 'umuti'의 여럿은? | imiti
+
+@ 7-02-03 | i- ↔ ama- | ijambo·amagambo | i-(하나) ↔ ama-(여럿) 짝이에요. 물·우유처럼 셀 수 없는 것도 ama-가 많아요.
+w ijambo | 낱말 → amagambo | 낱말
+e Iri jambo ni rishya. | 이 낱말은 새 낱말이에요.
+e Ndiga amagambo icumi buri munsi. | 날마다 낱말 열 개를 공부해요.
+w ishuri | 학교 → amashuri | 학교
+e Ishuri ryacu ni rinini. | 우리 학교는 커요.
+e Amashuri atangira muri Nzeri. | 학교들은 9월에 시작해요.
+w ijisho | 눈 → amaso | 눈
+e Ijisho ryanjye riraribwa. | 눈이 아파요.
+e Afite amaso meza. | 그는 눈이 예뻐요.
+w igi | 달걀 → amagi | 달걀
+e Ndashaka igi rimwe. | 달걀 하나 주세요.
+e Inkoko zitera amagi. | 닭이 알을 낳아요.
+w amazi | 물 · 늘 ama- | 물
+e Amazi ni meza. | 물이 깨끗해요.
+e Nta mazi ahari. | 물이 없어요.
+tp i- ↔ ama-: ijambo → amagambo, ishuri → amashuri, ijisho → amaso.
+tp amazi(물), amata(우유), amavuta(기름)는 늘 ama- 모양이에요.
+tp 이 무리를 꾸미는 말: ijambo ryiza(좋은 낱말) → amagambo meza(좋은 낱말들).
+pr Ijambo | 낱말 || Amagambo | 낱말들
+pr Ishuri | 학교 || Amashuri | 학교들
+sm Mu ishuri twiga amagambo mashya buri munsi. | 학교에서 날마다 새 낱말을 배워요.
+qz 'ijambo'의 여럿은? | amagambo
+
+@ 7-02-04 | iki- ↔ ibi- | igitabo·ibitabo | 물건 낱말이 많은 무리예요. iki-/igi-/icy- ↔ ibi-/iby-.
+w igitabo | 책 → ibitabo | 책
+e Iki gitabo ni cyiza. | 이 책은 좋아요.
+e Mfite ibitabo bitatu. | 책이 세 권 있어요.
+w icyumba | 방 → ibyumba | 방
+e Icyumba cyanjye ni gito. | 제 방은 작아요.
+e Inzu ifite ibyumba bine. | 집에 방이 네 개 있어요.
+w ikintu | 물건 → ibintu | 물건; 것
+e Iki kintu ni iki? | 이 물건은 뭐예요?
+e Mfite ibintu byinshi. | 짐이 많아요.
+w igihugu | 나라 → ibihugu | 나라
+e Koreya ni igihugu cyiza. | 한국은 좋은 나라예요.
+e Nasuye ibihugu bitanu. | 다섯 나라를 가 봤어요.
+w ikibazo | 질문 → ibibazo | 질문; 문제
+e Mfite ikibazo kimwe. | 질문이 하나 있어요.
+e Ibibazo byose biroroshye. | 문제가 모두 쉬워요.
+tp iki-(igi-, icy-) ↔ ibi-(iby-): igitabo → ibitabo, icyumba → ibyumba, ikintu → ibintu.
+tp 꾸미는 말도 ki-/bi-로 맞춰요: igitabo cyiza(좋은 책) → ibitabo byiza(좋은 책들), igitabo kimwe(책 한 권) → ibitabo bibiri(책 두 권).
+tp 언어 이름도 이 무리예요: Ikinyarwanda, Igikoreya.
+pr Igitabo | 책 || Ibitabo | 책들
+pr Icyumba | 방 || Ibyumba | 방들
+sm Mu cyumba cyanjye hari ibitabo byinshi n'ibintu bike. | 제 방에는 책이 많고 물건은 적어요.
+qz 'igitabo'의 여럿은? | ibitabo
+
+@ 7-02-05 | in- 무리·uru- 무리 | inzu·urugo | in-/im- 낱말은 하나든 여럿이든 모양이 같아요. uru- 낱말은 여럿이면 in-/im-이 돼요.
+w inzu | 집 · 여럿도 inzu | 집
+e Mfite inzu imwe. | 집이 한 채 있어요.
+e Hano hari inzu ebyiri. | 여기 집이 두 채 있어요.
+w inka | 소 · 여럿도 inka | 소
+e Afite inka imwe. | 그는 소가 한 마리 있어요.
+e Afite inka nyinshi. | 그는 소가 많아요.
+w urugo | 집(가정) → ingo | 집; 가정
+e Urugo rwacu ruri hafi. | 우리 집은 가까워요.
+e Ingo nyinshi zifite inka. | 많은 집이 소를 키워요.
+w urupapuro | 종이 한 장 → impapuro | 종이; 쪽
+e Mpa urupapuro rumwe. | 종이 한 장 주세요.
+e Nkeneye impapuro icumi. | 종이 열 장이 필요해요.
+w urugendo | 여행 → ingendo | 여행
+e Urugendo rwiza! | 좋은 여행 되세요!
+e Nakoze ingendo nyinshi. | 여행을 많이 했어요.
+tp in-/im- 무리는 낱말은 그대로, 숫자·꾸미는 말로 하나/여럿을 알아요: inzu imwe(집 하나), inzu ebyiri(집 둘).
+tp uru- ↔ in-: urugo → ingo, urupapuro → impapuro. 꾸미는 말은 ru- ↔ zi-/n-: urugo rwacu(우리 집) → ingo zacu(우리 집들).
+pr Inzu imwe | 집 한 채 || Inzu nyinshi | 집 여러 채
+pr Urupapuro | 종이 한 장 || Impapuro | 종이 여러 장
+sm Mu cyaro ingo nyinshi zifite inka n'inzu nto. | 시골의 많은 집에는 소와 작은 집이 있어요.
+qz 'urugo'의 여럿은? | ingo
+
+@ 7-02-06 | 꾸미는 말 맞추기 | mwiza·beza·cyiza | '좋은·예쁜'(-iza)이 앞 낱말의 무리에 따라 모양을 바꿔요.
+w umwana mwiza | 착한 아이 · umu- → mu- | 착한(예쁜) 아이
+e Ni umwana mwiza. | 착한 아이예요.
+e Afite umwana mwiza cyane. | 그는 아주 예쁜 아이가 있어요.
+w abana beza | 착한 아이들 · aba- → ba- | 착한 아이들
+e Ni abana beza. | 착한 아이들이에요.
+e Abana beza barafasha. | 착한 아이들은 도와줘요.
+w igitabo cyiza | 좋은 책 · iki- → ki- | 좋은 책
+e Iki ni igitabo cyiza. | 이건 좋은 책이에요.
+e Nasomye igitabo cyiza. | 좋은 책을 읽었어요.
+w ibitabo byiza | 좋은 책들 · ibi- → bi- | 좋은 책들
+e Isomero rifite ibitabo byiza. | 도서관에 좋은 책이 있어요.
+e Ndashaka ibitabo byiza. | 좋은 책들을 원해요.
+w inzu nziza | 좋은 집 · in- → n- | 좋은 집
+e Mufite inzu nziza! | 집이 좋네요!
+e Ndashaka inzu nziza. | 좋은 집을 원해요.
+w amagambo meza | 좋은 말 · ama- → ma- | 좋은 말들
+e Murakoze ku magambo meza. | 좋은 말씀 고마워요.
+e Avuga amagambo meza. | 그는 좋은 말을 해요.
+tp 꾸미는 말은 낱말 무리의 표시를 따라가요: umu → mu(mwiza), aba → ba(beza), iki → ki(cyiza), ibi → bi(byiza), in → n(nziza), ama → ma(meza).
+tp 숫자, '나의', '이(this)'도 모두 같은 방법으로 바뀌어요. 그래서 낱말을 외울 때 여럿 모양도 같이 외우면 좋아요.
+pr Umwana mwiza | 착한 아이 || Abana beza | 착한 아이들
+pr Igitabo cyiza | 좋은 책 || Ibitabo byiza | 좋은 책들
+sm Abana beza basoma ibitabo byiza mu nzu nziza. | 착한 아이들이 좋은 집에서 좋은 책을 읽어요.
+qz 'inzu'에 맞는 '좋은'은? | nziza
+x bose | 모두
+x barahageze | 도착했다
+x wanjye | 나의
+x abakobwa | 여자아이들
+x barakina | 논다
+x abahungu | 남자아이들
+x bakina | 그들은 논다
+x dufite | 우리는 가지고 있다
+x abashyitsi | 손님들
+x bageze | 도착했다
+x baje | 그들은 왔다
+x mu birori | 행사에
+x birori | 행사, 잔치
+x muremure | 높은, 긴
+x imiti | 약들
+x utaha | 다음(해)
+x imipira | 공들
+x wabuze | 없어졌다
+x imitwe | 머리들
+x irakora | 일한다, 작동한다
+x miremire | 높은(것들)
+x ifite | 가지고 있다
+x nzazamuka | 나는 올라갈 것이다
+x rishya | 새로운
+x riraribwa | 아프다
+x zitera | 낳는다
+x amagi | 달걀들
+x ahari | 있는
+x gito | 작은
+x bine | 넷
+x ibintu | 물건들
+x nasuye | 나는 방문했다
+x bitanu | 다섯
+x kimwe | 하나
+x ibibazo | 질문들, 문제들
+x biroroshye | 쉽다
+x bike | 적은
+x n'ibintu | 그리고 물건들
+x imwe | 하나
+x ebyiri | 둘
+x rwacu | 우리의
+x ruri | 있다
+x ingo | 집들
+x zifite | 가지고 있다
+x rumwe | 하나
+x nkeneye | 나는 필요하다
+x impapuro | 종이들
+x rwiza | 좋은
+x nakoze | 나는 했다
+x ingendo | 여행들
+x barafasha | 그들은 돕는다
+x nasomye | 나는 읽었다
+x isomero | 도서관
+x ku magambo | 말에 대해
+x basoma | 그들은 읽는다

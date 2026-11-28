@@ -1,0 +1,15 @@
+// note dictionary shared by all bundles: x word | meaning (keys lowercase)
+x magana | 백(百)의 여럿: magana abiri 200
+x ibihumbi | 천(千)의 여럿: ibihumbi bibiri 2,000
+x abanyakoreya | 한국 사람들
+x ndabizi | 나는 알아요
+x water | 물(영어)
+x ura-sha-ka | 원해요?(천천히)
+x a-ma-zi | 물(천천히)
+x irahendutse | 싸다
+x amaboko | 팔들
+x ibirori | 행사, 잔치
+x ndimo | 나는 ~하는 중이다
+x arashaka | 그는 원한다
+x ibihugu | 나라들
+x cumi | 열(10)

@@ -1,0 +1,341 @@
+# P5-L | 수업
+
+@ 1-07-01 | 과목 | imibare·Icyongereza | 학교에서 배우는 과목 이름이에요. 언어 이름은 Iki-/Igi-로 시작해요.
+w Igikoreya | 한국어 | 한국어
+e Ndiga Igikoreya buri munsi. | 날마다 한국어를 공부해요.
+e Igikoreya kiragoye gato. | 한국어는 조금 어려워요.
+w Icyongereza | 영어 | 영어
+e Uvuga Icyongereza? | 영어 할 줄 알아요?
+e Mu Rwanda bavuga Icyongereza n'Igifaransa. | 르완다에서는 영어와 프랑스어도 써요.
+w Igifaransa | 프랑스어 | 프랑스어
+e Data avuga Igifaransa neza. | 아버지는 프랑스어를 잘해요.
+e Sinzi Igifaransa. | 프랑스어를 몰라요.
+w imibare | 수학 · 숫자 | 수학; 숫자
+e Nkunda imibare. | 수학을 좋아해요.
+e Isomo ry'imibare ni saa tatu. | 수학 수업은 9시예요.
+w ubumenyi | 과학 · 지식 | 과학; 지식
+e Isomo ry'ubumenyi rirashimishije. | 과학 수업은 재미있어요.
+e Ubumenyi ni ingenzi. | 지식은 중요해요.
+w amateka | 역사 | 역사
+e Twiga amateka y'u Rwanda. | 르완다 역사를 배워요.
+e Amateka ya Koreya ni maremare. | 한국 역사는 길어요.
+w ubugeni | 미술 · 예술 | 미술; 예술
+e Mu isomo ry'ubugeni turashushanya. | 미술 시간에 그림을 그려요.
+e Akunda ubugeni cyane. | 그는 미술을 아주 좋아해요.
+w umuziki | 음악 | 음악
+e Twiga umuziki ku wa gatanu. | 금요일에 음악을 배워요.
+e Umuziki wa Koreya urakunzwe. | 한국 음악은 인기가 많아요.
+tp 언어 이름은 Iki-/Igi-로 시작해요: Ikinyarwanda(르완다어), Igikoreya(한국어), Icyongereza(영어), Igifaransa(프랑스어).
+tp 르완다의 공용어는 르완다어, 영어, 프랑스어, 스와힐리어(Igiswahili)예요. 학교 수업은 주로 영어로 해요.
+tp '~ 수업'은 isomo ry'○○: isomo ry'imibare(수학 수업).
+pr Igikoreya | 한국어 || Ikinyarwanda | 르완다어
+pr Imibare | 수학 || Amateka | 역사
+dl 케자 | Ukunda isomo irihe? | 어떤 과목을 좋아해요?
+dl 민준 | Nkunda imibare n'umuziki. Wowe? | 수학이랑 음악을 좋아해요. 당신은요?
+dl 케자 | Njye nkunda Igikoreya! | 저는 한국어를 좋아해요!
+dl 민준 | Ni byiza cyane! | 아주 좋아요!
+sm Ku ishuri twiga Ikinyarwanda, Icyongereza, imibare n'ubumenyi. | 학교에서 르완다어, 영어, 수학, 과학을 배워요.
+qz '영어'는? | Icyongereza
+
+@ 1-07-02 | 수업 중 질문 | Mfite ikibazo·Ndarangije | 학생이 수업 중에 하는 말이에요. 질문하고, 다 했다고 말해요.
+w Mfite ikibazo | 질문 있어요 · 문제를 가지고 있다 | 질문 있어요; 문제가 있어요
+e Mwarimu, mfite ikibazo. | 선생님, 질문 있어요.
+e Hari ufite ikibazo? | 질문 있는 사람?
+w Nshobora kubaza? | 물어봐도 돼요? | 물어봐도 돼요?
+e Mwarimu, nshobora kubaza? | 선생님, 물어봐도 돼요?
+e Yego, baza. | 네, 물어봐요.
+w Ndarangije | 다 했어요 | 다 했어요
+e Mwarimu, ndarangije! | 선생님, 다 했어요!
+e Ndarangije umukoro wanjye. | 숙제를 다 했어요.
+w Sindarangiza | 아직 못 했어요 | 아직 다 못 했어요
+e Sindarangiza, mpa iminota itanu. | 아직 다 못 했어요, 5분만 주세요.
+e Oya, sindarangiza. | 아니요, 아직이요.
+w urupapuro | 쪽 · 종이 한 장 | 쪽; 종이
+e Fungura urupapuro rwa cumi. | 10쪽을 펴요.
+e Ni urupapuro uruhe? | 몇 쪽이에요?
+w Nibagiwe | 잊어버렸어요 | 잊어버렸어요
+e Nibagiwe ikaye mu rugo. | 공책을 집에 두고 왔어요.
+e Mbabarira, nibagiwe. | 미안해요, 잊어버렸어요.
+w Nshobora gusohoka? | 나가도 돼요? · 화장실 갈 때 | 나가도 돼요?
+e Mwarimu, nshobora gusohoka? | 선생님, 나가도 돼요?
+e Yego, ariko ugaruke vuba. | 네, 그런데 빨리 돌아와요.
+tp 손을 들고 Mwarimu!(선생님!)라고 부른 다음 말하면 돼요.
+tp Ndarangije(다 했어요) ↔ Sindarangiza(아직 못 했어요). 'Si-'가 '아직 ~ 안 했다'를 만들어요.
+pr Ndarangije. | 다 했어요. || Sindarangiza. | 아직 못 했어요.
+pr Ndabyumva. | 이해해요. || Mfite ikibazo. | 질문 있어요.
+dl 학생 | Mwarimu, mfite ikibazo. | 선생님, 질문 있어요.
+dl 선생님 | Yego, baza. | 네, 물어봐요.
+dl 학생 | "Saranghae" bisobanura iki? | '사랑해'는 무슨 뜻이에요?
+dl 선생님 | Bisobanura "ndagukunda". | '난 너를 사랑해'라는 뜻이에요.
+sm Mwarimu, ndarangije — nshobora kubaza ikibazo? | 선생님, 다 했어요. 질문해도 돼요?
+qz '질문 있어요'는? | Mfite ikibazo
+
+@ 1-07-03 | 한국 소개 | Koreya·umuco | 르완다 사람에게 한국을 소개하는 말이에요.
+w Koreya y'Epfo | 대한민국 · 남쪽 코리아 | 대한민국
+e Koreya y'Epfo iri muri Aziya. | 대한민국은 아시아에 있어요.
+e Nkomoka muri Koreya y'Epfo. | 저는 대한민국에서 왔어요.
+w umurwa mukuru | 수도 · 큰 도시 | 수도
+e Umurwa mukuru wa Koreya ni Seoul. | 한국의 수도는 서울이에요.
+e Umurwa mukuru w'u Rwanda ni Kigali. | 르완다의 수도는 키갈리예요.
+w umuco | 문화 | 문화
+e Umuco wa Koreya urashimishije. | 한국 문화는 재미있어요.
+e Ndashaka kumenya umuco w'u Rwanda. | 르완다 문화를 알고 싶어요.
+w inyuguti | 글자 | 글자
+e Igikoreya gifite inyuguti makumyabiri n'enye. | 한국어는 글자가 24개예요.
+e Andika inyuguti zawe. | 네 글자를 써 봐.
+w ibiryo bya Koreya | 한국 음식 | 한국 음식
+e Kimchi ni ibiryo bya Koreya. | 김치는 한국 음식이에요.
+e Wigeze urya ibiryo bya Koreya? | 한국 음식 먹어 봤어요?
+w igihugu | 나라 | 나라
+e Koreya ni igihugu cyiza. | 한국은 좋은 나라예요.
+e U Rwanda ni igihugu cy'imisozi igihumbi. | 르완다는 천 개의 언덕의 나라예요.
+w imbeho | 추위 · 겨울 | 추위; 겨울
+e Muri Koreya hari imbeho nyinshi. | 한국은 겨울에 아주 추워요.
+e Mu Rwanda nta mbeho nyinshi. | 르완다는 많이 춥지 않아요.
+tp 한국은 Koreya, 대한민국은 Koreya y'Epfo(남쪽 코리아)예요. 북한은 Koreya ya Ruguru.
+tp 르완다는 '천 개의 언덕의 나라'(igihugu cy'imisozi igihumbi)로 불려요.
+tp 한글은 Hangeul(한글)이라고 소개하면 돼요: Inyuguti z'Igikoreya zitwa Hangeul.
+pr Koreya | 한국 || U Rwanda | 르완다
+pr Seoul | 서울 || Kigali | 키갈리
+dl 학생 | Koreya iri he? | 한국은 어디 있어요?
+dl 민준 | Iri muri Aziya, hafi y'Ubushinwa n'Ubuyapani. | 아시아에 있어요, 중국과 일본 가까이에.
+dl 학생 | Hariyo imbeho? | 거기 추워요?
+dl 민준 | Yego, mu gihe cy'imbeho hari urubura. | 네, 겨울에는 눈이 와요.
+sm Koreya y'Epfo ni igihugu cyo muri Aziya, umurwa mukuru wayo ni Seoul. | 대한민국은 아시아의 나라이고, 수도는 서울이에요.
+qz '나라'는? | igihugu
+
+@ 1-07-04 | 체육·놀이 | umupira·gukina | 체육 시간과 놀이에 쓰는 말이에요. 르완다 아이들은 축구를 아주 좋아해요.
+w umupira | 공 · 축구 | 공; 축구
+e Abana bakina umupira. | 아이들이 축구를 해요.
+e Tera umupira! | 공 던져!
+w gukina | 놀다 · 경기하다 | 놀다; (운동) 하다
+e Reka dukine hanze. | 밖에서 놀자.
+e Ukunda gukina iki? | 뭐 하고 노는 걸 좋아해?
+w kwiruka | 달리다 | 달리다
+e Iruka vuba! | 빨리 달려!
+e Ndiruka buri gitondo. | 아침마다 달려요.
+w gusimbuka | 뛰다 · 점프하다 | 뛰다; 점프하다
+e Simbuka hejuru! | 높이 뛰어!
+e Abana barasimbuka umugozi. | 아이들이 줄넘기를 해요.
+w ikipe | 팀 | 팀
+e Ikipe yacu yatsinze! | 우리 팀이 이겼어요!
+e Tugabane amakipe abiri. | 두 팀으로 나눠요.
+w gutsinda | 이기다 · 합격하다 | 이기다; 합격하다
+e Twatsinze ibitego bibiri. | 두 골로 이겼어요.
+e Ndashaka gutsinda. | 이기고 싶어요.
+w umukino | 경기 · 놀이 | 경기; 놀이
+e Umukino utangira saa cyenda. | 경기는 3시에 시작해요.
+e Uyu mukino urashimishije. | 이 놀이는 재미있어요.
+w ifirimbi | 호루라기 | 호루라기
+e Nimwumva ifirimbi, muhagarare. | 호루라기 소리가 들리면 멈춰요.
+e Mwarimu avuza ifirimbi. | 선생님이 호루라기를 불어요.
+tp umupira은 '공'이자 '축구'예요: gukina umupira(축구를 하다). 농구는 basketball, 배구는 volleyball을 그대로 많이 써요.
+tp 구령: Rimwe, kabiri, gatatu — tangira!(하나, 둘, 셋, 시작!)
+pr Twatsinze. | 우리가 이겼어요. || Twatsinzwe. | 우리가 졌어요.
+pr Iruka. | 달려. || Hagarara. | 멈춰.
+dl 선생님 | Mugabane amakipe abiri! | 두 팀으로 나눠요!
+dl 학생 | Ndi mu ikipe ya mbere! | 저는 1팀이에요!
+dl 선생님 | Rimwe, kabiri, gatatu — mutangire! | 하나, 둘, 셋, 시작!
+dl 학생 | Twatsinze! | 우리가 이겼어요!
+sm Abana biruka, basimbuka kandi bakina umupira ku kibuga. | 아이들이 운동장에서 달리고 뛰고 축구를 해요.
+qz '공'은? | umupira
+
+@ 1-07-05 | 노래·춤·그림 | kuririmba·kubyina | 음악과 미술 시간에 쓰는 말이에요. 르완다 사람들은 노래와 춤을 사랑해요.
+w kuririmba | 노래하다 | 노래하다
+e Reka turirimbe hamwe. | 같이 노래해요.
+e Aririmba neza cyane. | 그는 노래를 아주 잘해요.
+w indirimbo | 노래 | 노래
+e Iyi ndirimbo ni nziza. | 이 노래는 좋아요.
+e Twize indirimbo y'Igikoreya. | 한국어 노래를 배웠어요.
+w kubyina | 춤추다 | 춤추다
+e Abanyarwanda bakunda kubyina. | 르완다 사람들은 춤추기를 좋아해요.
+e Reka tubyine! | 춤추자!
+w ingoma | 북 | 북
+e Ingoma ziravuga cyane. | 북소리가 커요.
+e Avuza ingoma neza. | 그는 북을 잘 쳐요.
+w gushushanya | 그리다 | 그리다
+e Shushanya inzu yawe. | 네 집을 그려 봐.
+e Nkunda gushushanya inyamaswa. | 동물 그리기를 좋아해요.
+w ifoto | 사진 · 그림 | 사진
+e Reka dufate ifoto. | 사진 찍어요.
+e Iyi foto ni nziza. | 이 사진 예뻐요.
+w amabara | 색깔들 | 색깔
+e Koresha amabara menshi. | 색깔을 많이 써요.
+e Mfite amabara cumi n'abiri. | 색깔이 12개 있어요.
+tp 르완다 전통춤 intore(인토레)는 북(ingoma) 소리에 맞춰 힘차게 추는 춤이에요.
+tp '노래하자, 춤추자'는 끝이 -e로 바뀌어요: turirimbe(노래하자), tubyine(춤추자).
+pr Kuririmba | 노래하다 || Kubyina | 춤추다
+pr Gushushanya | 그리다 || Gufata ifoto | 사진을 찍다
+dl 선생님 | Uyu munsi turiga indirimbo nshya. | 오늘은 새 노래를 배워요.
+dl 학생 | Ni indirimbo y'Igikoreya? | 한국어 노래예요?
+dl 선생님 | Yego! Mutege amatwi, hanyuma muririmbe. | 네! 잘 듣고, 그다음에 불러 봐요.
+dl 학생 | Ni nziza cyane! | 아주 좋아요!
+sm Mu isomo ry'umuziki turaririmba, dukabyina kandi dukavuza ingoma. | 음악 시간에 노래하고, 춤추고, 북을 쳐요.
+qz '노래'는? | indirimbo
+
+@ 1-07-06 | 숙제·시험 | umukoro·ikizamini | 숙제와 시험, 공부에 관한 말이에요.
+w umukoro | 숙제 | 숙제
+e Umukoro ugomba gutangwa ejo. | 숙제는 내일 내야 해요.
+e Mwakoze umukoro? | 숙제 했어요?
+w ikizamini | 시험 | 시험
+e Ikizamini kiroroshye. | 시험이 쉬워요.
+e Ejo dufite ikizamini. | 내일 시험이 있어요.
+w kwiga | 공부하다 · 배우다 | 공부하다; 배우다
+e Ndiga Ikinyarwanda. | 르완다어를 배워요.
+e Ugomba kwiga cyane. | 공부를 열심히 해야 해요.
+w amanota | 점수 | 점수
+e Nabonye amanota meza. | 좋은 점수를 받았어요.
+e Amanota yawe ni angahe? | 점수가 몇 점이에요?
+w gusubiramo | 복습하다 · 다시 하다 | 복습하다; 반복하다
+e Musubiremo isomo mu rugo. | 집에서 수업을 복습해요.
+e Ndasubiramo amagambo mashya. | 새 낱말을 복습해요.
+w ijambo | 낱말 | 낱말
+e Iri jambo ni rishya. | 이 낱말은 새 낱말이에요.
+e Mwige amagambo icumi. | 낱말 열 개를 공부해요.
+w ikibazo | 질문 · 문제 | 질문; 문제
+e Subiza ikibazo cya mbere. | 첫 번째 문제에 답해요.
+e Iki kibazo kiragoye. | 이 문제는 어려워요.
+tp ijambo(낱말 하나) → amagambo(낱말들). i- ↔ ama- 짝이에요.
+tp ikibazo는 '질문'과 '문제' 둘 다예요: Nta kibazo(문제없어요)도 같은 낱말이에요.
+pr Kiroroshye. | 쉬워요. || Kiragoye. | 어려워요.
+pr Natsinze. | 합격했어요. || Natsinzwe. | 떨어졌어요.
+dl 학생 | Mwarimu, ikizamini ni ryari? | 선생님, 시험이 언제예요?
+dl 선생님 | Ni ku wa gatanu. Musubiremo amagambo. | 금요일이에요. 낱말을 복습해요.
+dl 학생 | Kizaba kigoye? | 어려울까요?
+dl 선생님 | Oya, nimwiga muzatsinda. | 아니요, 공부하면 합격할 거예요.
+sm Niga buri munsi, nkasubiramo amagambo mashya mbere y'ikizamini. | 날마다 공부하고, 시험 전에 새 낱말을 복습해요.
+qz '숙제'는? | umukoro
+x ndiga | 나는 배운다
+x kiragoye | 어렵다
+x uvuga | 너는 말한다
+x bavuga | 그들은 말한다
+x n'igifaransa | 그리고 프랑스어
+x avuga | 그는 말한다
+x sinzi | 나는 모른다
+x ry'imibare | 수학의
+x ry'ubumenyi | 과학의
+x rirashimishije | 재미있다
+x twiga | 우리는 배운다
+x y'u rwanda | 르완다의
+x ya | ~의
+x maremare | 긴
+x turashushanya | 우리는 그린다
+x akunda | 그는 좋아한다
+x urakunzwe | 인기 있다
+x ukunda | 너는 좋아한다
+x irihe | 어느 것
+x n'umuziki | 그리고 음악
+x njye | 나는
+x n'ubumenyi | 그리고 과학
+x hari | ~이 있다
+x baza | 물어라
+x umukoro | 숙제
+x wanjye | 나의
+x iminota | 분
+x itanu | 다섯
+x rwa | ~의
+x uruhe | 어느 것
+x mu rugo | 집에
+x ugaruke | 네가 돌아와라
+x ndagukunda | 나는 너를 사랑해
+x saranghae | 사랑해(한국어)
+x kubaza | 묻다
+x aziya | 아시아
+x wa | ~의
+x w'u rwanda | 르완다의
+x seoul | 서울
+x urashimishije | 재미있다
+x kumenya | 알다
+x gifite | 가지고 있다
+x n'enye | 그리고 넷
+x zawe | 너의
+x kimchi | 김치
+x bya | ~의
+x wigeze | 너는 ~해 본 적 있다
+x urya | 너는 먹는다
+x cyiza | 좋은
+x cy'imisozi | 언덕들의
+x imisozi | 언덕들, 산들
+x imbeho | 추위, 겨울
+x nta mbeho | 춥지 않다
+x y'epfo | 남쪽의
+x ruguru | 북쪽
+x zitwa | ~라고 불린다
+x hangeul | 한글
+x hafi y'ubushinwa | 중국 가까이
+x ubushinwa | 중국
+x n'ubuyapani | 그리고 일본
+x hariyo | 거기에 ~이 있다
+x gihe | 때, 시기
+x cy'imbeho | 겨울의
+x urubura | 눈; 우박
+x cyo muri | ~에 있는
+x wayo | 그것의
+x bakina | 그들은 논다
+x tera | 던져라
+x dukine | 우리 놀자
+x iruka | 달려라
+x ndiruka | 나는 달린다
+x simbuka | 뛰어라
+x hejuru | 위로, 높이
+x barasimbuka | 그들은 뛴다
+x umugozi | 줄
+x yatsinze | 이겼다
+x tugabane | 우리 나누자
+x amakipe | 팀들
+x abiri | 둘
+x twatsinze | 우리는 이겼다
+x ibitego | 골들
+x bibiri | 둘
+x utangira | 시작한다
+x nimwumva | 여러분이 들으면
+x muhagarare | (여러분) 멈춰라
+x avuza | 그는 분다, 친다
+x twatsinzwe | 우리는 졌다
+x mugabane | (여러분) 나눠라
+x mutangire | (여러분) 시작해라
+x biruka | 그들은 달린다
+x basimbuka | 그들은 뛴다
+x turirimbe | 우리 노래하자
+x aririmba | 그는 노래한다
+x ndirimbo | 노래
+x twize | 우리는 배웠다
+x y'igikoreya | 한국어의
+x abanyarwanda | 르완다 사람들
+x tubyine | 우리 춤추자
+x ziravuga | 소리가 크다
+x shushanya | 그려라
+x inyamaswa | 동물
+x dufate | 우리 잡자(찍자)
+x foto | 사진
+x koresha | 사용해라
+x menshi | 많은
+x n'abiri | 그리고 둘
+x turiga | 우리는 배운다
+x nshya | 새로운
+x muririmbe | (여러분) 노래해라
+x turaririmba | 우리는 노래한다
+x dukabyina | 그리고 우리는 춤춘다
+x dukavuza | 그리고 우리는 친다
+x gutangwa | 제출되다
+x mwakoze | 여러분이 했다
+x kiroroshye | 쉽다
+x ugomba | 너는 ~해야 한다
+x nabonye | 나는 받았다, 봤다
+x musubiremo | (여러분) 복습해라
+x ndasubiramo | 나는 복습한다
+x amagambo | 낱말들
+x mashya | 새로운
+x mwige | (여러분) 공부해라
+x subiza | 대답해라
+x iki | 이(것)
+x kibazo | 문제, 질문
+x natsinze | 나는 합격했다
+x natsinzwe | 나는 떨어졌다
+x kizaba | (그것이) ~일 것이다
+x kigoye | 어려운
+x nimwiga | 여러분이 공부하면
+x muzatsinda | 여러분은 합격할 것이다
+x niga | 나는 공부한다
+x nkasubiramo | 그리고 나는 복습한다
+x mbere y'ikizamini | 시험 전에

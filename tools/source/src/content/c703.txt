@@ -1,0 +1,163 @@
+# P7-C | 시제·부정
+
+@ 7-03-01 | 지금·보통 -ra- | ndakora·ndagenda | 동사 가운데 -ra-는 '지금 ~해요, 보통 ~해요'예요.
+w ndakora | 일해요 · n-ra-kora | 일해요
+e Ndakora ku ishuri. | 학교에서 일해요.
+e Ndakora buri munsi. | 날마다 일해요.
+w ndagenda | 가요 · 떠나요 | 가요; 떠나요
+e Ndagenda, tuzabonana. | 갈게요, 또 봐요.
+e Ndagenda n'amaguru. | 걸어서 가요.
+w ndanywa | 마셔요 | 마셔요
+e Ndanywa icyayi. | 차를 마셔요.
+e Ndanywa amazi menshi. | 물을 많이 마셔요.
+w ndavuga | 말해요 | 말해요
+e Ndavuga Ikinyarwanda gake. | 르완다어를 조금 해요.
+e Ndavuga Igikoreya n'Icyongereza. | 한국어와 영어를 해요.
+w ndumva | 들려요 · 이해해요 | 들어요; 이해해요
+e Ndumva umuziki. | 음악을 들어요.
+e Ndumva neza. | 잘 들려요.
+tp n + ra + 동사: ndakora(일해요), ndagenda(가요). n 뒤에서 r은 d 소리가 돼요(n-ra → nda). 동사가 모음으로 시작하면 ra의 a가 빠져요: n-ra-iga → ndiga(배워요), n-ra-umva → ndumva(들어요).
+tp 뒤에 다른 말이 이어지면 -ra- 없는 꼴을 많이 써요: Nkora ku ishuri(학교에서 일해요), Niga Ikinyarwanda(르완다어를 배워요). -ra-를 넣으면 '지금 하고 있다'는 느낌이 강해요.
+pr Ndakora. | 일해요. || Ndaruhuka. | 쉬어요.
+pr Ndagenda. | 가요. || Ndaje. | 왔어요.
+sm Ndakora mu gitondo, nimugoroba ndaruhuka. | 아침에 일하고 저녁에는 쉬어요.
+qz '마셔요'는? | ndanywa
+
+@ 7-03-02 | 지난 일 na-…-ye | naje·nagiye | 과거는 앞에 na-(나는 ~했다), 끝이 -ye/-ze/-shye 등으로 바뀌어요. 자주 쓰는 것은 통째로 외워요.
+w naje | 왔어요 · kuza | 왔어요
+e Naje mu Rwanda umwaka ushize. | 작년에 르완다에 왔어요.
+e Naje kare uyu munsi. | 오늘 일찍 왔어요.
+w nagiye | 갔어요 · kujya | 갔어요
+e Ejo nagiye ku isoko. | 어제 시장에 갔어요.
+e Nagiye i Huye ku cyumweru. | 일요일에 후예에 갔어요.
+w nariye | 먹었어요 · kurya | 먹었어요
+e Nariye umuceri n'ibishyimbo. | 밥이랑 콩을 먹었어요.
+e Nariye cyane, ndahaze. | 많이 먹어서 배불러요.
+w nakoze | 했어요 · 일했어요 · gukora | 했어요; 일했어요
+e Nakoze umukoro. | 숙제를 했어요.
+e Ejo nakoze cyane. | 어제 일을 많이 했어요.
+w naguze | 샀어요 · kugura | 샀어요
+e Naguze imbuto ku isoko. | 시장에서 과일을 샀어요.
+e Naguze telefoni nshya. | 새 휴대폰을 샀어요.
+w nize | 배웠어요 · kwiga | 배웠어요
+e Nize Ikinyarwanda amezi atatu. | 르완다어를 석 달 배웠어요.
+e Uyu munsi nize amagambo mashya. | 오늘 새 낱말을 배웠어요.
+tp 과거 = na- + 동사 끝 바뀜: kuza → naje, kujya → nagiye, kurya → nariye, gukora → nakoze, kugura → naguze, kwiga → nize.
+tp 다른 사람도 같은 방법: yaje(그가 왔다), twaje(우리가 왔다), baje(그들이 왔다).
+tp 아주 가까운 과거(오늘)는 -ra-…-ye 모양도 써요: Ndariye(방금 먹었어요), Ndaje(왔어요).
+pr Ndarya. | 먹어요. || Nariye. | 먹었어요.
+pr Ndagura. | 사요. || Naguze. | 샀어요.
+sm Ejo nagiye ku isoko, naguze imbuto, nariye mu rugo. | 어제 시장에 가서 과일을 사고 집에서 먹었어요.
+qz '갔어요'는? | nagiye
+
+@ 7-03-03 | 앞으로 할 일 za- | nzaza·nzagenda | 미래는 동사 앞에 -za-를 넣어요: n-za-za(올 거예요).
+w nzaza | 올 거예요 · n-za-za | 올 거예요
+e Nzaza ejo. | 내일 올게요.
+e Nzaza saa tatu. | 9시에 올게요.
+w nzagenda | 갈 거예요 · 떠날 거예요 | 갈 거예요
+e Nzagenda ku wa gatanu. | 금요일에 떠날 거예요.
+e Nzagenda mu ndege. | 비행기로 갈 거예요.
+w nzarya | 먹을 거예요 | 먹을 거예요
+e Nzarya nyuma. | 나중에 먹을게요.
+e Nzarya ibirayi. | 감자를 먹을 거예요.
+w nzakora | 할 거예요 · 일할 거예요 | 할 거예요
+e Nzakora umukoro nimugoroba. | 저녁에 숙제를 할 거예요.
+e Ejo nzakora mu gitondo. | 내일은 아침에 일할 거예요.
+w tuzabonana | 우리 또 만나요 · tu-za-bonana | 또 만나요
+e Tuzabonana ejo. | 내일 또 만나요.
+e Tuzabonana ku wa mbere. | 월요일에 또 만나요.
+w uzaza | 너는 올 거야? | 올 거예요?
+e Uzaza ryari? | 언제 올 거예요?
+e Uzaza mu bukwe? | 결혼식에 올 거예요?
+tp 미래 = 주어 + za + 동사: nzaza(나는 올 거야), uzaza(너는), azaza(그는), tuzaza(우리는), muzaza(너희는), bazaza(그들은).
+tp n + za → nza: n-za-gura → nzagura(살 거예요).
+pr Nzaza. | 올게요. || Naje. | 왔어요.
+pr Nzagenda. | 갈 거예요. || Nagiye. | 갔어요.
+sm Ejo nzaza ku ishuri, nzakora umukoro, hanyuma tuzabonana. | 내일 학교에 와서 숙제하고, 그다음에 만나요.
+qz '올 거예요'는? | nzaza
+
+@ 7-03-04 | 안 ~해요 si-·nti- | sinkunda·ntakunda | 부정은 '나'면 si-, 다른 사람이면 nti-를 앞에 붙여요. gukunda(좋아하다)로 연습해요.
+w sinkunda | 나는 안 좋아해요 · si- = 나는 안 | 안 좋아해요
+e Sinkunda urusenda. | 고추를 안 좋아해요.
+e Sinkunda imvura. | 비를 좋아하지 않아요.
+w ntukunda | 너는 안 좋아해 · ntu- | 너는 안 좋아해
+e Ntukunda ikawa? | 커피 안 좋아해?
+e Ntukunda kubyina? | 춤추는 거 안 좋아해?
+w ntakunda | 그는 안 좋아해요 · nta- | 그는 안 좋아해요
+e Ntakunda inyama. | 그는 고기를 안 좋아해요.
+e Umwana ntakunda imboga. | 아이가 채소를 안 좋아해요.
+w ntidukunda | 우리는 안 좋아해요 · nti-du- | 우리는 안 좋아해요
+e Ntidukunda ubukonje. | 우리는 추위를 안 좋아해요.
+e Ntidukunda gutinda. | 우리는 늦는 걸 싫어해요.
+w ntibakunda | 그들은 안 좋아해요 · ntiba- | 그들은 안 좋아해요
+e Ntibakunda urusaku. | 그들은 시끄러운 걸 싫어해요.
+e Abana ntibakunda imiti. | 아이들은 약을 싫어해요.
+w ntabwo | 아니다 · 부정을 강조 | ~가 아니다; 안
+e Ntabwo ndi Umushinwa. | 저는 중국 사람이 아니에요.
+e Ntabwo nzi. | 몰라요.
+tp 부정: si-(나) ntu-(너) nta-(그) ntitu-(우리) ntimu-(너희) ntiba-(그들). 부정에서는 -ra-가 빠져요.
+tp '우리' tu-는 k·t·s·h·f·p·c 앞에서 du-로 바뀌어요: ntidukunda(안 좋아해요), dukora(우리는 일해요). 그 밖에는 tu-: ntituza(우리는 안 와요).
+tp ntabwo를 앞에 두면 더 분명한 부정이 돼요: Ntabwo nkunda ikawa(커피를 안 좋아해요).
+tp '~이 아니다'는 si: Si byo(그렇지 않아요), Si njye(내가 아니에요).
+pr Ndakunda. | 좋아해요. || Sinkunda. | 안 좋아해요.
+pr Arakunda. | 그는 좋아해요. || Ntakunda. | 그는 안 좋아해요.
+sm Nkunda icyayi, ariko sinkunda ikawa. | 차는 좋아하지만 커피는 안 좋아해요.
+qz '나는 안 좋아해요'는? | sinkunda
+
+@ 7-03-05 | ~하는 중·아직 | ndimo·sindarya | '~하는 중'은 ndimo + 동사 원형, '아직 안 했다'는 si-…-ra- 예요.
+w ndimo kurya | 먹는 중이에요 | 먹는 중이에요
+e Ndimo kurya, ndaje vuba. | 먹는 중이에요, 곧 갈게요.
+e Abana barimo kurya. | 아이들이 먹고 있어요.
+w ndimo kwiga | 공부하는 중이에요 | 공부하는 중이에요
+e Ceceka, ndimo kwiga. | 조용히 해, 공부하는 중이야.
+e Ndimo kwiga Ikinyarwanda. | 르완다어를 배우고 있어요.
+w ndacyari | 아직 ~이에요 | 아직 ~예요
+e Ndacyari mu rugo. | 아직 집에 있어요.
+e Ndacyari umunyeshuri. | 아직 학생이에요.
+w sindarya | 아직 안 먹었어요 | 아직 안 먹었어요
+e Sindarya, ndashonje. | 아직 안 먹어서 배고파요.
+e Oya, sindarya. | 아니요, 아직 안 먹었어요.
+w sindagera | 아직 도착 안 했어요 | 아직 도착 안 했어요
+e Sindagera, ndi mu nzira. | 아직 도착 안 했어요, 가는 중이에요.
+e Bisi ntiragera. | 버스가 아직 안 왔어요.
+w maze kurya | 이미 먹었어요 · 다 먹었어요 | 이미 먹었어요
+e Maze kurya, murakoze. | 이미 먹었어요, 고마워요.
+e Maze kurangiza umukoro. | 숙제를 이미 다 했어요.
+tp 진행: ndi + mo + 동사 원형 → ndimo kurya(먹는 중). 그들은 barimo kurya.
+tp '아직 안 ~': si + ra + 동사 → sindarya(아직 안 먹었어요). '이미 ~했다': maze + 동사 원형.
+pr Maze kurya. | 이미 먹었어요. || Sindarya. | 아직 안 먹었어요.
+pr Ndimo kwiga. | 공부 중이에요. || Ndarangije. | 다 했어요.
+sm Ndimo kwiga, sindarya, ariko ndacyari mu rugo. | 공부하는 중이라 아직 안 먹었고, 아직 집에 있어요.
+qz '먹는 중이에요'는? | ndimo kurya
+x ndaruhuka | 나는 쉰다
+x ndaje | 나는 왔다; 곧 간다
+x ushize | 지난
+x umwaka ushize | 작년
+x ndahaze | 배불러요
+x nshya | 새로운
+x amezi | 달들(개월)
+x yaje | 그가 왔다
+x twaje | 우리가 왔다
+x ndariye | 방금 먹었다
+x ndagura | 나는 산다
+x mu ndege | 비행기로
+x nyuma | 나중에
+x azaza | 그는 올 것이다
+x tuzaza | 우리는 올 것이다
+x muzaza | 여러분은 올 것이다
+x mu bukwe | 결혼식에
+x nzagura | 나는 살 것이다
+x ndakunda | 나는 좋아한다
+x kubyina | 춤추다
+x ubukonje | 추위
+x gutinda | 늦다
+x urusaku | 소음, 시끄러움
+x umushinwa | 중국 사람
+x nzi | 나는 안다
+x nkunda | 나는 좋아한다
+x arakunda | 그는 좋아한다
+x barimo | 그들은 ~하는 중이다
+x ceceka | 조용히 해
+x ndi mu nzira | 가는 중이다
+x ntiragera | 아직 도착 안 했다
+x kurangiza | 끝내다

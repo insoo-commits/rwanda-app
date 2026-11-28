@@ -1,0 +1,715 @@
+// 짝말 더하기 (v1.1): 반대말 더
+# P4-B | 반대말 더
+
+@ 2-03-01 | 많다·적다·모두·하나도 | byinshi·bike | 양을 말하는 짝이에요. 앞 낱말에 따라 앞부분이 바뀌어요: abantu benshi(많은 사람), amazi menshi(많은 물).
+w byinshi | 많다 | 많은
+e Mfite ibitabo byinshi. | 책이 많아요.
+e Hari abantu benshi ku isoko. | 시장에 사람이 많아요.
+e Ndashaka amazi menshi. | 물을 많이 원해요.
+w bike | 적다 | 적은
+e Mfite amafaranga make. | 돈이 조금 있어요.
+e Hari abanyeshuri bake uyu munsi. | 오늘은 학생이 적어요.
+e Ndashaka isukari nke. | 설탕은 조금만 주세요.
+w byose | 모두 · 전부 | 모두; 전부
+e Nariye byose. | 다 먹었어요.
+e Abana bose baraje. | 아이들이 모두 왔어요.
+e Murakoze kuri byose. | 모든 것에 감사해요.
+w nta na kimwe | 하나도 없다 | 하나도 없어요
+e Nta na kimwe mfite. | 하나도 없어요.
+e Nta muntu n'umwe uhari. | 아무도 없어요.
+e Nta kibazo na kimwe. | 문제가 하나도 없어요.
+tp 많다(-inshi)와 적다(-ke)는 앞 낱말에 맞춰 바뀌어요: abantu benshi / bake, ibitabo byinshi / bike, amazi menshi / make.
+tp 모두(-ose)도 바뀌어요: abantu bose(모든 사람), ibintu byose(모든 것), amazi yose(물 전부).
+pr Byinshi | 많아요 || Bike | 적어요
+pr Byose | 전부 || Nta na kimwe | 하나도 없어요
+dl 수아 | Ufite amafaranga menshi? | 돈 많이 있어요?
+dl 케자 | Oya, mfite make. | 아니요, 조금 있어요.
+dl 수아 | Njye nta na make mfite! | 저는 조금도 없어요!
+dl 케자 | Reka tujye kuri banki. | 은행에 가요.
+sm Abana bose bariye ibiryo byinshi, none hasigaye bike. | 아이들이 모두 많이 먹어서 이제 조금 남았어요.
+qz '많다(물건)'는? | byinshi
+
+@ 2-03-02 | 빠르다·느리다·이르다·늦다 | vuba·buhoro·kare | 빠르기와 때의 짝이에요.
+w vuba | 빨리 · 곧 | 빨리; 곧
+e Ngwino vuba! | 빨리 와!
+e Ndagaruka vuba. | 곧 돌아올게요.
+e Avuga vuba cyane. | 그는 말을 아주 빨리 해요.
+w buhoro | 천천히 | 천천히
+e Vuga buhoro, nyabuneka. | 천천히 말해 주세요.
+e Genda buhoro. | 천천히 가요.
+e Ndiga buhoro buhoro. | 조금씩 배우고 있어요.
+w kare | 일찍 | 일찍
+e Nabyutse kare. | 일찍 일어났어요.
+e Ngera ku ishuri kare. | 학교에 일찍 도착해요.
+e Ni kare cyane. | 너무 일러요.
+w gutinda | 늦다 · 늦어지다 | 늦다
+e Natinze. Mbabarira. | 늦었어요. 미안해요.
+e Bisi iratinda. | 버스가 늦어요.
+e Ntutinde! | 늦지 마!
+tp vuba는 '빨리'와 '곧' 둘 다예요. Ndagaruka vuba = 곧 돌아올게요.
+tp 르완다에서 늦었을 때는 Natinze, mbabarira(늦어서 미안해요)라고 말해요.
+pr Vuba | 빨리 || Buhoro | 천천히
+pr Kare | 일찍 || Natinze | 늦었어요
+dl 선생님 | Kuki watinze? | 왜 늦었어요?
+dl 학생 | Bisi yatinze. Mbabarira. | 버스가 늦었어요. 죄송해요.
+dl 선생님 | Ejo uze kare. | 내일은 일찍 와요.
+dl 학생 | Yego, nzaza kare. | 네, 일찍 올게요.
+sm Nabyutse kare, ariko bisi yagenze buhoro, ndatinda. | 일찍 일어났지만 버스가 천천히 가서 늦었어요.
+qz '천천히'는? | buhoro
+
+@ 2-03-03 | 뜨겁다·차갑다·미지근하다 | gushyuha·gukonja | 온도의 짝이에요. 날씨와 음식 모두에 써요.
+w birashyushye | 뜨거워요 · 더워요 | 뜨거워요; 더워요
+e Icyayi kirashyushye. | 차가 뜨거워요.
+e Uyu munsi birashyushye. | 오늘은 더워요.
+e Amazi arashyushye cyane. | 물이 아주 뜨거워요.
+w birakonje | 차가워요 · 추워요 | 차가워요; 추워요
+e Amazi arakonje. | 물이 차가워요.
+e Nijoro birakonje. | 밤에는 추워요.
+e Ndashaka Fanta ikonje. | 차가운 환타를 원해요.
+w akazuyazi | 미지근하다 | 미지근해요
+e Amazi ni akazuyazi. | 물이 미지근해요.
+e Ndashaka amazi y'akazuyazi. | 미지근한 물 주세요.
+e Icyayi cyabaye akazuyazi. | 차가 미지근해졌어요.
+w gushyushya | 데우다 | 데우다
+e Shyushya ibiryo. | 음식을 데워요.
+e Nshyushyirize amata. | 우유 좀 데워 주세요.
+e Ndashyushya amazi. | 물을 데우고 있어요.
+tp -shyushye(뜨거운)와 -konje(차가운)는 앞 낱말에 맞춰 바뀌어요: icyayi gishyushye, amazi ashyushye.
+tp 날씨는 Birashyushye(더워요), Birakonje(추워요)처럼 bi-로 말해요.
+pr Birashyushye | 뜨거워요 || Birakonje | 차가워요
+pr Gushyushya | 데우다 || Gukonjesha | 식히다
+dl 손님 | Mufite amazi akonje? | 차가운 물 있어요?
+dl 직원 | Yego. Cyangwa ashyushye? | 네. 아니면 뜨거운 물이요?
+dl 손님 | Akonje, nyabuneka. Birashyushye uyu munsi. | 차가운 물이요. 오늘 덥네요.
+dl 직원 | Ni byo koko. | 정말 그래요.
+sm Mu gitondo birakonje, ariko ku manywa birashyushye cyane. | 아침에는 춥지만 낮에는 아주 더워요.
+qz '차가워요'는? | birakonje
+
+@ 2-03-04 | 열다·닫다·켜다·끄다 | gufungura·gufunga | 문과 불, 기계에 쓰는 짝이에요.
+w gufungura | 열다 · 켜다 | 열다; 켜다
+e Fungura urugi. | 문을 열어요.
+e Fungura idirishya, nyabuneka. | 창문 좀 열어 주세요.
+e Banki ifungura saa mbiri. | 은행은 8시에 열어요.
+w gufunga | 닫다 · 끄다 | 닫다
+e Funga urugi. | 문을 닫아요.
+e Iduka rifunga saa mbiri z'ijoro. | 가게는 밤 8시에 닫아요.
+e Funga amaso. | 눈을 감아요.
+w gucana | (불을) 켜다 · 불을 붙이다 | 켜다
+e Cana itara. | 불을 켜요.
+e Bacana umuriro. | 그들이 불을 피워요.
+e Nacanye televiziyo. | 텔레비전을 켰어요.
+w kuzimya | (불을) 끄다 | 끄다
+e Zimya itara. | 불을 꺼요.
+e Zimya telefoni mu ishuri. | 교실에서 휴대폰을 꺼요.
+e Nzimije televiziyo. | 텔레비전을 껐어요.
+tp gufungura는 '열다'이면서 '아침을 먹다'라는 뜻도 있어요(→ 1-08-03).
+tp 불은 gucana(켜다) ↔ kuzimya(끄다), 문은 gufungura(열다) ↔ gufunga(닫다)예요.
+pr Fungura | 열어요 || Funga | 닫아요
+pr Cana | 켜요 || Zimya | 꺼요
+dl 선생님 | Birakonje. Funga idirishya. | 추워요. 창문 닫아요.
+dl 학생 | Sawa. Nzimye n'itara? | 네. 불도 끌까요?
+dl 선생님 | Oya, reka ricane. | 아니요, 켜 둬요.
+dl 학생 | Yego, mwarimu. | 네, 선생님.
+sm Fungura urugi, ucane itara; nutaha, uzimye kandi ufunge. | 문을 열고 불을 켜요. 갈 때는 끄고 닫아요.
+qz '불을 끄다'는? | kuzimya
+
+@ 2-03-05 | 시작하다·끝나다·멈추다·계속하다 | gutangira·kurangiza | 일의 시작과 끝을 말하는 짝이에요.
+w gutangira | 시작하다 | 시작하다
+e Isomo ritangira saa tatu. | 수업은 9시에 시작해요.
+e Reka dutangire. | 시작합시다.
+e Natangiye kwiga Ikinyarwanda. | 르완다어를 배우기 시작했어요.
+w kurangiza | 끝내다 · 마치다 | 끝내다
+e Ndarangije. | 다 했어요.
+e Isomo rirangira saa sita. | 수업은 12시에 끝나요.
+e Rangiza umukoro wawe. | 숙제를 끝내요.
+w guhagarara | 멈추다 · 서다 | 멈추다; 서다
+e Hagarara hano. | 여기 멈춰요.
+e Imvura yahagaze. | 비가 그쳤어요.
+e Bisi ihagarara hano. | 버스가 여기 서요.
+w gukomeza | 계속하다 | 계속하다
+e Komeza! | 계속해요!
+e Komeza gusoma. | 계속 읽어요.
+e Imvura irakomeza kugwa. | 비가 계속 와요.
+tp gutangira ↔ kurangiza(시작 ↔ 끝), guhagarara ↔ gukomeza(멈춤 ↔ 계속)예요.
+tp Komereza aho!(그대로 계속해!)는 칭찬할 때도 써요(→ 1-06-03).
+pr Gutangira | 시작하다 || Kurangiza | 끝내다
+pr Guhagarara | 멈추다 || Gukomeza | 계속하다
+dl 선생님 | Dutangire? | 시작할까요?
+dl 학생들 | Yego, mwarimu. | 네, 선생님.
+dl 선생님 | Mukomeze kwandika. Murangiza saa sita. | 계속 쓰세요. 12시에 끝나요.
+dl 학생 | Ndarangije! | 다 했어요!
+sm Isomo ritangira saa tatu, rikarangira saa sita; hagati turaruhuka gato. | 수업은 9시에 시작해서 12시에 끝나요. 중간에 조금 쉬어요.
+qz '시작하다'는? | gutangira
+
+@ 2-03-06 | 이기다·지다·비기다 | gutsinda·gutsindwa | 경기와 시험에서 쓰는 짝이에요.
+w gutsinda | 이기다 · 합격하다 | 이기다; 합격하다
+e Ikipe yacu yatsinze! | 우리 팀이 이겼어요!
+e Natsinze ikizamini. | 시험에 합격했어요.
+e Nizere ko uzatsinda. | 네가 이기길 바라.
+w gutsindwa | 지다 · 떨어지다 | 지다
+e Twatsinzwe uyu munsi. | 오늘 우리가 졌어요.
+e Yatsinzwe ikizamini. | 그는 시험에 떨어졌어요.
+e Ntitwatsinzwe! | 우리는 지지 않았어요!
+w kunganya | 비기다 | 비기다
+e Twanganyije. | 우리는 비겼어요.
+e Amakipe yombi yanganyije. | 두 팀이 비겼어요.
+e Twanganyije ibitego bibiri kuri bibiri. | 2대 2로 비겼어요.
+w igitego | 골 · 득점 | 골
+e Yatsinze igitego! | 그가 골을 넣었어요!
+e Ni ibitego bingahe? | 몇 골이에요?
+e Igitego cyiza cyane! | 아주 멋진 골이에요!
+tp gutsinda는 '이기다'와 '시험에 붙다' 둘 다예요. -w-를 넣은 gutsindwa는 '지다(짐을 당하다)'예요.
+tp 축구 점수는 ibitego bibiri kuri kimwe(2대 1)처럼 말해요.
+pr Twatsinze! | 이겼어요! || Twatsinzwe. | 졌어요.
+pr Twanganyije. | 비겼어요. || Igitego! | 골!
+dl 민준 | Ninde watsinze? | 누가 이겼어요?
+dl 무기샤 | Ikipe yacu! Ibitego bitatu kuri kimwe. | 우리 팀이요! 3대 1이에요.
+dl 민준 | Ni byiza cyane! | 정말 좋네요!
+dl 무기샤 | Ejo nabwo tuzatsinda. | 내일도 이길 거예요.
+sm Ejo twatsinzwe, ariko uyu munsi twatsinze ibitego bibiri. | 어제는 졌지만 오늘은 두 골로 이겼어요.
+qz '지다'는? | gutsindwa
+
+@ 2-03-07 | 기억하다·잊다 | kwibuka·kwibagirwa | 머리로 기억하고 잊는 짝이에요.
+w kwibuka | 기억하다 | 기억하다
+e Ndakwibuka. | 너를 기억해.
+e Wibuka izina rye? | 그의 이름 기억해요?
+e Ibuka gufunga urugi. | 문 닫는 거 기억해요.
+w kwibagirwa | 잊다 | 잊다
+e Nibagiwe izina ryawe. | 당신 이름을 잊었어요.
+e Nibagiwe ikaye yanjye mu rugo. | 공책을 집에 두고 왔어요.
+e Ntiwibagirwe! | 잊지 마!
+w kwiyibutsa | 다시 떠올리다 · 복습하다 | 떠올리다
+e Reka niyibutse. | 다시 떠올려 볼게요.
+e Ndiyibutsa amagambo mashya. | 새 낱말을 다시 떠올려요.
+e Iyibutse isomo ry'ejo. | 어제 수업을 복습해요.
+w kwibutsa | 일깨워 주다 · 상기시키다 | 일깨워 주다
+e Unyibutse ejo. | 내일 저한테 알려 줘요.
+e Mwarimu yatwibukije umukoro. | 선생님이 숙제를 상기시켜 주셨어요.
+e Iyi foto inyibutsa Koreya. | 이 사진은 한국을 떠올리게 해요.
+tp 물건을 두고 왔을 때도 Nibagiwe ○○(○○을 잊었어요)라고 해요.
+tp kwibuka(기억하다) → kwibutsa(기억하게 하다): -sha/-tsa를 붙이면 '~하게 하다'가 돼요.
+pr Ndibuka. | 기억해요. || Nibagiwe. | 잊었어요.
+pr Unyibutse. | 알려 줘요. || Ntiwibagirwe. | 잊지 마요.
+dl 학생 | Mwarimu, nibagiwe ikaye yanjye. | 선생님, 공책을 두고 왔어요.
+dl 선생님 | Nta kibazo. Andika ku rupapuro. | 괜찮아요. 종이에 써요.
+dl 학생 | Murakoze. Ejo nzayizana. | 고맙습니다. 내일 가져올게요.
+dl 선생님 | Sawa, ntiwibagirwe! | 좋아요, 잊지 마요!
+sm Nibagiwe izina rye, ariko inshuti yanjye yarinyibukije. | 그의 이름을 잊었는데 친구가 알려 줬어요.
+qz '잊다'는? | kwibagirwa
+
+@ 2-03-08 | 웃다·울다·기쁘다·슬프다 | guseka·kurira | 감정을 나타내는 짝이에요.
+w guseka | 웃다 | 웃다
+e Abana baraseka. | 아이들이 웃어요.
+e Ntuseke! | 웃지 마!
+e Yasetse cyane. | 그는 많이 웃었어요.
+w kurira | 울다 | 울다
+e Umwana ararira. | 아이가 울어요.
+e Ntukarire. | 울지 마.
+e Yarize cyane. | 그는 많이 울었어요.
+w kwishima | 기뻐하다 | 기뻐하다
+e Ndishimye cyane. | 정말 기뻐요.
+e Abanyeshuri barishimye. | 학생들이 기뻐해요.
+e Twishimiye kubabona. | 여러분을 만나 기뻐요.
+w kubabara | 슬퍼하다 · 아프다 | 슬프다; 아프다
+e Ndababaye. | 슬퍼요.
+e Yababajwe n'iyo nkuru. | 그는 그 소식에 슬퍼했어요.
+e Umutwe urambabaza. | 머리가 아파요.
+tp kubabara는 마음이 '슬프다'와 몸이 '아프다' 둘 다예요.
+tp '울지 마'는 Ntukarire 또는 Nturire예요. 아이를 달랠 때 Ihangane(참아)도 써요.
+pr Guseka | 웃다 || Kurira | 울다
+pr Ndishimye | 기뻐요 || Ndababaye | 슬퍼요
+dl 수아 | Kuki umwana arira? | 아이가 왜 울어요?
+dl 엄마 | Arashonje. | 배고파서요.
+dl 수아 | Dore umugati. | 여기 빵이요.
+dl 엄마 | Murakoze! Noneho araseka. | 고마워요! 이제 웃네요.
+sm Umwana yarize, ariko amaze kurya araseka, maze nanjye ndishima. | 아이가 울었지만 먹고 나서 웃어서 저도 기뻤어요.
+qz '울다'는? | kurira
+
+@ 2-03-09 | 앉다·일어서다·눕다·서 있다 | kwicara·guhaguruka | 몸의 자세를 말하는 짝이에요.
+w kwicara | 앉다 | 앉다
+e Icara hano. | 여기 앉아요.
+e Mwicare, nyabuneka. | 앉으세요.
+e Nicaye inyuma. | 뒤에 앉았어요.
+w guhaguruka | 일어서다 | 일어서다
+e Haguruka. | 일어나요.
+e Muhaguruke mwese. | 모두 일어서세요.
+e Yahagurutse vuba. | 그는 빨리 일어섰어요.
+w kuryama | 눕다 · 자다 | 눕다; 자다
+e Ryama hano. | 여기 누워요.
+e Ndaryama saa yine. | 10시에 자요.
+e Umurwayi aryamye. | 환자가 누워 있어요.
+w guhagarara | 서 있다 · 멈추다 | 서 있다
+e Hagarara aha. | 여기 서 있어요.
+e Bahagaze ku murongo. | 그들이 줄을 서 있어요.
+e Twahagaze isaha yose. | 한 시간 내내 서 있었어요.
+tp 손님에게 앉으라고 할 때는 공손하게 Mwicare(앉으세요)라고 해요.
+tp guhaguruka는 '일어서다'이고, 비행기 '출발'도 guhaguruka예요(→ 1-05-04).
+pr Icara | 앉아 || Haguruka | 일어나
+pr Ryama | 누워 || Hagarara | 서
+dl 선생님 | Mwaramutse! Mwicare. | 안녕하세요! 앉으세요.
+dl 학생들 | Mwaramutse, mwarimu! | 안녕하세요, 선생님!
+dl 선생님 | Keza, haguruka usome. | 케자, 일어나서 읽어요.
+dl 케자 | Yego, mwarimu. | 네, 선생님.
+sm Abanyeshuri barahaguruka, barasuhuza, hanyuma baricara. | 학생들이 일어나서 인사하고 앉아요.
+qz '앉다'는? | kwicara
+
+@ 2-03-10 | 밀다·당기다·들다·내려놓다 | gusunika·gukurura | 손으로 힘을 쓰는 짝이에요.
+w gusunika | 밀다 | 밀다
+e Sunika urugi. | 문을 밀어요.
+e Dusunike imodoka. | 차를 밀어요.
+e Ntunsunike! | 밀지 마!
+w gukurura | 당기다 · 끌다 | 당기다
+e Kurura urugi. | 문을 당겨요.
+e Kurura intebe hano. | 의자를 여기로 끌어와요.
+e Inka ikurura igare. | 소가 수레를 끌어요.
+w guterura | 들어 올리다 | 들다
+e Terura iki gikapu. | 이 가방을 들어요.
+e Sinshobora kuyiterura. | 그걸 못 들어요.
+e Twaterura ameza hamwe. | 같이 책상을 들어요.
+w gushyira hasi | 내려놓다 | 내려놓다
+e Shyira igikapu hasi. | 가방을 내려놓아요.
+e Yashyize agaseke hasi. | 그녀는 바구니를 내려놓았어요.
+e Bishyire hasi buhoro. | 천천히 내려놓아요.
+tp 문에 Sunika(미시오), Kurura(당기시오)라고 붙어 있어요.
+tp gushyira는 '놓다', hasi는 '아래'예요. gushyira hasi = 아래에 놓다.
+pr Sunika | 밀어요 || Kurura | 당겨요
+pr Terura | 들어요 || Shyira hasi | 내려놔요
+dl 민준 | Iki gikapu kiraremereye. | 이 가방 무거워요.
+dl 무기샤 | Reka tugiterure hamwe. | 같이 들어요.
+dl 민준 | Murakoze. Tugishyire hasi hano. | 고마워요. 여기 내려놓아요.
+dl 무기샤 | Sawa. | 네.
+sm Sunika urugi, uterure igikapu, hanyuma ugishyire hasi mu cyumba. | 문을 밀고 가방을 들어서 방에 내려놓아요.
+qz '당기다'는? | gukurura
+
+@ 2-03-11 | 쉽다·어렵다·가능하다·불가능하다 | biroroshye·biragoye | 일이 쉬운지 어려운지 말하는 짝이에요.
+w biroroshye | 쉬워요 | 쉬워요
+e Ikinyarwanda kiroroshye? | 르완다어는 쉬워요?
+e Iki kizamini kiroroshye. | 이 시험은 쉬워요.
+e Biroroshye cyane. | 아주 쉬워요.
+w biragoye | 어려워요 | 어려워요
+e Imibare iragoye. | 수학은 어려워요.
+e Biragoye gato. | 조금 어려워요.
+e Kuvuga Ikinyarwanda biragoye. | 르완다어로 말하는 건 어려워요.
+w birashoboka | 가능해요 · 할 수 있어요 | 가능해요
+e Birashoboka ejo? | 내일 가능해요?
+e Yego, birashoboka. | 네, 가능해요.
+e Byose birashoboka. | 모든 게 가능해요.
+w ntibishoboka | 불가능해요 · 안 돼요 | 안 돼요
+e Ntibishoboka uyu munsi. | 오늘은 안 돼요.
+e Ntibishoboka kujya hariya n'amaguru. | 거기까지 걸어가는 건 불가능해요.
+e Ndabona ntibishoboka. | 불가능해 보여요.
+tp bi-ra-oroshye → biroroshye. 낱말에 맞춰 kiroroshye(그것이 쉬워요), iragoye(그것이 어려워요)처럼 바뀌어요.
+tp '안 돼요'를 부드럽게 말할 때는 Ntibishoboka, mbabarira(안 돼요, 미안해요)라고 해요.
+pr Biroroshye | 쉬워요 || Biragoye | 어려워요
+pr Birashoboka | 가능해요 || Ntibishoboka | 불가능해요
+dl 무기샤 | Ikinyarwanda kiragoye? | 르완다어 어려워요?
+dl 수아 | Kuvuga biragoye, ariko gusoma biroroshye. | 말하기는 어렵지만 읽기는 쉬워요.
+dl 무기샤 | Komeza! Birashoboka. | 계속해요! 할 수 있어요.
+dl 수아 | Murakoze! | 고마워요!
+sm Ikinyarwanda kiragoye gato, ariko kucyiga birashoboka. | 르완다어는 조금 어렵지만 배울 수 있어요.
+qz '어려워요'는? | biragoye
+
+@ 2-03-12 | 진실·거짓·실수·고치다 | ukuri·ikinyoma | 맞고 틀림에 관한 짝이에요.
+w ukuri | 진실 · 사실 | 진실
+e Ni ukuri. | 사실이에요.
+e Vuga ukuri. | 사실대로 말해.
+e Ni ukuri koko? | 정말이에요?
+w ikinyoma | 거짓말 | 거짓말
+e Ni ikinyoma! | 거짓말이야!
+e Ntukabeshye. | 거짓말하지 마.
+e Yavuze ikinyoma. | 그는 거짓말을 했어요.
+w ikosa | 실수 · 틀린 것 | 실수
+e Nakoze ikosa. | 실수했어요.
+e Hano hari ikosa. | 여기 틀린 게 있어요.
+e Nta makosa ari mu mukoro wawe. | 네 숙제에는 틀린 게 없어.
+w gukosora | 고치다 · 바로잡다 | 고치다
+e Kosora iri jambo. | 이 낱말을 고쳐요.
+e Mwarimu akosora imikoro. | 선생님이 숙제를 채점해요.
+e Nyabuneka, unkosore. | 제가 틀리면 고쳐 주세요.
+tp '거짓말하다'는 kubeshya예요: Arabeshya(그는 거짓말해요), Ntukabeshye(거짓말하지 마).
+tp gukosora는 '고치다'이면서 선생님이 '채점하다'도 돼요.
+pr Ni ukuri. | 사실이에요. || Ni ikinyoma. | 거짓말이에요.
+pr Ikosa | 실수 || Gukosora | 고치다
+dl 학생 | Mwarimu, ni ukuri ko ejo nta shuri? | 선생님, 내일 학교 안 오는 거 사실이에요?
+dl 선생님 | Oya, ni ikinyoma! | 아니요, 거짓말이에요!
+dl 학생 | Mbabarira, nakoze ikosa. | 죄송해요, 착각했어요.
+dl 선생님 | Nta kibazo. | 괜찮아요.
+sm Nakoze amakosa abiri, mwarimu arayakosora, maze ndiga ukuri. | 두 군데 틀렸는데 선생님이 고쳐 주셔서 바르게 배웠어요.
+qz '실수'는? | ikosa
+
+@ 2-03-13 | 부자·가난한 사람 | umukire·umukene | 형편을 말하는 짝이에요.
+w umukire | 부자 | 부자
+e Ni umukire. | 그는 부자예요.
+e Abakire bafite imodoka nyinshi. | 부자들은 차가 많아요.
+e Ntabwo ndi umukire. | 저는 부자가 아니에요.
+w umukene | 가난한 사람 | 가난한 사람
+e Dufasha abakene. | 우리는 가난한 사람들을 도와요.
+e Ni umukene ariko arishimye. | 그는 가난하지만 행복해요.
+e Abakene benshi baba mu cyaro. | 가난한 사람이 시골에 많이 살아요.
+w ubukire | 부유함 · 재산 | 부; 재산
+e Ubuzima ni bwo bukire. | 건강이 재산이에요.
+e Ubukire si byose. | 돈이 전부는 아니에요.
+e Inka zari ubukire mu Rwanda rwa kera. | 옛 르완다에서는 소가 재산이었어요.
+w ubukene | 가난 | 가난
+e Turwanya ubukene. | 우리는 가난과 싸워요.
+e Ubukene ni ikibazo gikomeye. | 가난은 큰 문제예요.
+e Uburezi bugabanya ubukene. | 교육은 가난을 줄여요.
+tp umu-(사람) ↔ ubu-(그 상태): umukire 부자 → ubukire 부, umukene 가난한 사람 → ubukene 가난.
+tp 옛 르완다에서는 소(inka)가 가장 큰 재산이었어요. 지금도 소를 선물하는 것은 큰 존중의 뜻이에요.
+pr Umukire | 부자 || Umukene | 가난한 사람
+pr Ubukire | 부 || Ubukene | 가난
+dl 학생 | Muri Koreya abantu bose ni abakire? | 한국 사람은 모두 부자예요?
+dl 민준 | Oya, hari n'abakene. | 아니요, 가난한 사람도 있어요.
+dl 학생 | Ni nk'u Rwanda. | 르완다랑 같네요.
+dl 민준 | Yego. Uburezi ni ingenzi ahantu hose. | 네. 교육은 어디서나 중요해요.
+sm Ubukire bwa mbere ni ubuzima n'uburezi, si amafaranga gusa. | 첫째가는 재산은 돈만이 아니라 건강과 교육이에요.
+qz '가난'은? | ubukene
+
+@ 2-03-14 | 건강하다·아프다·낫다 | muzima·kurwara | 몸 상태를 말하는 짝이에요.
+w muzima | 건강한 · 살아 있는 | 건강한
+e Ndi muzima. | 저는 건강해요.
+e Abana bose ni bazima. | 아이들이 모두 건강해요.
+e Ni muzima nubwo ashaje. | 그는 나이가 들었지만 건강해요.
+w kurwara | 병나다 · 아프다 | 아프다
+e Ndwaye. | 아파요.
+e Yarwaye malariya. | 그는 말라리아에 걸렸어요.
+e Ntiwarwara niba unywa amazi asukuye. | 깨끗한 물을 마시면 병에 안 걸려요.
+w gukira | 낫다 · 회복하다 | 낫다
+e Nakize. | 다 나았어요.
+e Ukire vuba! | 빨리 나아요!
+e Azakira mu minsi itatu. | 그는 사흘 뒤에 나을 거예요.
+w ubuzima | 건강 · 삶 | 건강; 삶
+e Ubuzima bwawe bumeze bute? | 건강은 어때요?
+e Ubuzima ni ingenzi. | 건강이 중요해요.
+e Ubuzima mu Rwanda ni bwiza. | 르완다에서의 삶은 좋아요.
+tp 아픈 사람에게는 Ukire vuba!(빨리 나아요!)라고 해요. 여러 명에게는 Mukire vuba!
+tp ubuzima은 '건강'과 '삶' 둘 다예요. Ubuzima bwiza = 건강한 삶, 좋은 삶.
+pr Ndi muzima | 건강해요 || Ndwaye | 아파요
+pr Ukire vuba! | 빨리 나아요! || Nakize. | 나았어요.
+dl 케자 | Ejo wari urwaye. Ubu umeze ute? | 어제 아팠잖아요. 지금은 어때요?
+dl 수아 | Nakize. Ndi muzima. | 나았어요. 건강해요.
+dl 케자 | Imana ishimwe! | 다행이에요!
+dl 수아 | Murakoze kumbaza. | 물어봐 줘서 고마워요.
+sm Nari ndwaye, ariko nanyoye umuti none nakize, ndi muzima. | 아팠지만 약을 먹고 이제 나아서 건강해요.
+qz '낫다'는? | gukira
+
+@ 2-03-15 | 젖다·마르다 | bitose·byumye | 물기에 관한 짝이에요. 비가 많이 오는 르완다에서 자주 써요.
+w bitose | 젖은 | 젖은
+e Imyenda iracyatose. | 빨래가 아직 젖어 있어요.
+e Inkweto zanjye zatose. | 신발이 젖었어요.
+e Umusatsi wanjye uratose. | 머리가 젖었어요.
+w byumye | 마른 | 마른
+e Imyenda yumye. | 빨래가 말랐어요.
+e Ibishyimbo byumye. | 마른 콩이에요.
+e Ubutaka bwumye cyane. | 땅이 아주 메말랐어요.
+w kunyagirwa | 비를 맞다 | 비 맞다
+e Nanyagiwe. | 비를 맞았어요.
+e Ntiwinyagirwe, fata umutaka. | 비 맞지 말고 우산 가져가.
+e Abana banyagiwe bava ku ishuri. | 아이들이 학교에서 오다가 비를 맞았어요.
+w kwanika | 널다 · 말리다 | 널다
+e Anika imyenda hanze. | 빨래를 밖에 널어요.
+e Twanitse ibishyimbo ku zuba. | 콩을 햇볕에 말렸어요.
+e Izuba rirava, reka twanike. | 해가 나니까 널어요.
+tp 우기(장마철)에는 빨래가 잘 안 말라요. Imyenda iracyatose = 빨래가 아직 젖어 있어요.
+tp kunyagirwa는 '비에 젖다, 비를 맞다'예요. 비는 imvura.
+pr Bitose | 젖었어요 || Byumye | 말랐어요
+pr Kunyagirwa | 비 맞다 || Kwanika | 널다
+dl 엄마 | Kuki utose? | 왜 젖었어?
+dl 아이 | Nanyagiwe mvuye ku ishuri. | 학교에서 오다가 비 맞았어요.
+dl 엄마 | Kuramo imyenda, tuyanike. | 옷 벗어. 널자.
+dl 아이 | Sawa, mama. | 네, 엄마.
+sm Nanyagiwe, imyenda yanjye iratose; nyanitse ku zuba none yumye. | 비를 맞아 옷이 젖었는데 햇볕에 널었더니 이제 말랐어요.
+qz '마른'은? | byumye
+
+@ 2-03-16 | 배고픔·목마름·배부름 | inzara·inyota | 먹고 마시는 것에 관한 짝이에요.
+w inzara | 배고픔 | 배고픔
+e Mfite inzara. | 배고파요.
+e Inzara iranyishe! | 배고파 죽겠어요!
+e Abana bafite inzara. | 아이들이 배고파해요.
+w inyota | 목마름 | 목마름
+e Mfite inyota. | 목말라요.
+e Nywa amazi, ufite inyota. | 목마르니까 물 마셔요.
+e Inyota ni nyinshi uyu munsi. | 오늘 정말 목말라요.
+w guhaga | 배부르다 | 배부르다
+e Narahaze. | 배불러요.
+e Wahaze? | 배불러요?
+e Twahaze cyane. | 정말 배불러요.
+w gushonja | 배고프다 | 배고프다
+e Ndashonje. | 배고파요.
+e Urashonje? | 배고파요?
+e Twashonje cyane. | 우리 정말 배고파요.
+tp '배고파요'는 Ndashonje 또는 Mfite inzara 둘 다 써요.
+tp 식사 중에 더 먹으라고 하면 Narahaze, murakoze(배불러요, 고마워요)로 사양해요.
+pr Ndashonje | 배고파요 || Narahaze | 배불러요
+pr Mfite inyota | 목말라요 || Mfite inzara | 배고파요
+dl 케자 | Urashonje? | 배고파요?
+dl 민준 | Yego, kandi mfite n'inyota. | 네, 목도 말라요.
+dl 케자 | Ngwino turye. | 와서 먹어요.
+dl 민준 | (nyuma) Narahaze, murakoze! | (나중에) 배불러요, 고마워요!
+sm Nari mfite inzara n'inyota; nariye kandi nywa amazi, none narahaze. | 배고프고 목말랐는데 먹고 물을 마셔서 이제 배불러요.
+qz '목마름'은? | inyota
+
+@ 2-03-17 | 가득하다·비다 | kuzura·ubusa | 그릇과 장소가 차고 비는 짝이에요.
+w kuzura | 가득 차다 | 가득 차다
+e Bisi yuzuye. | 버스가 꽉 찼어요.
+e Igikombe cyuzuye amazi. | 컵에 물이 가득해요.
+e Isoko ryuzuye abantu. | 시장에 사람이 가득해요.
+w ubusa | 빈 것 · 아무것도 없음 | 빈
+e Igikombe kirimo ubusa. | 컵이 비었어요.
+e Icyumba kirimo ubusa. | 방이 비어 있어요.
+e Naje amara masa. | 빈손으로 왔어요.
+w kuzuza | 채우다 | 채우다
+e Uzuza igikombe. | 컵을 채워요.
+e Uzuza iyi fishi. | 이 서류를 작성해요.
+e Uzuza amazi mu icupa. | 병에 물을 채워요.
+w gusuka | 붓다 · 쏟다 | 붓다
+e Suka amazi mu gikombe. | 컵에 물을 부어요.
+e Nasutse icyayi! | 차를 쏟았어요!
+e Suka buhoro. | 천천히 부어요.
+tp kuzuza는 '채우다'이고, 서류를 '작성하다'도 kuzuza예요: Uzuza iyi fishi(이 서류를 작성해요).
+tp '빈손으로'는 amara masa라고 해요.
+pr Byuzuye | 가득 찼어요 || Birimo ubusa | 비었어요
+pr Kuzuza | 채우다 || Gusuka | 붓다
+dl 직원 | Bisi yuzuye. Tegereza indi. | 버스가 꽉 찼어요. 다른 거 기다려요.
+dl 수아 | Indi iza ryari? | 다음 건 언제 와요?
+dl 직원 | Mu minota icumi. Iyo ntiyuzuye. | 10분 뒤에요. 그건 안 찼어요.
+dl 수아 | Murakoze. | 고마워요.
+sm Igikombe cyari kirimo ubusa; nasutsemo amazi ndacyuzuza. | 컵이 비어 있어서 물을 부어 가득 채웠어요.
+qz '채우다'는? | kuzuza
+
+@ 2-03-18 | 사랑·미움 | urukundo·urwango | 마음의 짝이에요.
+w urukundo | 사랑 | 사랑
+e Urukundo rwa mama. | 엄마의 사랑.
+e Imana ni urukundo. | 하나님은 사랑이에요.
+e Indirimbo z'urukundo. | 사랑 노래들.
+w urwango | 미움 · 증오 | 미움
+e Urwango ni rubi. | 미움은 나빠요.
+e Twanga urwango. | 우리는 미움을 거부해요.
+e Urwango rwasenye igihugu. | 미움이 나라를 무너뜨렸어요.
+w gukunda | 사랑하다 · 좋아하다 | 사랑하다
+e Ndagukunda. | 사랑해요.
+e Nkunda u Rwanda. | 르완다를 좋아해요.
+e Akunda abana be. | 그는 아이들을 사랑해요.
+w kwanga | 싫어하다 · 거절하다 | 싫어하다
+e Nanga imbeho. | 추위가 싫어요.
+e Yanze kuza. | 그는 오기를 거절했어요.
+e Ntukange ibiryo. | 음식을 거부하지 마.
+tp gukunda는 '사랑하다'와 '좋아하다' 둘 다예요: Ndagukunda(사랑해요), Nkunda ikawa(커피 좋아해요).
+tp kwanga는 '싫어하다'이면서 '거절하다'예요: Yanze kuza(오지 않겠다고 했어요).
+pr Gukunda | 좋아하다 || Kwanga | 싫어하다
+pr Urukundo | 사랑 || Urwango | 미움
+dl 무기샤 | Ukunda ibiryo by'u Rwanda? | 르완다 음식 좋아해요?
+dl 민준 | Ndabikunda cyane! Ariko nanga urusenda rwinshi. | 아주 좋아해요! 그런데 매운 건 싫어요.
+dl 무기샤 | Ndabyumva. | 알겠어요.
+dl 민준 | Isombe ni yo nkunda kurusha. | 이솜베를 제일 좋아해요.
+sm Dukunde amahoro, twange urwango, twubake igihugu. | 평화를 사랑하고 미움을 거부하며 나라를 세워요.
+qz '싫어하다'는? | kwanga
+x nakize | 나는 나았다
+x narahaze | 나는 배부르다
+x igikombe | 컵
+x itara | 등, 불
+x zimya | 꺼라
+x twanganyije | 우리는 비겼다
+x sunika | 밀어라
+x kurura | 당겨라
+x nanyagiwe | 나는 비를 맞았다
+x kirimo | 안에 있다
+x uzuza | 채워라
+x nabyutse | 나는 일어났다
+x koko | 정말
+x cana | 켜라
+x dutangire | 시작하자
+x unyibutse | 나에게 일깨워 줘
+x yarize | 그는 울었다
+x ndababaye | 나는 슬프다
+x araseka | 그는 웃는다
+x maze | 그리고, 그래서
+x terura | 들어라
+x abakire | 부자들
+x bafite | 그들은 가지고 있다
+x abakene | 가난한 사람들
+x uburezi | 교육
+x ukire | 나아라
+x yumye | 말랐다
+x urashonje | 너는 배고프다
+x suka | 부어라
+x nanga | 나는 싫어한다
+x bake | 적은(사람)
+x uhari | 있는(사람)
+x tujye | 가자
+x bariye | 그들은 먹었다
+x hasigaye | 남았다
+x ndagaruka | 나는 돌아온다
+x ntutinde | 늦지 마라
+x watinze | 너는 늦었다
+x yatinze | 늦었다
+x uze | 와라
+x yagenze | 갔다
+x ndatinda | 나는 늦었다
+x fanta | 환타
+x ikonje | 차가운
+x cyabaye | 되었다
+x shyushya | 데워라
+x nshyushyirize | 나에게 데워 줘
+x ndashyushya | 나는 데운다
+x gukonjesha | 식히다
+x ifungura | 연다
+x rifunga | 닫는다
+x bacana | 그들은 불을 피운다
+x nacanye | 나는 켰다
+x nzimije | 나는 껐다
+x nzimye | 내가 끌까
+x n'itara | 그리고 불
+x ricane | 켜 둬라
+x ucane | 켜라
+x nutaha | 집에 갈 때
+x uzimye | 꺼라
+x ufunge | 닫아라
+x natangiye | 나는 시작했다
+x rangiza | 끝내라
+x yahagaze | 멈췄다
+x ihagarara | 선다
+x irakomeza | 계속한다
+x mukomeze | 계속하세요
+x murangiza | 여러분은 끝낸다
+x hagati | 가운데, 중간
+x nizere | 나는 바란다
+x yatsinzwe | 그는 졌다
+x ntitwatsinzwe | 우리는 지지 않았다
+x yanganyije | 비겼다
+x bingahe | 몇 개
+x ninde | 누가
+x watsinze | 이긴(사람)
+x nabwo | ~도 또한
+x tuzatsinda | 우리는 이길 것이다
+x ndakwibuka | 나는 너를 기억한다
+x wibuka | 너는 기억한다
+x ibuka | 기억해라
+x niyibutse | 내가 떠올려 볼게
+x ndiyibutsa | 나는 떠올린다
+x iyibutse | 떠올려라
+x yatwibukije | 우리에게 상기시켰다
+x inyibutsa | 나에게 떠올리게 한다
+x nzayizana | 내가 그것을 가져올게
+x ndibuka | 나는 기억한다
+x yarinyibukije | 그것을 나에게 일깨워 줬다
+x baraseka | 그들은 웃는다
+x ntuseke | 웃지 마라
+x yasetse | 그는 웃었다
+x ararira | 그는 운다
+x ntukarire | 울지 마라
+x barishimye | 그들은 기쁘다
+x kubabona | 여러분을 보다
+x yababajwe | 그는 슬퍼했다
+x nkuru | 소식
+x urambabaza | 나를 아프게 한다
+x arashonje | 그는 배고프다
+x noneho | 이제
+x amaze | ~하고 나서
+x ndishima | 나는 기뻤다
+x nicaye | 나는 앉았다
+x ndaryama | 나는 잔다
+x aha | 여기
+x bahagaze | 그들은 서 있다
+x murongo | 줄
+x twahagaze | 우리는 서 있었다
+x isaha | 시간, 시계
+x yose | 모든, 내내
+x barahaguruka | 그들은 일어선다
+x barasuhuza | 그들은 인사한다
+x baricara | 그들은 앉는다
+x dusunike | 밀자
+x ntunsunike | 나를 밀지 마라
+x ikurura | 끈다
+x kuyiterura | 그것을 들다
+x twaterura | 우리가 들자
+x yashyize | 놓았다
+x bishyire | 그것을 놓아라
+x tugiterure | 그것을 들자
+x tugishyire | 그것을 놓자
+x uterure | 들어라
+x ugishyire | 그것을 놓아라
+x iragoye | 어렵다
+x ndabona | 나는 보인다, 생각한다
+x kucyiga | 그것을 배우다
+x ntukabeshye | 거짓말하지 마라
+x yavuze | 말했다
+x makosa | 실수들
+x kosora | 고쳐라
+x akosora | 고친다
+x imikoro | 숙제들
+x unkosore | 나를 고쳐 줘
+x amakosa | 실수들
+x arayakosora | 그것들을 고친다
+x dufasha | 우리는 돕는다
+x arishimye | 그는 기쁘다
+x bwo | 바로 그것
+x zari | ~였다
+x kera | 옛날
+x turwanya | 우리는 맞서 싸운다
+x gikomeye | 큰, 심각한
+x bugabanya | 줄인다
+x n'abakene | 가난한 사람도
+x nk'u rwanda | 르완다처럼
+x ahantu | 곳
+x bwa | ~의
+x n'uburezi | 그리고 교육
+x bazima | 건강한(사람들)
+x nubwo | 비록 ~지만
+x ashaje | 늙었다
+x yarwaye | 병에 걸렸다
+x ntiwarwara | 너는 병에 걸리지 않는다
+x unywa | 네가 마신다
+x azakira | 그는 나을 것이다
+x bumeze | ~한 상태다
+x bute | 어떻게
+x bwiza | 좋은
+x wari | 너는 ~였다
+x kumbaza | 나에게 묻다
+x nanyoye | 나는 마셨다
+x iracyatose | 아직 젖어 있다
+x zatose | 젖었다
+x uratose | 젖어 있다
+x ubutaka | 땅
+x bwumye | 말랐다
+x ntiwinyagirwe | 비 맞지 마라
+x banyagiwe | 그들은 비를 맞았다
+x bava | 그들이 ~에서 오다가
+x anika | 널어라
+x twanitse | 우리는 널었다
+x twanike | 널자
+x utose | 너는 젖었다
+x mvuye | 내가 ~에서 오다가
+x kuramo | 벗어라
+x tuyanike | 그것들을 널자
+x iratose | 젖었다
+x nyanitse | 나는 그것을 널었다
+x iranyishe | 나를 죽인다
+x wahaze | 너는 배부르다
+x twahaze | 우리는 배부르다
+x twashonje | 우리는 배고프다
+x cyuzuye | 가득 찼다
+x ryuzuye | 가득 찼다
+x amara masa | 빈손으로
+x fishi | 서류, 양식
+x icupa | 병
+x nasutse | 나는 쏟았다
+x iza | 온다
+x ntiyuzuye | 꽉 차지 않았다
+x byuzuye | 가득 찼다
+x birimo | 안에 있다
+x cyari | ~였다
+x nasutsemo | 나는 안에 부었다
+x ndacyuzuza | 나는 그것을 채웠다
+x rubi | 나쁜
+x twanga | 우리는 거부한다
+x rwasenye | 무너뜨렸다
+x be | 그의
+x yanze | 거절했다
+x ntukange | 거부하지 마라
+x ndabikunda | 나는 그것을 좋아한다
+x rwinshi | 많은
+x kurusha | ~보다 더
+x dukunde | 사랑하자
+x twange | 거부하자
+x twubake | 세우자
